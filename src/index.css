@@ -1,0 +1,49 @@
+.custom-form {
+  width: 90%;
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 25px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.custom-form .form-control {
+  width: 100%;
+  padding: 9px 12px;
+  font-size: 14px;
+}
+
+.custom-form .form-group {
+  margin-bottom: 15px;
+}
+.custom-form .form-control {
+  width: 85%;
+  margin: auto;
+  padding: 9px 12px;
+}
+.custom-form label {
+  display: block;
+  width: 85%;
+  margin: 0 auto 6px;
+}
+html,
+body,
+#root {
+  min-height: 100%;
+  margin: 0;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+}
+
+footer {
+  width: 100%;
+}
