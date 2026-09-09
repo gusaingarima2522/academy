@@ -10,15 +10,13 @@ function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
 
           {/* Logo / About */}
-          <div>
-            <h4 className="text-2xl font-bold mb-3">
-              My App
-            </h4>
-
-            <p className="text-gray-400">
-              Learn, grow and build your future with us.
-            </p>
-          </div>
+          <Link
+            to="/"
+            className="text-xl font-bold text-white no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+          >
+            World Wise
+            <span className="text-red-400"> Education</span>
+          </Link>
 
 
           {/* Quick Links */}
@@ -37,6 +35,7 @@ function Footer() {
                   Home
                 </Link>
               </li>
+              <hr />
 
               <li>
                 <Link
@@ -46,6 +45,7 @@ function Footer() {
                   Courses
                 </Link>
               </li>
+              <hr />
 
               <li>
                 <Link
@@ -55,6 +55,7 @@ function Footer() {
                   Blogs
                 </Link>
               </li>
+              <hr />
 
               <li>
                 <Link
@@ -64,6 +65,7 @@ function Footer() {
                   About
                 </Link>
               </li>
+              <hr />
 
               <li>
                 <Link
@@ -73,6 +75,7 @@ function Footer() {
                   Contact
                 </Link>
               </li>
+              <hr />
 
             </ul>
           </div>
@@ -86,14 +89,14 @@ function Footer() {
 
             <ul className="space-y-2 list-none p-0 m-0">
 
-              <li>
+              {/* <li>
                 <Link
                   to="/login"
                   className="text-gray-400 hover:text-white transition no-underline"
                 >
                   Login
                 </Link>
-              </li>
+              </li> */}
 
               <li>
                 <Link
@@ -103,6 +106,7 @@ function Footer() {
                   Judiciary Courses
                 </Link>
               </li>
+              <hr />
 
               <li>
                 <Link
@@ -112,6 +116,7 @@ function Footer() {
                   CLAT Courses
                 </Link>
               </li>
+              <hr />
 
               <li>
                 <Link
@@ -121,6 +126,7 @@ function Footer() {
                   DU LLB Courses
                 </Link>
               </li>
+              <hr />
 
             </ul>
           </div>

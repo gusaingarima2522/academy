@@ -3,7 +3,7 @@ import '../index.css'
 
 const Brochure = () => {
   return (
-    <div>
+    <div className='bg-red-200'>
     </div>
   )
 }

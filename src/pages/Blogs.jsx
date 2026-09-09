@@ -4,13 +4,13 @@ import "./Blogs.css";
 
 const Blogs = () => {
   return (
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 ">
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 
         {/* Blog 1 */}
         <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
-          <div className="p-6 bg-gray-100 rounded-lg h-full">
+          <div className="bg-red-100 p-6 bg-red-100 rounded-lg h-full">
 
             <h5 className="text-xl font-semibold text-gray-900 mb-4">
               How to Start Your Judiciary Exam Preparation from Scratch
@@ -30,7 +30,7 @@ const Blogs = () => {
 
         {/* Blog 2 */}
         <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
-          <div className="p-6 h-full">
+          <div className="bg-red-100 p-6 h-full bg-red-100">
 
             <h5 className="text-xl font-semibold text-gray-900 mb-4">
               CLAT Preparation Strategy: How to Prepare for CLAT Effectively
@@ -50,7 +50,7 @@ const Blogs = () => {
 
         {/* Blog 3 */}
         <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
-          <div className="p-6 h-full">
+          <div className="bg-red-100 p-6 h-full">
 
             <h5 className="text-xl font-semibold text-gray-900 mb-4">
               Bare Acts: Why They Are Important for Judiciary Aspirants
@@ -70,7 +70,7 @@ const Blogs = () => {
 
         {/* Blog 4 */}
         <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
-          <div className="p-6 h-full">
+          <div className="bg-red-100 p-6 h-full">
 
             <h5 className="text-xl font-semibold text-gray-900 mb-4">
               How to Manage Time During Competitive Exams
@@ -90,7 +90,7 @@ const Blogs = () => {
 
         {/* Blog 5 */}
         <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
-          <div className="p-6 h-full">
+          <div className="bg-red-100 p-6 h-full">
 
             <h5 className="text-xl font-semibold text-gray-900 mb-4">
               Common Mistakes Students Make While Preparing for Law Exams
@@ -110,7 +110,7 @@ const Blogs = () => {
 
         {/* Blog 6 */}
         <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
-          <div className="p-6 h-full">
+          <div className="bg-red-100 p-6 h-full">
 
             <h5 className="text-xl font-semibold text-gray-900 mb-4">
               How Mock Tests Can Improve Your Exam Preparation
@@ -130,7 +130,7 @@ const Blogs = () => {
 
         {/* Blog 7 */}
         <div className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
-          <div className="p-6 h-full">
+          <div className="bg-red-100 p-6 h-full">
 
             <h5 className="text-xl font-semibold text-gray-900 mb-4">
               Career Opportunities After Completing a Law Degree
