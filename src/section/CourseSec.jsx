@@ -1,7 +1,7 @@
-import React, { useRef } from "react";
+import React, { useRef, useEffect } from "react";
 import CoursesCard from "../components/CoursesCard";
 import courses from "../data/courses";
-import '../index.css'
+import "../index.css";
 
 const CourseSec = () => {
   const sliderRef = useRef(null);
@@ -20,6 +20,31 @@ const CourseSec = () => {
     });
   };
 
+  useEffect(() => {
+    const autoScroll = setInterval(() => {
+      if (sliderRef.current) {
+        const slider = sliderRef.current;
+
+        if (
+          slider.scrollLeft + slider.clientWidth >=
+          slider.scrollWidth - 10
+        ) {
+          slider.scrollTo({
+            left: 0,
+            behavior: "smooth",
+          });
+        } else {
+          slider.scrollBy({
+            left: 320,
+            behavior: "smooth",
+          });
+        }
+      }
+    }, 2000);
+
+    return () => clearInterval(autoScroll);
+  }, []);
+
   return (
     <section className="course-section">
 
@@ -29,7 +54,6 @@ const CourseSec = () => {
 
       <div className="course-carousel-wrapper">
 
-        {/* Left button */}
         <button
           className="carousel-btn left-btn"
           onClick={scrollLeft}
@@ -37,19 +61,20 @@ const CourseSec = () => {
           ❮
         </button>
 
-        {/* Cards */}
         <div
           ref={sliderRef}
           className="course-carousel"
         >
           {courses.map((item) => (
-            <div className="course-slide" key={item.id}>
+            <div
+              className="course-slide"
+              key={item.id}
+            >
               <CoursesCard courses={item} />
             </div>
           ))}
         </div>
 
-        {/* Right button */}
         <button
           className="carousel-btn right-btn"
           onClick={scrollRight}

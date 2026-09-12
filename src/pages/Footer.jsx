@@ -35,7 +35,7 @@ function Footer() {
                   Home
                 </Link>
               </li>
-              <hr />
+              
 
               <li>
                 <Link
@@ -45,7 +45,7 @@ function Footer() {
                   Courses
                 </Link>
               </li>
-              <hr />
+              
 
               <li>
                 <Link
@@ -55,7 +55,7 @@ function Footer() {
                   Blogs
                 </Link>
               </li>
-              <hr />
+              
 
               <li>
                 <Link
@@ -65,7 +65,7 @@ function Footer() {
                   About
                 </Link>
               </li>
-              <hr />
+              
 
               <li>
                 <Link
@@ -75,7 +75,7 @@ function Footer() {
                   Contact
                 </Link>
               </li>
-              <hr />
+              
 
             </ul>
           </div>
@@ -84,7 +84,7 @@ function Footer() {
           {/* Account */}
           <div>
             <h5 className="text-lg font-semibold mb-4">
-              Account
+              Courses
             </h5>
 
             <ul className="space-y-2 list-none p-0 m-0">
@@ -100,33 +100,33 @@ function Footer() {
 
               <li>
                 <Link
-                  to="/courses/judiciary"
+                  to="/clat"
                   className="text-gray-400 hover:text-white transition no-underline"
                 >
-                  Judiciary Courses
+                  Clat Courses
                 </Link>
               </li>
-              <hr />
+              
 
               <li>
                 <Link
-                  to="/courses/clat"
+                  to="/cuet"
                   className="text-gray-400 hover:text-white transition no-underline"
                 >
-                  CLAT Courses
+                  Cuet Courses
                 </Link>
               </li>
-              <hr />
+              
 
               <li>
                 <Link
-                  to="/courses/du-llb"
+                  to="/mock"
                   className="text-gray-400 hover:text-white transition no-underline"
                 >
-                  DU LLB Courses
+                  Mock Tests
                 </Link>
               </li>
-              <hr />
+              
 
             </ul>
           </div>

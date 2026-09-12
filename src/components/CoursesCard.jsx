@@ -1,26 +1,29 @@
 import React from "react";
-import { useCart } from "../context/CartContext";
+import { Link } from "react-router-dom";
+import '../index.css'
+
 
 const CoursesCard = ({ courses }) => {
-  const { addToCart } = useCart();
-
   return (
     <div className="courses-card">
 
       <img
-        src={courses.image}
-        alt={courses.name}
+        src={courses.img}
+        alt={courses.title}
       />
 
-      <h3>{courses.name}</h3>
+      <h3>{courses.title}</h3>
+
+      <p>{courses.description}</p>
 
       <p>₹{courses.price}</p>
 
-      <button onClick={() => addToCart(courses)}>
+      <Link
+        to={`/courses/${courses.slug}`}
+        className="inline-block bg-red-900 text-white px-6 py-2 rounded-md font-semibold transition-all duration-300 hover:bg-red-800 hover:text-black hover:-translate-y-1 hover:shadow-lg"
+      >
         Browse
-      </button>
-
-    </div>
+      </Link>    </div>
   );
 };
 

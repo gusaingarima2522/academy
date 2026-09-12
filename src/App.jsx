@@ -1,349 +1,894 @@
 import React, { useState } from "react";
 import { Link, Route, Routes } from "react-router-dom";
-import logoo from './assets/logoo.jpg'
 
+import logo from "./assets/logo.png";
+import phonecall from "./assets/phonecall.png";
+
+import BlogContent from "./pages/BlogContent";
 import Home from "./pages/Home";
 import Courses from "./pages/Courses";
 import About from "./pages/About";
-// import Login from "./pages/Login";
 import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import Footer from "./pages/Footer";
 import Brochure from "./pages/Brochure";
 import Head from "./pages/Head";
-import './index.css'
 import Resources from "./pages/Resources";
+
 import Clat from "./section/Clat";
 import Cuet from "./section/Cuet";
 import Mock from "./section/Mock";
 
+import ClatContent from "./pages/ClatContent";
+import CourseContent from "./pages/CourseContent";
 
+import "./index.css";
 
 const App = () => {
+
+  // =====================================================
+  // NAVBAR STATES
+  // =====================================================
+
   const [menuOpen, setMenuOpen] = useState(false);
   const [coursesOpen, setCoursesOpen] = useState(false);
 
+
+  // =====================================================
+  // POPUP STATES
+  // =====================================================
+
+  // IMPORTANT:
+  // false = popup will NOT block the website when page loads
+  const [popupOpen, setPopupOpen] = useState(true);
+
+  const [formData, setFormData] = useState({
+    full_name: "",
+    phone: "",
+    preferred_time: "",
+    message: "",
+  });
+
+  const [loading, setLoading] = useState(false);
+  const [success, setSuccess] = useState("");
+  const [error, setError] = useState("");
+
+
+  // =====================================================
+  // FORM INPUT CHANGE
+  // =====================================================
+
+  const handleChange = (e) => {
+
+    const { name, value } = e.target;
+
+    setFormData((prev) => ({
+      ...prev,
+      [name]: value,
+    }));
+
+  };
+
+
+  // =====================================================
+  // FORM SUBMIT
+  // =====================================================
+
+  const handleSubmit = async (e) => {
+
+    e.preventDefault();
+
+    setLoading(true);
+    setSuccess("");
+    setError("");
+
+    try {
+
+      const response = await fetch(
+        "http://localhost:5000/api/contact",
+        {
+          method: "POST",
+
+          headers: {
+            "Content-Type": "application/json",
+          },
+
+          body: JSON.stringify(formData),
+        }
+      );
+
+
+      const data = await response.json();
+
+
+      // =================================================
+      // BACKEND ERROR
+      // =================================================
+
+      if (!response.ok) {
+
+        throw new Error(
+          data.message || "Something went wrong"
+        );
+
+      }
+
+
+      // =================================================
+      // SUCCESS
+      // =================================================
+
+      setSuccess(
+        data.message ||
+        "Your enquiry has been submitted successfully!"
+      );
+
+
+      // =================================================
+      // CLEAR FORM
+      // =================================================
+
+      setFormData({
+        full_name: "",
+        phone: "",
+        preferred_time: "",
+        message: "",
+      });
+
+
+      // =================================================
+      // CLOSE POPUP AFTER 1.5 SECONDS
+      // =================================================
+
+      setTimeout(() => {
+
+        setPopupOpen(false);
+        setSuccess("");
+
+      }, 1500);
+
+
+    } catch (err) {
+
+      console.error("Form error:", err);
+
+      setError(
+        err.message ||
+        "Unable to submit form"
+      );
+
+    } finally {
+
+      setLoading(false);
+
+    }
+
+  };
+
+
+  // =====================================================
+  // CLOSE MOBILE MENU
+  // =====================================================
+
+  const closeMobileMenu = () => {
+
+    setMenuOpen(false);
+    setCoursesOpen(false);
+
+  };
+
+
+  // =====================================================
+  // CLOSE POPUP
+  // =====================================================
+
+  const closePopup = () => {
+
+    setPopupOpen(false);
+    setError("");
+    setSuccess("");
+
+  };
+
+
+  // =====================================================
+  // OPEN POPUP
+  // =====================================================
+
+  const openPopup = () => {
+
+    setPopupOpen(true);
+    setError("");
+    setSuccess("");
+
+  };
+
+
   return (
+
     <>
+
       <div className="min-h-screen bg-white">
+
+
+        {/* =====================================================
+            HEAD
+        ====================================================== */}
+
         <Head />
 
-        {/* Navbar */}
-        <nav className="sticky top-0 z-50 bg-red-900 text-white w-full">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
-            <div className="flex items-center justify-between gap-2 h-16">
+        {/* =====================================================
+            NAVBAR
+        ====================================================== */}
 
-              {/* Logo */}
-              {/* Logo + Company Name */}
+        <nav className="sticky top-0 z-[9998] relative w-full bg-red-900 text-white pointer-events-auto">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+
+            <div className="flex h-16 items-center justify-between gap-2">
+
+
+              {/* =================================================
+                  LOGO
+              ================================================== */}
+
               <div className="flex items-center gap-2">
-
-                <Link to="/" className="shrink-0">
-                  <img
-                    src={logoo}
-                    alt="World Wise Education"
-                    className="h-10 w-10 sm:h-12 sm:w-12 left-0 object-cover rounded-full border-2 border-white"
-                  />
-                </Link>
 
                 <Link
                   to="/"
-                  className="text-lg sm:text-xl font-bold text-white no-underline whitespace-nowrap"
+                  className="shrink-0"
+                  onClick={closeMobileMenu}
                 >
-                  World Wise
-                  <span className="text-red-400"> Education</span>
+
+                  <img
+                    src={logo}
+                    alt="World Wise Education"
+                    className="h-10 w-10 rounded-full border-2 border-white bg-white object-cover sm:h-12 sm:w-12"
+                  />
+
                 </Link>
 
-              </div>              {/* Mobile Hamburger */}
+
+                <Link
+                  to="/"
+                  onClick={closeMobileMenu}
+                  className="whitespace-nowrap text-lg font-bold text-white no-underline sm:text-xl"
+                >
+
+                  World Wise
+
+                  <span className="text-red-400">
+                    {" "}Education
+                  </span>
+
+                </Link>
+
+              </div>
+
+
+              {/* =================================================
+                  MOBILE HAMBURGER
+              ================================================== */}
+
               <button
                 type="button"
                 onClick={() => setMenuOpen(!menuOpen)}
-                className="lg:hidden inline-flex items-center justify-center p-2 rounded-md text-white  hover:text-white hover:bg-gray-700 focus:outline-none"
+                className="inline-flex items-center justify-center rounded-md p-2 text-white hover:bg-gray-700 focus:outline-none lg:hidden"
               >
+
                 <svg
-                  className="w-6 h-6"
+                  className="h-6 w-6"
                   fill="none"
                   stroke="currentColor"
                   viewBox="0 0 24 24"
                 >
+
                   {menuOpen ? (
+
                     <path
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
                       d="M6 18L18 6M6 6l12 12"
                     />
+
                   ) : (
+
                     <path
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth="2"
                       d="M4 6h16M4 12h16M4 18h16"
                     />
+
                   )}
+
                 </svg>
+
               </button>
 
-              {/* Desktop Menu */}
-              <div className="hidden lg:flex items-center">
+
+              {/* =================================================
+                  DESKTOP MENU
+              ================================================== */}
+
+              <div className="relative z-[9998] hidden items-center lg:flex pointer-events-auto">
                 <ul className="flex items-center space-x-2">
 
-                  {/* Home */}
+                  {/* HOME */}
+
                   <li>
+
                     <Link
                       to="/"
-                      className="block px-3 py-2 text-white  hover:text-white hover:bg-gray-800 no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                      className="block rounded-md px-3 py-2 text-white no-underline shadow-md transition-shadow duration-300 hover:bg-gray-100 hover:text-black hover:shadow-xl"
                     >
                       Home
                     </Link>
+
                   </li>
 
-                  {/* Courses Dropdown */}
+
+                  {/* COURSES */}
+
                   <li className="relative">
+
                     <button
-                      onClick={() => setCoursesOpen(!coursesOpen)}
-                      className="flex items-center gap-1 px-3 py-2 text-white  hover:text-white hover:bg-gray-800 rounded-md shadow-md hover:shadow-xl transition-shadow duration-300"
+                      type="button"
+                      onClick={() =>
+                        setCoursesOpen(!coursesOpen)
+                      }
+                      className="flex items-center gap-1 rounded-md px-3 py-2 text-white shadow-md transition-shadow duration-300 hover:bg-gray-100 hover:text-black hover:shadow-xl"
                     >
+
                       Courses
 
                       <svg
-                        className={`w-4 h-4 transition-transform ${coursesOpen ? "rotate-180" : ""
+                        className={`h-4 w-4 transition-transform ${coursesOpen
+                          ? "rotate-180"
+                          : ""
                           }`}
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"
                       >
+
                         <path
                           strokeLinecap="round"
                           strokeLinejoin="round"
                           strokeWidth="2"
                           d="M19 9l-7 7-7-7"
                         />
+
                       </svg>
+
                     </button>
 
+
                     {coursesOpen && (
-                      <ul className="absolute right-0 mt-2 w-56 bg-white rounded-md shadow-lg py-2 z-50">
+
+                      <ul className="absolute right-0 z-50 mt-2 w-56 rounded-md bg-white py-2 shadow-lg">
 
                         <li>
+
                           <Link
                             to="/clat"
-                            onClick={() => setCoursesOpen(false)}
-                            className="block px-4 py-2 text-gray-700 hover:bg-gray-100 no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                            onClick={() =>
+                              setCoursesOpen(false)
+                            }
+                            className="block px-4 py-2 text-gray-700 no-underline hover:bg-gray-100"
                           >
-                            Clat Courses
+                            CLAT Courses
                           </Link>
+
                         </li>
 
+
                         <li>
+
                           <Link
                             to="/cuet"
-                            onClick={() => setCoursesOpen(false)}
-                            className="block px-4 py-2 text-gray-700 hover:bg-gray-100 no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                            onClick={() =>
+                              setCoursesOpen(false)
+                            }
+                            className="block px-4 py-2 text-gray-700 no-underline hover:bg-gray-100"
                           >
-                            Cuet Courses
+                            CUET Courses
                           </Link>
+
                         </li>
 
+
                         <li>
+
                           <Link
                             to="/mock"
-                            onClick={() => setCoursesOpen(false)}
-                            className="block px-4 py-2 text-gray-700 hover:bg-gray-100 no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                            onClick={() =>
+                              setCoursesOpen(false)
+                            }
+                            className="block px-4 py-2 text-gray-700 no-underline hover:bg-gray-100"
                           >
                             Mock Tests
                           </Link>
+
                         </li>
 
                       </ul>
+
                     )}
+
                   </li>
 
-                  {/* Blogs */}
+
+                  {/* BLOGS */}
+
                   <li>
+
                     <Link
                       to="/blogs"
-                      className="block px-3 py-2 text-white  hover:text-white hover:bg-gray-800 rounded-md no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
                     >
                       Blogs
                     </Link>
+
                   </li>
 
-                  {/* About */}
+
+                  {/* ABOUT */}
+
                   <li>
+
                     <Link
                       to="/about"
-                      className="block px-3 py-2 text-white  hover:text-white hover:bg-gray-800 rounded-md no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
                     >
                       About
                     </Link>
+
                   </li>
+
+
+                  {/* RESOURCES */}
+
                   <li>
+
                     <Link
                       to="/resources"
-                      className="block px-3 py-2 text-white  hover:text-white hover:bg-gray-800 rounded-md no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
                     >
                       Resources
                     </Link>
+
                   </li>
 
-                  {/* contact */}
+
+                  {/* CONTACT */}
+
                   <li>
+
                     <Link
                       to="/contact"
-                      className="block px-3 py-2 text-white  hover:text-white hover:bg-gray-800 rounded-md no-underline shadow-md hover:shadow-xl transition-shadow duration-300"
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
                     >
                       Contact
                     </Link>
+
                   </li>
 
                 </ul>
+
               </div>
+
             </div>
 
-            {/* Mobile Menu */}
-            {/* Mobile Menu */}
+
+            {/* =================================================
+                MOBILE MENU
+            ================================================== */}
+
             {menuOpen && (
-              <div className="lg:hidden pb-4 relative z-50 bg-red-900">
+
+              <div className="relative z-50 bg-red-900 pb-4 lg:hidden">
 
                 <ul className="space-y-1">
 
-                  {/* Home */}
+                  {/* HOME */}
+
                   <li>
+
                     <Link
                       to="/"
-                      onClick={() => {
-                        setMenuOpen(false);
-                        setCoursesOpen(false);
-                      }}
-                      className="block px-3 py-2 text-white hover:text-white hover:bg-gray-800 rounded-md no-underline transition"
+                      onClick={closeMobileMenu}
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
                     >
                       Home
                     </Link>
+
                   </li>
 
-                  {/* Courses */}
+
+                  {/* MOBILE COURSES */}
+
                   <li>
+
                     <button
                       type="button"
-                      onClick={() => setCoursesOpen(!coursesOpen)}
-                      className="w-full flex items-center justify-between px-3 py-2 text-white hover:bg-gray-800 rounded-md"
+                      onClick={() =>
+                        setCoursesOpen(!coursesOpen)
+                      }
+                      className="flex w-full items-center justify-between rounded-md px-3 py-2 text-white hover:bg-gray-100 hover:text-black"
                     >
-                      <span>Courses</span>
+
+                      <span>
+                        Courses
+                      </span>
+
 
                       <svg
-                        className={`w-4 h-4 transition-transform ${coursesOpen ? "rotate-180" : ""
+                        className={`h-4 w-4 transition-transform ${coursesOpen
+                          ? "rotate-180"
+                          : ""
                           }`}
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"
                       >
+
                         <path
                           strokeLinecap="round"
                           strokeLinejoin="round"
                           strokeWidth="2"
                           d="M19 9l-7 7-7-7"
                         />
+
                       </svg>
+
                     </button>
 
+
                     {coursesOpen && (
+
                       <div className="ml-4 mt-1 space-y-1">
 
-                        {/* CUET */}
                         <Link
                           to="/cuet"
-                          onClick={() => {
-                            setMenuOpen(false);
-                            setCoursesOpen(false);
-                          }}
-                          className="block px-3 py-2 text-sm text-gray-200 hover:text-white hover:bg-gray-800 rounded-md no-underline"
+                          onClick={closeMobileMenu}
+                          className="block rounded-md px-3 py-2 text-sm text-gray-200 no-underline hover:bg-gray-100 hover:text-black"
                         >
                           CUET Courses
                         </Link>
 
-                        {/* CLAT */}
+
                         <Link
                           to="/clat"
-                          onClick={() => {
-                            setMenuOpen(false);
-                            setCoursesOpen(false);
-                          }}
-                          className="block px-3 py-2 text-sm text-gray-200 hover:text-white hover:bg-gray-800 rounded-md no-underline"
+                          onClick={closeMobileMenu}
+                          className="block rounded-md px-3 py-2 text-sm text-gray-200 no-underline hover:bg-gray-100 hover:text-black"
                         >
                           CLAT Courses
                         </Link>
 
-                        {/* Mock */}
+
                         <Link
                           to="/mock"
-                          onClick={() => {
-                            setMenuOpen(false);
-                            setCoursesOpen(false);
-                          }}
-                          className="block px-3 py-2 text-sm text-gray-200 hover:text-white hover:bg-gray-800 rounded-md no-underline"
+                          onClick={closeMobileMenu}
+                          className="block rounded-md px-3 py-2 text-sm text-gray-200 no-underline hover:bg-gray-100 hover:text-black"
                         >
                           Mock Tests
                         </Link>
 
                       </div>
+
                     )}
+
                   </li>
 
-                  {/* Blogs */}
+
+                  {/* BLOGS */}
+
                   <li>
+
                     <Link
                       to="/blogs"
-                      onClick={() => setMenuOpen(false)}
-                      className="block px-3 py-2 text-white hover:bg-gray-800 rounded-md no-underline"
+                      onClick={closeMobileMenu}
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
                     >
                       Blogs
                     </Link>
+
                   </li>
 
-                  {/* About */}
+
+                  {/* ABOUT */}
+
                   <li>
+
                     <Link
                       to="/about"
-                      onClick={() => setMenuOpen(false)}
-                      className="block px-3 py-2 text-white hover:bg-gray-800 rounded-md no-underline"
+                      onClick={closeMobileMenu}
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
                     >
                       About
                     </Link>
+
+                  </li>
+
+
+                  {/* RESOURCES */}
+
+                  <li>
+
+                    <Link
+                      to="/resources"
+                      onClick={closeMobileMenu}
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
+                    >
+                      Resources
+                    </Link>
+
+                  </li>
+
+
+                  {/* CONTACT */}
+
+                  <li>
+
+                    <Link
+                      to="/contact"
+                      onClick={closeMobileMenu}
+                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
+                    >
+                      Contact
+                    </Link>
+
                   </li>
 
                 </ul>
+
               </div>
+
             )}
+
           </div>
+
         </nav>
+
+
+        {/* =====================================================
+            REQUEST FOR CALL POPUP
+        ====================================================== */}
+
+        {popupOpen && (
+          <div
+            className="fixed inset-0 z-[99999] flex items-center justify-center bg-black/60 px-4"
+            style={{
+              pointerEvents: "auto",
+            }}
+          >
+            {/* Popup Form */}
+            <div
+              className="relative z-[100000] w-full max-w-lg rounded-xl bg-white p-6 shadow-2xl"
+              onClick={(e) => e.stopPropagation()}
+            >
+              {/* Close Button */}
+              <button
+                type="button"
+                onClick={closePopup}
+                className="absolute right-4 top-3 text-2xl font-bold text-gray-600 hover:text-red-900"
+              >
+                ×
+              </button>
+
+              {/* Heading */}
+              <h2 className="mb-2 text-2xl font-bold text-red-900">
+                Request a Call
+              </h2>
+
+              <p className="mb-5 text-gray-600">
+                Fill in your details and our team will contact you.
+              </p>
+
+              <form onSubmit={handleSubmit} className="space-y-4">
+
+                {/* Full Name */}
+                <div>
+                  <label className="mb-1 block font-medium text-gray-800">
+                    Full Name
+                  </label>
+
+                  <input
+                    type="text"
+                    name="full_name"
+                    value={formData.full_name}
+                    onChange={handleChange}
+                    placeholder="Enter your full name"
+                    required
+                    className="w-full rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
+                  />
+                </div>
+
+                {/* Phone */}
+                <div>
+                  <label className="mb-1 block font-medium text-gray-800">
+                    Phone Number
+                  </label>
+
+                  <input
+                    type="tel"
+                    name="phone"
+                    value={formData.phone}
+                    onChange={handleChange}
+                    placeholder="Enter phone number"
+                    required
+                    className="w-full rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
+                  />
+                </div>
+
+                {/* Preferred Time */}
+                <div>
+                  <label className="mb-1 block font-medium text-gray-800">
+                    Preferred Time
+                  </label>
+
+                  <input
+                    type="text"
+                    name="preferred_time"
+                    value={formData.preferred_time}
+                    onChange={handleChange}
+                    placeholder="Example: 5 PM - 7 PM"
+                    className="w-full rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
+                  />
+                </div>
+
+                {/* Message */}
+                <div>
+                  <label className="mb-1 block font-medium text-gray-800">
+                    Message
+                  </label>
+
+                  <textarea
+                    name="message"
+                    value={formData.message}
+                    onChange={handleChange}
+                    placeholder="Enter your message"
+                    rows="4"
+                    className="w-full resize-none rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
+                  />
+                </div>
+
+                {/* Error */}
+                {error && (
+                  <p className="rounded-md bg-red-100 p-2 text-sm text-red-700">
+                    {error}
+                  </p>
+                )}
+
+                {/* Success */}
+                {success && (
+                  <p className="rounded-md bg-green-100 p-2 text-sm text-green-700">
+                    {success}
+                  </p>
+                )}
+
+                {/* Submit */}
+                <button
+                  type="submit"
+                  className="w-full rounded-md bg-red-900 py-3 font-semibold text-white transition hover:bg-red-800"
+                >
+                  Submit Request
+                </button>
+
+              </form>
+            </div>
+          </div>
+        )}
+
+        {/* =====================================================
+            FLOATING CALL BUTTON
+        ====================================================== */}
+
         <a
           href="tel:9911440545"
-          className="floating flex items-center justify-center"
+          className="floating z-[110] flex items-center justify-center"
         >
-          ☎
+
+          <img
+            src={phonecall}
+            alt="Call us"
+            className="h-6 w-6"
+          />
+
         </a>
 
-        {/* Pages */}
-        <main>
+
+        {/* =====================================================
+            PAGES
+        ====================================================== */}
+
+        <main className="relative z-0">
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/courses" element={<Courses />} />
-            <Route path="/clat" element={<Clat />} />
-            <Route path="/cuet" element={<Cuet />} />
-            <Route path="/mock" element={<Mock />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/resources" element={<Resources />} />
-            <Route path="/blogs" element={<Blogs />} />
-            <Route path="/contact" element={<Contact />} />
-            <Route path="/brochure" element={<Brochure />} />
+            <Route
+              path="/"
+              element={<Home />}
+            />
+
+            <Route
+              path="/courses"
+              element={<Courses />}
+            />
+
+            <Route
+              path="/clat"
+              element={<Clat />}
+            />
+
+            <Route
+              path="/cuet"
+              element={<Cuet />}
+            />
+
+            <Route
+              path="/mock"
+              element={<Mock />}
+            />
+
+            <Route
+              path="/about"
+              element={<About />}
+            />
+
+            <Route
+              path="/resources"
+              element={<Resources />}
+            />
+
+            <Route
+              path="/blogs"
+              element={<Blogs />}
+            />
+
+            <Route
+              path="/contact"
+              element={<Contact />}
+            />
+
+            <Route
+              path="/brochure"
+              element={<Brochure />}
+            />
+
+            <Route
+              path="/clatContent"
+              element={<ClatContent />}
+            />
+
+            <Route
+              path="/courses/:slug"
+              element={<CourseContent />}
+            />
+
+            <Route
+              path="/blogs/:slug"
+              element={<BlogContent />}
+            />
+
           </Routes>
+
         </main>
 
+
+        {/* =====================================================
+            FOOTER
+        ====================================================== */}
+
         <Footer />
+
+
       </div>
+
     </>
+
   );
+
 };
 
 export default App;

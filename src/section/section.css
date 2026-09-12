@@ -1,0 +1,1961 @@
+/* =========================================
+   CUET MAIN SECTION
+========================================= */
+
+/* =========================================
+   CUET HERO
+========================================= */
+
+.cuet-hero {
+    position: relative;
+
+    width: 100%;
+    min-height: 520px;
+
+    background-image: url("../assets/cuet-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   DARK OVERLAY
+========================================= */
+
+.cuet-overlay {
+    position: absolute;
+
+    inset: 0;
+
+    background: rgba(0, 0, 0, 0.65);
+
+    z-index: 1;
+}
+
+
+/* =========================================
+   MAIN CONTAINER
+========================================= */
+
+.cuet-hero-container {
+    position: relative;
+
+    z-index: 2;
+
+    width: 100%;
+    max-width: 1200px;
+
+    min-height: 520px;
+
+    margin: 0 auto;
+
+    padding: 45px 30px;
+
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1.7fr) minmax(320px, 0.8fr);
+
+    gap: 50px;
+
+    align-items: center;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   LEFT CONTENT
+========================================= */
+
+.cuet-hero-content {
+    width: 100%;
+
+    min-width: 0;
+
+    color: #fff;
+}
+
+
+.cuet-hero-content h1 {
+    margin: 0;
+
+    font-size: clamp(42px, 5vw, 72px);
+
+    line-height: 1.08;
+
+    font-weight: 700;
+
+    color: #fff;
+
+    text-transform: uppercase;
+}
+
+
+/* =========================================
+   SMALL LINE
+========================================= */
+
+.cuet-line {
+    width: 45px;
+
+    height: 2px;
+
+    margin: 35px 0 25px;
+
+    background: rgba(255, 255, 255, 0.25);
+}
+
+
+/* =========================================
+   DESCRIPTION
+========================================= */
+
+.cuet-hero-content p {
+    max-width: 760px;
+
+    margin: 0;
+
+    font-size: 15px;
+
+    line-height: 1.7;
+
+    color: #fff;
+}
+
+
+/* =========================================
+   RIGHT FORM WRAPPER
+========================================= */
+
+.cuet-contact-wrapper {
+    width: 100%;
+
+    display: flex;
+
+    justify-content: flex-end;
+
+    align-items: center;
+}
+
+
+/* =========================================
+   CONTACT FORM
+========================================= */
+
+.cuet-contact-form {
+    width: 100%;
+
+    max-width: 360px;
+
+    padding: 25px 30px;
+
+    background: #fff;
+
+    box-sizing: border-box;
+
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.25);
+}
+
+
+/* =========================================
+   FORM HEADING
+========================================= */
+
+.cuet-contact-form h2 {
+    margin: 0;
+
+    font-size: 25px;
+
+    line-height: 1.3;
+
+    font-weight: 700;
+
+    color: #222;
+}
+
+
+/* =========================================
+   FORM SMALL LINE
+========================================= */
+
+.cuet-form-line {
+    width: 45px;
+
+    height: 2px;
+
+    margin: 12px 0 25px;
+
+    background: #222;
+}
+
+
+/* =========================================
+   FORM FIELD
+========================================= */
+
+.cuet-field {
+    width: 100%;
+
+    margin-bottom: 15px;
+}
+
+
+.cuet-field input,
+.cuet-field textarea {
+    display: block;
+
+    width: 100%;
+
+    padding: 9px 12px;
+
+    border: 1px solid #ddd;
+
+    background: #fff;
+
+    color: #222;
+
+    font-family: inherit;
+
+    font-size: 14px;
+
+    outline: none;
+
+    border-radius: 0;
+
+    box-sizing: border-box;
+
+    transition: 0.2s ease;
+}
+
+
+.cuet-field input {
+    height: 36px;
+}
+
+
+.cuet-field textarea {
+    min-height: 53px;
+
+    resize: vertical;
+}
+
+
+/* =========================================
+   INPUT FOCUS
+========================================= */
+
+.cuet-field input:focus,
+.cuet-field textarea:focus {
+    border-color: #999;
+}
+
+
+/* =========================================
+   PLACEHOLDER
+========================================= */
+
+.cuet-field input::placeholder,
+.cuet-field textarea::placeholder {
+    color: #999;
+}
+
+
+/* =========================================
+   SUBMIT BUTTON
+========================================= */
+
+.cuet-contact-form button {
+    width: 100%;
+
+    height: 40px;
+
+    border: none;
+
+    border-radius: 10px;
+
+
+    background: #17213a;
+
+    color: #fff;
+
+    font-size: 14px;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+
+.cuet-contact-form button:hover {
+    background: #0d1528;
+}
+
+
+
+
+
+
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 992px) {
+
+    .cuet-hero-container {
+
+        grid-template-columns:
+            minmax(0, 1.3fr) minmax(300px, 0.8fr);
+
+        gap: 30px;
+
+        padding: 40px 25px;
+    }
+
+
+    .cuet-hero-content h1 {
+        font-size: 48px;
+    }
+
+
+    .cuet-hero-content p {
+        font-size: 14px;
+    }
+
+
+    .cuet-contact-form {
+        max-width: 340px;
+
+        padding: 25px;
+    }
+
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 768px) {
+
+    .cuet-hero {
+        min-height: auto;
+    }
+
+
+    .cuet-hero-container {
+
+        min-height: auto;
+
+        grid-template-columns: 1fr;
+
+        gap: 40px;
+
+        padding: 50px 20px;
+    }
+
+
+    /* CONTENT */
+
+    .cuet-hero-content {
+        text-align: left;
+    }
+
+
+    .cuet-hero-content h1 {
+        font-size: 40px;
+
+        line-height: 1.1;
+    }
+
+
+    .cuet-line {
+        margin: 25px 0 20px;
+    }
+
+
+    .cuet-hero-content p {
+        font-size: 14px;
+
+        line-height: 1.7;
+    }
+
+
+    /* FORM */
+
+    .cuet-contact-wrapper {
+
+        width: 100%;
+
+        justify-content: center;
+    }
+
+
+    .cuet-contact-form {
+
+        width: 100%;
+
+        max-width: 500px;
+
+        padding: 25px;
+    }
+
+}
+
+
+/* =========================================
+   SMALL MOBILE
+========================================= */
+
+@media (max-width: 480px) {
+
+    .cuet-hero-container {
+
+        padding: 40px 15px;
+
+        gap: 30px;
+    }
+
+
+    .cuet-hero-content h1 {
+        font-size: 32px;
+    }
+
+
+    .cuet-hero-content p {
+
+        font-size: 13px;
+
+        line-height: 1.65;
+    }
+
+
+    .cuet-contact-form {
+        padding: 22px 18px;
+    }
+
+
+    .cuet-contact-form h2 {
+        font-size: 22px;
+    }
+
+
+    .cuet-field input {
+        height: 38px;
+    }
+
+
+    .cuet-field input,
+    .cuet-field textarea {
+        font-size: 13px;
+    }
+
+
+    /* FLOATING BUTTONS */
+
+
+}
+
+
+/* =========================================
+   VERY SMALL MOBILE
+========================================= */
+
+@media (max-width: 360px) {
+
+    .cuet-hero-container {
+
+        padding: 35px 12px;
+    }
+
+
+    .cuet-hero-content h1 {
+        font-size: 28px;
+    }
+
+
+    .cuet-hero-content p {
+        font-size: 12px;
+    }
+
+
+    .cuet-contact-form {
+        padding: 20px 15px;
+    }
+
+
+    .cuet-contact-form h2 {
+        font-size: 20px;
+    }
+
+}
+
+/* clat */
+
+.clat-hero {
+    position: relative;
+
+    width: 100%;
+    min-height: 520px;
+
+    background-image: url("../assets/clat-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   DARK OVERLAY
+========================================= */
+
+.clat-overlay {
+    position: absolute;
+
+    inset: 0;
+
+    background: rgba(0, 0, 0, 0.65);
+
+    z-index: 1;
+}
+
+
+/* =========================================
+   MAIN CONTAINER
+========================================= */
+
+.clat-hero-container {
+    position: relative;
+
+    z-index: 2;
+
+    width: 100%;
+    max-width: 1200px;
+
+    min-height: 520px;
+
+    margin: 0 auto;
+
+    padding: 45px 30px;
+
+    display: grid;
+
+    grid-template-columns: minmax(0, 1.7fr) minmax(320px, 0.8fr);
+
+    gap: 50px;
+
+    align-items: center;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   LEFT CONTENT
+========================================= */
+
+.clat-hero-content {
+    width: 100%;
+    min-width: 0;
+
+    color: #fff;
+}
+
+
+.clat-hero-content h1 {
+    margin: 0;
+
+    font-size: clamp(42px, 5vw, 72px);
+
+    line-height: 1.08;
+
+    font-weight: 700;
+
+    color: #fff;
+
+    text-transform: uppercase;
+}
+
+
+/* Small line below heading */
+
+.clat-line {
+    width: 45px;
+
+    height: 2px;
+
+    margin: 35px 0 25px;
+
+    background: rgba(255, 255, 255, 0.25);
+}
+
+
+.clat-hero-content p {
+    max-width: 760px;
+
+    margin: 0;
+
+    font-size: 15px;
+
+    line-height: 1.7;
+
+    color: #fff;
+}
+
+
+/* =========================================
+   RIGHT FORM WRAPPER
+========================================= */
+
+.clat-contact-wrapper {
+    width: 100%;
+
+    display: flex;
+
+    justify-content: flex-end;
+
+    align-items: center;
+}
+
+
+/* =========================================
+   CONTACT FORM
+========================================= */
+
+.clat-contact-form {
+    width: 100%;
+
+    max-width: 360px;
+
+    padding: 25px 30px;
+
+    background: #fff;
+
+    box-sizing: border-box;
+
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.25);
+}
+
+
+/* =========================================
+   FORM HEADING
+========================================= */
+
+.clat-contact-form h2 {
+    margin: 0;
+
+    font-size: 25px;
+
+    line-height: 1.3;
+
+    font-weight: 700;
+
+    color: #222;
+}
+
+
+/* =========================================
+   FORM SMALL LINE
+========================================= */
+
+.clat-form-line {
+    width: 45px;
+
+    height: 2px;
+
+    margin: 12px 0 25px;
+
+    background: #222;
+}
+
+
+/* =========================================
+   FORM FIELD
+========================================= */
+
+.clat-field {
+    width: 100%;
+
+    margin-bottom: 15px;
+}
+
+
+.clat-field input,
+.clat-field textarea {
+    display: block;
+
+    width: 100%;
+
+    padding: 9px 12px;
+
+    border: 1px solid #ddd;
+
+    background: #fff;
+
+    color: #222;
+
+    font-family: inherit;
+
+    font-size: 14px;
+
+    outline: none;
+
+    border-radius: 0;
+
+    box-sizing: border-box;
+
+    transition: 0.2s ease;
+}
+
+
+.clat-field input {
+    height: 36px;
+}
+
+
+.clat-field textarea {
+    min-height: 53px;
+
+    resize: vertical;
+}
+
+
+.clat-field input:focus,
+.clat-field textarea:focus {
+    border-color: #999;
+}
+
+
+/* Placeholder */
+
+.clat-field input::placeholder,
+.clat-field textarea::placeholder {
+    color: #999;
+}
+
+
+/* =========================================
+   SUBMIT BUTTON
+========================================= */
+
+.clat-contact-form button {
+    width: 100%;
+
+    height: 40px;
+
+    border: none;
+
+    border-radius: 10px;
+
+    background: #17213a;
+
+    color: #fff;
+
+    font-size: 14px;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+
+.clat-contact-form button:hover {
+    background: #0d1528;
+}
+
+
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 992px) {
+
+    .clat-hero-container {
+        grid-template-columns: minmax(0, 1.3fr) minmax(300px, 0.8fr);
+
+        gap: 30px;
+
+        padding: 40px 25px;
+    }
+
+
+    .clat-hero-content h1 {
+        font-size: 48px;
+    }
+
+
+    .clat-hero-content p {
+        font-size: 14px;
+    }
+
+
+    .clat-contact-form {
+        max-width: 340px;
+
+        padding: 25px;
+    }
+
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 768px) {
+
+    .clat-hero {
+        min-height: auto;
+    }
+
+
+    .clat-hero-container {
+        min-height: auto;
+
+        grid-template-columns: 1fr;
+
+        gap: 40px;
+
+        padding: 50px 20px;
+    }
+
+
+    /* CONTENT */
+
+    .clat-hero-content {
+        text-align: left;
+    }
+
+
+    .clat-hero-content h1 {
+        font-size: 40px;
+
+        line-height: 1.1;
+    }
+
+
+    .clat-line {
+        margin: 25px 0 20px;
+    }
+
+
+    .clat-hero-content p {
+        font-size: 14px;
+
+        line-height: 1.7;
+    }
+
+
+    /* FORM */
+
+    .clat-contact-wrapper {
+        width: 100%;
+
+        justify-content: center;
+    }
+
+
+    .clat-contact-form {
+        width: 100%;
+
+        max-width: 500px;
+
+        padding: 25px;
+    }
+
+}
+
+
+/* =========================================
+   SMALL MOBILE
+========================================= */
+
+@media (max-width: 480px) {
+
+    .clat-hero-container {
+        padding: 40px 15px;
+
+        gap: 30px;
+    }
+
+
+    .clat-hero-content h1 {
+        font-size: 32px;
+    }
+
+
+    .clat-hero-content p {
+        font-size: 13px;
+
+        line-height: 1.65;
+    }
+
+
+    .clat-contact-form {
+        padding: 22px 18px;
+    }
+
+
+    .clat-contact-form h2 {
+        font-size: 22px;
+    }
+
+
+    .clat-field input {
+        height: 38px;
+    }
+
+
+    .clat-field input,
+    .clat-field textarea {
+        font-size: 13px;
+    }
+
+
+    /* Floating buttons */
+
+    .clat-call-btn {
+        left: 18px;
+
+        bottom: 20px;
+
+        width: 50px;
+
+        height: 50px;
+
+        font-size: 22px;
+    }
+
+
+    .clat-whatsapp-btn {
+        right: 18px;
+
+        bottom: 20px;
+
+        width: 50px;
+
+        height: 50px;
+
+        font-size: 22px;
+    }
+
+}
+
+
+/* =========================================
+   VERY SMALL MOBILE
+========================================= */
+
+@media (max-width: 360px) {
+
+    .clat-hero-container {
+        padding: 35px 12px;
+    }
+
+
+    .clat-hero-content h1 {
+        font-size: 28px;
+    }
+
+
+    .clat-hero-content p {
+        font-size: 12px;
+    }
+
+
+    .clat-contact-form {
+        padding: 20px 15px;
+    }
+
+
+    .clat-contact-form h2 {
+        font-size: 20px;
+    }
+
+}
+
+/* about banner */
+/* =========================================
+   ABOUT BANNER
+========================================= */
+
+.About-Banner {
+    width: 100%;
+    max-width: 1200px;
+
+    margin: 10px auto;
+    padding: 50px 10px 30px;
+    /* padding-left: 50px; */
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    gap: 40px;
+
+    align-items: stretch;
+
+    box-sizing: border-box;
+
+    background: #e7e5e5;
+
+    border-radius: 15px;
+}
+
+
+/* =========================================
+   LEFT CONTENT
+========================================= */
+
+.About-Content {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+
+    box-sizing: border-box;
+}
+
+.About-Content h2 {
+    margin: 0 0 20px;
+
+    font-size: clamp(28px, 3vw, 38px);
+
+    line-height: 1.2;
+
+    color: #531919;
+}
+
+.About-Content h2::after {
+    content: "";
+
+    display: block;
+
+    width: 60px;
+    height: 4px;
+
+    margin-top: 12px;
+
+    background: #ffd21f;
+
+    border-radius: 5px;
+}
+
+.About-Content p {
+    margin: 0 0 16px;
+
+    font-size: 16px;
+
+    line-height: 1.75;
+
+    color: #4b4949;
+}
+
+.About-Content p:last-child {
+    margin-bottom: 0;
+}
+
+
+/* =========================================
+   VIDEO CONTAINER
+========================================= */
+
+.About-Video {
+    width: 80%;
+
+    min-width: 0;
+
+    height: 50%;
+    /* margin: 50px; */
+    margin-top: 250px;
+
+    display: flex;
+
+    box-sizing: border-box;
+
+    overflow: hidden;
+
+    border-radius: 12px;
+
+    background: #000;
+}
+
+
+/* =========================================
+   VIDEO
+========================================= */
+
+.About-Video video {
+    display: block;
+
+    width: 100%;
+
+    height: 100%;
+
+    min-height: 100%;
+
+    object-fit: contain;
+
+    border-radius: 12px;
+}
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 992px) {
+
+    .About-Banner {
+        max-width: 95%;
+
+        padding: 30px;
+
+        gap: 30px;
+    }
+
+    .About-Content h2 {
+        font-size: 30px;
+    }
+
+    .About-Content p {
+        font-size: 15px;
+
+        line-height: 1.4;
+    }
+
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 768px) {
+
+    .About-Banner {
+        width: calc(100% - 30px);
+        max-width: none;
+
+        margin: 30px auto;
+        padding: 25px 20px;
+
+        display: grid;
+        grid-template-columns: 1fr;
+
+        gap: 20px;
+
+        box-sizing: border-box;
+
+        border-radius: 0;
+    }
+
+    /* Content */
+
+    .About-Content {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+
+        box-sizing: border-box;
+    }
+
+    .About-Content h2 {
+        font-size: 28px;
+        margin-bottom: 15px;
+    }
+
+    .About-Content p {
+        font-size: 15px;
+        line-height: 1.7;
+        margin-bottom: 16px;
+    }
+
+
+    /* Video */
+
+    .About-Video {
+        width: 100%;
+
+        height: auto;
+
+        margin: 0;
+
+        aspect-ratio: 16 / 9;
+
+        box-sizing: border-box;
+
+        overflow: hidden;
+
+        border-radius: 10px;
+    }
+
+    .About-Video video {
+        width: 100%;
+        height: 100%;
+
+        object-fit: contain;
+
+        border-radius: 10px;
+    }
+}
+
+
+/* =========================================
+   SMALL MOBILE
+========================================= */
+
+@media (max-width: 480px) {
+
+    .About-Banner {
+        width: calc(100% - 24px);
+
+        margin: 25px auto;
+
+        padding: 25px 16px;
+
+        gap: 20px;
+
+        border-radius: 0;
+    }
+
+    .About-Content {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .About-Content h2 {
+        font-size: 25px;
+
+        line-height: 1.25;
+
+        margin: 0 0 15px;
+    }
+
+    .About-Content p {
+        font-size: 14px;
+
+        line-height: 1.65;
+
+        margin: 0 0 14px;
+    }
+
+    .About-Video {
+        width: 100%;
+
+        margin: 0;
+
+        aspect-ratio: 16 / 9;
+
+        border-radius: 10px;
+    }
+
+    .About-Video video {
+        width: 100%;
+        height: 100%;
+
+        object-fit: contain;
+
+        border-radius: 10px;
+    }
+}
+/* =========================================
+   MOCK TEST HERO
+========================================= */
+
+.mock-hero {
+    position: relative;
+
+    width: 100%;
+    min-height: 520px;
+
+    background-image: url("../assets/mock-test-banner.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    overflow: hidden;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   DARK OVERLAY
+========================================= */
+
+.mock-overlay {
+    position: absolute;
+
+    inset: 0;
+
+    background: rgba(0, 0, 0, 0.65);
+
+    z-index: 1;
+}
+
+
+/* =========================================
+   MAIN CONTAINER
+========================================= */
+
+.mock-hero-container {
+    position: relative;
+
+    z-index: 2;
+
+    width: 100%;
+    max-width: 1200px;
+
+    min-height: 520px;
+
+    margin: 0 auto;
+
+    padding: 45px 30px;
+
+    display: grid;
+
+    grid-template-columns:
+        minmax(0, 1.7fr) minmax(320px, 0.8fr);
+
+    gap: 50px;
+
+    align-items: center;
+
+    box-sizing: border-box;
+}
+
+
+/* =========================================
+   LEFT CONTENT
+========================================= */
+
+.mock-hero-content {
+    width: 100%;
+
+    min-width: 0;
+
+    color: #fff;
+}
+
+
+/* =========================================
+   MAIN HEADING
+========================================= */
+
+.mock-hero-content h1 {
+    margin: 0;
+
+    font-size: clamp(42px, 5vw, 72px);
+
+    line-height: 1.08;
+
+    font-weight: 700;
+
+    color: #fff;
+
+    text-transform: uppercase;
+}
+
+
+/* =========================================
+   SMALL LINE
+========================================= */
+
+.mock-line {
+    width: 45px;
+
+    height: 2px;
+
+    margin: 35px 0 25px;
+
+    background: rgba(255, 255, 255, 0.25);
+}
+
+
+/* =========================================
+   LEFT PARAGRAPHS
+========================================= */
+
+.mock-hero-content p {
+    max-width: 760px;
+
+    margin: 0 0 18px;
+
+    font-size: 15px;
+
+    line-height: 1.7;
+
+    color: #fff;
+}
+
+
+/* =========================================
+   RIGHT CONTENT WRAPPER
+========================================= */
+
+.mock-contact-wrapper {
+    width: 100%;
+
+    display: flex;
+
+    justify-content: flex-end;
+
+    align-items: center;
+}
+
+
+/* =========================================
+   RIGHT WHITE CARD
+========================================= */
+
+.mock-contact-form {
+    width: 100%;
+
+    max-width: 360px;
+
+    padding: 25px 30px;
+
+    background: #fff;
+
+    box-sizing: border-box;
+
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.25);
+}
+
+
+/* =========================================
+   CARD HEADING
+========================================= */
+
+.mock-contact-form h2 {
+    margin: 0;
+
+    font-size: 25px;
+
+    line-height: 1.3;
+
+    font-weight: 700;
+
+    color: #222;
+}
+
+
+/* =========================================
+   CARD LINE
+========================================= */
+
+.mock-form-line {
+    width: 45px;
+
+    height: 2px;
+
+    margin: 12px 0 20px;
+
+    background: #222;
+}
+
+
+/* =========================================
+   CARD INTRO TEXT
+========================================= */
+
+.mock-contact-form>p {
+    margin: 0 0 20px;
+
+    font-size: 14px;
+
+    line-height: 1.6;
+
+    color: #555;
+}
+
+
+/* =========================================
+   MOCK TEST OPTION
+========================================= */
+
+.mock-test-option {
+    margin-bottom: 20px;
+
+    padding-bottom: 18px;
+
+    border-bottom: 1px solid #ddd;
+}
+
+
+/* Remove border from last option */
+
+.mock-test-option:last-child {
+    margin-bottom: 0;
+
+    padding-bottom: 0;
+
+    border-bottom: none;
+}
+
+
+/* =========================================
+   OPTION HEADING
+========================================= */
+
+.mock-test-option h3 {
+    margin: 0 0 8px;
+
+    font-size: 18px;
+
+    line-height: 1.3;
+
+    color: #222;
+}
+
+
+/* =========================================
+   OPTION DESCRIPTION
+========================================= */
+
+.mock-test-option p {
+    margin: 0 0 12px;
+
+    font-size: 13px;
+
+    line-height: 1.5;
+
+    color: #666;
+}
+
+
+/* =========================================
+   TEST BUTTON
+========================================= */
+
+.mock-test-option button {
+    width: 100%;
+
+    height: 40px;
+
+    border: none;
+
+    background: #17213a;
+
+    border-radius: 10px;
+
+
+    color: #fff;
+
+    font-size: 14px;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+
+.mock-test-option button:hover {
+    background: #0d1528;
+}
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 992px) {
+
+    .mock-hero-container {
+
+        grid-template-columns:
+            minmax(0, 1.3fr) minmax(300px, 0.8fr);
+
+        gap: 30px;
+
+        padding: 40px 25px;
+    }
+
+
+    .mock-hero-content h1 {
+        font-size: 48px;
+    }
+
+
+    .mock-hero-content p {
+        font-size: 14px;
+    }
+
+
+    .mock-contact-form {
+        max-width: 340px;
+
+        padding: 25px;
+    }
+
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 768px) {
+
+    .mock-hero {
+        min-height: auto;
+    }
+
+
+    .mock-hero-container {
+
+        min-height: auto;
+
+        grid-template-columns: 1fr;
+
+        gap: 40px;
+
+        padding: 50px 20px;
+    }
+
+
+    /* LEFT CONTENT */
+
+    .mock-hero-content {
+        text-align: left;
+    }
+
+
+    .mock-hero-content h1 {
+        font-size: 40px;
+
+        line-height: 1.1;
+    }
+
+
+    .mock-line {
+        margin: 25px 0 20px;
+    }
+
+
+    .mock-hero-content p {
+        font-size: 14px;
+
+        line-height: 1.7;
+    }
+
+
+    /* RIGHT CARD */
+
+    .mock-contact-wrapper {
+
+        width: 100%;
+
+        justify-content: center;
+    }
+
+
+    .mock-contact-form {
+
+        width: 100%;
+
+        max-width: 500px;
+
+        padding: 25px;
+    }
+
+}
+
+
+/* =========================================
+   SMALL MOBILE
+========================================= */
+
+@media (max-width: 480px) {
+
+    .mock-hero-container {
+
+        padding: 40px 15px;
+
+        gap: 30px;
+    }
+
+
+    .mock-hero-content h1 {
+        font-size: 32px;
+    }
+
+
+    .mock-hero-content p {
+
+        font-size: 13px;
+
+        line-height: 1.65;
+    }
+
+
+    .mock-contact-form {
+        padding: 22px 18px;
+    }
+
+
+    .mock-contact-form h2 {
+        font-size: 22px;
+    }
+
+
+    .mock-contact-form>p {
+        font-size: 13px;
+    }
+
+
+    .mock-test-option h3 {
+        font-size: 17px;
+    }
+
+
+    .mock-test-option p {
+        font-size: 13px;
+    }
+
+
+    .mock-test-option button {
+        height: 38px;
+
+        font-size: 13px;
+    }
+
+}
+
+
+/* =========================================
+   VERY SMALL MOBILE
+========================================= */
+
+@media (max-width: 360px) {
+
+    .mock-hero-container {
+
+        padding: 35px 12px;
+    }
+
+
+    .mock-hero-content h1 {
+        font-size: 28px;
+    }
+
+
+    .mock-hero-content p {
+        font-size: 12px;
+    }
+
+
+    .mock-contact-form {
+        padding: 20px 15px;
+    }
+
+
+    .mock-contact-form h2 {
+        font-size: 20px;
+    }
+
+
+    .mock-test-option h3 {
+        font-size: 16px;
+    }
+
+
+    .mock-test-option p {
+        font-size: 12px;
+    }
+
+}
+/* =========================
+   Notification Bar
+========================= */
+
+.notification {
+  width: 100%;
+  height: 55px;
+  background-color: rgb(73, 12, 12);
+
+  display: grid;
+  grid-template-columns: 180px 1fr;
+
+  color: white;
+  overflow: hidden;
+}
+
+
+/* =========================
+   Notification Heading
+========================= */
+
+.topic {
+  background-color: #ddbb32;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 5px;
+  z-index: 2;
+}
+
+.topic h1 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+  color: #490c0c;
+}
+
+
+/* =========================
+   Moving Announcement Area
+========================= */
+
+.crouse-notification {
+  display: flex;
+  align-items: center;
+
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+
+/* Moving content */
+
+.notification-track {
+  display: inline-block;
+
+  padding-left: 100%;
+
+  animation: notificationMove 12s linear infinite;
+}
+
+
+/* Link */
+
+.notification-track a {
+  color: white;
+
+  font-size: 18px;
+  font-weight: 600;
+  text-decoration: none;
+
+  transition: color 0.2s ease;
+}
+
+
+/* Hover */
+
+.notification-track:hover {
+  animation-play-state: paused;
+}
+
+.notification-track a:hover {
+  color: #ddbb32;
+}
+
+
+/* Click / Focus */
+
+.notification-track a:focus,
+.notification-track a:active {
+  color: #ddbb32;
+}
+
+
+/* =========================
+   Animation
+========================= */
+
+@keyframes notificationMove {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+
+/* =========================
+   Tablet
+========================= */
+
+@media (max-width: 768px) {
+
+  .notification {
+    height: 50px;
+    grid-template-columns: 130px 1fr;
+  }
+
+  .topic h1 {
+    font-size: 17px;
+  }
+
+  .notification-track a {
+    font-size: 16px;
+  }
+}
+
+
+/* =========================
+   Mobile
+========================= */
+
+@media (max-width: 480px) {
+
+  .notification {
+    height: 45px;
+    grid-template-columns: 105px 1fr;
+  }
+
+  .topic {
+    padding: 3px;
+  }
+
+  .topic h1 {
+    font-size: 14px;
+  }
+
+  .notification-track a {
+    font-size: 14px;
+  }
+}
+
+
+/* Small Mobile */
+
+@media (max-width: 360px) {
+
+  .notification {
+    grid-template-columns: 90px 1fr;
+  }
+
+  .topic h1 {
+    font-size: 12px;
+  }
+
+  .notification-track a {
+    font-size: 13px;
+  }
+}
