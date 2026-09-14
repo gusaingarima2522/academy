@@ -132,7 +132,7 @@ const BlogContent = () => {
             {blog.ctaDescription}
           </p>
 
-          <Link to="/contact">
+          <Link to='/contact#contact-section'>
             Enquire Now
           </Link>
 

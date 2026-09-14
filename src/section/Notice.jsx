@@ -35,7 +35,7 @@ const Notice = () => {
                         CUET Batch Announcement
                     </a>
                     <span className="separator"> &nbsp; &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; &nbsp; </span>
-                    <Link to='/contact'>Contact Us</Link>
+                    <Link to='/contact#contact-section'>Contact Us</Link>
 
                 </div>
             </div>

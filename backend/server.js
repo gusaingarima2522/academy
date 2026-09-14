@@ -6,20 +6,26 @@ const db = require("./db");
 
 const app = express();
 
+// ================= MIDDLEWARE =================
 
-// Middleware
 app.use(cors());
 app.use(express.json());
 
 
-// Test route
+// ================= TEST ROUTE =================
+
 app.get("/", (req, res) => {
   res.send("World Wise backend is running");
 });
 
 
-// Contact form API
+// ================= CONTACT FORM API =================
+
 app.post("/api/contact", (req, res) => {
+
+  console.log("Received contact form data:");
+  console.log(req.body);
+
   const {
     full_name,
     email,
@@ -29,6 +35,8 @@ app.post("/api/contact", (req, res) => {
     message
   } = req.body;
 
+
+  // Validation
   if (!full_name || !phone) {
     return res.status(400).json({
       success: false,
@@ -36,6 +44,8 @@ app.post("/api/contact", (req, res) => {
     });
   }
 
+
+  // SQL Query
   const sql = `
     INSERT INTO contact_messages
     (
@@ -49,6 +59,7 @@ app.post("/api/contact", (req, res) => {
     VALUES (?, ?, ?, ?, ?, ?)
   `;
 
+
   const values = [
     full_name,
     email || null,
@@ -58,26 +69,41 @@ app.post("/api/contact", (req, res) => {
     message || null
   ];
 
+
+  // Save into MySQL
   db.query(sql, values, (err, result) => {
+
     if (err) {
+
       console.log("Database error:", err);
 
       return res.status(500).json({
         success: false,
-        message: "Failed to save contact form"
+        message: "Failed to save contact form",
+        error: err.message
       });
     }
+
+
+    console.log("Contact form saved successfully!");
+    console.log("Inserted ID:", result.insertId);
+
 
     res.status(201).json({
       success: true,
       message: "Your enquiry has been submitted successfully",
       id: result.insertId
     });
+
   });
+
 });
-// Start server
+
+
+// ================= START SERVER =================
+
 const PORT = process.env.PORT || 5000;
 
-app.listen(5000, "0.0.0.0", () => {
-  console.log("Server running on port 5000");
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`Server running on port ${PORT}`);
 });

@@ -3,180 +3,287 @@ import { Link } from "react-router-dom";
 import blogs from "../data/blogs";
 
 const Blogs = () => {
+  // ==========================================
+  // PAGE LOADING
+  // ==========================================
+
   const [loading, setLoading] = useState(true);
 
-  // Simulate loading
+  // ==========================================
+  // IMAGE LOADING
+  // ==========================================
+
+  const [loadedImages, setLoadedImages] = useState({});
+
+  // ==========================================
+  // SHOW BLOG CONTENT AFTER 1.5 SECONDS
+  // ==========================================
+
   useEffect(() => {
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 1200);
+    }, 500);
 
     return () => clearTimeout(timer);
   }, []);
 
   return (
-    <div className="bg-gray-100 py-12 px-4">
+    <div className="bg-gray-100 px-4 py-12">
 
-      {/* ================= HEADER ================= */}
+      {/* ==========================================
+          PAGE LOADER
+          ONLY ONE SPINNER
+      ========================================== */}
 
-      <div className="text-center mb-10">
+      {loading ? (
 
-        {loading ? (
-          <>
-            {/* Heading Skeleton */}
-            <div className="mx-auto h-10 w-72 rounded-md bg-gray-300 animate-pulse"></div>
+        <div className="flex min-h-[70vh] w-full items-center justify-center">
 
-            {/* Description Skeleton */}
-            <div className="mx-auto mt-4 h-4 w-96 max-w-full rounded bg-gray-300 animate-pulse"></div>
-            <div className="mx-auto mt-2 h-4 w-80 max-w-full rounded bg-gray-300 animate-pulse"></div>
-          </>
-        ) : (
-          <>
-            <h1 className="text-3xl md:text-4xl font-bold text-red-950">
+          <div className="flex flex-col items-center">
+
+            {/* Spinner */}
+
+            <div
+              className="
+                h-14 w-14
+                animate-spin
+                rounded-full
+                border-4
+                border-gray-300
+                border-t-red-950
+              "
+            ></div>
+
+            <p className="mt-4 text-sm font-semibold text-gray-600">
+              Loading Blogs...
+            </p>
+
+          </div>
+
+        </div>
+
+      ) : (
+
+        /* ==========================================
+           BLOG CONTENT
+        ========================================== */
+
+        <>
+
+          {/* ================= HEADER ================= */}
+
+          <div className="mb-10 text-center">
+
+            <h1
+              className="
+                text-3xl
+                font-bold
+                text-red-950
+                md:text-4xl
+              "
+            >
               CLAT & CUET Guidance
             </h1>
 
-            <p className="text-gray-600 mt-3 max-w-2xl mx-auto">
+            <p
+              className="
+                mx-auto
+                mt-3
+                max-w-2xl
+                text-gray-600
+              "
+            >
               Get expert guidance, preparation strategies and useful tips
               to begin your entrance exam journey with confidence.
             </p>
-          </>
-        )}
 
-      </div>
+          </div>
 
 
-      {/* ================= BLOG GRID ================= */}
+          {/* ================= BLOG GRID ================= */}
 
-      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-7">
+          <div
+            className="
+              mx-auto
+              grid
+              max-w-7xl
+              grid-cols-1
+              gap-7
+              md:grid-cols-2
+              lg:grid-cols-3
+            "
+          >
 
-        {loading
-          ? Array.from({ length: 6 }).map((_, index) => (
+            {blogs.map((blog, index) => {
 
-              <div
-                key={index}
-                className="bg-white rounded-xl overflow-hidden
-                           border border-gray-200 shadow-md"
-              >
+              const imageLoaded = loadedImages[index];
 
-                {/* IMAGE SKELETON */}
-                <div className="w-full h-52 bg-gray-300 animate-pulse"></div>
+              return (
+
+                <div
+                  key={blog.slug}
+                  className="
+                    overflow-hidden
+                    rounded-xl
+                    border
+                    border-gray-200
+                    bg-white
+                    shadow-md
+                    transition
+                    duration-300
+                    hover:shadow-xl
+                  "
+                >
+
+                  {/* ==========================================
+                      IMAGE
+                      NO SPINNER
+                      ONLY GRAY SKELETON
+                  ========================================== */}
+
+                  <div
+                    className="
+                      relative
+                      h-52
+                      w-full
+                      overflow-hidden
+                      bg-gray-300
+                    "
+                  >
+
+                    {/* Gray skeleton */}
+
+                    {!imageLoaded && (
+                      <div
+                        className="
+                          absolute
+                          inset-0
+                          animate-pulse
+                          bg-gray-300
+                        "
+                      ></div>
+                    )}
+
+                    {/* Actual Image */}
+
+                    <img
+                      src={blog.image}
+                      alt={blog.title}
+
+                      onLoad={() => {
+                        setLoadedImages((prev) => ({
+                          ...prev,
+                          [index]: true,
+                        }));
+                      }}
+
+                      onError={() => {
+                        setLoadedImages((prev) => ({
+                          ...prev,
+                          [index]: true,
+                        }));
+                      }}
+
+                      className={`
+                        relative
+                        z-10
+                        h-full
+                        w-full
+                        object-cover
+                        transition-opacity
+                        duration-500
+                        ${
+                          imageLoaded
+                            ? "opacity-100"
+                            : "opacity-0"
+                        }
+                      `}
+                    />
+
+                  </div>
 
 
-                {/* CONTENT SKELETON */}
-                <div className="p-6">
+                  {/* ==========================================
+                      CONTENT
+                  ========================================== */}
 
-                  {/* Category */}
-                  <div className="h-7 w-24 rounded-full bg-gray-300 animate-pulse mb-4"></div>
+                  <div className="p-6">
 
-                  {/* Title */}
-                  <div className="h-6 w-full rounded bg-gray-300 animate-pulse mb-2"></div>
+                    {/* CATEGORY */}
 
-                  <div className="h-6 w-4/5 rounded bg-gray-300 animate-pulse mb-4"></div>
+                    <span
+                      className="
+                        mb-4
+                        inline-block
+                        rounded-full
+                        bg-yellow-200
+                        px-3
+                        py-1
+                        text-sm
+                        font-semibold
+                        text-red-950
+                      "
+                    >
+                      {blog.category}
+                    </span>
 
 
-                  {/* Description */}
-                  <div className="h-4 w-full rounded bg-gray-200 animate-pulse mb-2"></div>
+                    {/* TITLE */}
 
-                  <div className="h-4 w-full rounded bg-gray-200 animate-pulse mb-2"></div>
+                    <h2
+                      className="
+                        mb-3
+                        text-xl
+                        font-bold
+                        leading-snug
+                        text-red-950
+                      "
+                    >
+                      {blog.title}
+                    </h2>
 
-                  <div className="h-4 w-3/4 rounded bg-gray-200 animate-pulse mb-6"></div>
+
+                    {/* DESCRIPTION */}
+
+                    <p
+                      className="
+                        mb-6
+                        text-sm
+                        leading-6
+                        text-gray-600
+                      "
+                    >
+                      {blog.description}
+                    </p>
 
 
-                  {/* Read Blog */}
-                  <div className="h-5 w-32 rounded bg-gray-300 animate-pulse"></div>
+                    {/* READ BLOG */}
+
+                    <Link
+                      to={`/blogs/${blog.slug}`}
+                      className="
+                        font-semibold
+                        text-red-950
+                        transition
+                        hover:text-red-700
+                      "
+                    >
+                      Read the Guide →
+                    </Link>
+
+                  </div>
 
                 </div>
 
-              </div>
+              );
 
-            ))
-          : blogs.map((blog) => (
+            })}
 
-              <div
-                key={blog.slug}
-                className="bg-white rounded-xl overflow-hidden
-                           border border-gray-200 shadow-md
-                           hover:shadow-xl transition duration-300"
-              >
+          </div>
 
-                {/* ================= IMAGE ================= */}
+        </>
 
-                <div className="w-full h-52 overflow-hidden">
-
-                  <img
-                    src={blog.image}
-                    alt={blog.title}
-                    className="w-full h-full object-fit
-                               hover:scale-105 transition duration-300"
-                  />
-
-                </div>
-
-
-                {/* ================= CONTENT ================= */}
-
-                <div className="p-6">
-
-                  {/* Category */}
-
-                  <span
-                    className="inline-block
-                               bg-yellow-200
-                               text-red-950
-                               text-sm font-semibold
-                               px-3 py-1
-                               rounded-full
-                               mb-4"
-                  >
-                    {blog.category}
-                  </span>
-
-
-                  {/* Title */}
-
-                  <h2
-                    className="text-xl font-bold
-                               text-red-950
-                               leading-snug
-                               mb-3"
-                  >
-                    {blog.title}
-                  </h2>
-
-
-                  {/* Description */}
-
-                  <p
-                    className="text-gray-600
-                               text-sm
-                               leading-6
-                               mb-6"
-                  >
-                    {blog.description}
-                  </p>
-
-
-                  {/* Read Blog */}
-
-                  <Link
-                    to={`/blogs/${blog.slug}`}
-                    className="text-red-950
-                               font-semibold
-                               hover:text-red-700
-                               transition"
-                  >
-                    Read the Guide →
-                  </Link>
-
-                </div>
-
-              </div>
-
-            ))
-        }
-
-      </div>
+      )}
 
     </div>
   );

@@ -69,7 +69,7 @@ function Footer() {
 
               <li>
                 <Link
-                  to="/contact"
+                  to="/contact#contact-section"
                   className="text-gray-400 hover:text-white transition no-underline"
                 >
                   Contact

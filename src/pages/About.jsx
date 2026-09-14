@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 
 const About = () => {
   return (
@@ -471,8 +473,8 @@ const About = () => {
             your academic goals.
           </p>
 
-          <a
-            href="/courses"
+          <Link
+            to="/CourseSec"
             className="
               inline-flex
               items-center
@@ -491,7 +493,7 @@ const About = () => {
             "
           >
             Explore Our Courses
-          </a>
+          </Link>
 
         </div>
       </section>

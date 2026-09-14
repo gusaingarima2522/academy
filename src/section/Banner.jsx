@@ -13,8 +13,8 @@ const Banner = () => {
       </h1>
 
       <button className="mt-6 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-lg transition duration-300">
-        <Link to="/contact">
-          Get In Touch
+        <Link to='/contact#contact-section'>   
+               Get In Touch
         </Link>
       </button>
 

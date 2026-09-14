@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 
 const resources = [
   {
@@ -355,8 +357,8 @@ const Resources = () => {
             World Wise Education.
           </p>
 
-          <a
-            href="/contact"
+          <Link
+            to="/contact#contact-section"
             className="
               inline-block
               bg-yellow-400
@@ -374,7 +376,7 @@ const Resources = () => {
             "
           >
             Contact Us
-          </a>
+          </Link>
 
         </div>
 
