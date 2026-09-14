@@ -1566,3 +1566,32 @@ main {
   text-decoration: none;
   z-index: 9999;
 }
+.notification {
+  position: relative;
+  z-index: 100;
+  pointer-events: auto !important;
+}
+
+.notification-track {
+  position: relative;
+  z-index: 101;
+  pointer-events: auto !important;
+}
+
+.notification-track a {
+  position: relative;
+  z-index: 102;
+  pointer-events: auto !important;
+  cursor: pointer !important;
+}
+@keyframes popupIn {
+  from {
+    opacity: 0;
+    transform: scale(0.85) translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}

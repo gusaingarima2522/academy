@@ -13,11 +13,11 @@ const Head = () => {
 
             {/* Landline */}
             <a
-              href="tel:01121980242"
+              href="tel:9891775177"
               className="flex items-center gap-1 hover:text-blue-600 transition no-underline text-black"
             >
               <span>☎</span>
-              <span>011219 80242</span>
+              <span>98917 75177</span>
             </a>
 
             {/* Visit Us */}

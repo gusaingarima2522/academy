@@ -331,17 +331,17 @@ const Resources = () => {
 
 
       {/* ================= DOWNLOAD MATERIAL ================= */}
-      <section className="bg-gray-700 text-white px-4 sm:px-6 py-12 sm:py-14 md:py-16">
+      <section className="bg-black text-white px-4 sm:px-6 py-12 sm:py-14 md:py-16">
 
         <div className="max-w-4xl mx-auto text-center">
 
           <div className="w-16 h-16 sm:w-20 sm:h-20 mx-auto mb-5">
 
-            <img
+            {/* <img
               src="/icons/download.png"
               alt="Download study material"
               className="w-full h-full object-contain"
-            />
+            /> */}
 
           </div>
 

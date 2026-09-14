@@ -35,138 +35,6 @@ const App = () => {
 
 
   // =====================================================
-  // POPUP STATES
-  // =====================================================
-
-  // IMPORTANT:
-  // false = popup will NOT block the website when page loads
-  const [popupOpen, setPopupOpen] = useState(true);
-
-  const [formData, setFormData] = useState({
-    full_name: "",
-    phone: "",
-    preferred_time: "",
-    message: "",
-  });
-
-  const [loading, setLoading] = useState(false);
-  const [success, setSuccess] = useState("");
-  const [error, setError] = useState("");
-
-
-  // =====================================================
-  // FORM INPUT CHANGE
-  // =====================================================
-
-  const handleChange = (e) => {
-
-    const { name, value } = e.target;
-
-    setFormData((prev) => ({
-      ...prev,
-      [name]: value,
-    }));
-
-  };
-
-
-  // =====================================================
-  // FORM SUBMIT
-  // =====================================================
-
-  const handleSubmit = async (e) => {
-
-    e.preventDefault();
-
-    setLoading(true);
-    setSuccess("");
-    setError("");
-
-    try {
-
-      const response = await fetch(
-        "http://localhost:5000/api/contact",
-        {
-          method: "POST",
-
-          headers: {
-            "Content-Type": "application/json",
-          },
-
-          body: JSON.stringify(formData),
-        }
-      );
-
-
-      const data = await response.json();
-
-
-      // =================================================
-      // BACKEND ERROR
-      // =================================================
-
-      if (!response.ok) {
-
-        throw new Error(
-          data.message || "Something went wrong"
-        );
-
-      }
-
-
-      // =================================================
-      // SUCCESS
-      // =================================================
-
-      setSuccess(
-        data.message ||
-        "Your enquiry has been submitted successfully!"
-      );
-
-
-      // =================================================
-      // CLEAR FORM
-      // =================================================
-
-      setFormData({
-        full_name: "",
-        phone: "",
-        preferred_time: "",
-        message: "",
-      });
-
-
-      // =================================================
-      // CLOSE POPUP AFTER 1.5 SECONDS
-      // =================================================
-
-      setTimeout(() => {
-
-        setPopupOpen(false);
-        setSuccess("");
-
-      }, 1500);
-
-
-    } catch (err) {
-
-      console.error("Form error:", err);
-
-      setError(
-        err.message ||
-        "Unable to submit form"
-      );
-
-    } finally {
-
-      setLoading(false);
-
-    }
-
-  };
-
-
-  // =====================================================
   // CLOSE MOBILE MENU
   // =====================================================
 
@@ -177,31 +45,6 @@ const App = () => {
 
   };
 
-
-  // =====================================================
-  // CLOSE POPUP
-  // =====================================================
-
-  const closePopup = () => {
-
-    setPopupOpen(false);
-    setError("");
-    setSuccess("");
-
-  };
-
-
-  // =====================================================
-  // OPEN POPUP
-  // =====================================================
-
-  const openPopup = () => {
-
-    setPopupOpen(true);
-    setError("");
-    setSuccess("");
-
-  };
 
 
   return (
@@ -215,8 +58,9 @@ const App = () => {
             HEAD
         ====================================================== */}
 
-        <Head />
-
+        <div className="relative z-[9998] pointer-events-auto">
+          <Head />
+        </div>
 
         {/* =====================================================
             NAVBAR
@@ -331,149 +175,137 @@ const App = () => {
 
                   {/* COURSES */}
 
-                  <li className="relative">
+<li
+  className="relative"
+  onMouseEnter={() => setCoursesOpen(true)}
+  onMouseLeave={() => setCoursesOpen(false)}
+>
+  {/* Courses Button */}
+  <button
+    type="button"
+    className="flex items-center gap-1 rounded-md px-3 py-2 text-white
+               shadow-md transition-all duration-300
+               hover:bg-gray-100 hover:text-black hover:shadow-xl"
+  >
+    Courses
 
-                    <button
-                      type="button"
-                      onClick={() =>
-                        setCoursesOpen(!coursesOpen)
-                      }
-                      className="flex items-center gap-1 rounded-md px-3 py-2 text-white shadow-md transition-shadow duration-300 hover:bg-gray-100 hover:text-black hover:shadow-xl"
-                    >
+    <svg
+      className={`h-4 w-4 transition-transform duration-300 ease-in-out ${
+        coursesOpen ? "rotate-180" : "rotate-0"
+      }`}
+      fill="none"
+      stroke="currentColor"
+      viewBox="0 0 24 24"
+    >
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="2"
+        d="M19 9l-7 7-7-7"
+      />
+    </svg>
+  </button>
 
-                      Courses
+  {/* Dropdown */}
+  <ul
+    className={`
+      absolute right-0 mt-2 w-56 rounded-md bg-white py-2 shadow-xl
+      transition-all duration-300 ease-out
+      ${
+        coursesOpen
+          ? "visible translate-y-0 scale-100 opacity-100"
+          : "invisible -translate-y-2 scale-95 opacity-0"
+      }
+    `}
+  >
+    <li>
+      <Link
+        to="/clat"
+        className="block px-4 py-2 text-gray-700 no-underline
+                   transition-all duration-200
+                   hover:bg-gray-100 hover:pl-6 hover:text-red-900"
+      >
+        CLAT Courses
+      </Link>
+    </li>
 
-                      <svg
-                        className={`h-4 w-4 transition-transform ${coursesOpen
-                          ? "rotate-180"
-                          : ""
-                          }`}
-                        fill="none"
-                        stroke="currentColor"
-                        viewBox="0 0 24 24"
-                      >
+    <li>
+      <Link
+        to="/cuet"
+        className="block px-4 py-2 text-gray-700 no-underline
+                   transition-all duration-200
+                   hover:bg-gray-100 hover:pl-6 hover:text-red-900"
+      >
+        CUET Courses
+      </Link>
+    </li>
 
-                        <path
-                          strokeLinecap="round"
-                          strokeLinejoin="round"
-                          strokeWidth="2"
-                          d="M19 9l-7 7-7-7"
-                        />
-
-                      </svg>
-
-                    </button>
-
-
-                    {coursesOpen && (
-
-                      <ul className="absolute right-0 z-50 mt-2 w-56 rounded-md bg-white py-2 shadow-lg">
-
-                        <li>
-
-                          <Link
-                            to="/clat"
-                            onClick={() =>
-                              setCoursesOpen(false)
-                            }
-                            className="block px-4 py-2 text-gray-700 no-underline hover:bg-gray-100"
-                          >
-                            CLAT Courses
-                          </Link>
-
-                        </li>
-
-
-                        <li>
-
-                          <Link
-                            to="/cuet"
-                            onClick={() =>
-                              setCoursesOpen(false)
-                            }
-                            className="block px-4 py-2 text-gray-700 no-underline hover:bg-gray-100"
-                          >
-                            CUET Courses
-                          </Link>
-
-                        </li>
-
-
-                        <li>
-
-                          <Link
-                            to="/mock"
-                            onClick={() =>
-                              setCoursesOpen(false)
-                            }
-                            className="block px-4 py-2 text-gray-700 no-underline hover:bg-gray-100"
-                          >
-                            Mock Tests
-                          </Link>
-
-                        </li>
-
-                      </ul>
-
-                    )}
-
-                  </li>
-
-
+    <li>
+      <Link
+        to="/mock"
+        className="block px-4 py-2 text-gray-700 no-underline
+                   transition-all duration-200
+                   hover:bg-gray-100 hover:pl-6 hover:text-red-900"
+      >
+        Mock Tests
+      </Link>
+    </li>
+  </ul>
+</li>
                   {/* BLOGS */}
 
-                  <li>
+                    <li>
 
-                    <Link
-                      to="/blogs"
-                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
-                    >
-                      Blogs
-                    </Link>
+                      <Link
+                        to="/blogs"
+                        className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
+                      >
+                        Blogs
+                      </Link>
 
-                  </li>
-
-
-                  {/* ABOUT */}
-
-                  <li>
-
-                    <Link
-                      to="/about"
-                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
-                    >
-                      About
-                    </Link>
-
-                  </li>
+                    </li>
 
 
-                  {/* RESOURCES */}
+                    {/* ABOUT */}
 
-                  <li>
+                    <li>
 
-                    <Link
-                      to="/resources"
-                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
-                    >
-                      Resources
-                    </Link>
+                      <Link
+                        to="/about"
+                        className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
+                      >
+                        About
+                      </Link>
 
-                  </li>
+                    </li>
 
 
-                  {/* CONTACT */}
+                    {/* RESOURCES */}
 
-                  <li>
+                    <li>
 
-                    <Link
-                      to="/contact"
-                      className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
-                    >
-                      Contact
-                    </Link>
+                      <Link
+                        to="/resources"
+                        className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
+                      >
+                        Resources
+                      </Link>
 
-                  </li>
+                    </li>
+
+
+                    {/* CONTACT */}
+
+                    <li>
+
+                      <Link
+                        to="/contact"
+                        className="block rounded-md px-3 py-2 text-white no-underline hover:bg-gray-100 hover:text-black"
+                      >
+                        Contact
+                      </Link>
+
+                    </li>
 
                 </ul>
 
@@ -657,7 +489,7 @@ const App = () => {
             REQUEST FOR CALL POPUP
         ====================================================== */}
 
-        {popupOpen && (
+        {/* {popupOpen && (
           <div
             className="fixed inset-0 z-[99999] flex items-center justify-center bg-black/60 px-4"
             style={{
@@ -665,21 +497,21 @@ const App = () => {
             }}
           >
             {/* Popup Form */}
-            <div
+            {/* <div
               className="relative z-[100000] w-full max-w-lg rounded-xl bg-white p-6 shadow-2xl"
               onClick={(e) => e.stopPropagation()}
             >
               {/* Close Button */}
-              <button
+              {/* <button
                 type="button"
                 onClick={closePopup}
                 className="absolute right-4 top-3 text-2xl font-bold text-gray-600 hover:text-red-900"
               >
                 ×
-              </button>
+              </button> */}
 
               {/* Heading */}
-              <h2 className="mb-2 text-2xl font-bold text-red-900">
+              {/* <h2 className="mb-2 text-2xl font-bold text-red-900">
                 Request a Call
               </h2>
 
@@ -690,7 +522,7 @@ const App = () => {
               <form onSubmit={handleSubmit} className="space-y-4">
 
                 {/* Full Name */}
-                <div>
+                {/* <div>
                   <label className="mb-1 block font-medium text-gray-800">
                     Full Name
                   </label>
@@ -704,10 +536,10 @@ const App = () => {
                     required
                     className="w-full rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
                   />
-                </div>
+                </div> */}
 
                 {/* Phone */}
-                <div>
+                {/* <div>
                   <label className="mb-1 block font-medium text-gray-800">
                     Phone Number
                   </label>
@@ -721,10 +553,10 @@ const App = () => {
                     required
                     className="w-full rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
                   />
-                </div>
+                </div> */}
 
                 {/* Preferred Time */}
-                <div>
+                {/* <div>
                   <label className="mb-1 block font-medium text-gray-800">
                     Preferred Time
                   </label>
@@ -737,10 +569,10 @@ const App = () => {
                     placeholder="Example: 5 PM - 7 PM"
                     className="w-full rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
                   />
-                </div>
+                </div> */}
 
                 {/* Message */}
-                <div>
+                {/* <div>
                   <label className="mb-1 block font-medium text-gray-800">
                     Message
                   </label>
@@ -753,34 +585,34 @@ const App = () => {
                     rows="4"
                     className="w-full resize-none rounded-md border border-gray-300 px-4 py-3 outline-none focus:border-red-900"
                   />
-                </div>
+                </div> */}
 
                 {/* Error */}
-                {error && (
+                {/* {error && (
                   <p className="rounded-md bg-red-100 p-2 text-sm text-red-700">
                     {error}
                   </p>
-                )}
+                )} */}
 
                 {/* Success */}
-                {success && (
+                {/* {success && (
                   <p className="rounded-md bg-green-100 p-2 text-sm text-green-700">
                     {success}
                   </p>
-                )}
+                )} */}
 
                 {/* Submit */}
-                <button
+                {/* <button
                   type="submit"
                   className="w-full rounded-md bg-red-900 py-3 font-semibold text-white transition hover:bg-red-800"
                 >
                   Submit Request
-                </button>
+                </button> */}
 
-              </form>
-            </div>
-          </div>
-        )}
+              {/* </form>
+            </div> 
+          </div>  */}
+        
 
         {/* =====================================================
             FLOATING CALL BUTTON
@@ -788,13 +620,13 @@ const App = () => {
 
         <a
           href="tel:9911440545"
-          className="floating z-[110] flex items-center justify-center"
+          className="floating z-[110] flex items-center bg-white justify-center"
         >
 
           <img
             src={phonecall}
             alt="Call us"
-            className="h-6 w-6"
+            className="h-6 w-6 "
           />
 
         </a>
