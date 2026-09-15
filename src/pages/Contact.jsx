@@ -1,7 +1,10 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
+import { useLocation } from "react-router-dom";
 import CONTACT from "../assets/CONTACT.png";
 
 const Contact = () => {
+  const location = useLocation();
+
   // ================= FORM STATE =================
 
   const [formData, setFormData] = useState({
@@ -18,6 +21,27 @@ const Contact = () => {
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState("");
   const [error, setError] = useState("");
+
+  // =====================================================
+  // SCROLL TO CONTACT FORM
+  // =====================================================
+
+  useEffect(() => {
+    if (location.hash === "#contact-form") {
+      const timer = setTimeout(() => {
+        const formSection = document.getElementById("contact-form");
+
+        if (formSection) {
+          formSection.scrollIntoView({
+            behavior: "smooth",
+            block: "start",
+          });
+        }
+      }, 100);
+
+      return () => clearTimeout(timer);
+    }
+  }, [location]);
 
   // ================= HANDLE INPUT =================
 
@@ -41,7 +65,7 @@ const Contact = () => {
 
     try {
       const response = await fetch(
-        "http://192.168.1.3:5000/api/contact",
+        "http://192.168.1.4:5000/api/contact",
         {
           method: "POST",
           headers: {
@@ -88,38 +112,93 @@ const Contact = () => {
   return (
     <div className="w-full overflow-hidden bg-white">
 
-      {/* ================= BANNER ================= */}
+      {/* =====================================================
+          BANNER
+      ====================================================== */}
 
-      <section className="w-full px-3 sm:px-5 md:px-8 lg:px-10 py-3 sm:py-5 md:py-8">
+      <section
+        className="
+          w-full
+          px-3
+          sm:px-5
+          md:px-8
+          lg:px-10
+          py-3
+          sm:py-5
+          md:py-8
+        "
+      >
         <img
           src={CONTACT}
           alt="Contact Us"
-          className="w-full h-auto object-cover rounded-lg block"
+          className="
+            w-full
+            h-auto
+            object-cover
+            rounded-lg
+            block
+          "
         />
       </section>
 
+      {/* =====================================================
+          CONTACT SECTION
+      ====================================================== */}
 
-      {/* ================= CONTACT SECTION ================= */}
+      <section
+        className="
+          bg-gray-100
+          px-4
+          sm:px-6
+          md:px-8
+          py-10
+          sm:py-12
+          md:py-16
+        "
+      >
 
-      <section className="bg-gray-100 px-4 sm:px-6 md:px-8 py-10 sm:py-12 md:py-16"
-      id="contact-section">
+        <div
+          className="
+            max-w-6xl
+            mx-auto
+            grid
+            grid-cols-1
+            lg:grid-cols-2
+            gap-6
+            md:gap-8
+            items-start
+          "
+        >
 
-        <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-8">
-
-
-          {/* =====================================================
+          {/* =================================================
               DETAILS CARD
-          ===================================================== */}
+          ================================================= */}
 
-          <div className="bg-white rounded-xl shadow-lg p-5 sm:p-6 md:p-8">
+          <div
+            className="
+              bg-white
+              rounded-xl
+              shadow-lg
+              p-5
+              sm:p-6
+              md:p-8
+            "
+          >
 
-            <h2 className="text-xl sm:text-2xl font-bold text-gray-800 mb-5 sm:mb-6">
+            <h2
+              className="
+                text-xl
+                sm:text-2xl
+                font-bold
+                text-gray-800
+                mb-5
+                sm:mb-6
+              "
+            >
               Get In Touch
             </h2>
 
-
             <div className="space-y-4 sm:space-y-5">
-
 
               {/* ================= PHONE ================= */}
 
@@ -128,10 +207,12 @@ const Contact = () => {
                   min-h-[130px]
                   p-5
                   bg-yellow-100
-                  border border-yellow-200
+                  border
+                  border-yellow-200
                   rounded-lg
                   shadow-md
-                  transition-all duration-300
+                  transition-all
+                  duration-300
                   hover:-translate-y-1
                   hover:shadow-xl
                 "
@@ -155,7 +236,6 @@ const Contact = () => {
 
               </div>
 
-
               {/* ================= EMAIL ================= */}
 
               <div
@@ -163,10 +243,12 @@ const Contact = () => {
                   min-h-[130px]
                   p-5
                   bg-yellow-100
-                  border border-yellow-200
+                  border
+                  border-yellow-200
                   rounded-lg
                   shadow-md
-                  transition-all duration-300
+                  transition-all
+                  duration-300
                   hover:-translate-y-1
                   hover:shadow-xl
                 "
@@ -183,7 +265,8 @@ const Contact = () => {
                 <a
                   href="mailto:worldwiseindia@gmail.com"
                   className="
-                    text-sm sm:text-base
+                    text-sm
+                    sm:text-base
                     text-gray-700
                     hover:text-blue-600
                     transition
@@ -196,7 +279,6 @@ const Contact = () => {
 
               </div>
 
-
               {/* ================= ADDRESS ================= */}
 
               <div
@@ -204,10 +286,12 @@ const Contact = () => {
                   min-h-[160px]
                   p-5
                   bg-yellow-100
-                  border border-yellow-200
+                  border
+                  border-yellow-200
                   rounded-lg
                   shadow-md
-                  transition-all duration-300
+                  transition-all
+                  duration-300
                   hover:-translate-y-1
                   hover:shadow-xl
                 "
@@ -221,7 +305,14 @@ const Contact = () => {
                   />
                 </div>
 
-                <p className="text-gray-700 text-sm sm:text-base leading-6">
+                <p
+                  className="
+                    text-gray-700
+                    text-sm
+                    sm:text-base
+                    leading-6
+                  "
+                >
                   G-93, Second Floor, Ramphal Chowk,
                   <br />
                   Palam Extension, Dwarka,
@@ -233,18 +324,19 @@ const Contact = () => {
 
               </div>
 
-
               {/* ================= TIMING ================= */}
 
               <div
                 className="
                   min-h-[120px]
-                  p-3
+                  p-5
                   bg-yellow-100
-                  border border-yellow-200
+                  border
+                  border-yellow-200
                   rounded-lg
                   shadow-md
-                  transition-all duration-300
+                  transition-all
+                  duration-300
                   hover:-translate-y-1
                   hover:shadow-xl
                 "
@@ -258,7 +350,14 @@ const Contact = () => {
                   />
                 </div>
 
-                <p className="text-gray-700 text-sm sm:text-base leading-6">
+                <p
+                  className="
+                    text-gray-700
+                    text-sm
+                    sm:text-base
+                    leading-6
+                  "
+                >
                   Monday - Saturday
                   <br />
                   10:30 AM - 6:30 PM
@@ -267,43 +366,82 @@ const Contact = () => {
               </div>
 
             </div>
-
           </div>
 
-
-          {/* =====================================================
+          {/* =================================================
               CONTACT FORM
-          ===================================================== */}
+          ================================================= */}
 
-          <div className="bg-white rounded-xl shadow-lg p-5 sm:p-6 md:p-8">
+          <div
+            id="contact-form"
+            className="
+              bg-white
+              rounded-xl
+              shadow-lg
+              p-5
+              sm:p-6
+              md:p-8
+              scroll-mt-24
+            "
+          >
 
-            <h2 className="text-xl sm:text-2xl font-bold text-gray-800 mb-5 sm:mb-6">
+            <h2
+              className="
+                text-xl
+                sm:text-2xl
+                font-bold
+                text-gray-800
+                mb-5
+                sm:mb-6
+              "
+            >
               Contact Us
             </h2>
-
 
             <form
               onSubmit={handleSubmit}
               className="w-full"
             >
 
-
               {/* ================= FORM HEADING ================= */}
 
-              <div className="bg-red-900 rounded-lg px-4 py-5 sm:py-6 mb-6">
-
-                <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-white text-center">
+              <div
+                className="
+                  bg-red-900
+                  rounded-lg
+                  px-4
+                  py-5
+                  sm:py-6
+                  mb-6
+                "
+              >
+                <h2
+                  className="
+                    text-xl
+                    sm:text-2xl
+                    md:text-3xl
+                    font-bold
+                    text-white
+                    text-center
+                  "
+                >
                   We're Here to Help
                 </h2>
-
               </div>
-
 
               {/* ================= FULL NAME ================= */}
 
               <div className="mb-4 sm:mb-5">
 
-                <label className="block text-sm font-semibold text-gray-700 mb-2">
+                <label
+                  className="
+                    block
+                    text-sm
+                    font-semibold
+                    text-gray-700
+                    mb-2
+                  "
+                >
                   Full Name
                 </label>
 
@@ -316,26 +454,37 @@ const Contact = () => {
                   required
                   className="
                     w-full
-                    px-4 py-3
+                    px-4
+                    py-3
                     bg-gray-50
                     text-gray-700
-                    border border-gray-200
+                    border
+                    border-gray-200
                     rounded-md
                     outline-none
                     focus:border-yellow-400
-                    focus:ring-2 focus:ring-yellow-200
-                    transition-all duration-300
+                    focus:ring-2
+                    focus:ring-yellow-200
+                    transition-all
+                    duration-300
                   "
                 />
 
               </div>
 
-
               {/* ================= EMAIL ================= */}
 
               <div className="mb-4 sm:mb-5">
 
-                <label className="block text-sm font-semibold text-gray-700 mb-2">
+                <label
+                  className="
+                    block
+                    text-sm
+                    font-semibold
+                    text-gray-700
+                    mb-2
+                  "
+                >
                   Email Address
                 </label>
 
@@ -348,26 +497,37 @@ const Contact = () => {
                   required
                   className="
                     w-full
-                    px-4 py-3
+                    px-4
+                    py-3
                     bg-gray-50
                     text-gray-700
-                    border border-gray-200
+                    border
+                    border-gray-200
                     rounded-md
                     outline-none
                     focus:border-yellow-400
-                    focus:ring-2 focus:ring-yellow-200
-                    transition-all duration-300
+                    focus:ring-2
+                    focus:ring-yellow-200
+                    transition-all
+                    duration-300
                   "
                 />
 
               </div>
 
-
               {/* ================= PHONE ================= */}
 
               <div className="mb-4 sm:mb-5">
 
-                <label className="block text-sm font-semibold text-gray-700 mb-2">
+                <label
+                  className="
+                    block
+                    text-sm
+                    font-semibold
+                    text-gray-700
+                    mb-2
+                  "
+                >
                   Phone Number
                 </label>
 
@@ -380,26 +540,37 @@ const Contact = () => {
                   required
                   className="
                     w-full
-                    px-4 py-3
+                    px-4
+                    py-3
                     bg-gray-50
                     text-gray-700
-                    border border-gray-200
+                    border
+                    border-gray-200
                     rounded-md
                     outline-none
                     focus:border-yellow-400
-                    focus:ring-2 focus:ring-yellow-200
-                    transition-all duration-300
+                    focus:ring-2
+                    focus:ring-yellow-200
+                    transition-all
+                    duration-300
                   "
                 />
 
               </div>
 
-
               {/* ================= PREFERRED TIME ================= */}
 
               <div className="mb-4 sm:mb-5">
 
-                <label className="block text-sm font-semibold text-gray-700 mb-2">
+                <label
+                  className="
+                    block
+                    text-sm
+                    font-semibold
+                    text-gray-700
+                    mb-2
+                  "
+                >
                   Preferred Time for a Call
                 </label>
 
@@ -411,26 +582,37 @@ const Contact = () => {
                   placeholder="Preferred Time for a Call"
                   className="
                     w-full
-                    px-4 py-3
+                    px-4
+                    py-3
                     bg-gray-50
                     text-gray-700
-                    border border-gray-200
+                    border
+                    border-gray-200
                     rounded-md
                     outline-none
                     focus:border-yellow-400
-                    focus:ring-2 focus:ring-yellow-200
-                    transition-all duration-300
+                    focus:ring-2
+                    focus:ring-yellow-200
+                    transition-all
+                    duration-300
                   "
                 />
 
               </div>
 
-
               {/* ================= COURSE ================= */}
 
               <div className="mb-4 sm:mb-5">
 
-                <label className="block text-sm font-semibold text-gray-700 mb-2">
+                <label
+                  className="
+                    block
+                    text-sm
+                    font-semibold
+                    text-gray-700
+                    mb-2
+                  "
+                >
                   Select Course
                 </label>
 
@@ -441,15 +623,19 @@ const Contact = () => {
                   required
                   className="
                     w-full
-                    px-4 py-3
+                    px-4
+                    py-3
                     bg-gray-50
                     text-gray-700
-                    border border-gray-200
+                    border
+                    border-gray-200
                     rounded-md
                     outline-none
                     focus:border-yellow-400
-                    focus:ring-2 focus:ring-yellow-200
-                    transition-all duration-300
+                    focus:ring-2
+                    focus:ring-yellow-200
+                    transition-all
+                    duration-300
                   "
                 >
 
@@ -477,12 +663,19 @@ const Contact = () => {
 
               </div>
 
-
               {/* ================= MESSAGE ================= */}
 
               <div className="mb-5">
 
-                <label className="block text-sm font-semibold text-gray-700 mb-2">
+                <label
+                  className="
+                    block
+                    text-sm
+                    font-semibold
+                    text-gray-700
+                    mb-2
+                  "
+                >
                   Message
                 </label>
 
@@ -494,21 +687,24 @@ const Contact = () => {
                   placeholder="Enter your message"
                   className="
                     w-full
-                    px-4 py-3
+                    px-4
+                    py-3
                     bg-gray-50
                     text-gray-700
-                    border border-gray-200
+                    border
+                    border-gray-200
                     rounded-md
                     outline-none
                     resize-none
                     focus:border-yellow-400
-                    focus:ring-2 focus:ring-yellow-200
-                    transition-all duration-300
+                    focus:ring-2
+                    focus:ring-yellow-200
+                    transition-all
+                    duration-300
                   "
                 ></textarea>
 
               </div>
-
 
               {/* ================= SUCCESS MESSAGE ================= */}
 
@@ -519,7 +715,8 @@ const Contact = () => {
                     p-3
                     rounded-md
                     bg-green-100
-                    border border-green-200
+                    border
+                    border-green-200
                     text-green-700
                     text-sm
                   "
@@ -527,7 +724,6 @@ const Contact = () => {
                   {success}
                 </div>
               )}
-
 
               {/* ================= ERROR MESSAGE ================= */}
 
@@ -538,7 +734,8 @@ const Contact = () => {
                     p-3
                     rounded-md
                     bg-red-100
-                    border border-red-200
+                    border
+                    border-red-200
                     text-red-700
                     text-sm
                   "
@@ -546,7 +743,6 @@ const Contact = () => {
                   {error}
                 </div>
               )}
-
 
               {/* ================= SUBMIT ================= */}
 
@@ -563,9 +759,12 @@ const Contact = () => {
                   text-white
                   font-bold
                   rounded-md
-                  transition-all duration-300
+                  transition-all
+                  duration-300
                   hover:-translate-y-1
                   hover:shadow-lg
+                  text-sm
+                  sm:text-base
                 "
               >
                 {loading ? "Submitting..." : "Submit"}
@@ -576,23 +775,57 @@ const Contact = () => {
           </div>
 
         </div>
-
       </section>
-
 
       {/* =====================================================
           GOOGLE MAP
-      ===================================================== */}
+      ====================================================== */}
 
-      <section className="px-4 sm:px-6 md:px-8 py-8 sm:py-10">
+      <section
+        className="
+          px-4
+          sm:px-6
+          md:px-8
+          py-8
+          sm:py-10
+        "
+      >
 
-        <div className="max-w-6xl mx-auto bg-white rounded-xl shadow-lg p-4 sm:p-5">
+        <div
+          className="
+            max-w-6xl
+            mx-auto
+            bg-white
+            rounded-xl
+            shadow-lg
+            p-4
+            sm:p-5
+          "
+        >
 
-          <h2 className="text-xl sm:text-2xl font-bold text-gray-800 mb-4 sm:mb-5">
+          <h2
+            className="
+              text-xl
+              sm:text-2xl
+              font-bold
+              text-gray-800
+              mb-4
+              sm:mb-5
+            "
+          >
             Find Us On Map
           </h2>
 
-          <div className="w-full h-64 sm:h-80 md:h-96 rounded-lg overflow-hidden">
+          <div
+            className="
+              w-full
+              h-64
+              sm:h-80
+              md:h-96
+              rounded-lg
+              overflow-hidden
+            "
+          >
 
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.348405865897!2d77.071924!3d28.589323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1b0013d00c3d%3A0xa8f299cf9ef0a951!2sWORLDWISE%20EDUCATION%20CONSULTANTS!5e0!3m2!1sen!2sin!4v1789038474999!5m2!1sen!2sin"

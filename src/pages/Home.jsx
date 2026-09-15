@@ -360,7 +360,7 @@ const Home = () => {
     try {
 
       const response = await fetch(
-        "http://192.168.1.3:5000/api/contact",
+        "http://192.168.1.4:5000/api/contact",
         {
           method: "POST",
 

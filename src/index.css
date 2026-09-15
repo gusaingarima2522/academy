@@ -1533,38 +1533,71 @@ footer {
    NAVBAR CLICK FIX
 ========================================= */
 
+/* =========================================
+   NAVBAR CLICK FIX
+========================================= */
+
 nav {
   position: sticky !important;
   top: 0 !important;
-  z-index: 9998 !important;
+  z-index: 99999 !important;
   pointer-events: auto !important;
 }
 
 nav a,
 nav button {
+  position: relative !important;
+  z-index: 100000 !important;
   pointer-events: auto !important;
-  position: relative;
+  cursor: pointer !important;
 }
 
-/* Keep page content below navbar */
+
+/* =========================================
+   MAIN CONTENT
+========================================= */
+
 main {
   position: relative;
-  z-index: 0;
+  z-index: 1;
+  pointer-events: auto;
 }
 
-/* Floating call button */
+
+/* =========================================
+   COURSE LINKS
+========================================= */
+
+.browse-btn {
+  position: relative;
+  z-index: 10;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+/* =========================================
+   FLOATING CALL BUTTON
+========================================= */
+
 .floating {
   position: fixed;
   right: 20px;
   bottom: 20px;
+
   width: 60px;
   height: 60px;
+
   border-radius: 50%;
   background: #a90000;
   color: white;
+
   font-size: 28px;
   text-decoration: none;
-  z-index: 9999;
+
+  z-index: 100001;
+  pointer-events: auto;
+  cursor: pointer;
 }
 .notification {
   position: relative;

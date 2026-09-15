@@ -1959,3 +1959,103 @@
     font-size: 13px;
   }
 }
+/* =========================================
+   GLOBAL CLICK / LAYER FIX
+========================================= */
+
+.cuet-hero,
+.clat-hero,
+.mock-hero {
+  position: relative;
+}
+
+.cuet-overlay,
+.clat-overlay,
+.mock-overlay {
+  pointer-events: none;
+}
+
+.cuet-hero-container,
+.clat-hero-container,
+.mock-hero-container {
+  position: relative;
+  z-index: 2;
+  pointer-events: auto;
+}
+
+/* Notification */
+.notification {
+  position: relative;
+  z-index: 100;
+  pointer-events: auto;
+}
+
+.topic {
+  position: relative;
+  z-index: 101;
+}
+
+.crouse-notification {
+  position: relative;
+  z-index: 101;
+  pointer-events: auto;
+}
+
+.notification-track {
+  position: relative;
+  z-index: 102;
+  pointer-events: auto;
+}
+
+.notification-track a {
+  position: relative;
+  z-index: 103;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+/* =========================================
+   VIDEO CLICK FIX
+========================================= */
+
+.About-Video {
+  position: relative;
+  z-index: 2;
+  pointer-events: auto;
+}
+
+.About-Video video {
+  position: relative;
+  z-index: 3;
+  pointer-events: auto;
+}
+
+
+/* =========================================
+   HERO BUTTON / LINK FIX
+========================================= */
+
+.hero-buttons,
+.hero-buttons a,
+.primary-btn,
+.secondary-btn {
+  position: relative;
+  z-index: 10;
+  pointer-events: auto;
+  cursor: pointer;
+}
+
+
+/* =========================================
+   FORM BUTTON FIX
+========================================= */
+
+button,
+a {
+  cursor: pointer;
+}
+
+button {
+  pointer-events: auto;
+}

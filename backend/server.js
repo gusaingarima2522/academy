@@ -8,7 +8,14 @@ const app = express();
 
 // ================= MIDDLEWARE =================
 
-app.use(cors());
+app.use(
+  cors({
+    origin: true,
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
+
 app.use(express.json());
 
 
@@ -23,8 +30,10 @@ app.get("/", (req, res) => {
 
 app.post("/api/contact", (req, res) => {
 
-  console.log("Received contact form data:");
-  console.log(req.body);
+  console.log("=================================");
+  console.log("CONTACT FORM REQUEST");
+  console.log("Body:", req.body);
+  console.log("=================================");
 
   const {
     full_name,
@@ -33,19 +42,51 @@ app.post("/api/contact", (req, res) => {
     preferred_time,
     course,
     message
-  } = req.body;
+  } = req.body || {};
 
 
-  // Validation
-  if (!full_name || !phone) {
+  // ================= CLEAN DATA =================
+
+  const cleanName = String(full_name || "").trim();
+  const cleanEmail = String(email || "").trim();
+  const cleanPhone = String(phone || "").trim();
+  const cleanPreferredTime = String(preferred_time || "").trim();
+  const cleanCourse = String(course || "").trim();
+  const cleanMessage = String(message || "").trim();
+
+
+  // ================= VALIDATION =================
+
+  if (!cleanName) {
     return res.status(400).json({
       success: false,
-      message: "Name and phone number are required"
+      message: "Please enter your full name"
+    });
+  }
+
+  if (!cleanPhone) {
+    return res.status(400).json({
+      success: false,
+      message: "Please enter your phone number"
     });
   }
 
 
-  // SQL Query
+  // ================= PHONE VALIDATION =================
+
+  // Remove spaces, +, -, brackets etc.
+  const phoneDigits = cleanPhone.replace(/\D/g, "");
+
+  if (phoneDigits.length < 10) {
+    return res.status(400).json({
+      success: false,
+      message: "Please enter a valid phone number"
+    });
+  }
+
+
+  // ================= SQL QUERY =================
+
   const sql = `
     INSERT INTO contact_messages
     (
@@ -61,21 +102,22 @@ app.post("/api/contact", (req, res) => {
 
 
   const values = [
-    full_name,
-    email || null,
-    phone,
-    preferred_time || null,
-    course || null,
-    message || null
+    cleanName,
+    cleanEmail || null,
+    cleanPhone,
+    cleanPreferredTime || null,
+    cleanCourse || null,
+    cleanMessage || null
   ];
 
 
-  // Save into MySQL
+  // ================= SAVE TO MYSQL =================
+
   db.query(sql, values, (err, result) => {
 
     if (err) {
 
-      console.log("Database error:", err);
+      console.error("Database error:", err);
 
       return res.status(500).json({
         success: false,
@@ -89,7 +131,7 @@ app.post("/api/contact", (req, res) => {
     console.log("Inserted ID:", result.insertId);
 
 
-    res.status(201).json({
+    return res.status(201).json({
       success: true,
       message: "Your enquiry has been submitted successfully",
       id: result.insertId

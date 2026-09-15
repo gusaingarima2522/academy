@@ -357,26 +357,29 @@ const Resources = () => {
             World Wise Education.
           </p>
 
-          <Link
-            to="/contact#contact-section"
-            className="
-              inline-block
-              bg-yellow-400
-              hover:bg-yellow-300
-              text-black
-              font-bold
-              px-6 sm:px-8
-              py-2.5 sm:py-3
-              rounded-lg
-              text-sm sm:text-base
-              transition-all
-              duration-300
-              hover:-translate-y-1
-              hover:shadow-xl
-            "
-          >
-            Contact Us
-          </Link>
+<Link
+  to="/contact#contact-form"
+  className="
+    inline-block
+    bg-yellow-400
+    hover:bg-yellow-300
+    text-black
+    font-bold
+    px-6
+    sm:px-8
+    py-2.5
+    sm:py-3
+    rounded-lg
+    text-sm
+    sm:text-base
+    transition-all
+    duration-300
+    hover:-translate-y-1
+    hover:shadow-xl
+  "
+>
+  Contact Us
+</Link>         
 
         </div>
 
