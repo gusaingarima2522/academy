@@ -1,0 +1,17 @@
+{
+  "name": "Worldwise Education Consultants",
+  "short_name": "Worldwise Education",
+  "description": "CLAT, CUET, and JEE preparation guidance, resources, and practice tests.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7f1d1d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

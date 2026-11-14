@@ -1,4 +1,3 @@
-import React from "react";
 import "./section.css";
 import wwa from "../assets/wwa.mp4";
 
@@ -10,35 +9,44 @@ const AboutBanner = () => {
           ABOUT CONTENT
       ====================================================== */}
 
+
       <div className="About-Content">
-
-        <h2>
-          About World Wise Academy
-        </h2>
-
+        <h2>About World Wise Academy</h2>
 
         <p>
-          World Wise Academy is an educational initiative that has grown from
-          the vision and experience of World Wise Consultancy. We aim to guide
-          students towards the right academic opportunities and help them build
-          a strong foundation for their future.
+          World Wise Academy is an educational initiative built on the vision
+          and experience of World Wise Consultancy. We are committed to helping
+          students achieve their academic goals through structured preparation,
+          quality learning resources and reliable educational guidance.
         </p>
-
 
         <p>
-          We offer focused entrance-exam preparation through CLAT and CUET
-          courses. Our aim is not just to help students prepare for an
-          examination, but to develop knowledge, confidence, discipline and
-          essential skills.
+          We provide focused preparation for competitive examinations,
+          including CLAT, CUET and JEE. Our learning resources include
+          comprehensive study notes, topic-wise practice questions, previous
+          year question papers (PYQs), PYQ-based exam simulations and mock
+          tests to help students strengthen their concepts, improve
+          problem-solving skills and build confidence for their examinations.
         </p>
-
 
         <p>
-          Whether students are preparing for CLAT to pursue a career in law or
-          CUET to seek admission to leading universities, World Wise Academy
-          strives to be a trusted partner throughout their preparation journey.
+          Beyond exam preparation, we offer career guidance and admission
+          support to help students explore suitable academic opportunities,
+          make informed decisions and take the right steps towards their
+          future goals.
         </p>
 
+        <p>
+          At World Wise Academy, we believe that effective preparation goes
+          beyond studying. It is about developing knowledge, confidence,
+          consistency and the skills needed to move forward. Our aim is to
+          bring learning resources, exam practice and educational guidance
+          together in one place.
+        </p>
+
+        <h5>
+          World Wise Academy – Prepare Better. Perform Better. Move Forward.
+        </h5>
       </div>
 
 

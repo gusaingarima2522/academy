@@ -68,11 +68,11 @@ const Head = () => {
           {/* EMAIL */}
 
           <a
-            href="mailto:worldwiseindia@gmail.com"
+            href="mailto:info@worldwiseedu.org"
             className="flex items-center gap-1 text-black no-underline transition hover:text-red-900"
           >
             <span>✉</span>
-            <span>worldwiseindia@gmail.com</span>
+            <span>info@worldwiseedu.org</span>
           </a>
 
 

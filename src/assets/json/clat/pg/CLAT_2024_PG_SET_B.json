@@ -1,0 +1,1459 @@
+{
+  "test_metadata": {
+    "testName": "Actual CLAT 2024 PG - SET B",
+    "totalMarks": 120,
+    "timeMinutes": 120,
+    "marking": "+1 for correct, -0.25 for incorrect",
+    "totalQuestions": 120,
+    "topics": [
+      "Law Subjects"
+    ]
+  },
+  "sections": [
+    {
+      "sectionName": "Law Subjects (Constitutional, Jurisprudence, etc.)",
+      "passages": [
+        {
+          "passageText": "While Section 245C of the income tax act, 1961 provides that the disclosures as to income “not disclosed before the Assessing Officer” must accompany the application filed before the Settlement Commission, Section 245H provides that if the assessee has cooperated with the Settlement Commission and has made “full and true disclosure of his income”, the Settlement Commission may grant immunity from prosecution and penalty. it is the case of the Revenue that Section 245H (1) cannot be read in isolation as Section 245C is embedded in 245H(1), and hence, both the Sections must be read harmoniously. that when so read, the requirement under Section 245H would be that disclosure of income “not disclosed before the assessing Officer” must be made before the Commission. in this regard, it is observed that even if the pre-conditions prescribed under Section 245C are to be read into Section 245H, it cannot be said that in every case, the material “disclosed” by the assessee before the Commission must be something apart from what was discovered by the Assessing Officer. Section 245C read with Section 245H only contemplates full and true disclosure of income to be made before the Settlement Commission, regardless of the disclosures or discoveries made before/by the Assessing Officer. It is to be noted that the Order passed by Assessing Officer based on any discovery made, is not the final word, for, it is appealable. However, the assessee may accept the liability, in whole or in part, as determined in the assessment order. in such a case, the assessee may approach the Settlement Commission making ‘full and true disclosure’ of his income and the way such income has been derived. Such a disclosure may also include the income discovered by the Assessing Officer. [extracted with edits from the decision of the Supreme Court in Kotak Mahindra Bank Ltd. v. Commissioner of Income Tax, Bangalore, 2023 livelaw (SC) 822, dated September 25, 2023].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "the Settlement Commission, on an application for settlement of a case by the assessee can grant immunity from prosecution. Which of the following is correct?",
+              "options": [
+                "1) the immunity from prosecution can be granted by the Settlement Commission only when the income disclosed by the assessee to the Settlement Commission has not been discovered by the assessing officer before the disclosure by the assessee.",
+                "2) the immunity from prosecution can be granted by the Settlement Commission even if the assessee has not cooperated with the Settlement Commission.",
+                "3) immunity from prosecution can be granted only if the assessee makes before the Settlement Commission full and true disclosure of his income, the way income was derived, additional amount of tax payable on such income and other particulars.",
+                "4) the immunity from prosecution can be granted by the Settlement Commission for offences under the income tax act as well offences under the iPC post 2007."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Chapter XiX-a, sections 245a-245M dealing with Settlement of Cases was inserted in the income tax act, 1961 by which of the following amendment act?",
+              "options": [
+                "1) taxation laws (amendment) act, 1975.",
+                "2) taxation laws (amendment) act, 1987.",
+                "3) taxation laws (amendment) act, 2007.",
+                "4) taxation laws (amendment) act, 2014."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the following statements. i. the High Courts and Supreme Court while exercising powers under articles 32, 226 or 136 of the Constitution of india, as the case may be, should not interfere with an order of the Settlement Commission except on the ground that the order contravenes provisions of the act or has caused prejudice to the opposite party. ii. the High Courts and Supreme Court while exercising powers under articles 32, 226 or 136 of the Constitution of india, as the case may be, may interfere with an order of the Settlement Commission on the grounds of fraud, bias or malice. iii. the Settlement Commission provided quick and easy remedy to the assessee allowing him to make full and true disclosure and therefore avoid the prosecution and appeals. thus, the order of the Settlement Commission cannot be questioned by the Supreme Court or the High Court on any ground. Choose the correct answer from the Code given below.",
+              "options": [
+                "1) all are true.",
+                "2) only iii is true.",
+                "3) i and ii are true",
+                "4) ii and iii are true."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the given statements. i. an immunity granted to a person from prosecution shall stand withdrawn if such person fails to pay any sum specified in the settlement order. ii. Settlement Commission cannot grant immunity from prosecution where the proceedings for the prosecution have been instituted before the date of receipt of the application under section 245C. iii. an immunity from prosecution once granted by the Settlement Commission cannot be withdrawn on any ground. Choose the correct answer from the Code given below.",
+              "options": [
+                "1) only i is true.",
+                "2) i and ii are true but iii is not true.",
+                "3) ii and iii are true.",
+                "4) all are true."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Choose the most appropriate answer from the following.",
+              "options": [
+                "1) When a person has made an application for settlement of a case before the Settlement Commission and the same has been allowed, such person shall not be allowed to make subsequent application for settlement in future cases.",
+                "2) When a person has made an application for settlement of a case before the Settlement Commission and the same has been allowed, any company in which such person holds more than fifty per cent of the shares shall not be allowed to make subsequent application for settlement in future cases.",
+                "3) When a person has made an application for settlement of a case before the Settlement Commission and the same has been allowed, there is no bar on such person or any related person of such person from making subsequent applications for settlement in future cases.",
+                "4) Both (a) and (B)."
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "“in india, the government can be held liable for tortious acts of its servants and can be ordered to be paid compensation to the persons suffering as a result of the legal wrong. article 294(b) of the Constitution declares that the liability of the Union Government or the State Government may arise “out of any contract or otherwise”. The word otherwise implies that the said liability may arise for tortious acts as well. article 300 enables the institution of appropriate proceedings against the government for enforcing such liability. … even prior to the commencement of the Constitution, the liability of the Government for tortious acts of its servants or agents were recognised vide Peninsular & Oriental Steam Navigation Co. v. Secy. of State, (1868-69) 5 Bom HCR APP 1. after the commencement of the Constitution, there have been several cases in which the Union of india and State Governments were held liable for tortious acts of their employees, servants and agents. all those cases were not necessarily by invoking the writ jurisdiction of the Supreme Court and the High Courts. Though, the Government is liable for tortious acts of its officers, servants or employees, normally, such liability cannot be enforced by a Writ Court. an aggrieved party has the right to approach the competent court or authority to seek damages or compensation in accordance with the law of the land.... But if fundamental rights have been violated, and if the court is satisfied that the grievance of the petitioner is well founded, it may grant the relief by enforcing a person’s fundamental right. Such relief may be in the form of monetary compensation/damages”. [extracted from: Kaushal Kishore v. State of Uttar Pradesh, Writ Petition (Criminal) no. 113 of 2016, decided on January 3, 2023.]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "a person may be liable in respect of wrongful acts or omissions of another in the following ways:",
+              "options": [
+                "1) As having ratified or authorised the particular acts.",
+                "2) as standing towards the other person in a relation entailing responsibility for wrongs done by that person.",
+                "3) as having abetted the tortious acts committed by others.",
+                "4) all the above."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In order to succeed in fixing vicarious liability on the master (defendant), the plaintiff has to establish:",
+              "options": [
+                "1) that the relationship of master and servant subsisted between the defendant and the actual wrongdoer.",
+                "2) that the wrongful act was done by the actual wrongdoer whilst he was engaged in the course of employment of the defendant.",
+                "3) Both (a) and (B).",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "in india, which of the following enactments govern(s) the liability of the State for the tortious acts of its servants?",
+              "options": [
+                "1) the Crown Proceedings act, 1947.",
+                "2) the federal tort Claims act, 1946.",
+                "3) Both (a) and (B).",
+                "4) neither (a) nor (B)."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "in which of the following cases, the Supreme Court of india dealt extensively with the concept of ‘constitutional tort’?",
+              "options": [
+                "1) Shyam Sunder v. State of Rajasthan, aiR 1964 SC 890.",
+                "2) Common Cause (a Registered Society) v. Union of india, (2018) 5 SCC 1.",
+                "3) Municipal Corporation of delhi, v. Uphaar tragedy Victims association, (2011) 14 SCC 481.",
+                "4) all the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Whether a statement by a Minister, inconsistent with the rights of a citizen under Part-iii of the Constitution, constitutes a violation of such constitutional rights and is actionable as a ‘constitutional tort’:",
+              "options": [
+                "1) Yes, every statement made by a Minister, inconsistent with the rights of a citizen under Part-iii of the Constitution, will constitute a violation of the constitutional rights and becomes actionable as a constitutional tort.",
+                "2) Yes, if as a consequence of such a statement, any act of omission or commission is done by the officers resulting in harm or loss to a person/citizen, then the same may be actionable as a constitutional tort.",
+                "3) no, in no case a statement by a Minister is actionable as a constitutional tort.",
+                "4) no, because it will hamper the functioning of the government and ministers."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "“as a matter of fact, when a patient is admitted to the highly commercial hospital … a thorough check up of the patient is done by the hospital authorities, it is the institute which selects after the examination of the patient that he suffers from what malady and who is the best doctor who can attend, except when the patient or the family members desire to be treated by a particular doctor or the surgeon as the case may be. normally, the private hospitals have a panel of doctors in various specialities and it is they who choose who is to be called. It is very difficult for the patient to give any detail that which doctor treated the patient and whether the doctor was negligent or the nursing staff was negligent. It is very difficult for such patient or his relatives to implead them as parties in the claim petition…We cannot place such a heavy burden on the patient or the family members/relatives to implead all those doctors who have treated the patient or the nursing staff to be impleaded as party. It will be a difficult task for the patient or his relatives to undertake this searching enquiry from the hospital and sometimes hospital may not co-operate. it may give such details and sometimes may not give the details... the burden cannot be placed on the patient to implead all those treating doctors or the attending staff of the hospital as a party so as to substantiate his claim. once a patient is admitted in a hospital it is the responsibility of the Hospital to provide the best service and if it is not, then hospital cannot take shelter under the technical ground that the concerned surgeon or the nursing staff, as the case may be, was not impleaded, therefore, the claim should be rejected on the basis of non-joinder of necessary parties. In fact, once a claim petition is filed and the claimant has successfully discharged the initial burden that the hospital was negligent, as a result of such negligence the patient died, then in that case the burden lies on the hospital and the concerned doctor who treated that patient that there was no negligence involved in the treatment. Since the burden is on the hospital, they can discharge the same by producing that doctor who treated the patient in defence to substantiate their allegation that there was no negligence. in fact, it is the hospital who engages the treating doctor thereafter it is their responsibility. the burden is greater on the institution/ hospital than that of the claimant.” [extracted from Smt. Savita Garg v. The Director, National Heart Institute (2004) 8 SCC 56].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "negligence, as a tort, is said to have been committed when the following is/are established:",
+              "options": [
+                "1) the existence of a duty to take care, which is owed by the defendant to the complainant; and that there is a failure to attain that standard of care, as prescribed by the law, thereby, committing a breach of such duty.",
+                "2) damage, which is both causally connected with such breach and recognised by the law, has been suffered by the complainant.",
+                "3) Both (a) and (B).",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions is incorrect as regards negligence?",
+              "options": [
+                "1) the test for determining medical negligence, as laid down in Bolam’s case [Bolam v Friern Hospital Management Committee, (1957) 1 WlR 582], holds good in its applicability in india.",
+                "2) the jurisprudential concept of negligence is the same in civil and criminal laws, and what may be negligence in civil law is necessarily a negligence in criminal law.",
+                "3) a professional may be held liable for negligence, and the standard to be applied for judging, whether the person charged has been negligent or not, would be that of an ordinary competent person exercising ordinary skill in that profession.",
+                "4) it is not possible for every professional to possess the highest level of expertise or skills in that branch which he practices; a highly skilled professional may be possessed of better qualities, but that cannot be made the basis or the yardstick for judging the performance of the professional proceeded against on indictment of negligence."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions is correct as regards the liability of medical practitioners:",
+              "options": [
+                "1) Medical practitioners are immune from a claim for damages on the ground of negligence, as they belong to the medical profession.",
+                "2) Medical practitioners are immune from a claim for damages on the ground of negligence, as they are governed by the national Medical Commission act, 2019.",
+                "3) Medical practitioners are immune from a claim for damages on the ground of negligence, as the ethics and Medical Registration Board has the power to regulate professional conduct and promote medical ethics.",
+                "4) Medical practitioners, though belonging to the medical profession, are not immune from a claim for damages on the ground of negligence."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is a seminal judgment on medical negligence in india?",
+              "options": [
+                "1) M.C. Mehta v. Union of india, aiR 1987 SC 1086.",
+                "2) Municipal Corporation of delhi v. Sushila devi, aiR 1999 SC 1929.",
+                "3) Jacob Mathew v. State of Punjab, (2005) 6 SCC 1.",
+                "4) all the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "now, a large number of private hospitals, nursing homes and clinics have emerged. in view of the good reputation they have built, patients go there for treatment in large numbers. these hospitals provide the medical treatment to those patients through doctors employed by them or by doctors who work there on some arrangement. these hospitals raise the bills for the fees and medical treatment provided to those patients by all such doctors. in such circumstances, if the patient suffers injury due to negligence of the doctors, then:",
+              "options": [
+                "1) the hospitals would be equally liable for damages, on the principles of vicarious liability or on the principles analogous to vicarious liability, and these hospitals cannot shove off their responsibility and liability to pay compensation for the damages suffered by the patients due to the negligence of the doctors provided by these very hospitals.",
+                "2) the hospitals would not at all be held liable for damages.",
+                "3) the hospitals would not at all be held liable for damages; but the doctors could not shove off their liability for negligence.",
+                "4) neither the hospitals nor the doctors are held liable, as no one can guarantee the desired result in the medical profession."
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "“… we had referred to the ill - effects of what is known as General Power of attorney Sales (for short ‘GPa Sales’) or Sale agreement/General Power of attorney/Will transfers (for short ‘Sa/GPa/Will’ transfers). Both the descriptions are misnomers as there cannot be a sale by execution of a power of attorney nor can there be a transfer by execution of an agreement of sale and a power of attorney and will. as noticed in the earlier order, these kinds of transactions were evolved to avoid prohibitions/conditions regarding certain transfers, to avoid payment of stamp duty and registration charges on deeds of conveyance, to avoid payment of capital gains on transfers, to invest unaccounted money … and to avoid payment of ‘unearned increases’ due to development authorities on transfer. the modus operandi in such Sa/GPa/Will transactions is for the vendor or person claiming to be the owner to receive the agreed consideration, deliver possession of the property to the purchaser and execute the following documents or variations thereof: (a) An Agreement of sale by the vendor in favour of the purchaser confirming the terms of sale, delivery of possession and payment of full consideration and undertaking to execute any document as and when required in future. or An agreement of sale agreeing to sell the property, with a separate affidavit confirming receipt of full price and delivery of possession and undertaking to execute sale deed whenever required. (b) an irrevocable General Power of attorney by the vendor in favour of the purchaser or his nominee authorizing him to manage, deal with and dispose of the property without reference to the vendor. or a General Power of attorney by the vendor in favour of the purchaser or his nominee authorizing the attorney holder to sell or transfer the property and a Special Power of attorney to manage the property. (c) a will bequeathing the property to the purchaser (as a safeguard against the consequences of death of the vendor before transfer is effected). these transactions are not to be confused or equated with genuine transactions where the owner of a property grants a power of attorney in favour of a family member or friend to manage or sell his property, as he is not able to manage the property or execute the sale, personally. these are transactions, where a purchaser pays the full price, but instead of getting a deed of conveyance gets a Sa/GPa/Will as a mode of transfer, either at the instance of the vendor or at his own instance.” [extracted from Suraj Lamp & Industries (P) Ltd v. State of Haryana (2012) 1 SCC 656].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "‘Sa/GPa/Will’ transfers for the transfer of immovable property lead to:",
+              "options": [
+                "1) enabling large scale evasion of income tax, wealth tax, stamp duty and registration fees, thereby, denying the benefit of such revenue to the government and the public.",
+                "2) enabling persons with undisclosed wealth/income to invest their black money and also earn profit/income, thereby, encouraging circulation of black money and corruption.",
+                "3) Both (a) and (B).",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is an incorrect proposition?",
+              "options": [
+                "1) a power of attorney is not an instrument of transfer in regard to any right, title or interest in an immovable property.",
+                "2) the power of attorney is creation of an agency whereby the grantor authorises the grantee to do the acts specified therein, on behalf of the grantor, which when executed will be binding on the grantor as if done by him.",
+                "3) a Will is a posthumous disposition of the estate of the testator directing distribution of his estate upon his death.",
+                "4) a Will is a transfer inter vivos."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is a correct proposition as regards an agreement to sell an immovable property?",
+              "options": [
+                "1) an agreement to sell does not, of itself, create any interest in or charge on such property.",
+                "2) an agreement to sell does create an interest in or charge on such property.",
+                "3) an agreement to sell, with possession, is a conveyance.",
+                "4) an agreement to sell, whether with possession or without possession, is a conveyance."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "in relation to the sale of immovable property, in Suraj Lamp & Industries (P) Ltd v. State of Haryana, the Supreme Court held that as per the transfer of Property act, 1882:",
+              "options": [
+                "1) transactions in the nature of ‘GPa sales’ or ‘Sa/GPa/Will transfers’ do convey legal title in the immovable property.",
+                "2) an immovable property can be legally and lawfully transferred/conveyed only by a registered deed of conveyance.",
+                "3) transactions in the nature of ‘GPa sales’ or ‘Sa/GPa/Will transfers’ are also recognised or valid mode of transfer of immovable property.",
+                "4) the Court will treat ‘GPa sales’ or ‘Sa/GPa/Will transfers’ as completed or concluded transfers (as conveyances) of immovable property."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Compulsory registration of certain types of documents ensures:",
+              "options": [
+                "1) orderliness, discipline and public notice in regard to transactions relating to immovable property and protection from fraud and forgery of documents of transfer.",
+                "2) The process of verification and certification of title easier and simpler.",
+                "3) Both (a) and (B).",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "“the essentials of an agreement to qualify as a mortgage by conditional sale can succinctly be broadly summarised. an ostensible sale with transfer of possession and ownership, but containing a clause for reconveyance in accordance with Section 58(c) of the act, will clothe the agreement as a mortgage by conditional sale. the execution of a separate agreement for reconveyance, either contemporaneously or subsequently, shall militate against the agreement being mortgage by conditional sale. there must exist a debtor and creditor relationship. the valuation of the property and the transaction value along with the duration of time for reconveyance are important considerations to decide the nature of the agreement. there will have to be a cumulative consideration of these factors along with the recitals in the agreement, intention of the parties, coupled with other attendant circumstances, considered in a holistic manner.” [extracted from Vithal Tukaram Kadam v. Vamanrao Sawalaram Bhosale, (2018) 11 SCC 172. in the foregoing extract, ‘act’ refers to the transfer of Property act, 1882].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following expresses the distinction between a ‘mortgage by conditional sale’ and a ‘sale with a condition of repurchase’?",
+              "options": [
+                "1) in a mortgage, the debt subsists and a right to redeem remains with the debtor; but, a sale with a condition of repurchase is not a lending and borrowing arrangement.",
+                "2) in a mortgage by conditional sale, generally the amount of consideration is far below the value of the property in the market; but, in a sale with a condition of repurchase, the amount of consideration is generally equal to or close to the value of the property.",
+                "3) Both (a) and (B).",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following judgements outline(s) the distinction between ‘mortgage by conditional sale’ and a ‘sale with a condition of repurchase’?",
+              "options": [
+                "1) Chennammal v. Munimalaiyan, aiR 2005 SC 4397.",
+                "2) tulsi v. Chandrika Prasad, (2006) 8 SCC 322.",
+                "3) Umabai v. nilkanth dhondiba Chavan, (2005) 6 SCC 243.",
+                "4) all the above."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "the proper remedy for the mortgagee in a ‘mortgage by conditional sale’ is:",
+              "options": [
+                "1) to institute a suit for foreclosure.",
+                "2) to institute a suit for sale.",
+                "3) Both (a) and (B).",
+                "4) neither (a) nor (B)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "a mortgage is the transfer of an interest in _____________ immoveable property for the purpose of securing the payment of money advanced or to be advanced by way of loan, an existing or future debt, or the performance of an engagement which may give rise to a pecuniary liability.",
+              "options": [
+                "1) Specific or unspecific.",
+                "2) Specific.",
+                "3) Identified or unidentified.",
+                "4) All the above."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The limitation period for filing a suit by a mortgagor ‘to redeem or recover possession of immovable property mortgaged’ is:",
+              "options": [
+                "1) three years",
+                "2) twelve years",
+                "3) twenty years",
+                "4) thirty years"
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "“… thus, the correct position of law is that under Section 3(2) of the Muslim Women (Protection of Rights on divorce) act, 1986 hereinafter referred to as Muslim Women act, 1986, a divorcee can file an application before a Magistrate if her former husband has not paid to her a reasonable and fair provision and maintenance or mahr due to her or has not delivered the properties given to her before or at the time of her marriage by her relatives or friends or the husband or any of his relatives or friends. Under Section 3(3) of the Muslim Women act, 1986, an order can be passed directing the former husband of the divorcee to pay to her such reasonable and fair provision and maintenance as deemed fit and proper having regard to the needs of the divorced woman, her standard of life enjoyed by her during her marriage and means of her former husband. The word “provision” used in Section 3 of the Muslim Women Act, 1986 indicates that something is provided in advance for meeting some needs. in other words, at the time of divorce, the Muslim husband is required to contemplate the future needs and make preparatory arrangements in advance for meeting those needs. “Reasonable and fair provision” may include provision for her residence, her food, her clothes, and other articles. in the case of Danial Latifi and another (supra), in Para-28, Hon’ble Supreme Court has fairly interpreted the provisions of Section 3 with regard to fair provision and maintenance and held that “it would extend to the whole life of the divorced wife unless she gets married for a second time”...” [extract from Zahid Khatoon v. Nurul Haque Khan, ManU/UP/4310/2022].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What recourse does a divorcee have according to the Muslim Women act, 1986, if her ex-husband neglects to meet specific obligations mandated by the law?",
+              "options": [
+                "1) file the petition in the concern district Court.",
+                "2) Seek mediation from a Sharia Court.",
+                "3) approach the Magistrate with an application.",
+                "4) take the matter to a family Court."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What factors are considered when determining the reasonable and fair provision and maintenance for a Muslim divorced woman in accordance with the Muslim Women act of 1986?",
+              "options": [
+                "1) The divorced woman’s financial needs including her future needs and her children, till she gets remarried.",
+                "2) the lifestyle the divorced woman enjoyed during her marriage, her anticipated future requirements, and the financial capability of her ex-husband.",
+                "3) The financial status of the divorced woman’s ex-husband and his parents to Determine the fair provision.",
+                "4) The employment status, educational qualifications, and earning potential of the divorced woman, coupled with the husband’s financial capability."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the term “provision” in Section 3 of the Muslim Women Act, 1986, imply?",
+              "options": [
+                "1) Retroactive financial support to be provided to the divorced wife.",
+                "2) Provision made for her future till she is qualified to earn on her own.",
+                "3) Provision for meeting all her future needs.",
+                "4) Provision for her future until she is qualified to earn or get married."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the interpretation in the case of Danial Latifi, how long does the obligation of the Muslim husband to provide a reasonable and fair provision and maintenance extend?",
+              "options": [
+                "1) Until the divorced woman finds new employment or means to sustain herself.",
+                "2) during the iddat period and after the iddat period only if she is not able to maintain herself or she is not remarried.",
+                "3) throughout the whole life of the divorced wife, unless she remarries.",
+                "4) Until the divorced woman’s parents, children cannot provide support to her."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What preparatory arrangements is the Muslim husband required to make, according to the interpretation of Section 3 of the Muslim act, 1986?",
+              "options": [
+                "1) financial investments for the divorced woman to protect her future.",
+                "2) Provision for the divorced woman and her children.",
+                "3) Retroactive provision for the divorced woman’s past present and future needs.",
+                "4) Contemplation of future needs and arrangements in advance."
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "“Such assertions of illicit relationship made by a spouse have been held to be acts of cruelty by the Supreme Court in Vijay Kumar Ramchandra Bhate v. Neela Vijaykumar Bhate (ManU/ SC/0316/2003:(2003) 6 SCC 334). While deliberating on the accusations of unchastity and extra-marital relationships levelled by the husband, the apex Court observed that such allegations constitute grave assault on the character, honour, reputation and health of the wife and amount to the worst form of cruelty. Such assertions made in the Written Statement or suggested in the course of cross-examination, being of a quality, which cause mental pain, agony and suffering are sufficient by itself to amount to the reformulated concept of cruelty in matrimonial law. Placing reliance on this judgement, the Supreme Court, in Nagendra v. K. Meena (ManU/ SC/1180/2016:(2016) 9 SCC 455), observed that unsubstantiated allegations of the extra-marital affair with the maid levelled by the wife against the husband, amount to cruelty. When there is a complete lack of evidence to suggest such an affair, the baseless and reckless allegations are serious actions which can be a cause for mental cruelty warranting a decree of divorce. Making such serious allegations against the respondent/husband again amounts to cruelty as has been held in Jayachandra v. Aneel Kaur (ManU/SC/1023/2004:(2005) SCCR 65) and Harminder Kaur v. Major M.S. Brar (ii (1992) dMC 431). in view of above discussion and settled position of law, we are of the considered opinion that the learned additional district Judge in its well-reasoned judgment of 16.07.2005 has rightly concluded that the appellant/wife had treated the respondent/husband with physical and mental cruelty entitling him to divorce under Section 13(1)(ia) of the Hindu Marriage Act, 1955”. [extract from Saroj v. Suraj Mal decided on october 31, 2023 by delhi High Court, ManU/ de/7461/2023].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What does the Supreme Court consider as the worst form of cruelty in matrimonial law, based on the provided para?",
+              "options": [
+                "1) allegations which lack evidence and affects reputation of a spouse.",
+                "2) allegations which could cause mental pain and agony.",
+                "3) Unsubstantiated allegations of unchastity and extra-marital relationships.",
+                "4) Wrong allegations made in written statement or suggested in the course of examination."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "in the case of Nagendra v. K. Meena, the Supreme Court of india concluded that:",
+              "options": [
+                "1) Unsubstantiated allegations of an extra-marital affair with the maid by the wife are evidence of the character of the wife and hence divorce can be granted.",
+                "2) Baseless and reckless allegations of an extra-marital affair with the maid by the wife cannot be accepted and can be considered as cruelty under Section 13(1)(ia) of the Hindu Marriage act, 1955.",
+                "3) lack of evidence in the case of an extra-marital affair with the maid is inconclusive.",
+                "4) the husband’s actions are irrelevant in determining cruelty. When there is a complete lack of evidence to suggest an affair a decree of divorce can be granted."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "in the case of Jayachandra v. Aneel Kaur, what action is considered as cruelty against the respondent/husband?",
+              "options": [
+                "1) any serious allegation, which cannot be proved with evidence.",
+                "2) any unsubstantiated allegations, which cannot be considered as a ground for divorce under the Hindu Marriage act, 1955.",
+                "3) Physical or mental violence, which can be considered as cruelty under the Hindu Marriage act, 1955.",
+                "4) allegations of the unproved extra-marital affair."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Based on the above passage, give the reason why the Supreme Court in the mentioned para concluded that the appellant/wife treated the respondent/husband with cruelty?",
+              "options": [
+                "1) Her actions before the court fit in the meaning of cruelty under Section 13(1)(ia) of the HMa, 1955.",
+                "2) it is a settled position of law that unsubstantiated serious allegations amount to cruelty.",
+                "3) Under the reformulated concept of cruelty in matrimonial law, not only physical violence but causing mental agony is a matrimonial offence.",
+                "4) there is lack of evidence for the allegations made by wife."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "according to the Supreme Court’s observations in the provided para, what did the court emphasize regarding the quality of allegations related to unchastity and extra-marital relationships?",
+              "options": [
+                "1) false allegations of unchastity and extra-marital relationships is a ground for divorce.",
+                "2) they are one of the factors in determining cruelty.",
+                "3) they constitute a grave assault on the character, honour, and reputation of the spouse.",
+                "4) they should only be considered if proven beyond a reasonable doubt."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Section 25-n of the industrial disputes act, 1947 prescribes the conditions precedent to retrenchment of workmen. Section 25-o provides for the procedure for closing an undertaking of an industrial establishment. Under Section 25-n of the act before retrenchment of workman can be affected two conditions must be fulfilled namely (a) the workman has been given three months’ notice in writing indicating the reasons for retrenchment or paid in lieu of such notice, wages for the said period; and (b) the prior permission of the appropriate Government has been obtained by the employer upon an application having been made. Sub-section (3) of Section 25-n vests power in the State Government to grant or refuse permission to retrench an employee. Section 25-o enjoins an employer, who intends to close an undertaking to apply for prior permission at least ninety days before the date on which the intended closure is to become effective, setting out the reasons for the intended closure and simultaneously serve a copy of such application on the representatives of the workmen in the prescribed manner. Sub-section (9) of Section 25-o provides that where an undertaking is permitted to be closed or permission for closure is deemed to be granted, every workman, who is employed in that undertaking immediately before the date of application for permission under the said section, shall be entitled to receive compensation which shall be equivalent to fifteen days’ average pay for every completed year of continuous service or any part thereof in excess of six months. evidently, both Section 25-n and 25-o are couched in a mandatory form. they give effect to the public policy of preventing the exploitation of labour by commanding the employer to follow the defined process for retrenchment of an individual or group of employees or for closure of the establishment as such. [extracted with edits from the decision of the Bombay High Court in Esselworld Leisure Pvt. Ltd. v. Syam Kashinath Koli, 2023 SCC online Bom 2102, decided on September 29, 2023].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "a workman shall be deemed to have rendered continuous service of one year under the industrial disputes act, if",
+              "options": [
+                "1) Workman has worked under the same employer for not less than 120 days.",
+                "2) Workman has worked under the same employer for not less than 180 days.",
+                "3) Workman has worked under the same employer for not less than 240 days.",
+                "4) Workman has worked under the same employer for not less than 300 days."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the given statements. i. onus to prove continuous service for prescribed number of days lies on the workman. ii. the period of continuous service need not be in the same service or same type of service. iii. Worked for not less than the prescribed period does not include paid holidays. Choose the correct answer from the code given below:",
+              "options": [
+                "1) i and ii are correct, iii is incorrect.",
+                "2) ii and iii are correct and i is incorrect.",
+                "3) ii is correct, i and iii are incorrect.",
+                "4) only i is correct, ii and iii are incorrect."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Section 25n is applicable to which of the following industrial establishment(s)?",
+              "options": [
+                "1) industrial establishment where not less than 50 workmen were employed on an average per working day for the preceding twelve months.",
+                "2) industrial establishment of a seasonal character.",
+                "3) industrial establishment where not less than 100 workmen were employed on an average per working day for the preceding twelve months.",
+                "4) Both (B) and (C)."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What are the conditions for refusal of application of retrenchment by the appropriate government under section 25(3)?",
+              "options": [
+                "1) the workmen and the employer must be given a reasonable opportunity of being heard.",
+                "2) the reasons for retrenchment must be genuine and adequate.",
+                "3) the reasons for refusing the permission must be recorded in writing.",
+                "4) all of the above."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the given statements. i. application for closure shall be deemed to have been granted, if the appropriate government does not communicate the order granting or refusing permission within 30 days from the date of the application. ii. Section 25-o makes it mandatory for the employer, who intends to close down an undertaking to apply for prior permission at least ninety days before the date on which the intended closure is to become effective, setting out the reasons for the intended closure and to simultaneously serve a copy of such application on the representatives of the workmen in the prescribed manner iii. Section 25-o is not applicable to an undertaking engaged in Construction of buildings, bridges, roads, canals, dams or for other construction work. Choose the correct answer from the code given below:",
+              "options": [
+                "1) i and ii are correct, iii is incorrect.",
+                "2) ii and iii are correct and i is incorrect.",
+                "3) ii is correct, i and iii are incorrect.",
+                "4) only i is correct, ii and iii are incorrect."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "in the realm of jurisprudence, the interplay between morality and legality is a complex and often contentious issue. While laws are designed to regulate human behavior and maintain social order, they may not always align with personal or societal moral values. this leads to a fundamental question: Should laws be based on moral principles, and if so, to what extent? one school of thought, known as legal moralism, asserts that the law should enforce moral values and prohibit actions that are considered immoral by society. Proponents argue that certain actions, such as murder or theft, are inherently wrong and that the law should reflect and enforce these moral judgments. However, legal moralism is not without its critics. they argue that enforcing moral values through the law can be overly intrusive, infringing on individual autonomy and diversity of thought. they contend that the law’s primary role is to protect individual rights and maintain social order, not to impose moral values. on the other hand, the principle of legal neutrality posits that the law should remain neutral on matters of morality. this perspective asserts that the law’s primary function is to protect individual rights and maintain order, and it should not be concerned with enforcing particular moral values. legal neutrality allows for a more pluralistic and diverse society where individuals are free to live in accordance with their own moral values, as long as they do not infringe on the rights of others. nevertheless, this perspective raises challenging questions. if the law remains morally neutral, it may tolerate actions that many find morally repugnant, such as hate speech or discrimination. This leads to a moral dilemma—whether it is morally justifiable for the law to allow such actions in the name of freedom and neutrality. these philosophical debates highlight the complexity of balancing morality and legality within a legal system. they challenge us to consider the appropriate role of the law in shaping and reflecting societal values.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which perspective argues that the law should enforce moral values and prohibit actions considered immoral by society?",
+              "options": [
+                "1) legal neutrality",
+                "2) legal positivism",
+                "3) legal moralism",
+                "4) legal realism"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is one criticism of legal moralism?",
+              "options": [
+                "1) it infringes on individual autonomy and diversity of thought.",
+                "2) it promotes individual and social order.",
+                "3) it allows for a more pluralistic society.",
+                "4) it maintains legal neutrality."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "according to legal moralism, what is the law’s primary role?",
+              "options": [
+                "1) to protect individual rights and maintain social order.",
+                "2) to impose moral values.",
+                "3) to maintain legal neutrality.",
+                "4) To enforce specific cultural practices."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the central tenet of legal neutrality?",
+              "options": [
+                "1) the law should remain morally neutral.",
+                "2) the law should enforce moral values.",
+                "3) the law should prioritize individual rights over morality.",
+                "4) the law should regulate all aspects of individual behavior."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What moral dilemma is raised by the principle of legal neutrality?",
+              "options": [
+                "1) Whether the law should impose moral values on individuals.",
+                "2) Whether the law should prioritize individual rights over morality.",
+                "3) Whether it is morally justifiable to tolerate certain morally repugnant actions in the name of freedom and neutrality.",
+                "4) Whether the law should suppress individual autonomy."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "Within the intricate tapestry of legal philosophy, the concept of legal positivism stands as a highly debated and intricate doctrine. legal positivism posits that the validity and authority of law are determined solely by the source from which it originates. in other words, if a rule is created by a recognized authority, it is considered legally valid, regardless of its moral or ethical implications. Legal positivism places significant emphasis on the distinction between law as it is and law as it ought to be, focusing on the former. one of the most renowned proponents of legal positivism, H.l.a. Hart, argued that a legal system is composed of primary and secondary rules. Primary rules are those that govern human behavior, such as criminal laws or contractual obligations. Secondary rules, on the other hand, are rules that dictate how primary rules should be created, changed, or terminated. these secondary rules include the rule of recognition, the rule of change, and the rule of adjudication. The rule of recognition, according to Hart, is the fundamental rule that identifies the authoritative source of law within a legal system. It is what legal officials use to determine, which rules are legally valid. this rule acts as a kind of social norm among legal professionals, signaling that certain rules have legal status. for example, in a democracy, the rule of recognition may point to the Constitution as the highest source of legal authority. Critics of legal positivism argue that this philosophy risks legitimizing immoral or unjust laws if they are enacted through the proper procedures. they assert that the law should be grounded in moral or ethical principles, and its validity should be assessed based on its conformity to these principles. natural law theory, in contrast to legal positivism, argues that law should be guided by moral or ethical principles. according to natural law theory, there is a higher, moral law that transcends man-made laws. this moral law, proponents argue, should be the basis for evaluating the validity of legal norms. the debate between legal positivism and natural law theory raises profound questions about the nature and purpose of law. does the source of law, as posited by legal positivism, determine its validity, or should law be grounded in moral or ethical principles, as argued by natural law theorists? these questions challenge the very foundation of legal philosophy and the role of law in society.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the primary focus of legal positivism in determining the validity of law?",
+              "options": [
+                "1) Moral and ethical considerations.",
+                "2) the source from which the law originates.",
+                "3) the conformity of the law to social norms.",
+                "4) the principles of natural law."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the role of the rule of recognition in legal positivism?",
+              "options": [
+                "1) it governs human behavior.",
+                "2) it dictates how laws should be created.",
+                "3) It identifies the authoritative source of law within a legal system.",
+                "4) it evaluates the morality of laws."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is a criticism of legal positivism?",
+              "options": [
+                "1) it risks legitimizing immoral or unjust laws if they are enacted through proper procedures.",
+                "2) it is too focused on moral and ethical principles.",
+                "3) it rejects the idea of man-made laws.",
+                "4) it emphasizes natural law theory."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "in natural law theory, what is considered to transcend man-made laws?",
+              "options": [
+                "1) the rule of recognition",
+                "2) Moral or ethical principles",
+                "3) the rule of adjudication",
+                "4) Secondary rules"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What fundamental question does the debate between legal positivism and natural law theory raise?",
+              "options": [
+                "1) Whether the law is entirely based on moral principles.",
+                "2) How to determine the source of law.",
+                "3) Whether the validity of law is determined by its source or by moral and ethical principles.",
+                "4) How to change primary rules within a legal system."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "The concept of per se disqualification is unknown to the Constitution. Any decision as to the disqualification proceedings under the Tenth Schedule must be taken after following the due process of law and the principles of natural justice. A member incurs disqualification only after adjudication by the Speaker. The procedure for the adjudication of disqualification petitions is prescribed under the Maharashtra Legislative Assembly (Disqualification on Ground of Defection) Rules 1986. The MLAs facing disqualification retain the right to participate in the proceedings of the House and vote on resolutions. article 189(2) of the Constitution provides that any proceedings of the House are not invalid even if it is subsequently discovered that persons who were not entitled to participate or vote or otherwise take part in the proceedings, did so. in Pratap Gouda Patil v. State of Karnataka and Speaker, Haryana Vidhan Sabha v. Kuldeep Bishnoi, this Court observed that members should not be stopped from taking part in the proceedings of the House merely because disqualification proceedings were pending against them. Prior to the deletion of Paragraph 3 of the tenth Schedule, the Speaker’s enquiry as to the existence of a split within a political party was limited to a prima facie determination for deciding the disqualification proceedings. As a result of the deletion of Paragraph 3, the authority of the Speaker to form even a prima facie opinion regarding a split within a political party has been removed. Upon the deletion of Paragraph 3, the only defence for disqualification proceedings under the tenth Schedule are that of a merge under Paragraph 4. the election Commission of india is the sole authority empowered to decide disputes between rival factions of a political party according to the provisions of the Symbols order. [extracted from Subhash Desai v. Principal Secretary, Governor of Maharashtra (2023)]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following judgments that ruled, which a Speaker stands disabled to act under the tenth Schedule to curb defection if a notice of intention to move a resolution for their removal is issued, was referred to a seven-judge bench by the five-judge bench in Subhash Desai v. Principal Secretary, Governor of Maharashtra?",
+              "options": [
+                "1) nabam Rebia & Bamang felix v. deputy Speaker, arunachal Pradesh legislative assembly",
+                "2) Raja Ram Pal v. Hon’ble Speaker, lok Sabha",
+                "3) Keisham Meghachandra Singh v. Hon’ble Speaker Manipur legislative assembly",
+                "4) Shrimanth Balasaheb Patil v. Speaker, Karnataka legislative assembly"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Srinivasan, J. in Mayawati v. Markandeya Chand held that ‘Political Party’ cannot be read as ‘legislature Party’. Which among the following was not a reason provided by the Hon’ble Judge?",
+              "options": [
+                "1) the phrase ‘Political Party’ in Paragraph 2(1)",
+                "2) of the tenth schedule cannot be interpreted to mean ‘legislative Party’ while the same phrase in Paragraph 2(1)(a) of the tenth Schedule retains its original meaning. (B) Such an interpretation would render explanation (a) to Paragraph 2(1) of the tenth Schedule otiose because a legislature party cannot set up a person as a candidate for election;",
+                "3) Disqualification from membership of the assembly is a serious consequence. Such a consequence can only ensue from voting contrary to the direction of the political party.",
+                "4) in Kuldip nayar v. Union of india, it was held that to balance the competing considerations of the anti-defection law and intra-party dissent, a direction to vote (or abstain from voting) can only be given if the vote would alter the status of the government formed or if it is on a policy on which the political party that set up the candidate went to polls on. only the political party and not the legislature party can issue directions concerning issues of this nature."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following was not challenged by the petitioners in the case of Subhash Desai v. Principal Secretary, Governor of Maharashtra?",
+              "options": [
+                "1) Disqualification of thirty-four MLAs",
+                "2) Swearing in Mr. ekanth Shinde as the Chief Minister",
+                "3) election of the Speaker by the House, which included the thirty-four Mlas who are facing disqualification notices",
+                "4) legality of the trust vote dated July 4, 2022"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "a violation of the anti-defection law will not result in a member of the House being:",
+              "options": [
+                "1) Disqualified from the House",
+                "2) Disqualified from holding any election campaign for the duration of the period commencing from the date of their disqualification till the date on which the term of their office as a member of the House would expire or till the date on which they contest election to a House and are declared elected, whichever is later.",
+                "3) Disqualified from holding any remunerative political post for the duration of the period commencing from the date of their disqualification till the date on which the term of their office as a member of the House would expire or till the date on which they contest election to a House and are declared elected, whichever is earlier.",
+                "4) Disqualified from being appointed as a Minister for the duration of the period commencing from the date of their disqualification till the date on which the term of their office as a member of the House would expire or till the date on which they contest election to a House and are declared elected, whichever is earlier."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The Tenth Schedule specifies five defense that a member may take recourse to shield themselves from the consequences of the anti-defection law. Which among the following is not a defense?",
+              "options": [
+                "1) in cases where the original political party of a member is found to have merged with another political party under Paragraph 4(1)(a), members of the original political party are protected from being disqualified if they have not accepted such merger and have opted to function as a separate group.",
+                "2) Members who have been elected to the office of the Speaker or the Deputy Speaker (or the Chairman or the deputy Chairman as the case may be) in Parliament or in the Legislative Assemblies of States are exempted from disqualification under the Tenth Schedule if they voluntarily give up the membership of their political party by reason of their election to such office and do not re-join the political party or become a member of another political party so long as they continue to hold such office. Further, they are not disqualified if they re-join the political party which they gave up membership of, after ceasing to hold office.",
+                "3) Disqualification on ground of defection not to apply in case of split. Where a member of a House makes a claim that he and any other members of his legislature party constitute the group representing a faction, which has arisen as a result of a split in his original political party and such group consists of not less than one-third of the members of such legislature party.",
+                "4) A member is protected from being disqualified if the political party to which they belong has condoned their actions in voting or abstaining from voting contrary to the directions issued by such political party, within fifteen days from such voting or abstention."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "the principles of democracy and federalism are essential features of our Constitution and form a part of the basic structure. federalism in a multi-cultural, multi-religious, multi-ethnic and multi-linguistic country like india ensures the representation of diverse interests. it is a means to reconcile the desire of commonality along with the desire for autonomy and accommodate diverse needs in a pluralistic society. Recognizing regional aspirations strengthens the unity of the country and embodies the spirit of democracy. thus, in any federal Constitution, at a minimum, there is a dual polity, that is, two sets of government operate: one at the level of the national government and the second at the level of the regional federal units. these dual sets of government, elected by “We the People” in two separate electoral processes, is a dual manifestation of the public will. the priorities of these two sets of governments, which manifest in a federal system are not just bound to be different, but are intended to be different. While NCTD is not a full-fledged state, its Legislative Assembly is constitutionally entrusted with the power to legislate upon the subjects in the State list and Concurrent list. it is not a State under the first Schedule to the Constitution, yet it is conferred with power to legislate upon subjects in lists ii and iii to give effect to the aspirations of the people of nCtd. it has a democratically elected government which is accountable to the people of nCtd. Under the constitutional scheme envisaged in article 239aa (3), nCtd was given legislative power which though limited, in many aspects is similar to States. in that sense, with addition of article 239aa, the Constitution created a federal model with the Union of india at the centre, and the nCtd at the regional level. this is the asymmetric federal model adopted for nCtd. While nCtd remains a Union territory, the unique constitutional status conferred upon it makes it a federal entity for the purpose of understanding the relationship between the Union and nCtd. in the spirit of cooperative federalism, the Union of india must exercise its powers within the boundaries created by the Constitution. nCtd, having a sui generis federal model, must be allowed to function in the domain charted for it by the Constitution. the Union and nCtd share a unique federal relationship. it does not mean that nCtd is subsumed in the unit of the Union merely because it is not a “State”. [extracted from Government of NCT of Delhi v. Union of India, 2023 SCC online SC 606 (hereafter GNCTD Case)]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "in the GNCTD’s case, which of the following powers were held to be within the control of the Government of the national Capital territory of delhi?",
+              "options": [
+                "1) law and order",
+                "2) land",
+                "3) Police",
+                "4) Services"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Why does the Court describe the indian federal model as one embodying ‘asymmetric federalism’?",
+              "options": [
+                "1) all the Union territories are similarly placed within the constitutional scheme.",
+                "2) Some Union territories enjoy more powers than other Union territories.",
+                "3) only full-fledged States have a direct line of democratic accountability with an electorate.",
+                "4) the indian Constitution has a strong unitary bias."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions are true for the holdings in the 2018 Constitution Bench judgment in Government of NCT of Delhi v. Union of India, (2018) 8 SCC 501?",
+              "options": [
+                "1) there is no independent authority vested in the lieutenant Governor to take decisions under article 239aa of the Constitution.",
+                "2) the lieutenant Governor applies their mind independently to matters concerning the national Capital territory of delhi.",
+                "3) the lieutenant Governor has only partial independent authority to take decisions under article 239aa of the Constitution.",
+                "4) the Council of Ministers has no independent authority under article 239aa of the Constitution of india."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following cases were relied upon by the Court in the 2018 Constitution Bench decision to interpret the words “aid and advice”:",
+              "options": [
+                "1) Kesavananda Bharati v. State of Kerala, aiR 1973 SC 1461",
+                "2) i.C. Golaknath v. State of Punjab, aiR 1967 SC 1643",
+                "3) Samsher Singh v. State of Punjab, (1974) 2 SCC 831",
+                "4) a.K. Gopalan v. State of Madras, aiR 1950 SC 27"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "following the ratio of the GNCTD’s case, which of the following propositions would be true:",
+              "options": [
+                "1) The Government of NCTD shall have legislative power to make laws on “services”, because “services” is not expressly excluded in Article 239AA(3)(a).",
+                "2) The Government of NCTD shall not have the legislative power to make laws on “services” as it is impliedly a part of the entry on “law and order”, which in turn is expressly excluded in article 239aa(3)(a).",
+                "3) The Government of NCTD shall have legislative power to make laws on “services” only if expressly authorized by the Union Parliament to do so.",
+                "4) none of the above."
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "“the question can also be considered from another point of view. Supposing the police send a report viz. a charge-sheet, under Section 170 of the Code. as we have already pointed out, the Magistrate is not bound to accept that report, when he considers the matter judicially. But can he differ from the police and call upon them to submit a final report, under Section 169? in our opinion, the Magistrate has no such power. if he has no such power, in law, it also follows that the Magistrate has no power to direct the police to submit a charge-sheet, when the police have submitted a final report that no case is made out for sending the accused for trial. the functions of the Magistracy and the police, are entirely different, and though, in the circumstances mentioned earlier, the Magistrate may or may not accept the report, and take suitable action, according to law, he cannot certainly infringe upon the jurisdiction of the police, by compelling them to change their opinion, so as to accord with his view. therefore, to conclude, there is no power, expressly or impliedly conferred, under the Code, on a Magistrate to call upon the police to submit a charge-sheet, when they have sent a report under Section 169 of the Code, that there is no case made out for sending up an accused for trial.” [extracted from Abhinandan Jha v. Dinesh Mishra, (1967) 3 SCR 668, para 19-20].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "the above-mentioned case deals with the power of magistrate to take cognizance on police report under which provision of the Code of Criminal Procedure, 1973?",
+              "options": [
+                "1) Section 190(1)",
+                "2) (B) Section 159",
+                "3) Section 190(1)(a)",
+                "4) Section 173(8)"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "If the Court is not satisfied with the police report, does the Code of Criminal Procedure allow for direction of further investigation?",
+              "options": [
+                "1) no, the role of court is limited to adjudication.",
+                "2) Yes, court can direct further investigation with specific instruction for a desired result.",
+                "3) Yes, court can direct further investigation at pre-cognizance stage.",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "If police submit a final report, does the Code of Criminal Procedure, allow Magistrate to take cognizance on the final report?",
+              "options": [
+                "1) Yes, magistrate can take cognizance on final report despite no charges listed in it.",
+                "2) No, Magistrate cannot take cognizance till the time chargesheet is filed.",
+                "3) Magistrate can take cognizance provided an order under section 156 has been given for investigation.",
+                "4) none of the above."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "if after submission of police report, there is a requirement to add further report on the basis of a newly found evidence, is it permissible under the Code of Criminal Procedure?",
+              "options": [
+                "1) No, it is permissible only at the first instance, once a report has been submitted there cannot be further reports to the same under section 173(6).",
+                "2) it is permissible under section 160 with the permission of the court.",
+                "3) Yes, it is permissible under section 173(8).",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "in case one of the alleged offences is of cognizable nature and there are three additional alleged offences of a non-cognizable nature, what would be the nature of the case?",
+              "options": [
+                "1) there will be two separate cases depending on the nature of the offence as per section 155(1).",
+                "2) it will be collectively considered as a non-cognizable case under section 155(4).",
+                "3) the nature of the case would be cognizable as per section 155(4).",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "“there is no gainsaying that an able bodied youthful Jawan when physically assaulted by his superior may be in a state of provocation. the gravity of such a provocation may be heightened if the physical beating was meant to force him to submit to unnatural carnal intercourse to satisfy the superior’s lust. the store room incident involving the appellant and the deceased is alleged to have taken place when the deceased had bolted the door of the store room to keep out any intruder from seeing what was happening inside. By any standard the act of a superior to humiliate and force his subordinate in a closed room to succumb to the lustful design of the former was a potent recipe for anyone placed in the appellant’s position to revolt and retaliate against the treatment being given to him. What may have happened inside the store room if the appellant had indeed revolted and retaliated against the unbecoming conduct of the deceased is a matter of conjecture. the appellant or any one in his position may have retaliated violently to the grave peril of his tormentor. the fact of the matter, however, is that the appellant appears to have borne the assault without any retaliation against the deceased-superior and somehow managed to escape from the room…all that the evidence proves is that after the said incident the appellant was seen crying and depressed and when asked by his colleagues, he is said to have narrated his tale of humiliation at the hands of the deceased…. that appears to have happened in the present case also for the appellant’s version is that he and his colleagues had planned to avenge the humiliation by beating up the deceased in the evening when they all assemble near the water heating point. that apart, the appellant attended to his normal duty during the day time and after the evening dinner, went to perform his guard duty at 2100 hrs.” [extracted from B.D Khunte v. Union of India, Criminal appeal no. 2328 of 2014, para 12-13].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following are specific exceptions to Section 300, IPC 1860?",
+              "options": [
+                "1) Private defence, Sudden fight without premeditation, consent.",
+                "2) duress, intoxication, private defence.",
+                "3) Grave and sudden provocation, private defence, insanity.",
+                "4) Grave and sudden provocation, exceeding the right of private defence in good faith, Sudden fight without premeditation."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the difference between general and specific defences in IPC 1860?",
+              "options": [
+                "1) there is no difference, they both apply to all offences in exceptional cases.",
+                "2) General defences apply to all kinds of offences and covered in Chapter iii of iPC 1860 while specific defences are specific to the respective offence.",
+                "3) General defences apply to all kinds of offences and covered in Chapter-iV of iPC 1860 while specific defences are specific to the respective offence.",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Under which exception, it is expressly stated that it is immaterial which party offered the provocation?",
+              "options": [
+                "1) Sudden fight without premeditation",
+                "2) Grave and sudden provocation",
+                "3) duress",
+                "4) Consent"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is a proviso to the exception of Grave and Sudden Provocation?",
+              "options": [
+                "1) Provocation has to be grave and sudden.",
+                "2) Provocation has to be enough to lose self-control.",
+                "3) Provocation is not given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant.",
+                "4) all of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following were stated in K.M. Nanavati v. State of Maharashtra case?",
+              "options": [
+                "1) The test of “grave and sudden” provocation is whether a reasonable man, belonging to the same class of society as the accused, placed in the situation in which the accused was placed would be so provoked as to lose his self-control.",
+                "2) in india, words and gestures may also, under certain circumstances, cause grave and sudden provocation to an accused so as to bring his act within the first Exception to s. 300 of the indian Penal Code.",
+                "3) the mental background created by the previous act of the victim may be taken into consideration in ascertaining whether the subsequent act caused grave and sudden provocation for committing the offence.",
+                "4) all of the above."
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "it is a fundamental principle of criminal jurisprudence that an accused is presumed to be innocent and, therefore, the burden lies on the prosecution to prove the guilt of the accused beyond reasonable doubt. the prosecution, therefore, in a case of homicide shall prove beyond reasonable doubt that the accused caused death with the requisite intention described in section 299 of the indian Penal Code. this general burden never shifts and it always rests on the prosecution. But, as section 84 of the indian Penal Code provides that nothing is an offence if the accused at the time of doing that act, by reason of unsoundness of mind was incapable of knowing the nature of his act or what he was doing was either wrong or contrary to law. this being an exception, under section 105 of the evidence act the burden of proving the existence of circumstances bringing the case within the said exception lies on the accused; and the court shall presume the absence of such circumstances. Under section 105 of the evidence act, read with the definition of “shall presume” in section 4 thereof, the court shall regard the absence of such circumstances as proved unless, after considering the matters before it, it believes that said circumstances existed or their existence was so probable that a prudent man ought, under the circumstances of the particular case, to act upon the supposition that they did exist. to put it in other words, the accused will have to rebut the presumption that such circumstances did not exist, by placing material before the court sufficient to make it consider the existence of the said circumstances so probable that a prudent man would act upon them. the accused has to satisfy the standard of a “prudent man”. If the material placed before the court, such as, oral and documentary evidence, presumptions, admissions or even the prosecution evidence, satisfies the test of “prudent man”, the accused will have discharged his burden. The evidence so placed may not be sufficient to discharge the burden under section 105 of the Evidence act, but it may raise a reasonable doubt in the mind of a Judge as regards one or other of the necessary ingredients of the offence itself. it may, for instance, raise a reasonable doubt in the mind of the Judge whether the accused had the requisite intention laid down in section 299 of the indian Penal Code. if the Judge has such reasonable doubt, he has to acquit the accused, for in that event the prosecution will have failed to prove conclusively the guilt of the accused. There is no conflict between the general burden, which is always on the prosecution and which never shifts, and the special burden that rests on the accused to make out his defence of insanity. [extract from Dahyabhai Chhaganbhai Thakker v. State of Gujarat, aiR 1964 SC 1563, para 5].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The standard of proof referred to as the “prudent man” standard in the excerpt and in Section 4 of the indian evidence act, 1872 would correspond to which of the following explanations?",
+              "options": [
+                "1) Preponderance of probabilities standard.",
+                "2) Beyond reasonable doubt.",
+                "3) Clear and convincing.",
+                "4) Prima facie."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In common parlance, the terms “onus of proof ” and “burden of proof ” are used interchangeably. However, in accurate usage in evidence law, the terms correspond to which of the following?",
+              "options": [
+                "1) Burden of proof refers to an evidential burden whereas onus of proof refers to a legal burden.",
+                "2) onus of proof refers to evidential burden whereas burden of proof refers to legal burden.",
+                "3) onus of proof may refer to both evidential and legal burdens whereas burden of proof refers only to the evidential burden.",
+                "4) Burden of proof and onus of proof are the same concept. “Burden” is used in Indian law, whereas “onus” is used in the common law system."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Section 4 of the indian evidence act, 1872 also refers to the concept of “conclusive proof ”. In simple terms, the concept can be explained as:",
+              "options": [
+                "1) the proof of a fact through persuasive evidence which cannot be considered false.",
+                "2) the proof of a fact by the doctrine of judicial notice, and therefore not requiring any further proof.",
+                "3) the declaration of a fact as conclusively proved by the statute, and then not allowing any evidence to disprove it.",
+                "4) the presumption that a fact need not be proved when admitted as true by both parties to a suit or proceeding."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "With reference to the above excerpt, which of the following propositions emerges true in a criminal trial?",
+              "options": [
+                "1) Where the defence raises a plea of insanity under S.84, iPC, the prosecution must disprove this by leading evidence.",
+                "2) Where the defence raises a plea of insanity under S.84, iPC, the prosecution has no additional burden, but the defence assumes the burden of proving insanity.",
+                "3) Where the defence raises a plea of insanity under S.84, iPC, the prosecution must specifically prove mens rea by disproving the plea of insanity.",
+                "4) all of the statements above are true."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Section 105 of the indian evidence act, 1872 applies in which of the following circumstances?",
+              "options": [
+                "1) Where circumstances are pleaded by the accused bringing the case within a General exception in the iPC.",
+                "2) Where circumstances are pleaded by the accused bringing the case within a General Exception, special exception or proviso in the IPC or in any law defining the offence.",
+                "3) Where the mens rea required for the offence is expressly negatived by the accused.",
+                "4) Where circumstances are pleaded by the accused bringing the case within a special exception that is recognised by the law."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "the precautionary principle requires the State to act in advance to prevent environmental harm from taking place, rather than by adopting measures once the harm has taken place. in deciding when to adopt such action, the State cannot hide behind the veil of scientific uncertainty in calculating the exact scientific harm. In H.P. Bus-Stand Management & Development Authority v. Central Empowered Committee, (2021) 4 SCC 309, a three-Judge Bench of this Court emphasised the duty of the State to create conceptual, procedural, and institutional structures to guide environmental regulation in compliance with the “environmental rule of law”. The Court noted that such regulation must arise out of a multi-disciplinary analysis between policy, regulatory and scientific perspectives. The Court held: “the environmental rule of law, at a certain level, is a facet of the concept of the rule of law. But it includes specific features that are unique to environmental governance, features which are sui generis. the environmental rule of law seeks to create essential tools-conceptual, procedural, and institutional to bring structure to the discourse on environmental protection. it does so to enhance our understanding of environmental challenges-of how they have been shaped by humanity’s interface with nature in the past, how they continue to be affected by its engagement with nature in the present and the prospects for the future, if we were not to radically alter the course of destruction which humanity’s actions have charted. the environmental rule of law seeks to facilitate a multi-disciplinary analysis of the nature and consequences of carbon footprints and in doing so it brings a shared understanding between science, regulatory decisions, and policy perspectives in the field of environmental protection.” [extracted with edits from Pragnesh Shah v. Arun Kumar Sharma, (2022) 11 SCC 493].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "‘Environmental rule of law’ found its reference and recognition for the first time in which of the following?",
+              "options": [
+                "1) earth Summit, 2002.",
+                "2) UneP’s Governing Council decision 27/9, 2013",
+                "3) 1st africa Colloquium at nairobi, 2015.",
+                "4) earth Summit+5"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following principles of Rio declaration deal with precautionary approach?",
+              "options": [
+                "1) Principle 14",
+                "2) Principle 15",
+                "3) Principle 16",
+                "4) Principle 17"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "in environmental Pollution history, three-Mile island is referred to for which of the following?",
+              "options": [
+                "1) Water Pollution",
+                "2) air Pollution",
+                "3) Radioactive pollution",
+                "4) noise Pollution"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, Precautionary principle was used for the first time in Indian environment law Jurisprudence?",
+              "options": [
+                "1) Vellore Citizens Welfare forum v. Union of india.",
+                "2) Rural litigation and entitlement Kendra v. State of UP.",
+                "3) Municipal Corporation, Ratlam v. Vardhichand.",
+                "4) narmada Bachao andolan v. Union of india."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, Doctrine of Public Trust was first used in Indian Environmental law Jurisprudence?",
+              "options": [
+                "1) Vellore Citizens Welfare forum v. Union of india.",
+                "2) Rural litigation and entitlement Kendra v. State of UP.",
+                "3) Municipal Corporation, Ratlam v. Vardhichand.",
+                "4) M.C. Mehta v. Kamal nath."
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "indeed, in england, in the celebrated Sea angel case, 2013 (1) lloyds law Report 569, the modern approach to frustration is well put, and the same reads as under: “in my judgment, the application of the doctrine of frustration requires a multi-factorial approach. among the factors that have to be considered are the terms of the contract itself, its matrix or context, the parties’ knowledge, expectations, assumptions and contemplations, in particular as to risk, as at the time of the contract, at any rate so far as these can be ascribed mutually and objectively, and then the nature of the supervening event, and the parties’ reasonable and objectively ascertainable calculations as to the possibilities of future performance in the new circumstances. Since the subject matter of the doctrine of frustration is contract, and contracts are about the allocation of risk, and since the allocation and assumption of risk is not simply a matter of express or implied provision but may also depend on less easily defined matters such as “the contemplation of the parties”, the application of the doctrine can often be a difficult one. In such circumstances, the test of “radically different” is important: it tells us that the doctrine is not to be lightly invoked; that mere incidence of expense or delay or onerousness is not sufficient; and that there has to be as it were a break in identity between the contract as provided for and contemplated and its performance in the new circumstances.” “… it is clear from the above that the doctrine of frustration cannot apply to these cases as the fundamental basis of the PPas remains unaltered. nowhere do the PPas state that coal is to be procured only from indonesia at a particular price. in fact, it is clear on a reading of the PPa as a whole that the price payable for the supply of coal is entirely for the person who sets up the power plant to bear. the fact that the fuel supply agreement has to be appended to the PPa is only to indicate that the raw material for the working of the plant is there and is in order. it is clear that an unexpected rise in the price of coal will not absolve the generating companies from performing their part of the contract for the very good reason that when they submitted their bids, this was a risk they knowingly took. We are of the view that the mere fact that the bid may be non-escalable does not mean that the respondents are precluded from raising the plea of frustration, if otherwise it is available in law and can be pleaded by them. But the fact that a non-escalable tariff has been paid for, for example, in the adani case, is a factor which may be taken into account only to show that the risk of supplying electricity at the tariff indicated was upon the generating company”. [extracted from Energy Watchdog v. Central Electricity Regulatory Commission (2017) 14 SCC 80].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following is incorrect about a force majeure clause?",
+              "options": [
+                "1) the burden of proving the applicability of a force majeure clause rests on the party seeking to invoke it.",
+                "2) a force majeure clause ensures that non-performance is no breach because no performance was due in the circumstances which have occurred.",
+                "3) ‘frustration of contract’ and ‘force majeure’ are indeed one and the same concept.",
+                "4) Force majeure clauses come in many shapes and sizes, ranging from the simple clause providing for cancellation/termination of the contract in the event that performance is prevented by circumstances comprehended within the term force majeure, to clauses of immense complexity containing, inter alia, a list of excusing events, provisions for notices to be issued to the promisee and detailing the consequences of the force majeure event."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is a leading judgement on ‘frustration of contract’?",
+              "options": [
+                "1) Central inland Water transport Corporation v. Brojo nath Ganguly, (1986) 3 SCC 156.",
+                "2) Satyabrata Ghose v. Mugneeram Bangur & Co., 1954 SCR 310.",
+                "3) fateh Chand v. Balkishan dass, (1964) 1 SCR 515.",
+                "4) thornton v. Shoe lane Parking ltd., (1971) 2 QB 163 (Ca)."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is an incorrect proposition as regards frustration of contract?",
+              "options": [
+                "1) the courts have the general power to absolve a party from the performance of its part of the contract if its performance has become onerous on account of an unforeseen turn of events.",
+                "2) if a contract contains a term according to which it would stand discharged on the happening of certain contingencies, dissolution of the contract would take place under the terms of the contract itself and such cases would be outside the purview of section 56 of the indian Contract act; such cases have to be dealt with under section 32 of the indian Contract act.",
+                "3) the application of the doctrine of frustration must always be within narrow limits.",
+                "4) Section 56 of the indian Contract act does not apply to lease (completed conveyance)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "in Energy Watchdog v. Central Electricity Regulatory Commission, the Supreme Court found that the fundamental basis of the power purchase agreements (PPas) between the parties was not premised on the price of coal imported from indonesia. in fact, in the PPas, there was a clause providing that changes in the cost of fuel, or the agreement becoming onerous to perform, are not treated as force majeure. therefore, on the ground of the rise in price of indonesian coal, the Court held that:",
+              "options": [
+                "1) alternative modes of performance were available, albeit at a higher price; and that alone could not lead to the contract, as a whole, being frustrated.",
+                "2) the contract was frustrated on account of an unexpected rise in the price of indonesian coal excusing the generating company from performing its part of the contract.",
+                "3) even though the PPas are not frustrated, on account of an unexpected rise in the price of indonesian coal, the force majeure clause could be invoked in the given case to extend relief to the generating company.",
+                "4) the contract was frustrated on account of an unexpected rise in the price of indonesian coal because the performance of an act might not be literally impossible, but it may be impracticable and useless from the point of view of the object and purpose of the contract."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "the maxim lex non cogit ad impossibilia means:",
+              "options": [
+                "1) a personal right of action dies with the person.",
+                "2) the burden of proof lies upon him who asserts and not upon him who denies.",
+                "3) no person can claim any right arising out of his own wrongdoing.",
+                "4) the law does not compel a promisor to do that which is impossible to perform."
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "“The Specific Relief Act, 1963 was enacted to define and amend the law relating to certain kinds of specific relief. It contains provisions, inter alia, specific performance of contracts, contracts not specifically enforceable, parties who may obtain and against whom specific performance may be obtained, etc. it also confers wide discretionary powers upon the courts to decree specific performance and to refuse injunction, etc. As a result of wide discretionary powers, the courts in majority of cases award damages as a general rule and grant specific performance as an exception. the tremendous economic development since the enactment of the act have brought in enormous commercial activities in india including foreign direct investments, public private partnerships, public utilities infrastructure developments, etc., which have prompted extensive reforms in the related laws to facilitate enforcement of contracts, settlement of disputes in speedy manner. it has been felt that the act is not in tune with the rapid economic growth happening in our country and the expansion of infrastructure activities that are needed for the overall development of the country. in view of the above, it is proposed to do away with the wider discretion of courts to grant specific performance and to make specific performance of contract a general rule than exception subject to certain limited grounds. further, it is proposed to provide for substituted performance of contracts, where a contract is broken, the party who suffers would be entitled to get the contract performed by a third party or by his own agency and to recover expenses and costs, including compensation from the party who failed to perform his part of contract. this would be an alternative remedy at the option of the party who suffers the broken contract. It is also proposed to enable the courts to engage experts on specific issues and to secure their attendance, etc. a new section 20a is proposed for infrastructure project contracts which provides that the court shall not grant injunction in any suit, where it appears to it that granting injunction would cause hindrance or delay in the continuance or completion of the infrastructure project... Special courts are proposed to be designated to try suits in respect of contracts relating to infrastructure projects and to dispose of such suits within a period of twelve months from the date of service of summons to the defendant and also to extend the said period for another six months in aggregate, after recordings reasons therefor.” [Extracted from Statement of Objects and Reasons, the Specific Relief (Amendment) Bill, 2017].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "At present, which of the following is the correct proposition as regards the specific performance of a contract:",
+              "options": [
+                "1) As a general rule, the specific performance of a contract is now a general remedy.",
+                "2) As a general rule, the specific performance of a contract is enforced by the court when there exists no standard for ascertaining actual damage caused by the non-performance of the act agreed to be done.",
+                "3) As a general rule, the specific performance of a contract is enforced by the court when the act agreed to be done is such that compensation in money for its non-performance would not afford adequate relief.",
+                "4) Both (B) and (C)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "At present, the specific performance of a contract is enforced by the court subject to:",
+              "options": [
+                "1) The provisions contained in sections 11(2) and 16 of the Specific Relief Act, 1963.",
+                "2) The provisions contained in sections 11(2), 16 and 20 of the Specific Relief Act, 1963.",
+                "3) The provisions contained in sections 11(2), 14 and 20 of the Specific Relief Act, 1963.",
+                "4) The provisions contained in sections 11(2), 14 and 16 of the Specific Relief Act, 1963."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is the correct proposition regarding ‘substituted performance of a contract’?",
+              "options": [
+                "1) Where the contract is broken due to non-performance of promise by any party, the party who suffers by such breach has the option of substituted performance through a third party or by his own agency, and recover the expenses and other costs actually incurred, spent or suffered by him, from the party committing such breach.",
+                "2) the party who suffers by breach of contract can concurrently obtain substituted performance of the contract and specific performance against the party in breach.",
+                "3) Both (a) and (B).",
+                "4) neither (a) nor (B)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The dismissal of a suit for specific performance of a contract or part thereof ____________ the plaintiff’s right to sue for compensation for the breach of such contract or part, as the case may be, _______________ his right to sue for any other relief to which he may be entitled, by reason of such breach:",
+              "options": [
+                "1) Shall not bar; but shall bar.",
+                "2) Shall bar; but shall not bar.",
+                "3) Shall bar; but shall bar.",
+                "4) Shall not bar; nor shall it bar."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "the _________________, in consultation with the _________________________, shall designate, by notification published in the Official Gazette, one or more Civil Courts as Special Courts, within the local limits of the area to exercise jurisdiction and to try a suit under the Specific Relief Act, 1963 in respect of contracts relating to infrastructure projects:",
+              "options": [
+                "1) Central Government; Chief Justice of india.",
+                "2) State Government; Chief Justice of india.",
+                "3) State Government; Chief Justice of the High Court.",
+                "4) Central Government; Chief Justice of the High Court."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "the aim of the rules of natural justice is to secure justice or to put it negatively to prevent miscarriage of justice. these rules can operate only in areas not covered by any law validly made. in other words, they do not supplant the law of the land but supplement it. the concept of natural justice has undergone a great deal of change in recent years. in the past, it was thought that it included just two rules namely: (1) no one shall be a judge in his own case (Nemo debet esse judex propria causa) and (2) no decision shall be given against a party without affording him a reasonable hearing (audi alteram partem). Very soon thereafter a third rule was envisaged and that is that quasi-judicial enquiries must be held in good faith, without bias and not arbitrarily or unreasonably. But in the course of years many more subsidiary rules came to be added to the rules of natural justice. till very recently it was the opinion of the courts that unless the authority concerned was required by the law under which it functioned to act judicially there was no room for the application of the rules of natural justice. the validity of that limitation is not questioned. if the purpose of the rules of natural justice is to prevent miscarriage of justice one fails to see why those rules should be made inapplicable to administrative enquiries. often times it is not easy to draw the line that demarcates administrative enquiries from quasi-judicial enquiries. enquiries which were considered administrative at one time are now being considered as quasi-judicial in character. arriving at a just decision is the aim of both quasi-judicial enquiries as well as administrative enquiries. an unjust decision in an administrative enquiry may have more far reaching effect than a decision in a quasi-judicial enquiry as observed by this Court in Suresh Koshy George v. University of Kerala [Civil appeal no. 990/68, decided on 15-07- 1968], the rules of natural justice are not embodied rules. What particular rule of natural justice should apply to a given case must depend to a great extent on the facts and circumstances of that case, the framework of the law under which the enquiry is held and the constitution of the tribunal or body of persons appointed for that purpose. Whenever a complaint is made before a court that some principle of natural justice had been contravened the court has to decide whether the observance of that rule was necessary for a just decision on the facts of that case. [extract from the judgment of the Supreme Court in A.K. Kraipak v. Union of India, (1969) 2 SCC 262, decided on april 29, 1969, hereafter ‘A.K. Kraipak’].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "the decision in A.K. Kraipak is considered a landmark authority for which of the following propositions:",
+              "options": [
+                "1) there is no application of the principles of natural justice to purely administrative functions.",
+                "2) The principles of natural justice are in an ever-evolving state of flux.",
+                "3) the principles of natural justice do not differentiate between administrative and quasi-judicial functions.",
+                "4) there is no application of the principles of natural justice to quasi-judicial functions."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "the Court states in A.K. Kraipak that, ‘if the purpose of the rules of natural justice is to prevent miscarriage of justice one fails to see why those rules should be made inapplicable to administrative enquiries.’ Which of the following approaches to interpretation of statutes does the Court appear to adopt:",
+              "options": [
+                "1) literal interpretation",
+                "2) Constructive interpretation",
+                "3) Strict interpretation",
+                "4) all of the above."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "the Court states in A.K. Kraipak, that ‘… in the course of years many more subsidiary rules came to be added to the rules of natural justice.’ Which of the following is a later entrant to the principles of natural justice?",
+              "options": [
+                "1) no one shall be a Judge in their own cause.",
+                "2) duty to hear.",
+                "3) duty to give reasons.",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "the Supreme Court has recognised in several decisions that in cases requiring urgent administrative action or in exigencies, it may not always be possible to give full effect to the principles of natural justice without rendering the administrative action redundant in the circumstances. Which of the following is true for the requirements of natural justice in such cases?",
+              "options": [
+                "1) the administrator may choose to not follow principles of natural justice in case of emergency scenarios, where time does not permit such compliance, without recording their reasons in writing.",
+                "2) the administrator may choose to not follow principles of natural justice in case of emergency scenarios, where time does not permit such compliance, but must record their reasons in writing.",
+                "3) the administrator may provide for a post-decisional remedial hearing wherever pre-decisional hearing is not possible.",
+                "4) none of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "in testing whether the rule against bias has been violated, courts often invoke, which of following standards:",
+              "options": [
+                "1) likelihood of bias as perceived by a fair-minded and informed observer.",
+                "2) likelihood of bias as perceived by a fair-minded and uninformed observer.",
+                "3) likelihood of bias as perceived by a third person.",
+                "4) likelihood of bias as perceived by persons involved in similar trade."
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "The doctrine of promissory estoppel is by now well recognized and well defined by a catena of decisions of this Court. Where the Government makes a promise knowing or intending that it would be acted on by the promise and, in fact, the promise, acting in reliance on it, alters his position, the Government would be held bound by the promise and the promise would be enforceable against the Government at the instance of the promise notwithstanding that there is no consideration for the promise and the promise is not recorded in the form of a formal contract as required by article 229 of the Constitution. the rule of promissory estoppel being an equitable doctrine has to be moulded to suit the particular situation. it is not a hard-and-fast rule but an elastic one, the objective of which is to do justice between the parties and to extend an equitable treatment to them. this doctrine is a principle evolved by equity, to avoid injustice and though commonly named promissory estoppel, it is neither in the realm of contract nor in the realm of estoppel. for application of the doctrine of promissory estoppel the promise must establish that he suffered in detriment or altered his position by reliance on the promise. normally, the doctrine of promissory estoppel is being applied against the Government and defence based on executive necessity would not be accepted by the court. However, if it can be shown by the Government that having regard to the facts as they have subsequently transpired, it would be inequitable to hold the Government to the promise made by it, the court would not raise an equity in favour of the promise and enforce the promise against the Government. Where public interest warrants, the principles of promissory estoppel cannot be invoked. the Government can change the policy in public interest. However, it is well settled that taking cue from this doctrine, the authority cannot be compelled to do something which is not allowed by law or prohibited by law. there is no promissory estoppel against the settled proposition of law. doctrine of promissory estoppel cannot be invoked for enforcement of a promise made contrary to law, because none can be compelled to act against the statute. thus, the Government or public authority cannot be compelled to make a provision which is contrary to law. [extract from the judgment of the Supreme Court in Shree Sidhbali Steels Limited v. State of Uttar Pradesh, (2011) 3 SCC 193, decided on January 20, 2011, hereafter ‘Shree Sidhbali Steels’].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "the decision in Shree Sidhbali Steels carves out the ‘public interest’ exception in cases of promissory estoppel against Government. to which kind of cases have courts routinely applied this exception in favour of Governments?",
+              "options": [
+                "1) fiscal matters",
+                "2) Service matters",
+                "3) labour matters",
+                "4) all of the above."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is a landmark decision governing the law on promissory estoppel against Governments?",
+              "options": [
+                "1) Sarat Chander dey v. Gopal Chander laha, (1892) 19 ia 203",
+                "2) Motilal Padampat Sugar Mills Co. ltd. v. State of U.P., (1979) 2 SCC 409",
+                "3) Carlill v. Carbolic Smoke Ball Company, [1892] eWCa Civ 1",
+                "4) tej Bhan Madan v. ii additional district Judge and others, (1988) 3 SCC 137"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements reflect the correct position of law for promissory estoppel against Governments?",
+              "options": [
+                "1) Government would be held bound by the promise and the promise would be enforceable against the Government at the instance of the promisee, provided that there is consideration for the promise and the promise is recorded in the form of a formal contract as required by article 299 of the Constitution.",
+                "2) Government would be held bound by the promise and the promise would be enforceable against the Government at the instance of the promisee, notwithstanding that there is no consideration for the promise and the promise is not recorded in the form of a formal contract as required by article 299 of the Constitution.",
+                "3) Government would be held bound by the promise and the promise would be enforceable against the Government at the instance of the promisee, provided that there is consideration for the promise, but notwithstanding that the promise is not recorded in the form of a formal contract as required by article 299 of the Constitution.",
+                "4) Government would be held bound by the promise and the promise would be enforceable against the Government at the instance of the promisee, notwithstanding that there is no consideration for the promise, but provided that the promise is recorded in the form of a formal contract as required by article 299 of the Constitution."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements is accurate in light of the passage?",
+              "options": [
+                "1) the doctrine of promissory estoppel stands diluted where the Government claims that it is in the public interest to go back on its promise or actions.",
+                "2) the doctrine of promissory estoppel overrides any purported claims of public interest by the Government.",
+                "3) Permitting a public interest exception is against the interests of justice, equity and good conscience as it is a self-serving claim for the Government.",
+                "4) Both (B) and (C)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements does not reflect the correct position of law?",
+              "options": [
+                "1) Promissory estoppel cannot be invoked so as to defeat the law.",
+                "2) even if the representation is made by the Government itself, but it goes against the law, estoppel can be invoked to defeat the law.",
+                "3) if all conditions of promissory estoppel are met, a challenge can still be made to the vires of the law.",
+                "4) none of the above."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "An unpleasant tussle ensured between the TATA Sons and Cyrus Pallonji Mistry (“CPM”) in october 2016, when Mistry, who was the sixth chairman of tata Sons, was ousted from the position of executive Chairman of tata Sons limited. CPM took over as the chairman in 2012 after Ratan tata announced his retirement. tata Group patriarch Ratan tata had personally asked Cyrus Mistry to resign as chairman of tata Sons as the board had lost faith in him, but his refusal led to the removal via majority vote. Cyrus investments Private limited and Sterling investment Corporation Private limited belonged to the Shapoorji Palloni Group in which CPM held a controlling interest (about 2% of the issued share capital of tata Sons). Seven out of the nine directors of tata Sons voted for CPM’s replacement after farida Khambata abstained and Mistry was declared ineligible to vote as he was an interested director. Mistry challenged his removal, accusing the board of mismanagement and of oppressing minority shareholders. however, the national Company law tribunal (nClt) rejected his petition. after this Mistry challenged his removal in national Company law appellate tribunal (nClat). in 2018, nClat order restored Mistry as the group’s executive chairman. tata Sons challenged that nClat order in Supreme Court. CPM also challenged the order for few more relief. Supreme Court stayed nClat’s order reinstating Cyrus Mistry as the executive chairman of tata Sons and restoring his directorships in the holding company as well as three group companies, with a preliminary observation that the first impression of the order was “not good” and that the tribunal ‘could’ not have given consequential relief that had not been sought in the first place. Ultimately, the Supreme Court decided the case in favour of tata Sons. one of the issues decided by Supreme Court was that “whether the case was fit to be qualified as a situation of ‘Oppression and Mismanagement’ under Section 241 of the Companies Act, 2013?”. On this issue, the Supreme Court observed that “unless the removal of a person as a chairman of a company is oppressive or mismanaged or done in a prejudicial manner damaging the interests of the company, its members or the public at large, the nClt cannot interfere with the removal of a person as a Chairman of a Company in a petition under Section 241 of the Companies Act, 2013.” This case highlighted the point that “an executive chairman does not have sovereign authority over the company. in corporate democracy, decision making always remains with the Board as long as they enjoy the pleasure of the shareholders. likewise, an executive chairman will continue as long as he/she enjoys the pleasure of the Board. an assumption by the executive chairman that he/she would have a free hand in running the affairs of the company is incongruous to corporate governance and corporate democracy. the tribunal held that the concept of ‘free hand rule’ is antithesis to collective responsibility and collective decision making”. [Based on Tata Consultancy Services Ltd. v. Cyrus Investment Pvt. Ltd., 2021 SCC 122].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "the parties in this case approached the Supreme Court of india under which of the following provision:",
+              "options": [
+                "1) appeal under section 423 of the Companies act, 2013.",
+                "2) a Class action Suit under Section 245 of the Companies act, 2013.",
+                "3) Special leave Petition (SlP) under article 136 of the Constitution of india.",
+                "4) appeal under section 421 of the Companies act, 2013."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Rule of ‘supremacy of majority’ in governing the affairs of a company has been settled in a very old leading case of Foss v. Harbottle (1843) 2 Hare 461. in india, which case diluted the majority rule and held that interest of the company was above the interest of its shareholders either majority or minority?",
+              "options": [
+                "1) Rajahmundry electric Supply Corporation ltd. v. a. nageshwara Rao",
+                "2) Bagree Cereals v. Hanuman Prasad Bagri.",
+                "3) Shanti Prasad Jain v. Kalinga tubes ltd.",
+                "4) needle industries (india) ltd. v. needle industries newey (india)."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "While recommending “Separation of the Roles of non-executive Chairperson and Managing Director/ CEO”, the Kotak Mahindra Committee quoted the following text: “given the importance and the particular nature of the chairmen’s role, it should in principle be separate from that of the chief executive. if the two roles are combined in one person, it represents a considerable concentration of power”. This quote refers to which of the following Committee Report?",
+              "options": [
+                "1) Cohen Committee Report",
+                "2) Cadbury Committee Report",
+                "3) Hampel Committee Report",
+                "4) narayana Murthy Committee Report"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statement is true regarding share qualification requirement under section 244 for applying for relief from oppression/ mismanagement under section 241 of the Companies act, 2013 (in the case of a company having a share capital)?",
+              "options": [
+                "1) Members not less than 100 members of the company or 10% of the total number of its members, whichever is less or any member or members holding not less than 10% of the issued share capital of the company.",
+                "2) Members not less than 100 members of the company and 10% of the total number of its members or members holding not less than 10% of the issued share capital of the company.",
+                "3) not less than 20% of the total number of its members.",
+                "4) Members not less than 50 members of the company and 5% of the total number of its members or members holding not less than 5% of the issued share capital of the company."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Statement i - Power to grant relief from oppression/mismanagement which were vested by section 402 of the 1956 act in High Court have now been transferred to the national Company law tribunal by section 242 of the 2013 act. Statement ii - Section 242 does not empower national Company law appellate tribunal to grant relief by way of prevention of apprehended mismanagement of the company due to material change which has taken place in its management or control.",
+              "options": [
+                "1) Statement i is untrue",
+                "2) Statement ii is untrue",
+                "3) Both Statements i and ii are untrue",
+                "4) Both Statements i and ii are true"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "alastair Hudson in his book ‘Securities law’ first edition (Sweet & Maxwell), 2008 at page 342, refers to ‘Restricted offers’ and noticed that there is no contravention of Section 85 of fSMa 2000, if: “(b) the offer is made to or directed at fewer than 100 persons, other than qualified investors, per EEA State”. The purpose underlying that exemption, the author says, is mainly the fact that the offer is not being made to an appreciable section of “the public” such that the policy of the prospectus rules generally is not affected. further, the author says that “Self-evidently, while an offer to 99 ordinary members of the public would be within the literal terms of the exemption, it would not be the sort of activity anticipated by the legislation. Moreover, if a marketing campaign were arranged such that ordinary members of the people were approached in groups of 99 people at a time in an effort to avoid the prospectus rules, then that would not appear to be within the spirit of the regulations and might be held to contravene the core principle that a regulated person must act with integrity.” i may, therefore, indicate, subject to what has been stated above, in india that any share or debenture issue beyond forty-nine persons, would be a public issue attracting all the relevant provisions of the SeBi act, regulations framed thereunder, the Companies act, pertaining to the public issue. facts clearly reveal that Saharas have issued securities to the public more than the threshold limit statutorily fixed under the first proviso to Section 67(3) and hence violated the listing provisions which may attract civil and criminal liabilities. Principles of listing, which i may later on discuss, is intended to assist public companies in identifying their obligations and responsibilities, which are continuing in nature, transparent in content and call for high degree of integrity. obligations are imposed on the issuer on an ongoing basis. Public companies who are legally obliged to list their securities are deemed to accept the continuing obligations, by virtue of their application, prospectus and the subsequent maintenance of listing on a recognized stock exchange. disclosure is the rule, there is no exception. Misleading public is a serious crime, which may attract civil and criminal liability. listing of securities depends not upon one’s volition, but on statutory mandate. [extract from Sahara India Real Estate Corporation Limited v. Securities and Exchange Board of India (SEBI), Para 89-91, Civil appeal no. 9833/2011 (SC)]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which among the following is not considered as a ‘prospectus’ under the Companies act, 2013?",
+              "options": [
+                "1) Shelf prospectus",
+                "2) Red herring prospectus",
+                "3) Private placement offer letter",
+                "4) advertisement inviting offers from public"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "in Sahara India Real Estate Corporation Limited v. SEBI, Sahara issued which of the following instruments to raise money?",
+              "options": [
+                "1) Shares",
+                "2) Convertible preference share",
+                "3) optionally fully convertible debentures",
+                "4) Currency derivatives"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "in Sahara India Real Estate Corporation Limited v. SEBI, the company issued securities in violation of rules relating to:",
+              "options": [
+                "1) Public issue under the Companies act.",
+                "2) SeBi disclosure investor Protection Guidelines, 2000 read with issue of Capital and disclosure Guidelines, 2009.",
+                "3) Both the above",
+                "4) none of the above"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "the Supreme Court of india in Sahara case held:",
+              "options": [
+                "1) SeBi, being a statutory regulator, does not have the power to investigate and adjudicate.",
+                "2) as per Companies act and SeBi act, 1992, SeBi has jurisdiction over both listed companies and companies which intend to get listed.",
+                "3) SeBi has no jurisdiction over public issuances of hybrid securities.",
+                "4) Powers of SeBi supersede that of Ministry of Corporate affairs."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is mandatory in case of private placements by private companies?",
+              "options": [
+                "1) Mandatory grading by a credit rating agency",
+                "2) Use of public media to advertise the issue",
+                "3) Post-issue listing of securities",
+                "4) Return of allotment to be filed with Registrar of Companies (RoC)"
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "in its second preliminary objection, Myanmar submits that the Gambia’s application is inadmissible because the Gambia lacks standing to bring this case before the Court. in particular, Myanmar considers that only “injured States”, which Myanmar defines as States “adversely affected by an internationally wrongful act”, have standing to present a claim before the Court. In Myanmar’s view, The Gambia is not an “injured State” (a term that Myanmar appears to use interchangeably with the term “specially affected State”) and has failed to demonstrate an individual legal interest. therefore, according to Myanmar, the Gambia lacks standing under article iX of the Genocide Convention. Myanmar draws a distinction between the right to invoke State responsibility under general international law and standing before the Court. it argues that, even if it were established that a “non-injured” Contracting Party to the Genocide Convention has the right to invoke another State’s responsibility for violations of the Convention, this would not necessarily entail the right to bring a case before the Court. to this end, Myanmar contends that there exists a difference between the common interest in the accomplishment of the purposes of the Genocide Convention and a State’s individual legal interest that may be enforce through the institution of proceedings before the Court. In Myanmar’s view, only States “specially affected” by an internationally wrongful act have standing to bring a claim before the Court. Myanmar further submits that the Gambia’s claims are inadmissible in so far as they are not brought before the Court in accordance with the rule concerning the nationality of claims which, according to Myanmar, is reflected in Article 44 (a) of the International Law Commission’s articles on the Responsibility of States for internationally Wrongful acts. Myanmar asserts that the rule concerning the nationality of claims applies to the invocation of responsibility by both “injured” and “non injured” States and irrespective of whether the obligation breached is an erga omnes partes or erga omnes obligation. Consequently, in Myanmar’s view, the Gambia lacks standing to invoke Myanmar’s responsibility. Myanmar maintains that, even if Contracting Parties that are not “specially affected” by an alleged violation of the Convention are assumed to have standing to submit a dispute to the Court under article iX, this standing is subsidiary to and dependent upon the standing of States that are “specially affected”. Myanmar argues that Bangladesh would be “the most natural State” to institute proceedings in the present case, because it borders Myanmar and has received a significant number of the alleged victims of genocide. In Myanmar’s view, the reservation by Bangladesh to article iX of the Genocide Convention not only precludes Bangladesh from bringing a case against Myanmar, but it also bars any “non-injured” State, such as The Gambia, from doing so. Myanmar further argues that “non-injured” States may not override the right of a State “specially affected” by the alleged breach to decide how to vindicate its rights in a way that would best serve its own interests. [excerpted passage represents the claims of Myanmar in The Gambia v. Myanmar, judgment on preliminary objections, July 22, 2022]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Hypothetically, if the Gambian state was to exercise criminal jurisdiction over the persons responsible for Crimes of Genocide, then such jurisdiction would be called as:",
+              "options": [
+                "1) extra-territorial jurisdiction",
+                "2) Universal jurisdiction",
+                "3) Contentious jurisdiction",
+                "4) a state cannot exercise jurisdiction over such crimes without having any connection with them."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Erga omnes partes means:",
+              "options": [
+                "1) obligations that are so integral to the subject and purpose of the treaty that no reservations or derogations are permissible",
+                "2) obligations arising out of customary principles of international law that states have not objected to",
+                "3) obligations essentially arising after gaining membership of the United nations",
+                "4) Both (a) and (B)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "article 44",
+              "options": [
+                "1) of the international law Commission’s articles on the Responsibility of States for internationally Wrongful acts states that ‘the responsibility of a State may not be invoked if: (a) the claim is not brought in accordance with any applicable rule relating to the nationality of claims.’ Can Gambia invoke the principles of state responsibility against Myanmar for Crimes of Genocide? (A) No, as The Gambia cannot fulfill the conditions stipulated in Article 44 (a)",
+                "2) Yes, as the nationals of the Gambia have also faced persecution from Myanmar",
+                "3) Yes, the article has no relevance as the Genocide Convention expects the accomplishment of its high purposes.",
+                "4) no, Bangladesh is an appropriate state to bring claims and hold Myanmar internationally responsible."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Myanmar claims that the reservation by Bangladesh to article iX of the Genocide Convention not only precludes Bangladesh from bringing a case against Myanmar, but it also bars any “non-injured” State, such as The Gambia, from doing so. Is this claim maintainable? (article iX - disputes between the Contracting Parties relating to the interpretation, application or fulfilment of the present Convention, including those relating to the responsibility of a State for genocide or for any of the other acts enumerated in article iii, shall be submitted to the international Court of Justice at the request of any of the parties to the dispute.)",
+              "options": [
+                "1) Yes, because Bangladesh is the injured state and its reservation imposes a restriction on dispute itself precluding any state from raising it.",
+                "2) no, it does not affect the locus standi of the Gambia as being party to the Convention, it has its own right.",
+                "3) No, Gambia can only file the dispute before ICJ after Bangladesh consents to the same.",
+                "4) option (a) subject to (C)."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Myanmar has made a reservation to article Viii of the Genocide Convention to restrict the competent organs of the Un to take actions under the Charter of the Un as they consider appropriate for the prevention and suppression of acts of genocide. Myanmar claims that since iCJ is the principal organ of the Un, there is a limitation on article iX. the claim is:",
+              "options": [
+                "1) Maintainable, as the reservation explicitly prohibits the intervention of Un organs.",
+                "2) not maintainable, as article Viii concerns the discretionary function which is different from the judicial function of the iCJ.",
+                "3) Maintainable, as the two provisions of the treaty i.e., article Viii and iX are to be interpreted harmoniously.",
+                "4) not maintainable, as iCJ as a successor of PCiJ is regulated by the Statute of iCJ and not the Un Charter."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "the consensual structure of the international legal order, with its strong emphasis on the sovereign equality of states, has always been somewhat precarious. in different waves over the centuries, it has been attacked for its incongruence with the realities of inequality in international politics, for its tension with ideals of democracy and human rights, and for standing in the way of more effective problem-solving in the international community. While surprisingly resilient in the face of such challenges, the consensual structure has seen renewed attacks in recent years. In the 1990s, those attacks were mainly “moral” in character. They were related to the liberal turn in international law, and some of them, under the banner of human rights, aimed at weakening principles of nonintervention and immunity. others, starting from the idea of an emerging “international community,” questioned the prevailing contractual models of international law and emphasised the rise of norms and processes reflecting community values rather than individual state interests. Since the beginning of the new millennium, the focus has shifted, and attacks are more often framed in terms of effectiveness or global public goods. Classical international law is regarded as increasingly incapable of providing much-needed solutions for the challenges of a globalized world; as countries become ever more interdependent and vulnerable to global challenges, an order that safeguards states’ freedoms at the cost of common policies is often seen as anachronistic. according to this view, what is needed-and what we are likely to see-is a turn to nonconsensual lawmaking mechanisms, especially through powerful international institutions with majoritarian voting rules. [the extract is part of the article “the decay of Consent: international law in an age of Global Public Goods” by Krisch N, in the American Journal of International Law].",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "abstract refers to the principle of ‘non-intervention’. Which of the following statements is not true with respect to the principle of ‘non-intervention’ enshrined in article 2(7) of the Un Charter:",
+              "options": [
+                "1) the United nations should not intervene in matters which are essentially within the domestic jurisdiction of any state.",
+                "2) the United nations shall not require the Members to submit such matters which are essentially within the domestic jurisdiction to settlement under the present Charter.",
+                "3) the principle of non-intervention shall not prejudice the application of enforcement measures under Chapter-Vii of Un Charter.",
+                "4) as per the wordings of article 2(7) of the Un Charter, the obligation with respect to ‘non-intervention’ under this provision applies to both the United nations and its members."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "extract refers to several institutions with law-making power. Security Council may be one such institution. Which of the following statements is not true with respect to the Security Council?",
+              "options": [
+                "1) each member of the Security Council shall have one vote.",
+                "2) Decisions of the Security Council on procedural matters shall be made by an affirmative vote of nine members.",
+                "3) Decisions of the Security Council on procedural shall be made by an affirmative vote of nine members, including the concurring votes of the permanent members.",
+                "4) Decisions of the Security Council on all other matters shall be made by an affirmative vote of nine members, including the concurring votes of the permanent members, provided that, in decisions under Chapter Vi and under paragraph 3 of article 52, a party to a dispute shall abstain from voting."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Extract refers to ‘norms and processes reflecting community values’. In this context, Jus cogens norms serve to protect the fundamental values of the international community. Which of the following is not true with respect to jus cogens?",
+              "options": [
+                "1) it is a norm accepted and recognised by the international community of States as a whole as a norm from which no derogation is permitted.",
+                "2) It can be modified only by a subsequent norm of general international law having the same character.",
+                "3) A treaty is void if, at the time of its conclusion, it conflicts with a peremptory norm of general international law (Jus Cogens).",
+                "4) States are bound by Peremptory norms of general international law (Jus Cogens) only when they have given express consent to it in writing."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "article 25 of the Un Charter states, ‘the Members of the United nations agree to accept and carry out the decisions of the _______ in accordance with the present Charter.’ Which of the following organ(s) of the United nations is/are being referred to in article 25:",
+              "options": [
+                "1) Security Council",
+                "2) international Court of Justice",
+                "3) Security Council and General assembly",
+                "4) Security Council and international Court of Justice"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements is not true with respect to ‘customary international law’?",
+              "options": [
+                "1) in the asylum case 1950, iCJ declared that a customary rule must be ‘in accordance with a constant and uniform usage practiced by the States in question’.",
+                "2) in the north Sea Continental Shelf cases, 1969, iCJ remarked that state practice had to be ‘both extensive and virtually uniform in the sense of the provision invoked’.",
+                "3) in the nicaragua v. United States case, 1986, iCJ said that it was not necessary that the practice in question had to be ‘in absolutely rigorous conformity’ with the purported customary rule.",
+                "4) in the Right of Passage over indian territory case, 1960, iCJ denied the existence of local custom between the two states."
+              ],
+              "answer": "4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

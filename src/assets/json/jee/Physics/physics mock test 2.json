@@ -1,0 +1,122 @@
+{
+  "testName": "Physics Mock Test 2",
+  "totalMarks": 40,
+  "timeMinutes": 20,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A car starting from rest accelerates uniformly at 2 m/s² for 10 s. The distance covered in this time is",
+      "options": [
+        "50 m",
+        "100 m",
+        "150 m",
+        "200 m"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "For a given speed of projection, the horizontal range of a projectile is maximum when the angle of projection is",
+      "options": [
+        "60°",
+        "90°",
+        "45°",
+        "30°"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The momentum of a ball of mass 0.5 kg moving with a speed of 10 m/s is",
+      "options": [
+        "5 kg m/s",
+        "10 kg m/s",
+        "20 kg m/s",
+        "0.5 kg m/s"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The kinetic energy of a body of mass 2 kg moving with a speed of 3 m/s is",
+      "options": [
+        "3 J",
+        "6 J",
+        "9 J",
+        "18 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The moment of inertia of a uniform solid sphere of mass M and radius R about its diameter is",
+      "options": [
+        "½MR²",
+        "(2/5)MR²",
+        "(2/3)MR²",
+        "(7/5)MR²"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The escape velocity of a body from the surface of the earth does NOT depend on",
+      "options": [
+        "the mass of the body",
+        "the mass of the earth",
+        "the radius of the earth",
+        "the universal gravitational constant"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A spring of force constant 100 N/m is stretched by 0.1 m. The potential energy stored in it is",
+      "options": [
+        "5 J",
+        "0.5 J",
+        "1 J",
+        "10 J"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The time period of a simple pendulum of length 1 m at a place where g = π² m/s² is",
+      "options": [
+        "4 s",
+        "1 s",
+        "π s",
+        "2 s"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A body of mass 1 kg moving at 6 m/s collides with a stationary body of mass 2 kg and they stick together. The velocity of the combined mass is",
+      "options": [
+        "3 m/s",
+        "6 m/s",
+        "2 m/s",
+        "1 m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A force of 10 N acts perpendicular to a rod at a distance of 0.5 m from the axis of rotation. The torque produced is",
+      "options": [
+        "2 N m",
+        "5 N m",
+        "20 N m",
+        "0.5 N m"
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 7",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "The side of a cube is measured with a percentage error of 1%. The percentage error in the calculated volume of the cube is",
+      "options": [
+        "1%",
+        "2%",
+        "3%",
+        "6%"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The dimensional formula of pressure is",
+      "options": [
+        "[MLT⁻²]",
+        "[ML⁻¹T⁻²]",
+        "[ML²T⁻²]",
+        "[ML⁻²T⁻²]"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Two forces of magnitude 6 N and 8 N act on a body at right angles to each other. The magnitude of the resultant force is",
+      "options": [
+        "14 N",
+        "2 N",
+        "10 N",
+        "48 N"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The angle between the vectors A = 2î + 3ĵ and B = 3î − 2ĵ is",
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "180°"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two trains move on parallel tracks in opposite directions with speeds 60 km/h and 40 km/h. The speed of one train relative to the other is",
+      "options": [
+        "20 km/h",
+        "100 km/h",
+        "50 km/h",
+        "140 km/h"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A body starts from rest and its velocity increases uniformly to 10 m/s in 5 s. It then moves with this constant velocity for the next 5 s. The total displacement in 10 s is",
+      "options": [
+        "50 m",
+        "100 m",
+        "75 m",
+        "125 m"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A projectile is fired with a speed of 20 m/s at an angle of 30° with the horizontal. Its time of flight is (take g = 10 m/s²)",
+      "options": [
+        "1 s",
+        "2 s",
+        "4 s",
+        "0.5 s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A stone is dropped from the top of a tower 80 m high. The time taken to reach the ground is (take g = 10 m/s²)",
+      "options": [
+        "8 s",
+        "16 s",
+        "2 s",
+        "4 s"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A body starts from rest with a uniform acceleration of 4 m/s². The distance travelled by it in the 5th second is",
+      "options": [
+        "36 m",
+        "20 m",
+        "16 m",
+        "18 m"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A car moves with a constant speed of 10 m/s on a circular path of radius 50 m. The magnitude of its acceleration is",
+      "options": [
+        "2 m/s²",
+        "0.2 m/s²",
+        "5 m/s²",
+        "500 m/s²"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A man walks east at 3 m/s while rain falls vertically downward at 4 m/s. The speed of the rain relative to the man is",
+      "options": [
+        "7 m/s",
+        "1 m/s",
+        "5 m/s",
+        "12 m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "In a vernier calliper, 10 vernier scale divisions coincide with 9 main scale divisions, and 1 main scale division is 1 mm. The least count is",
+      "options": [
+        "0.01 mm",
+        "0.1 mm",
+        "0.9 mm",
+        "1 mm"
+      ],
+      "answer": 2
+    }
+  ]
+}

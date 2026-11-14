@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 128",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Electrodynamics (Hard)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Two point charges +Q and -Q are placed at a distance d apart. The electric potential at the midpoint of the line joining them is:",
+            "options": [
+                "1) Proportional to Q",
+                "2) Zero",
+                "3) Proportional to 1/d",
+                "4) Infinity"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric flux through a closed surface enclosing a charge q is q/epsilon_0. If the size of the surface is doubled, the flux will:",
+            "options": [
+                "1) Double",
+                "2) Halve",
+                "3) Remain the same",
+                "4) Quadruple"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A parallel plate capacitor is charged and the battery is disconnected. If a dielectric slab is inserted between the plates, the energy stored in the capacitor:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains unchanged",
+                "4) Becomes zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The equivalent resistance of n identical resistors of resistance R connected in parallel is:",
+            "options": [
+                "1) nR",
+                "2) R/n",
+                "3) n^2 R",
+                "4) R/n^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a potentiometer experiment, the null point is obtained at a length l. If the length of the potentiometer wire is increased without changing the primary circuit, the null point will:",
+            "options": [
+                "1) Shift to a larger length",
+                "2) Shift to a smaller length",
+                "3) Remain unchanged",
+                "4) Fluctuate"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is moving parallel to a uniform magnetic field. The magnetic force acting on it is:",
+            "options": [
+                "1) qvB",
+                "2) qvB/2",
+                "3) Zero",
+                "4) Maximum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two parallel wires carrying currents in opposite directions:",
+            "options": [
+                "1) Attract each other",
+                "2) Repel each other",
+                "3) Do not exert any force",
+                "4) Rotate perpendicular to each other"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field at the center of a circular coil of radius r carrying current I is proportional to:",
+            "options": [
+                "1) r",
+                "2) 1/r",
+                "3) r^2",
+                "4) 1/r^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law provides the direction of the:",
+            "options": [
+                "1) Magnetic field",
+                "2) Induced EMF",
+                "3) Lorentz force",
+                "4) Electric field"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The self-inductance of a coil is analogous to:",
+            "options": [
+                "1) Mass in mechanics",
+                "2) Velocity in mechanics",
+                "3) Force in mechanics",
+                "4) Momentum in mechanics"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC circuit with a pure capacitor, the phase difference between current and voltage is:",
+            "options": [
+                "1) 0",
+                "2) pi/2 (current leads)",
+                "3) pi/2 (current lags)",
+                "4) pi"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resonant frequency of a series LCR circuit is:",
+            "options": [
+                "1) 1 / (2*pi*sqrt(LC))",
+                "2) 2*pi*sqrt(LC)",
+                "3) 1 / sqrt(LC)",
+                "4) 2*pi*LC"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Electromagnetic waves are produced by:",
+            "options": [
+                "1) Stationary charges",
+                "2) Charges moving with constant velocity",
+                "3) Accelerated charges",
+                "4) Neutral particles"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the highest frequency?",
+            "options": [
+                "1) Microwaves",
+                "2) X-rays",
+                "3) Ultraviolet rays",
+                "4) Gamma rays"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The core of a transformer is laminated to minimize:",
+            "options": [
+                "1) Copper losses",
+                "2) Flux leakage",
+                "3) Eddy current losses",
+                "4) Hysteresis losses"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic susceptibility of a diamagnetic substance is:",
+            "options": [
+                "1) Small and positive",
+                "2) Large and positive",
+                "3) Small and negative",
+                "4) Large and negative"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A cyclotron is used to accelerate:",
+            "options": [
+                "1) Neutrons",
+                "2) Electrons",
+                "3) Heavy charged particles",
+                "4) Photons"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The drift velocity of electrons in a typical conductor is of the order of:",
+            "options": [
+                "1) 10^6 m/s",
+                "2) 10^3 m/s",
+                "3) 10^-4 m/s",
+                "4) 10^-8 m/s"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Equipotential surfaces for a uniform electric field are:",
+            "options": [
+                "1) Concentric spheres",
+                "2) Coaxial cylinders",
+                "3) Parallel planes",
+                "4) Intersecting planes"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The unit of electric dipole moment is:",
+            "options": [
+                "1) Coulomb",
+                "2) Coulomb / meter",
+                "3) Coulomb * meter",
+                "4) Volt / meter"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A charge of 8.85 uC is placed at the center of a cube. The total electric flux passing through the cube in 10^5 N.m^2/C is (e0 = 8.85 x 10^-12):",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "Two resistors of 5 ohms and 10 ohms are connected in series. The equivalent resistance in ohms is:",
+            "answer": "15"
+        },
+        {
+            "type": "numerical",
+            "question": "The magnetic field inside a long solenoid having 1000 turns per meter and carrying a current of 1 A is (x * 4*pi * 10^-4) Tesla. The value of x is:",
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "The magnetic flux through a coil changes from 10 Wb to 0 Wb in 2 seconds. The magnitude of the average induced emf in Volts is:",
+            "answer": "5"
+        },
+        {
+            "type": "numerical",
+            "question": "An ideal LC circuit has L = 1 H and C = 1 uF. Its angular resonant frequency in rad/s is:",
+            "answer": "1000"
+        }
+    ]
+}

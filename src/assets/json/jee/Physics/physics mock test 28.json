@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 28",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Ray Optics",
+        "Wave Optics",
+        "Kinematics",
+        "Thermodynamics"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Total internal reflection occurs when light travels from:",
+            "options": [
+                "1) Denser to rarer medium, angle of incidence > critical angle",
+                "2) Rarer to denser medium",
+                "3) Denser to rarer medium, angle of incidence < critical angle",
+                "4) Any medium"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Rain is falling vertically with a speed of 3 m/s. A man walks in the rain with a velocity of 4 m/s. The relative speed of rain with respect to the man is:",
+            "options": [
+                "1) 1 m/s",
+                "2) 5 m/s",
+                "3) 7 m/s",
+                "4) 4 m/s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of specific heats Cp/Cv for a diatomic gas at room temperature is:",
+            "options": [
+                "1) 1.67",
+                "2) 1.40",
+                "3) 1.33",
+                "4) 1.28"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The slope of a displacement-time graph represents:",
+            "options": [
+                "1) Acceleration",
+                "2) Velocity",
+                "3) Jerk",
+                "4) Distance"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Malus' law, the intensity of polarized light transmitted through an analyzer varies as:",
+            "options": [
+                "1) cos \u03b8",
+                "2) sin \u03b8",
+                "3) cos^2 \u03b8",
+                "4) sin^2 \u03b8"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a single slit diffraction experiment, the width of the central maximum is:",
+            "options": [
+                "1) \u03bb/a",
+                "2) 2\u03bb/a",
+                "3) \u03bb/2a",
+                "4) a/\u03bb"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A convex mirror always forms an image which is:",
+            "options": [
+                "1) Real and magnified",
+                "2) Virtual and magnified",
+                "3) Virtual and diminished",
+                "4) Real and diminished"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A body falls freely from rest. The distance covered in the nth second is proportional to:",
+            "options": [
+                "1) n",
+                "2) n^2",
+                "3) 2n-1",
+                "4) 2n+1"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an adiabatic process, the relation between P and V is:",
+            "options": [
+                "1) PV = constant",
+                "2) P/V = constant",
+                "3) PV^\u03b3 = constant",
+                "4) P^\u03b3V = constant"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The mean free path of a gas molecule is inversely proportional to:",
+            "options": [
+                "1) Temperature",
+                "2) Pressure",
+                "3) Volume",
+                "4) Mass"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the initial velocity of a car is doubled, the minimum stopping distance will become:",
+            "options": [
+                "1) Half",
+                "2) Double",
+                "3) Four times",
+                "4) Eight times"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The resolving power of a microscope can be increased by using light of:",
+            "options": [
+                "1) Longer wavelength",
+                "2) Shorter wavelength",
+                "3) Higher intensity",
+                "4) Lower frequency"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The work done in a cyclic process is given by:",
+            "options": [
+                "1) Area under the PV curve",
+                "2) Area enclosed by the PV cycle",
+                "3) Volume change",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two coherent sources have intensities in the ratio 4:1. The ratio of maximum to minimum intensity is:",
+            "options": [
+                "1) 9:1",
+                "2) 4:1",
+                "3) 3:1",
+                "4) 2:1"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A coin in a beaker filled with water appears raised due to:",
+            "options": [
+                "1) Reflection",
+                "2) Interference",
+                "3) Refraction",
+                "4) Diffraction"
+            ],
+            "answer": "3"
+        }
+    ]
+}

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import blogs from "../data/blogs";
 
@@ -82,7 +82,7 @@ const Blogs = () => {
                 md:text-4xl
               "
             >
-              CLAT & CUET Guidance
+              CLAT, CUET & Exam Preparation Guides
             </h1>
 
             <p
@@ -93,10 +93,44 @@ const Blogs = () => {
                 text-gray-600
               "
             >
-              Get expert guidance, preparation strategies and useful tips
-              to begin your entrance exam journey with confidence.
+              Explore practical guides on CLAT and CUET preparation,
+              current affairs, study planning, and how to learn from mock
+              tests. Use each article to find a clear next step for your
+              preparation.
             </p>
 
+          </div>
+
+          <div className="mx-auto mb-10 grid max-w-5xl gap-4 sm:grid-cols-3">
+            {[
+              {
+                title: "Understand",
+                description:
+                  "Review exam topics and build a study routine around your goals.",
+              },
+              {
+                title: "Practise",
+                description:
+                  "Use questions and mock tests to apply what you have learned.",
+              },
+              {
+                title: "Reflect",
+                description:
+                  "Review your attempts and choose what to revise next.",
+              },
+            ].map((item) => (
+              <div
+                key={item.title}
+                className="rounded-xl border border-gray-200 bg-white p-5 text-center shadow-sm"
+              >
+                <h2 className="text-lg font-bold text-red-950">
+                  {item.title}
+                </h2>
+                <p className="mt-2 text-sm leading-6 text-gray-600">
+                  {item.description}
+                </p>
+              </div>
+            ))}
           </div>
 
 
@@ -123,8 +157,11 @@ const Blogs = () => {
                 <div
                   key={blog.slug}
                   className="
-                    overflow-hidden
-                    rounded-xl
+                      flex
+                      h-full
+                      flex-col
+                      overflow-hidden
+                      rounded-xl
                     border
                     border-gray-200
                     bg-white
@@ -207,7 +244,7 @@ const Blogs = () => {
                       CONTENT
                   ========================================== */}
 
-                  <div className="p-6">
+                  <div className="flex flex-1 flex-col p-6">
 
                     {/* CATEGORY */}
 
@@ -247,14 +284,36 @@ const Blogs = () => {
 
                     <p
                       className="
-                        mb-6
-                        text-sm
-                        leading-6
+                        mb-4
+                        text-base
+                        leading-7
                         text-gray-600
                       "
                     >
                       {blog.description}
                     </p>
+
+                    <div className="mb-5 rounded-lg bg-gray-50 p-4">
+                      <p className="mb-2 text-xs font-bold uppercase tracking-wider text-red-900">
+                        Inside this guide
+                      </p>
+                      <ul className="space-y-2">
+                        {blog.points.slice(0, 3).map((point) => (
+                          <li
+                            key={point}
+                            className="flex items-start gap-2 text-sm leading-5 text-gray-700"
+                          >
+                            <span
+                              aria-hidden="true"
+                              className="mt-0.5 font-bold text-red-800"
+                            >
+                              ✓
+                            </span>
+                            <span>{point}</span>
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
 
 
                     {/* READ BLOG */}
@@ -262,6 +321,7 @@ const Blogs = () => {
                     <Link
                       to={`/blogs/${blog.slug}`}
                       className="
+                        mt-auto
                         font-semibold
                         text-red-950
                         transition

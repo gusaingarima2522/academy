@@ -1,0 +1,177 @@
+{
+    "testName": "Physics Mock Test 79",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Basic Mechanics & General Physics (Easy Level)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A potential difference of 13 V is applied across a resistor of 4 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 3.25 A",
+                "2) 4.25 A",
+                "3) 1.625 A",
+                "4) 6.5 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 7 kg accelerates at 2 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 14 N",
+                "2) 19 N",
+                "3) 12 N",
+                "4) 28 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 8 kg accelerates at 4 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 32 N",
+                "2) 37 N",
+                "3) 30 N",
+                "4) 64 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 4 kg accelerates at 4 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 16 N",
+                "2) 21 N",
+                "3) 14 N",
+                "4) 32 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 22 m/s for 2 seconds. The distance covered is:",
+            "options": [
+                "1) 44 m",
+                "2) 54 m",
+                "3) 39 m",
+                "4) 88 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 4 kg accelerates at 8 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 32 N",
+                "2) 37 N",
+                "3) 30 N",
+                "4) 64 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 24 V is applied across a resistor of 6 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 4.0 A",
+                "2) 5.0 A",
+                "3) 2.0 A",
+                "4) 8.0 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 30 m/s for 5 seconds. The distance covered is:",
+            "options": [
+                "1) 150 m",
+                "2) 160 m",
+                "3) 145 m",
+                "4) 300 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 15 V is applied across a resistor of 3 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 5.0 A",
+                "2) 6.0 A",
+                "3) 2.5 A",
+                "4) 10.0 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 20 m/s for 3 seconds. The distance covered is:",
+            "options": [
+                "1) 60 m",
+                "2) 70 m",
+                "3) 55 m",
+                "4) 120 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 13 V is applied across a resistor of 3 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 4.33 A",
+                "2) 5.33 A",
+                "3) 2.165 A",
+                "4) 8.66 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 23 m/s for 2 seconds. The distance covered is:",
+            "options": [
+                "1) 46 m",
+                "2) 56 m",
+                "3) 41 m",
+                "4) 92 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 29 m/s for 6 seconds. The distance covered is:",
+            "options": [
+                "1) 174 m",
+                "2) 184 m",
+                "3) 169 m",
+                "4) 348 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 15 m/s for 6 seconds. The distance covered is:",
+            "options": [
+                "1) 90 m",
+                "2) 100 m",
+                "3) 85 m",
+                "4) 180 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 11 m/s for 6 seconds. The distance covered is:",
+            "options": [
+                "1) 66 m",
+                "2) 76 m",
+                "3) 61 m",
+                "4) 132 m"
+            ],
+            "answer": "1"
+        }
+    ]
+}

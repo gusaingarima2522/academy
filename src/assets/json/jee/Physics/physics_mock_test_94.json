@@ -1,0 +1,232 @@
+{
+    "testName": "Physics Mock Test 94",
+    "totalMarks": 80,
+    "timeMinutes": 40,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 20,
+    "topics": [
+        "Electromagnetism"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Two charges +q and -q are placed distance d apart. The electric potential is zero at:",
+            "options": [
+                "1) The midpoint of the line joining them",
+                "2) Infinity",
+                "3) Both 1 and 2",
+                "4) Nowhere"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The capacitance of a parallel plate capacitor increases when:",
+            "options": [
+                "1) Distance between plates increases",
+                "2) A dielectric slab is inserted",
+                "3) Area of plates decreases",
+                "4) Charge is decreased"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance R is drawn out so that its length is doubled. The new resistance is:",
+            "options": [
+                "1) R/2",
+                "2) 2R",
+                "3) 4R",
+                "4) R/4"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Kirchhoff's loop rule is a consequence of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Mass",
+                "3) Momentum",
+                "4) Energy"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field at the center of a circular coil carrying current is:",
+            "options": [
+                "1) Zero",
+                "2) Proportional to its radius",
+                "3) Inversely proportional to its radius",
+                "4) Independent of the current"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle moves undeflected through a region of crossed electric and magnetic fields. Its velocity is:",
+            "options": [
+                "1) E*B",
+                "2) B/E",
+                "3) E/B",
+                "4) E+B"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law provides the direction of:",
+            "options": [
+                "1) Magnetic field",
+                "2) Induced EMF",
+                "3) Electric field",
+                "4) Lorentz force"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The self-inductance of a coil is analogous to:",
+            "options": [
+                "1) Friction",
+                "2) Inertia",
+                "3) Momentum",
+                "4) Force"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC circuit with pure inductance, the phase angle between voltage and current is:",
+            "options": [
+                "1) 0",
+                "2) pi/2",
+                "3) pi",
+                "4) pi/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resonant frequency of a series LCR circuit is:",
+            "options": [
+                "1) 1 / (2*pi*sqrt(LC))",
+                "2) 2*pi*sqrt(LC)",
+                "3) 1 / sqrt(LC)",
+                "4) 2*pi*LC"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The core of a transformer is laminated to minimize:",
+            "options": [
+                "1) Hysteresis loss",
+                "2) Flux leakage",
+                "3) Eddy current loss",
+                "4) Copper loss"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Electromagnetic waves are produced by:",
+            "options": [
+                "1) Charges at rest",
+                "2) Charges moving with constant velocity",
+                "3) Accelerated charges",
+                "4) Uncharged particles"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+            "options": [
+                "1) Radio waves",
+                "2) Visible light",
+                "3) X-rays",
+                "4) Gamma rays"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric flux is a:",
+            "options": [
+                "1) Scalar quantity",
+                "2) Vector quantity",
+                "3) Tensor",
+                "4) Dimensionless quantity"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The specific resistance of a conductor depends on:",
+            "options": [
+                "1) Its length",
+                "2) Its cross-sectional area",
+                "3) The material it is made of",
+                "4) All of the above"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two parallel wires carrying current in opposite directions:",
+            "options": [
+                "1) Attract each other",
+                "2) Repel each other",
+                "3) Do not exert any force",
+                "4) Will start rotating"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A cyclotron is used to accelerate:",
+            "options": [
+                "1) Electrons",
+                "2) Neutrons",
+                "3) Positive ions",
+                "4) Photons"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic susceptibility of a diamagnetic substance is:",
+            "options": [
+                "1) Positive and small",
+                "2) Positive and large",
+                "3) Negative and small",
+                "4) Negative and large"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The time constant of an L-R circuit is:",
+            "options": [
+                "1) L*R",
+                "2) R/L",
+                "3) L/R",
+                "4) 1/(L*R)"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an electromagnetic wave, the electric and magnetic fields are:",
+            "options": [
+                "1) Parallel to each other",
+                "2) Perpendicular to each other and to the direction of propagation",
+                "3) Inclined at 45 degrees",
+                "4) Out of phase by pi/2"
+            ],
+            "answer": "2"
+        }
+    ]
+}

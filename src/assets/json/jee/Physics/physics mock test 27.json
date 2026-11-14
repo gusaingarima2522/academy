@@ -1,0 +1,181 @@
+{
+    "testName": "Physics Mock Test 27",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Optics",
+        "Modern Physics",
+        "Semiconductors",
+        "Mechanics",
+        "Thermal Physics"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "In a Young's double-slit experiment, if the slit separation is doubled, to maintain the same fringe width, the distance between the screen and slits must be:",
+            "options": [
+                "1) Halved",
+                "2) Doubled",
+                "3) Quadrupled",
+                "4) Kept the same"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Statement I: Stopping potential in photoelectric effect depends on intensity. Statement II: Saturation current depends on frequency. Choose the correct option:",
+            "options": [
+                "1) Both correct",
+                "2) Both incorrect",
+                "3) I correct, II incorrect",
+                "4) I incorrect, II correct"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Zener diode is primarily used as a:",
+            "options": [
+                "1) Rectifier",
+                "2) Amplifier",
+                "3) Voltage regulator",
+                "4) Oscillator"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle is projected at 45\u00b0 with kinetic energy K. The kinetic energy at the highest point is:",
+            "options": [
+                "1) 0",
+                "2) K/2",
+                "3) K/\u221a2",
+                "4) K"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In an isothermal expansion of an ideal gas:",
+            "options": [
+                "1) Internal energy increases",
+                "2) Heat absorbed is converted to work",
+                "3) Pressure remains constant",
+                "4) Entropy decreases"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The de Broglie wavelength of an electron accelerated through a potential difference V is proportional to:",
+            "options": [
+                "1) V",
+                "2) \u221aV",
+                "3) 1/V",
+                "4) 1/\u221aV"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "If the half-life of a radioactive substance is T, the time taken to decay to 1/16th of its original mass is:",
+            "options": [
+                "1) 2T",
+                "2) 3T",
+                "3) 4T",
+                "4) 5T"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which gives a HIGH output only when all inputs are HIGH is:",
+            "options": [
+                "1) OR",
+                "2) AND",
+                "3) NOR",
+                "4) NAND"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In Bohr's model, the energy of an electron in the nth orbit is proportional to:",
+            "options": [
+                "1) n",
+                "2) 1/n",
+                "3) n^2",
+                "4) 1/n^2"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass m slides on a rough horizontal surface with coefficient of friction \u03bc. The work done by friction over a distance d is:",
+            "options": [
+                "1) \u03bcmgd",
+                "2) -\u03bcmgd",
+                "3) mgd",
+                "4) -mgd"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Carnot engine operates between 400 K and 300 K. Its efficiency is:",
+            "options": [
+                "1) 25%",
+                "2) 75%",
+                "3) 50%",
+                "4) 33.3%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Stefan-Boltzmann law, the energy radiated per unit area per unit time is proportional to:",
+            "options": [
+                "1) T",
+                "2) T^2",
+                "3) T^3",
+                "4) T^4"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "For a prism, the angle of minimum deviation depends on:",
+            "options": [
+                "1) Refractive index only",
+                "2) Angle of prism only",
+                "3) Both refractive index and angle of prism",
+                "4) Neither"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If a convex lens of focal length f in air is immersed in water, its focal length will:",
+            "options": [
+                "1) Increase",
+                "2) Decrease",
+                "3) Remain same",
+                "4) Become negative"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a common-emitter transistor amplifier, the current gain \u03b2 is related to \u03b1 as:",
+            "options": [
+                "1) \u03b2 = \u03b1/(1-\u03b1)",
+                "2) \u03b2 = \u03b1/(1+\u03b1)",
+                "3) \u03b2 = (1-\u03b1)/\u03b1",
+                "4) \u03b2 = 1/\u03b1"
+            ],
+            "answer": "1"
+        }
+    ]
+}

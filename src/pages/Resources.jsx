@@ -1,82 +1,5 @@
-import React from "react";
 import { Link } from "react-router-dom";
-
-
-const resources = [
-  {
-    title: "CLAT Syllabus & Exam Guide",
-    category: "CLAT",
-    description:
-      "Understand the major sections of CLAT and start your preparation with a clear study plan.",
-    icon: "/icons/guide.png",
-    link: "https://clat2027.consortiumofnlus.ac.in/clat-2027/ug-syllabus.html",
-    button: "View Syllabus",
-  },
-
-  {
-    title: "CLAT Legal Reasoning Practice",
-    category: "CLAT",
-    description:
-      "Practice principle-based questions and improve your ability to analyse legal situations.",
-    icon: "/icons/assessment.png",
-    button: "Study Material",
-  },
-
-  {
-    title: "CLAT Logical Reasoning",
-    category: "CLAT",
-    description:
-      "Improve arguments, inference, assumptions and critical reasoning through regular practice.",
-    icon: "/icons/reasoning.png",
-    button: "Study Material",
-  },
-
-  {
-    title: "Current Affairs & GK",
-    category: "General Knowledge",
-    description:
-      "Keep track of important national and international events and strengthen your general awareness.",
-    icon: "/icons/gk.png",
-    button: "Read More",
-  },
-
-  {
-    title: "CUET UG Syllabus",
-    category: "CUET",
-    description:
-      "Access the official CUET UG subject-wise syllabus and understand what you need to prepare.",
-    icon: "/icons/syllabus.png",
-    link: "https://cuet.nta.nic.in/cuetug-2026-syllabus/",
-    button: "View Syllabus",
-  },
-
-  {
-    title: "CUET General Aptitude",
-    category: "CUET",
-    description:
-      "Practice quantitative ability, reasoning, general knowledge and other aptitude-based questions.",
-    icon: "/icons/bulb.png",
-    button: "Study Material",
-  },
-
-  {
-    title: "English Language Practice",
-    category: "Practice",
-    description:
-      "Improve vocabulary, comprehension, grammar and reading skills through regular practice.",
-    icon: "/icons/language.png",
-    button: "Practice Now",
-  },
-
-  {
-    title: "Mock Test Resources",
-    category: "Mock Tests",
-    description:
-      "Use mock tests to improve your speed, accuracy and examination strategy.",
-    icon: "/icons/test.png",
-    button: "Start Practice",
-  },
-];
+import { studyResources } from "../data/studyResources";
 
 const Resources = () => {
   return (
@@ -91,16 +14,30 @@ const Resources = () => {
             World Wise Education
           </p>
 
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-4 sm:mb-5">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-4 sm:mb-5">
             Study Resources
           </h1>
 
           <p className="max-w-3xl mx-auto text-gray-200 text-sm sm:text-base md:text-lg leading-7 sm:leading-8">
             Explore useful study material, preparation guides, syllabus
-            resources and practice material to support your CLAT and CUET
-            preparation.
+            resources and practice material for CLAT, CUET and JEE preparation.
           </p>
 
+          <div className="mt-7 flex flex-wrap justify-center gap-2">
+            {["Clear study guides", "Quick practice checks", "Official syllabus links"].map(
+              (feature) => (
+                <span
+                  key={feature}
+                  className="rounded-full border border-white/25 bg-white/10 px-4 py-2 text-xs font-semibold text-white sm:text-sm"
+                >
+                  <span className="mr-2 text-yellow-300" aria-hidden="true">
+                    ✓
+                  </span>
+                  {feature}
+                </span>
+              ),
+            )}
+          </div>
         </div>
 
       </section>
@@ -127,39 +64,89 @@ const Resources = () => {
       </section>
 
 
+      {/* ================= EXAM RESOURCE CARDS ================= */}
+      <section className="bg-gray-100 px-4 sm:px-6 py-10 sm:py-12 md:py-14">
+        <div className="max-w-6xl mx-auto">
+          <div className="mb-7 text-center">
+            <p className="text-sm font-bold uppercase tracking-widest text-red-700">Resource library</p>
+            <h2 className="mt-2 text-2xl font-extrabold text-gray-900 sm:text-3xl">Choose your exam</h2>
+            <p className="mt-2 text-sm leading-6 text-gray-600 sm:text-base">Open a resource library for syllabus, notes, sample papers, book notes and mock tests.</p>
+          </div>
+
+          <div className="grid grid-cols-1 gap-5 md:grid-cols-3 sm:gap-6">
+            <Link to="/resources/clat" className="group flex h-full flex-col rounded-2xl bg-red-900 p-6 text-white no-underline shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-900 sm:p-7">
+              <img src="/icons/law.png" alt="" className="h-16 w-16 object-contain" />
+              <h3 className="mt-5 text-2xl font-bold">CLAT Resources</h3>
+              <p className="mt-3 text-sm leading-7 text-red-100">Reading, legal reasoning, logical reasoning and quantitative preparation.</p>
+              <span className="mt-auto pt-6 font-bold">Explore CLAT <span className="ml-1 transition-transform group-hover:inline-block group-hover:translate-x-1" aria-hidden="true">→</span></span>
+            </Link>
+
+            <Link to="/resources/cuet" className="group flex h-full flex-col rounded-2xl bg-yellow-300 p-6 text-gray-900 no-underline shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-900 sm:p-7">
+              <img src="/icons/degree.png" alt="" className="h-16 w-16 object-contain" />
+              <h3 className="mt-5 text-2xl font-bold">CUET Resources</h3>
+              <p className="mt-3 text-sm leading-7 text-gray-700">Language, domain subjects, general aptitude and sample practice material.</p>
+              <span className="mt-auto pt-6 font-bold text-red-900">Explore CUET <span className="ml-1 transition-transform group-hover:inline-block group-hover:translate-x-1" aria-hidden="true">→</span></span>
+            </Link>
+
+            <Link to="/resources/jee" className="group flex h-full flex-col rounded-2xl bg-gray-900 p-6 text-white no-underline shadow-sm transition duration-300 hover:-translate-y-1 hover:shadow-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400 sm:p-7">
+              <img src="/icons/assessment.png" alt="" className="h-16 w-16 object-contain" />
+              <h3 className="mt-5 text-2xl font-bold">JEE Resources</h3>
+              <p className="mt-3 text-sm leading-7 text-gray-300">Physics, Chemistry and Mathematics notes, papers and mock tests.</p>
+              <span className="mt-auto pt-6 font-bold text-yellow-300">Explore JEE <span className="ml-1 transition-transform group-hover:inline-block group-hover:translate-x-1" aria-hidden="true">→</span></span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* ================= RESOURCE CARDS ================= */}
-      <section className="bg-gray-100 px-4 sm:px-6 py-10 sm:py-12 md:py-16">
+      <section className="bg-white px-4 sm:px-6 py-10 sm:py-12 md:py-16">
 
         <div className="max-w-6xl mx-auto">
 
+          <div className="mb-7">
+            <p className="text-sm font-bold uppercase tracking-widest text-red-700">
+              Pick a place to begin
+            </p>
+            <h2 className="mt-2 text-2xl font-extrabold text-gray-900 sm:text-3xl">
+              Practical guides for your preparation
+            </h2>
+            <p className="mt-2 max-w-2xl text-sm leading-6 text-gray-600 sm:text-base">
+              Each guide includes focused takeaways and a quick activity to help
+              you put the ideas into practice.
+            </p>
+          </div>
+
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5 sm:gap-6">
 
-            {resources.map((resource, index) => (
+            {studyResources.map((resource) => (
 
               <div
-                key={index}
+                key={resource.id}
                 className="
                   bg-white
-                  rounded-xl
+                  rounded-2xl
                   p-5 sm:p-6
-                  shadow-md
+                  shadow-sm
                   border border-gray-200
                   flex flex-col
                   h-full
                   transition-all
                   duration-300
-                  hover:-translate-y-2
+                  hover:-translate-y-1.5
                   hover:shadow-xl
-                  hover:border-red-600
+                  hover:border-red-300
+                  focus-within:ring-2
+                  focus-within:ring-red-700
+                  focus-within:ring-offset-2
                 "
               >
 
                 {/* Icon */}
-                <div className="w-14 h-14 sm:w-16 sm:h-16 mb-4 flex items-center justify-center">
+                <div className="mb-5 flex h-16 w-16 items-center justify-center rounded-2xl bg-gradient-to-br from-rose-100 to-amber-50 p-3 ring-1 ring-red-100">
 
                   <img
                     src={resource.icon}
-                    alt={resource.title}
+                    alt=""
                     className="w-full h-full object-contain"
                   />
 
@@ -167,7 +154,7 @@ const Resources = () => {
 
 
                 {/* Category */}
-                <span className="inline-block text-xs sm:text-sm font-semibold text-red-700 mb-2">
+                <span className="mb-2 inline-flex w-fit rounded-full bg-red-50 px-3 py-1 text-xs font-bold text-red-800">
                   {resource.category}
                 </span>
 
@@ -179,151 +166,37 @@ const Resources = () => {
 
 
                 {/* Description */}
-                <p className="text-gray-600 text-sm leading-6 sm:leading-7 mb-6">
+                <p className="mb-4 text-sm leading-6 text-gray-600 sm:leading-7">
                   {resource.description}
                 </p>
 
+                <p className="mb-5 text-xs font-semibold text-gray-500">
+                  {resource.highlights.length} key takeaways
+                  <span className="mx-2 text-red-300" aria-hidden="true">•</span>
+                  Quick practice included
+                </p>
 
                 {/* Button */}
                 <div className="mt-auto">
 
-                  {resource.link ? (
-
-                    <a
-                      href={resource.link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="
-                        inline-block
-                        w-full
-                        text-center
-                        bg-red-700
-                        hover:bg-red-800
-                        text-white
-                        font-semibold
-                        px-4
-                        py-2.5
-                        rounded-lg
-                        text-sm
-                        sm:text-base
-                        transition-all
-                        duration-300
-                        hover:shadow-lg
-                      "
+                  <Link
+                    to={`/resources/${resource.id}`}
+                    className="group flex w-full items-center justify-center gap-2 rounded-xl bg-red-800 px-4 py-3 text-center text-sm font-bold text-white no-underline transition duration-300 hover:bg-red-900 hover:shadow-lg focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-red-800 sm:text-base"
+                  >
+                    {resource.button}
+                    <span
+                      className="transition-transform group-hover:translate-x-1"
+                      aria-hidden="true"
                     >
-                      {resource.button}
-                    </a>
-
-                  ) : (
-
-                    <button
-                      type="button"
-                      className="
-                        w-full
-                        bg-red-700
-                        hover:bg-red-800
-                        text-white
-                        font-semibold
-                        px-4
-                        py-2.5
-                        rounded-lg
-                        text-sm
-                        sm:text-base
-                        transition-all
-                        duration-300
-                        hover:shadow-lg
-                      "
-                    >
-                      {resource.button}
-                    </button>
-
-                  )}
+                      →
+                    </span>
+                  </Link>
 
                 </div>
 
               </div>
 
             ))}
-
-          </div>
-
-        </div>
-
-      </section>
-
-
-      {/* ================= CLAT + CUET ================= */}
-      <section className="px-4 sm:px-6 py-10 sm:py-12 md:py-16">
-
-        <div className="max-w-6xl mx-auto">
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-5 sm:gap-8">
-
-
-            {/* CLAT */}
-            <div className="bg-red-900 text-white rounded-2xl p-6 sm:p-8">
-
-              <div className="w-14 h-14 sm:w-16 sm:h-16 mb-5">
-
-                <img
-                  src="/icons/law.png"
-                  alt="CLAT preparation"
-                  className="w-full h-full object-contain"
-                />
-
-              </div>
-
-              <h2 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-5">
-                CLAT Preparation
-              </h2>
-
-              <p className="text-gray-200 text-sm sm:text-base leading-7 sm:leading-8 mb-6">
-                Focus on comprehension, reasoning and regular practice across
-                the major CLAT sections.
-              </p>
-
-              <ul className="space-y-3 text-gray-200 text-sm sm:text-base">
-                <li>✓ English Language</li>
-                <li>✓ Current Affairs & General Knowledge</li>
-                <li>✓ Legal Reasoning</li>
-                <li>✓ Logical Reasoning</li>
-                <li>✓ Quantitative Techniques</li>
-              </ul>
-
-            </div>
-
-
-            {/* CUET */}
-            <div className="bg-yellow-300 text-black rounded-2xl p-6 sm:p-8">
-
-              <div className="w-14 h-14 sm:w-16 sm:h-16 mb-5">
-
-                <img
-                  src="/icons/degree.png"
-                  alt="CUET preparation"
-                  className="w-full h-full object-contain"
-                />
-
-              </div>
-
-              <h2 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-5">
-                CUET Preparation
-              </h2>
-
-              <p className="text-sm sm:text-base leading-7 sm:leading-8 mb-6">
-                Explore subject-wise resources and build a structured
-                preparation routine for CUET UG.
-              </p>
-
-              <ul className="space-y-3 text-sm sm:text-base">
-                <li>✓ Language preparation</li>
-                <li>✓ Domain subjects</li>
-                <li>✓ General Aptitude</li>
-                <li>✓ Practice questions</li>
-                <li>✓ Mock tests</li>
-              </ul>
-
-            </div>
 
           </div>
 

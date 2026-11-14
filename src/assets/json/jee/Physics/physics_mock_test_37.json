@@ -1,0 +1,182 @@
+{
+    "testName": "Physics Mock Test 37",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Kinematics",
+        "NLM",
+        "WPE",
+        "Center of Mass",
+        "Rotation"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The velocity-time graph of a particle is shown in the figure. The ratio of acceleration in regions OA and AB is:",
+            "image": "test_37_q1.png",
+            "options": [
+                "1) 1:0",
+                "2) 1:1",
+                "3) 0:1",
+                "4) Cannot be determined"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two bodies of masses 2 kg and 4 kg are moving with velocities 2 m/s and 10 m/s respectively towards each other. The velocity of their center of mass is:",
+            "options": [
+                "1) 6 m/s",
+                "2) 4 m/s",
+                "3) 8 m/s",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform rod of length L and mass M is pivoted at its center. Its moment of inertia about the pivot is:",
+            "options": [
+                "1) ML^2/12",
+                "2) ML^2/3",
+                "3) ML^2/4",
+                "4) 2ML^2/5"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The work done by a variable force F = (2x)i + (3y^2)j from (0,0) to (1,1) is:",
+            "options": [
+                "1) 1 J",
+                "2) 2 J",
+                "3) 3 J",
+                "4) 5 J"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 5 kg is kept on a rough horizontal surface (\u03bc=0.2). A horizontal force of 5 N is applied. The frictional force acting on the block is (g=10 m/s\u00b2):",
+            "options": [
+                "1) 10 N",
+                "2) 5 N",
+                "3) 8 N",
+                "4) 2 N"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a head-on elastic collision of two bodies of equal masses, their velocities:",
+            "options": [
+                "1) Are doubled",
+                "2) Become zero",
+                "3) Are interchanged",
+                "4) Are halved"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle moves in a circle of radius r with speed v. The centripetal force is F. If speed is doubled and radius is halved, the new centripetal force is:",
+            "options": [
+                "1) 2F",
+                "2) 4F",
+                "3) 8F",
+                "4) 16F"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The angular momentum of a rotating body changes from A0 to 4A0 in 4 seconds. The constant torque acting on it is:",
+            "options": [
+                "1) 3A0/4",
+                "2) A0/4",
+                "3) 5A0/4",
+                "4) A0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A bomb of mass 9 kg explodes into two pieces of masses 3 kg and 6 kg. The velocity of the 3 kg piece is 16 m/s. The kinetic energy of the 6 kg piece is:",
+            "options": [
+                "1) 384 J",
+                "2) 192 J",
+                "3) 768 J",
+                "4) 96 J"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is true for a conservative force?",
+            "options": [
+                "1) Work done in a closed loop is zero",
+                "2) Work done depends on the path",
+                "3) Friction is an example",
+                "4) Potential energy cannot be defined"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The range of a projectile for a given initial velocity is maximum when the angle of projection is 45\u00b0. The maximum range is:",
+            "options": [
+                "1) u^2/g",
+                "2) u^2/2g",
+                "3) 2u^2/g",
+                "4) u/g"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A solid sphere and a hollow sphere of the same mass and radius roll down an inclined plane. Which one reaches the bottom first?",
+            "options": [
+                "1) Hollow sphere",
+                "2) Solid sphere",
+                "3) Both reach at the same time",
+                "4) Depends on the angle of inclination"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of kinetic energy to potential energy of a particle executing SHM at a distance equal to half its amplitude is:",
+            "options": [
+                "1) 1:3",
+                "2) 3:1",
+                "3) 1:2",
+                "4) 2:1"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a simple pendulum inside a satellite orbiting the earth is:",
+            "options": [
+                "1) Zero",
+                "2) Infinity",
+                "3) Same as on earth",
+                "4) Cannot be defined"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A body is projected vertically upwards. The times corresponding to height h while ascending and descending are t1 and t2. Then h is:",
+            "options": [
+                "1) g*t1*t2",
+                "2) g*t1*t2/2",
+                "3) 2g*t1*t2",
+                "4) g*(t1+t2)/2"
+            ],
+            "answer": "2"
+        }
+    ]
+}

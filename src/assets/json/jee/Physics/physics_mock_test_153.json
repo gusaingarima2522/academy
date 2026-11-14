@@ -1,0 +1,259 @@
+{
+    "testName": "Physics Mock Test 153",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Exact JEE Main Simulation 3"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The given AC circuit diagram consists of R, L, and C components in series. At resonance, the impedance of the circuit is equal to:",
+            "image": "test_153_q1.png",
+            "options": [
+                "1) Zero",
+                "2) R",
+                "3) XL + XC",
+                "4) Infinity"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle moves along a straight line with velocity v = 3t^2 - 6t. The displacement of the particle from t = 0 to t = 4 seconds is:",
+            "options": [
+                "1) 0 m",
+                "2) 8 m",
+                "3) 16 m",
+                "4) 32 m"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A bullet of mass 10 g is fired horizontally with a velocity of 300 m/s into a 990 g block of wood resting on a smooth horizontal table. The fraction of initial kinetic energy lost in the collision is:",
+            "options": [
+                "1) 99%",
+                "2) 1%",
+                "3) 90%",
+                "4) 10%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A solid cylinder and a hollow cylinder of same mass and radius roll down an inclined plane. Which one reaches the bottom first?",
+            "options": [
+                "1) Solid cylinder",
+                "2) Hollow cylinder",
+                "3) Both reach at the same time",
+                "4) Depends on the angle of inclination"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "If the earth were to suddenly contract to half of its present radius without any change in its mass, the duration of the day would be:",
+            "options": [
+                "1) 24 hours",
+                "2) 12 hours",
+                "3) 6 hours",
+                "4) 48 hours"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Young's modulus of a wire of length L and radius r is Y. If length is reduced to L/2 and radius to r/2, the Young's modulus becomes:",
+            "options": [
+                "1) Y",
+                "2) 2Y",
+                "3) Y/2",
+                "4) 4Y"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The excess pressure inside a spherical soap bubble of radius r and surface tension T is:",
+            "options": [
+                "1) 2T/r",
+                "2) 4T/r",
+                "3) T/r",
+                "4) 8T/r"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the first law of thermodynamics, delta Q = delta U + delta W. For an isothermal process:",
+            "options": [
+                "1) delta W = 0",
+                "2) delta U = 0",
+                "3) delta Q = 0",
+                "4) delta Q = delta W"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Carnot engine has an efficiency of 25%. If the temperature of the sink is reduced by 50 K, its efficiency becomes 50%. The original temperature of the sink in Kelvin is:",
+            "options": [
+                "1) 150 K",
+                "2) 300 K",
+                "3) 200 K",
+                "4) 400 K"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle executing SHM has amplitude A and maximum velocity v_max. Its speed at displacement x = A/2 is:",
+            "options": [
+                "1) v_max / 2",
+                "2) v_max * sqrt(3) / 2",
+                "3) v_max / sqrt(2)",
+                "4) v_max / 4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two organ pipes, one closed at one end and the other open at both ends, have the same fundamental frequency. The ratio of their lengths (L_closed : L_open) is:",
+            "options": [
+                "1) 1:1",
+                "2) 1:2",
+                "3) 2:1",
+                "4) 1:4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric potential due to a point charge q at a distance r is V. The electric field at the same distance is:",
+            "options": [
+                "1) V / r",
+                "2) V / r^2",
+                "3) V * r",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Three identical capacitors each of capacitance C are connected in series. Their equivalent capacitance is:",
+            "options": [
+                "1) 3C",
+                "2) C/3",
+                "3) 9C",
+                "4) C"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance R is bent into a circle of radius r. The equivalent resistance between the ends of any diameter is:",
+            "options": [
+                "1) R / 2",
+                "2) R / 4",
+                "3) R / 8",
+                "4) 2 R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle moves in a uniform magnetic field in a circular path of radius r. If the momentum of the particle is doubled, the radius of the circular path becomes:",
+            "options": [
+                "1) r",
+                "2) 2r",
+                "3) 4r",
+                "4) r / 2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The self-inductance of a coil is 2 H. If the current changes from 4 A to 0 A in 0.1 s, the induced emf in the coil is:",
+            "options": [
+                "1) 40 V",
+                "2) 80 V",
+                "3) 20 V",
+                "4) 10 V"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "An electromagnetic wave is propagating in the x-direction with electric field along the y-axis. The magnetic field is directed along the:",
+            "options": [
+                "1) x-axis",
+                "2) y-axis",
+                "3) z-axis",
+                "4) -z axis"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "As shown in the lens combination diagram, a convex lens is placed in contact with another optical component. The focal length of the combination of two thin lenses in contact is given by:",
+            "image": "test_153_q18.png",
+            "options": [
+                "1) f = f1 + f2",
+                "2) 1/f = 1/f1 + 1/f2",
+                "3) f = f1 * f2 / (f1 - f2)",
+                "4) f = sqrt(f1 * f2)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Einstein's photoelectric equation, the maximum kinetic energy of emitted photoelectrons varies linearly with:",
+            "options": [
+                "1) Intensity of incident light",
+                "2) Frequency of incident light",
+                "3) Wavelength of incident light",
+                "4) Square of frequency"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The minimum energy required to remove an electron from the ground state of a hydrogen atom is:",
+            "options": [
+                "1) 3.4 eV",
+                "2) 13.6 eV",
+                "3) 10.2 eV",
+                "4) 0 eV"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A body of mass 2 kg falls freely from rest. Its kinetic energy after 3 seconds in Joules is (g = 10 m/s^2):",
+            "answer": "900"
+        },
+        {
+            "type": "numerical",
+            "question": "A uniform disc of mass 10 kg and radius 0.5 m is rotating at 20 rad/s. Its angular momentum in kg m^2/s is:",
+            "answer": "25"
+        },
+        {
+            "type": "numerical",
+            "question": "Two point charges +2 uC and +8 uC are separated by 12 cm. The distance in cm from the 2 uC charge where the net electric field is zero is:",
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "A current of 2 A flows through a resistor of 5 ohms for 10 seconds. The heat produced in Joules is:",
+            "answer": "200"
+        },
+        {
+            "type": "numerical",
+            "question": "The half-life of a radioactive isotope is 4 days. The fraction of the isotope remaining after 12 days is expressed as 1/x. The value of x is:",
+            "answer": "8"
+        }
+    ]
+}

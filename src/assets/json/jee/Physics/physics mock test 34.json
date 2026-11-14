@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 34",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Thermodynamics",
+        "KTG",
+        "Oscillations",
+        "Waves"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "In a reversible process, the entropy of the universe:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains constant",
+                "4) Becomes zero"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If a gas has f degrees of freedom, the ratio of its specific heats Cp/Cv is given by:",
+            "options": [
+                "1) 1 + f/2",
+                "2) 1 + 2/f",
+                "3) 1 - 2/f",
+                "4) 1 - f/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A mass m is suspended from a spring of force constant k and just touches another identical spring fixed to the floor. The time period of small oscillations is:",
+            "options": [
+                "1) 2*pi*sqrt(m/k)",
+                "2) pi*sqrt(m/k) + pi*sqrt(m/2k)",
+                "3) pi*sqrt(m/k)",
+                "4) 2*pi*sqrt(m/2k)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, the distance between a node and the adjacent antinode is:",
+            "options": [
+                "1) lambda",
+                "2) lambda/2",
+                "3) lambda/4",
+                "4) 3*lambda/4"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The velocity of sound in a gas is directly proportional to the square root of its:",
+            "options": [
+                "1) Pressure",
+                "2) Density",
+                "3) Absolute temperature",
+                "4) Volume"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A source of sound emitting a tone of frequency 200 Hz moves towards an observer with a velocity equal to v/5 (where v is the velocity of sound). The observer hears the tone of frequency:",
+            "options": [
+                "1) 240 Hz",
+                "2) 250 Hz",
+                "3) 160 Hz",
+                "4) 200 Hz"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the temperature of the source in a Carnot engine is increased, its efficiency:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains constant",
+                "4) Becomes 100%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Wien's displacement law, the wavelength corresponding to maximum intensity of emission is:",
+            "options": [
+                "1) Inversely proportional to absolute temperature",
+                "2) Directly proportional to absolute temperature",
+                "3) Proportional to square of absolute temperature",
+                "4) Independent of temperature"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Beats are the result of:",
+            "options": [
+                "1) Diffraction",
+                "2) Interference",
+                "3) Polarization",
+                "4) Reflection"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two pendulums of lengths 1 m and 1.21 m start swinging together. They will swing together again after:",
+            "options": [
+                "1) 10 swings of longer pendulum",
+                "2) 11 swings of longer pendulum",
+                "3) 11 swings of shorter pendulum",
+                "4) 10 swings of shorter pendulum"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle executing SHM has amplitude A and maximum velocity v0. Its displacement at which its velocity is v0/2 is:",
+            "options": [
+                "1) A/2",
+                "2) A*sqrt(3)/2",
+                "3) A/sqrt(2)",
+                "4) A/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The efficiency of a Carnot cycle operating between 227 C and 27 C is:",
+            "options": [
+                "1) 20%",
+                "2) 40%",
+                "3) 60%",
+                "4) 80%"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The equation of a wave is y = 2 sin(pi(0.5x - 200t)). The velocity of the wave is:",
+            "options": [
+                "1) 400",
+                "2) 200",
+                "3) 100",
+                "4) 50"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Average kinetic energy of a gas molecule depends on:",
+            "options": [
+                "1) Nature of the gas",
+                "2) Temperature",
+                "3) Volume",
+                "4) Pressure"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "First law of thermodynamics is a consequence of conservation of:",
+            "options": [
+                "1) Work",
+                "2) Heat",
+                "3) Energy",
+                "4) Momentum"
+            ],
+            "answer": "3"
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 121",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 7"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle moves such that its position vector r(t) = cos(wt) i + sin(wt) j. The velocity vector is:",
+            "options": [
+                "1) Parallel to r",
+                "2) Perpendicular to r",
+                "3) Directed towards the origin",
+                "4) Directed away from the origin"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two bodies with kinetic energies in the ratio 4:1 are moving with equal linear momentum. The ratio of their masses is:",
+            "options": [
+                "1) 1:2",
+                "2) 1:1",
+                "3) 4:1",
+                "4) 1:4"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform circular ring of mass M and radius R about a tangent in its plane is:",
+            "options": [
+                "1) MR^2",
+                "2) 3/2 MR^2",
+                "3) 2 MR^2",
+                "4) 1/2 MR^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of specific heats Cp/Cv for a diatomic gas at room temperature is:",
+            "options": [
+                "1) 1.67",
+                "2) 1.40",
+                "3) 1.33",
+                "4) 1.28"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A simple pendulum of length L has a time period T. If the length is increased by 44%, the new time period is:",
+            "options": [
+                "1) 1.2 T",
+                "2) 1.44 T",
+                "3) 1.21 T",
+                "4) 1.4 T"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the first law of thermodynamics, delta Q = delta U + delta W. In an isochoric process:",
+            "options": [
+                "1) delta W = 0",
+                "2) delta Q = 0",
+                "3) delta U = 0",
+                "4) None of these"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Terminal velocity of a spherical body falling through a fluid depends on its radius r as:",
+            "options": [
+                "1) r",
+                "2) 1/r",
+                "3) r^2",
+                "4) 1/r^2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two wires of the same material and length have radii in the ratio 1:2. If they are stretched by the same force, the ratio of their elongations is:",
+            "options": [
+                "1) 1:2",
+                "2) 2:1",
+                "3) 1:4",
+                "4) 4:1"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas operates in a Carnot cycle. It takes heat from the source at 400 K and rejects heat to the sink at 300 K. Its efficiency is:",
+            "options": [
+                "1) 25%",
+                "2) 33.3%",
+                "3) 50%",
+                "4) 75%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "If the length of a potentiometer wire is increased, its sensitivity:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains unchanged",
+                "4) Becomes zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two point charges +q and -2q are placed at a distance d apart. The electric potential is zero at a point between them on the line joining them at a distance of:",
+            "options": [
+                "1) d/3 from +q",
+                "2) 2d/3 from +q",
+                "3) d/3 from -2q",
+                "4) d/2 from +q"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle moves in a magnetic field B = 10i with velocity v = 5i + 4j. The path of the particle is:",
+            "options": [
+                "1) Circle",
+                "2) Straight line",
+                "3) Parabola",
+                "4) Helix"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "In a purely inductive AC circuit, the current:",
+            "options": [
+                "1) Leads the voltage by pi/2",
+                "2) Lags the voltage by pi/2",
+                "3) Is in phase with the voltage",
+                "4) Lags the voltage by pi"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A step-up transformer increases the:",
+            "options": [
+                "1) Voltage",
+                "2) Current",
+                "3) Power",
+                "4) Frequency"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "When a plane electromagnetic wave propagates in a vacuum, the electric and magnetic fields are:",
+            "options": [
+                "1) Parallel to each other",
+                "2) Perpendicular to each other and to the direction of propagation",
+                "3) Out of phase by 90 degrees",
+                "4) Have unequal energy densities"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The minimum energy required to remove an electron from the ground state of a hydrogen atom is:",
+            "options": [
+                "1) 1.51 eV",
+                "2) 3.4 eV",
+                "3) 13.6 eV",
+                "4) 10.2 eV"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which gives a HIGH output only if all its inputs are HIGH is:",
+            "options": [
+                "1) OR",
+                "2) AND",
+                "3) NAND",
+                "4) NOR"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In beta minus decay, an electron is emitted by the nucleus. This electron comes from:",
+            "options": [
+                "1) The innermost electron shell",
+                "2) The decay of a neutron into a proton",
+                "3) The decay of a proton into a neutron",
+                "4) Free electrons in the nucleus"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, if the source is changed from red light to blue light:",
+            "options": [
+                "1) Fringe width decreases",
+                "2) Fringe width increases",
+                "3) Fringe width remains constant",
+                "4) Fringes become completely dark"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Total internal reflection occurs when light travels from:",
+            "options": [
+                "1) Rarer to denser medium",
+                "2) Denser to rarer medium",
+                "3) Vacuum to air",
+                "4) Denser to denser medium"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A block of mass 2 kg is pulled along a smooth horizontal surface by a force of 10 N. The acceleration produced in m/s^2 is:",
+            "answer": "5"
+        },
+        {
+            "type": "numerical",
+            "question": "The time of flight of a projectile is 4 seconds. The maximum height reached in meters is (g=10 m/s^2):",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "An electric heater is rated 2 kW. The electrical energy consumed in kWh in 5 hours is:",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "A convex lens of focal length 20 cm forms a real image at 60 cm from the lens. The object distance in cm (magnitude) is:",
+            "answer": "30"
+        },
+        {
+            "type": "numerical",
+            "question": "A radioactive sample has a half-life of 8 days. The time in days taken for 7/8th of the sample to decay is:",
+            "answer": "24"
+        }
+    ]
+}

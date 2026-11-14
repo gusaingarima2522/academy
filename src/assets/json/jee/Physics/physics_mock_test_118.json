@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 118",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Electrodynamics Simulation"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "If the electric flux entering and leaving an enclosed surface respectively is phi1 and phi2, the electric charge inside the surface will be:",
+            "options": [
+                "1) (phi1+phi2)e0",
+                "2) (phi2-phi1)e0",
+                "3) (phi1-phi2)e0",
+                "4) (phi2-phi1)/e0"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A hollow conducting sphere is placed in an electric field produced by a point charge placed at P as shown. Let V_A, V_B, V_C be the potentials at points A, B and C respectively. Then:",
+            "options": [
+                "1) V_A > V_B > V_C",
+                "2) V_A = V_B = V_C",
+                "3) V_A < V_B < V_C",
+                "4) V_A > V_C > V_B"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The capacitance of a parallel plate capacitor increases if:",
+            "options": [
+                "1) The distance between the plates is increased",
+                "2) The area of the plates is decreased",
+                "3) A dielectric slab is inserted between the plates",
+                "4) The charge on the plates is decreased"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance R is stretched so that its length increases by 10%. The new resistance of the wire is approximately:",
+            "options": [
+                "1) 1.1 R",
+                "2) 1.21 R",
+                "3) 0.9 R",
+                "4) 1.1 R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a potentiometer experiment, the balancing length is 8 m for a cell of EMF 1.5 V. The balancing length for another cell of EMF 2.0 V in the same circuit will be:",
+            "options": [
+                "1) 6.0 m",
+                "2) 10.6 m",
+                "3) 12.0 m",
+                "4) 8.0 m"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is moving in a uniform magnetic field in a circular path. The energy of the particle is E. If the magnetic field is doubled, the energy of the particle becomes:",
+            "options": [
+                "1) 2E",
+                "2) 4E",
+                "3) E",
+                "4) E/2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two parallel wires carrying currents in the same direction:",
+            "options": [
+                "1) Attract each other",
+                "2) Repel each other",
+                "3) Do not interact",
+                "4) Rotate perpendicular to each other"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A moving coil galvanometer can be converted into an ammeter by connecting a:",
+            "options": [
+                "1) High resistance in series",
+                "2) Low resistance in series",
+                "3) High resistance in parallel",
+                "4) Low resistance in parallel"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law provides a relation between:",
+            "options": [
+                "1) Current and magnetic field",
+                "2) Induced EMF and rate of change of magnetic flux",
+                "3) Direction of induced EMF and change in magnetic flux",
+                "4) Force and magnetic field"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The self inductance of a straight wire is:",
+            "options": [
+                "1) Zero",
+                "2) Infinity",
+                "3) Very large",
+                "4) Dependent on current"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC circuit, the current lags the voltage by pi/2. The circuit contains:",
+            "options": [
+                "1) Only R",
+                "2) Only L",
+                "3) Only C",
+                "4) R and C"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resonant frequency of a series LCR circuit is f0. If the capacitance is made 4 times the initial value, the resonant frequency will become:",
+            "options": [
+                "1) 2 f0",
+                "2) f0 / 2",
+                "3) 4 f0",
+                "4) f0 / 4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the lowest frequency?",
+            "options": [
+                "1) Gamma rays",
+                "2) Ultraviolet rays",
+                "3) Microwaves",
+                "4) Radio waves"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The displacement current was first postulated by:",
+            "options": [
+                "1) Ampere",
+                "2) Faraday",
+                "3) Maxwell",
+                "4) Hertz"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The unit of electric dipole moment is:",
+            "options": [
+                "1) Coulomb",
+                "2) Coulomb / meter",
+                "3) Coulomb * meter",
+                "4) Volt / meter"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Equipotential surfaces associated with an electric field which is increasing in magnitude along the x-direction are:",
+            "options": [
+                "1) Planes parallel to yz-plane",
+                "2) Planes parallel to xy-plane",
+                "3) Planes parallel to xz-plane",
+                "4) Coaxial cylinders of increasing radii"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "When a dielectric material is introduced between the plates of a charged condenser, then the electric field between the plates:",
+            "options": [
+                "1) Decreases",
+                "2) Increases",
+                "3) Remains constant",
+                "4) First increases then decreases"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic susceptibility is negative for:",
+            "options": [
+                "1) Paramagnetic material",
+                "2) Diamagnetic material",
+                "3) Ferromagnetic material",
+                "4) All of the above"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a transformer, the core is laminated to reduce:",
+            "options": [
+                "1) Copper loss",
+                "2) Magnetic loss",
+                "3) Eddy current loss",
+                "4) Hysteresis loss"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The power factor of an LCR circuit at resonance is:",
+            "options": [
+                "1) 0",
+                "2) 0.5",
+                "3) 1",
+                "4) 0.707"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "Two point charges 4 uC and 16 uC are separated by a distance of 1.2 m. The distance of the null point from the 4 uC charge in meters is:",
+            "answer": "0.4"
+        },
+        {
+            "type": "numerical",
+            "question": "A capacitor of 12 uF is connected to a 50 V battery. The energy stored in it in mJ is:",
+            "answer": "15"
+        },
+        {
+            "type": "numerical",
+            "question": "A current of 5 A flows through a conductor. The charge that passes through any cross-section in 10 seconds in Coulombs is:",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "A straight wire carries a current of 10 A. The magnetic field at a distance of 0.1 m in uT is:",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "An ideal step-up transformer has a turn ratio of 1:10. If the input voltage is 20 V, the output voltage in Volts is:",
+            "answer": "200"
+        }
+    ]
+}

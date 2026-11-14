@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 141",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 21"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A uniform solid cylinder of mass M and radius R rolls without slipping on a horizontal surface. If its translational kinetic energy is E, its total kinetic energy is:",
+            "options": [
+                "1) 1.5 E",
+                "2) 2 E",
+                "3) 2.5 E",
+                "4) E"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass m is released from rest at the top of a smooth hemispherical bowl of radius R. The normal reaction on the block when it reaches the bottom is:",
+            "options": [
+                "1) mg",
+                "2) 2mg",
+                "3) 3mg",
+                "4) 4mg"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If the earth shrinks to half of its radius without changing its mass, the duration of the day will be:",
+            "options": [
+                "1) 24 hours",
+                "2) 48 hours",
+                "3) 12 hours",
+                "4) 6 hours"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle performs SHM with amplitude A. Its speed is halved when it is at distance x from the mean position. The value of x is:",
+            "options": [
+                "1) A/2",
+                "2) A*sqrt(3)/2",
+                "3) A/sqrt(2)",
+                "4) A/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of escape velocity of a planet to the orbital velocity of a satellite revolving close to its surface is:",
+            "options": [
+                "1) 1 : 1",
+                "2) sqrt(2) : 1",
+                "3) 2 : 1",
+                "4) 1 : sqrt(2)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Water is flowing through a horizontal pipe of non-uniform cross-section. At the narrowest part of the pipe:",
+            "options": [
+                "1) Velocity is maximum and pressure is minimum",
+                "2) Velocity is minimum and pressure is maximum",
+                "3) Both velocity and pressure are maximum",
+                "4) Both velocity and pressure are minimum"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The amount of work done in blowing a soap bubble of radius r and surface tension T is:",
+            "options": [
+                "1) 4*pi*r^2*T",
+                "2) 8*pi*r^2*T",
+                "3) 2*pi*r^2*T",
+                "4) 4/3*pi*r^3*T"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the kinetic theory of gases, the RMS speed of gas molecules is:",
+            "options": [
+                "1) Proportional to T",
+                "2) Proportional to sqrt(T)",
+                "3) Inversely proportional to T",
+                "4) Inversely proportional to sqrt(T)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Carnot engine works between 227\u00b0C and 27\u00b0C. Its efficiency is:",
+            "options": [
+                "1) 20%",
+                "2) 30%",
+                "3) 40%",
+                "4) 45%"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The internal energy of an ideal gas during an isothermal process:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains constant",
+                "4) Becomes zero"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two pendulums of lengths 100 cm and 121 cm start vibrating in phase. They will be in phase again after how many vibrations of the longer pendulum?",
+            "options": [
+                "1) 10",
+                "2) 11",
+                "3) 20",
+                "4) 21"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The velocity of sound in a gas depends on its temperature T as:",
+            "options": [
+                "1) v prop T",
+                "2) v prop sqrt(T)",
+                "3) v prop 1/T",
+                "4) v prop 1/sqrt(T)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas is expanded adiabatically. How does its temperature change?",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains same",
+                "4) Depends on the specific heat ratio"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The center of mass of a uniform semi-circular ring of radius R is at a distance of:",
+            "options": [
+                "1) 2R/pi",
+                "2) 4R/3pi",
+                "3) R/2",
+                "4) 3R/8"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For an inelastic collision, which of the following is true?",
+            "options": [
+                "1) Momentum is not conserved",
+                "2) Kinetic energy is conserved",
+                "3) Momentum is conserved but kinetic energy is not",
+                "4) Neither is conserved"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A satellite orbits the earth at a height equal to the earth's radius. Its speed is:",
+            "options": [
+                "1) sqrt(gR)",
+                "2) sqrt(gR/2)",
+                "3) sqrt(2gR)",
+                "4) gR/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire is stretched to double its length. The strain is:",
+            "options": [
+                "1) 0.5",
+                "2) 1.0",
+                "3) 2.0",
+                "4) 1.5"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The specific heat of a gas at constant pressure is greater than that at constant volume because:",
+            "options": [
+                "1) Work is done in expanding the gas against constant pressure",
+                "2) Gas molecules attract each other",
+                "3) Gases have higher densities at constant pressure",
+                "4) Internal energy increases faster at constant volume"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is a state function in thermodynamics?",
+            "options": [
+                "1) Work",
+                "2) Heat",
+                "3) Internal energy",
+                "4) Power"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Newton's law of cooling is an approximation of:",
+            "options": [
+                "1) Stefan-Boltzmann law",
+                "2) Planck's law",
+                "3) Wien's displacement law",
+                "4) Kirchhoff's law"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "A solid sphere rolls without slipping. The fraction of total kinetic energy associated with rotation is x/7. The value of x is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A Carnot engine has an efficiency of 1/6. When the sink temperature is reduced by 65 C, efficiency becomes 1/3. The original sink temperature in Kelvin is:",
+            "answer": "325"
+        },
+        {
+            "type": "numerical",
+            "question": "A wire of resistance 16 ohms is bent into a circle. The resistance between two diametrically opposite points in ohms is:",
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "The work function of a metal is 2.5 eV. If a photon of energy 4 eV hits the metal, the maximum kinetic energy of the emitted photoelectron in eV is:",
+            "answer": "1.5"
+        },
+        {
+            "type": "numerical",
+            "question": "Two lenses of power +4 D and -2 D are in contact. Their equivalent focal length in cm is:",
+            "answer": "50"
+        }
+    ]
+}

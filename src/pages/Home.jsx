@@ -1,14 +1,86 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { createPortal } from "react-dom";
+import { Link } from "react-router-dom";
 
-import Cuet_Preperation from "../assets/Cuet_Preperation.png";
-import school from "../assets/school.png";
+import banner1 from "../assets/banner1.png";
+import banner2 from "../assets/banner2.png";
+import banner3 from "../assets/banner3.png";
+import banner4 from "../assets/banner4.png";
 
 import CourseSec from "../section/CourseSec";
 import Banner from "../section/Banner";
 import ChooseUs from "../section/ChooseUs";
 import AboutBanner from "../section/AboutBanner";
 import Notice from "../section/Notice";
+import { submitContactForm } from "../services/contactService";
+import { readCookieConsent } from "../services/cookieConsent";
+
+const HOME_ENQUIRY_SHOWN_KEY = "academy-home-enquiry-shown";
+
+const preparationSteps = [
+  {
+    number: "01",
+    title: "Know what to prepare",
+    description:
+      "Start with the syllabus and exam format for your target course. Break the subjects into smaller topics so you can plan what to study next.",
+  },
+  {
+    number: "02",
+    title: "Build your understanding",
+    description:
+      "Study one topic at a time and focus on understanding the ideas before moving on to timed practice.",
+  },
+  {
+    number: "03",
+    title: "Practise regularly",
+    description:
+      "Use questions and mock tests to practise applying what you have learned under exam-style conditions.",
+  },
+  {
+    number: "04",
+    title: "Learn from each attempt",
+    description:
+      "Review incorrect and unanswered questions, identify topics that need more work, and use that review to guide your next study session.",
+  },
+];
+
+const homeFaqs = [
+  {
+    question: "Which entrance exams can I explore on this website?",
+    answer:
+      "The website includes preparation information and courses for CLAT and CUET, along with a JEE mock-test area. Browse the relevant section to see the resources currently available.",
+  },
+  {
+    question: "How should I use mock tests during preparation?",
+    answer:
+      "Use a mock test to practise pacing and applying concepts. After submitting, review the questions you missed or left unanswered, then revisit the topics that need attention.",
+  },
+  {
+    question: "Where can I find syllabus and study resources?",
+    answer:
+      "Visit Study Resources for syllabus links, preparation guides, and practice material. Always check the relevant official exam source for the latest syllabus and exam updates.",
+  },
+  {
+    question: "How can I ask about a course?",
+    answer:
+      "Browse the available courses or contact World Wise Education with your target exam and questions so the team can guide you toward relevant information.",
+  },
+  {
+    question: "What is the difference between CLAT and CUET?",
+    answer:
+      "CLAT is the entrance test for law programmes at National Law Universities, while CUET is used for undergraduate admissions to central universities. Check each exam's official notification for eligibility and dates.",
+  },
+  {
+    question: "Where should I confirm exam dates and eligibility?",
+    answer:
+      "Exam dates, eligibility, and application details change from year to year. Always confirm them on the official exam website before making decisions.",
+  },
+  {
+    question: "How can I contact the team quickly?",
+    answer:
+      "Send your question through the Contact page, or call the phone number shown at the top of the website during office hours.",
+  },
+];
 
 /* =====================================================
    HOME PAGE SKELETON
@@ -233,7 +305,7 @@ const HomeSkeleton = () => {
 
 const Home = () => {
 
-  const images = [Cuet_Preperation, school];
+  const images = [banner1,banner2,banner3,banner4];
     const [current, setCurrent] = useState(0);
   const [loadedImages, setLoadedImages] = useState({});
 
@@ -256,7 +328,7 @@ const Home = () => {
      POPUP STATE
   ===================================================== */
 
-  const [popupOpen, setPopupOpen] = useState(true);
+  const [popupOpen, setPopupOpen] = useState(false);
 
   const [formData, setFormData] = useState({
     full_name: "",
@@ -275,10 +347,62 @@ const Home = () => {
   ===================================================== */
 
   useEffect(() => {
+    let timer;
+    const showPopupAfterConsent = () => {
+      if (window.sessionStorage.getItem(HOME_ENQUIRY_SHOWN_KEY) === "true") return;
+
+      timer = window.setTimeout(() => {
+      try {
+        window.sessionStorage.setItem(HOME_ENQUIRY_SHOWN_KEY, "true");
+        setPopupOpen(true);
+      } catch (storageError) {
+        console.error(
+          "Unable to save the home enquiry popup preference.",
+          storageError
+        );
+        setPopupOpen(true);
+      }
+      }, 2000);
+    };
+
+    if (readCookieConsent()) showPopupAfterConsent();
+    window.addEventListener("academy-cookie-consent", showPopupAfterConsent);
+
+    return () => {
+      window.clearTimeout(timer);
+      window.removeEventListener("academy-cookie-consent", showPopupAfterConsent);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (!popupOpen) return undefined;
+
+    const scrollY = window.scrollY;
+    const body = document.body;
+    const previousBodyPosition = body.style.position;
+    const previousBodyTop = body.style.top;
+    const previousBodyWidth = body.style.width;
+    const previousBodyOverflow = body.style.overflow;
+
+    body.style.position = "fixed";
+    body.style.top = `-${scrollY}px`;
+    body.style.width = "100%";
+    body.style.overflow = "hidden";
+
+    return () => {
+      body.style.position = previousBodyPosition;
+      body.style.top = previousBodyTop;
+      body.style.width = previousBodyWidth;
+      body.style.overflow = previousBodyOverflow;
+      window.scrollTo(0, scrollY);
+    };
+  }, [popupOpen]);
+
+  useEffect(() => {
 
     const timer = setTimeout(() => {
       setPageLoading(false);
-    }, 1200);
+    }, 1000);
 
     return () => clearTimeout(timer);
 
@@ -359,28 +483,10 @@ const Home = () => {
 
     try {
 
-      const response = await fetch(
-        "http://192.168.1.4:5000/api/contact",
-        {
-          method: "POST",
-
-          headers: {
-            "Content-Type": "application/json",
-          },
-
-          body: JSON.stringify(formData),
-        }
-      );
-
-      const data = await response.json();
-
-      if (!response.ok) {
-
-        throw new Error(
-          data.message || "Something went wrong"
-        );
-
-      }
+      const data = await submitContactForm({
+        ...formData,
+        form_source: "home_enquiry",
+      });
 
 
       /* SUCCESS */
@@ -479,11 +585,11 @@ const Home = () => {
               rounded-lg
               shadow-lg
               bg-red-950
-              aspect-[16/6]
-              min-h-[220px]
-              sm:min-h-[280px]
-              md:min-h-[350px]
-              lg:min-h-[450px]
+              aspect-[16/9]
+              sm:aspect-[2/1]
+              max-h-[250px]
+              sm:max-h-[600px]
+              lg:max-h-[660px]
             "
           >
 
@@ -568,6 +674,7 @@ const Home = () => {
           h-full
           object-cover
 
+
           transition-opacity
           duration-500
 
@@ -608,7 +715,7 @@ const Home = () => {
                 -translate-y-1/2
 
                 w-8
-                h-8
+                h-9
                 sm:w-10
                 sm:h-10
 
@@ -697,7 +804,6 @@ const Home = () => {
             >
 
               {images.map((_, index) => (
-
                 <button
                   key={index}
                   type="button"
@@ -715,8 +821,7 @@ const Home = () => {
                       : "bg-white/70 hover:bg-white"
                     }
                   `}
-                ></button>
-
+                />
               ))}
 
             </div>
@@ -756,6 +861,58 @@ const Home = () => {
 
       </div>
 
+      <section className="bg-white px-4 py-14 sm:px-6 sm:py-16 lg:px-8">
+        <div className="mx-auto max-w-7xl">
+          <div className="mx-auto mb-10 max-w-3xl text-center">
+            <p className="mb-3 text-sm font-semibold uppercase tracking-[0.16em] text-red-800">
+              A practical preparation guide
+            </p>
+            <h2 className="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl">
+              Make every study session count
+            </h2>
+            <p className="mt-4 text-base leading-7 text-gray-600">
+              A steady routine can make a large syllabus feel more manageable.
+              Use these steps to turn learning, practice, and review into a
+              repeatable cycle.
+            </p>
+          </div>
+
+          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+            {preparationSteps.map((step) => (
+              <article
+                key={step.number}
+                className="rounded-2xl border border-gray-200 bg-gray-50 p-5 sm:p-6"
+              >
+                <span className="inline-flex h-10 w-10 items-center justify-center rounded-full bg-yellow-100 text-sm font-bold text-red-900">
+                  {step.number}
+                </span>
+                <h3 className="mt-4 text-lg font-bold text-gray-900">
+                  {step.title}
+                </h3>
+                <p className="mt-2 text-sm leading-6 text-gray-600">
+                  {step.description}
+                </p>
+              </article>
+            ))}
+          </div>
+
+          <div className="mt-8 flex flex-wrap justify-center gap-3">
+            <Link
+              to="/resources"
+              className="inline-flex min-h-11 items-center justify-center rounded-lg border border-red-900 px-5 py-2.5 text-sm font-semibold text-red-900 transition hover:bg-red-50"
+            >
+              Explore study resources
+            </Link>
+            <Link
+              to="/jeemocktest"
+              className="inline-flex min-h-11 items-center justify-center rounded-lg bg-red-900 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-red-800"
+            >
+              Practise with mock tests
+            </Link>
+          </div>
+        </div>
+      </section>
+
 
       {/* =================================================
           BANNER
@@ -778,6 +935,56 @@ const Home = () => {
 
       </div>
 
+      <section className="bg-gray-50 px-4 py-14 sm:px-6 sm:py-16 lg:px-8">
+        <div className="mx-auto max-w-4xl">
+          <div className="mb-8 text-center">
+            <p className="mb-3 text-sm font-semibold uppercase tracking-[0.16em] text-red-800">
+              Helpful information
+            </p>
+            <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">
+              Frequently asked questions
+            </h2>
+            <p className="mt-3 text-base leading-7 text-gray-600">
+              Find a starting point for exploring courses, resources, and
+              practice on the website.
+            </p>
+          </div>
+
+          <div className="space-y-3">
+            {homeFaqs.map((faq) => (
+              <details
+                key={faq.question}
+                className="group relative rounded-2xl border border-gray-200 bg-white p-5 shadow-md open:border-red-300 open:bg-red-50/60 open:shadow-xl sm:p-6 transition-all duration-200 hover:shadow-xl"
+              >
+                <summary className="cursor-pointer list-none pr-8 text-base font-semibold text-gray-900 marker:hidden sm:text-lg">
+                  {faq.question}
+                  <span
+                    aria-hidden="true"
+                    className="float-right -mr-6 text-xl leading-6 text-red-900 transition-transform group-open:rotate-45"
+                  >
+                    +
+                  </span>
+                </summary>
+                <p className="mt-3 max-w-3xl text-sm leading-6 text-gray-600 sm:text-base">
+                  {faq.answer}
+                </p>
+              </details>
+            ))}
+          </div>
+
+          <p className="mt-6 text-center text-sm text-gray-600">
+            Still have a question?{" "}
+            <Link
+              to="/contact#contact-form"
+              className="font-semibold text-red-900 underline underline-offset-2 hover:text-red-700"
+            >
+              Contact us
+            </Link>
+            .
+          </p>
+        </div>
+      </section>
+
 
       {/* =================================================
           HOME PAGE POPUP
@@ -791,12 +998,14 @@ const Home = () => {
               fixed
               inset-0
               z-[999999]
+              h-dvh
+              min-h-0
               flex
               items-center
               justify-center
               bg-black/60
               px-4
-              py-4
+              py-3
             "
             onClick={closePopup}
           >
@@ -808,12 +1017,14 @@ const Home = () => {
                 relative
                 w-full
                 max-w-lg
-                max-h-[90vh]
+                max-h-[calc(100dvh-1.5rem)]
+                min-h-0
                 overflow-y-auto
+                overscroll-contain
                 rounded-xl
                 bg-white
-                p-5
-                sm:p-6
+                p-4
+                sm:p-5
                 shadow-2xl
                 animate-[popupIn_0.4s_ease-out]
               "
@@ -845,11 +1056,11 @@ const Home = () => {
 
               {/* HEADING */}
 
-              <h2 className="mb-2 pr-8 text-2xl font-bold text-red-900">
+              <h2 className="mb-1 pr-8 text-xl font-bold text-red-900 sm:text-2xl">
                 Request a Call
               </h2>
 
-              <p className="mb-5 text-gray-600">
+              <p className="mb-3 text-sm text-gray-600 sm:mb-4 sm:text-base">
                 Fill in your details and our team will contact you.
               </p>
 
@@ -858,7 +1069,7 @@ const Home = () => {
 
               <form
                 onSubmit={handleSubmit}
-                className="space-y-4"
+                className="space-y-3 sm:space-y-4"
               >
 
                 {/* FULL NAME */}

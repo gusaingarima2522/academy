@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
 
@@ -44,19 +43,16 @@ const About = () => {
             </h2>
 
             <p className="text-gray-600 text-sm sm:text-base leading-7 sm:leading-8 mb-4 sm:mb-5">
-              World Wise Education is an educational initiative extending the
-              vision and experience of World Wise Education. With a strong
-              understanding of student needs, academic opportunities and
-              admission pathways, we aim to provide students with structured
-              and meaningful educational support.
+              World Wise Education helps students explore academic
+              opportunities, counselling and admission pathways. We aim to
+              provide structured and meaningful educational support so
+              students can make informed decisions about their next step.
             </p>
 
             <p className="text-gray-600 text-sm sm:text-base leading-7 sm:leading-8 mb-4 sm:mb-5">
-              While World Wise Education focuses on helping students explore
-              educational opportunities, counselling and admission pathways,
-              World Wise Education takes this journey one step further by
-              providing focused preparation for competitive entrance
-              examinations.
+              World Wise Academy builds on that guidance by providing focused
+              preparation for competitive entrance examinations, with
+              structured learning and regular practice.
             </p>
 
             <p className="text-gray-600 text-sm sm:text-base leading-7 sm:leading-8">
@@ -381,6 +377,73 @@ const About = () => {
         </div>
       </section>
 
+      {/* ================= STUDENT STARTING POINT ================= */}
+      <section className="bg-gray-50 px-4 py-12 sm:px-6 sm:py-14 md:px-8 lg:px-10">
+        <div className="mx-auto max-w-6xl">
+          <div className="mx-auto mb-8 max-w-3xl text-center">
+            <p className="mb-2 text-xs font-semibold uppercase tracking-wider text-red-700 sm:text-sm">
+              A clear starting point
+            </p>
+            <h2 className="text-2xl font-bold text-gray-900 sm:text-3xl">
+              Turn your academic goal into a study routine
+            </h2>
+            <p className="mt-3 text-sm leading-7 text-gray-600 sm:text-base">
+              Preparation looks different for every student. Start by
+              confirming the requirements for your target programme, then
+              build a routine that balances learning, practice, and revision.
+            </p>
+          </div>
+
+          <div className="grid gap-4 sm:grid-cols-3">
+            <article className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm sm:p-6">
+              <h3 className="text-lg font-bold text-gray-900">
+                Explore your options
+              </h3>
+              <p className="mt-2 text-sm leading-6 text-gray-600">
+                Compare course information with your target examination and
+                identify the subjects or skills you want to strengthen.
+              </p>
+              <Link
+                to="/courses"
+                className="mt-4 inline-block text-sm font-semibold text-red-900 underline underline-offset-2"
+              >
+                View courses
+              </Link>
+            </article>
+            <article className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm sm:p-6">
+              <h3 className="text-lg font-bold text-gray-900">
+                Study with a plan
+              </h3>
+              <p className="mt-2 text-sm leading-6 text-gray-600">
+                Break the syllabus into smaller topics, set realistic study
+                blocks, and revisit material regularly.
+              </p>
+              <Link
+                to="/resources"
+                className="mt-4 inline-block text-sm font-semibold text-red-900 underline underline-offset-2"
+              >
+                Browse study resources
+              </Link>
+            </article>
+            <article className="rounded-xl border border-gray-200 bg-white p-5 shadow-sm sm:p-6">
+              <h3 className="text-lg font-bold text-gray-900">
+                Practise and review
+              </h3>
+              <p className="mt-2 text-sm leading-6 text-gray-600">
+                Use practice tests to apply what you have learned, then review
+                your answers to decide what to work on next.
+              </p>
+              <Link
+                to="/jeemocktest"
+                className="mt-4 inline-block text-sm font-semibold text-red-900 underline underline-offset-2"
+              >
+                Explore JEE mock tests
+              </Link>
+            </article>
+          </div>
+        </div>
+      </section>
+
 
       {/* ================= MISSION ================= */}
       <section className="bg-black text-white px-4 sm:px-6 md:px-8 py-12 sm:py-14 md:py-16 lg:py-20">
@@ -474,7 +537,7 @@ const About = () => {
           </p>
 
           <Link
-            to="/CourseSec"
+            to="/courses"
             className="
               inline-flex
               items-center

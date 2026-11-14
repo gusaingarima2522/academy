@@ -1,0 +1,177 @@
+{
+  "testName": "Physics Mock Test 25",
+  "totalMarks": 60,
+  "timeMinutes": 30,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "The electric field on the axis of a uniformly charged ring of radius R is maximum at a distance x from its centre equal to",
+      "options": [
+        "R",
+        "R/2",
+        "R/√2",
+        "√2 R"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two concentric thin spherical shells of radii 1 cm and 2 cm carry charges +1 nC (inner) and −1 nC (outer). The potential difference between the shells is (k = 9 × 10⁹ N m²/C²)",
+      "options": [
+        "900 V",
+        "450 V",
+        "225 V",
+        "90 V"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A parallel plate capacitor has capacitance 12 μF in air. Half of the area between its plates is filled with a dielectric of constant 3 (the slab spans the full plate separation). The new capacitance is",
+      "options": [
+        "18 μF",
+        "36 μF",
+        "24 μF",
+        "48 μF"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A 4 μF capacitor charged to 100 V is connected to an uncharged 4 μF capacitor. The loss of energy in the process is",
+      "options": [
+        "5 mJ",
+        "20 mJ",
+        "10 mJ",
+        "2.5 mJ"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A capacitor is charged through a resistor from a battery. After a time equal to one time constant, the charge on the capacitor is approximately what percentage of its final value?",
+      "options": [
+        "37%",
+        "63%",
+        "50%",
+        "86%"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A cell of emf 2 V and internal resistance 1 Ω is connected across a 3 Ω resistor. The power dissipated in the internal resistance of the cell is",
+      "options": [
+        "0.5 W",
+        "0.25 W",
+        "1 W",
+        "0.75 W"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "In a Wheatstone bridge ABCD, the resistances are AB = 2 Ω, BC = 4 Ω, CD = 6 Ω and DA = 3 Ω. A battery is connected across A and C and a galvanometer across B and D. The equivalent resistance between A and C is",
+      "options": [
+        "7.5 Ω",
+        "3.6 Ω",
+        "15 Ω",
+        "5 Ω"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Two cells of emf 4 V and 2 V, each of internal resistance 1 Ω, are connected in parallel (like terminals together) across an external resistance of 2 Ω. The current through the external resistance is",
+      "options": [
+        "1 A",
+        "1.5 A",
+        "2 A",
+        "1.2 A"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A heater rated 1 kW at 220 V is connected to a 110 V supply. Assuming its resistance remains the same, the power consumed is",
+      "options": [
+        "500 W",
+        "125 W",
+        "250 W",
+        "750 W"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "An infinite ladder network is made by repeating a unit of a 1 Ω series resistor followed by a 1 Ω shunt resistor. The equivalent resistance of the infinite network is",
+      "options": [
+        "2 Ω",
+        "1.5 Ω",
+        "1.618 Ω",
+        "3 Ω"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A voltmeter of resistance 1000 Ω is connected across a 500 Ω resistor which is in series with another 500 Ω resistor across a 12 V battery of negligible internal resistance. The voltmeter reading is",
+      "options": [
+        "6 V",
+        "5 V",
+        "4.8 V",
+        "3.6 V"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A wire of conductivity 5 × 10⁷ S/m and length 2 m has a potential difference of 4 V across its ends. The current density in the wire is",
+      "options": [
+        "10⁷ A/m²",
+        "10⁸ A/m²",
+        "2.5 × 10⁷ A/m²",
+        "4 × 10⁷ A/m²"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Two cells of emf E₁ and E₂ (E₁ > E₂) are connected in series aiding and balance on a potentiometer wire at 90 cm. When they are connected in opposition, the balance length is 30 cm. The ratio E₁/E₂ is",
+      "options": [
+        "3",
+        "2",
+        "1.5",
+        "4"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "An electric dipole of moment 3 × 10⁻⁸ C m is placed in a uniform electric field of 2 × 10⁴ N/C along the field. The work done in rotating it through 180° is",
+      "options": [
+        "6 × 10⁻⁴ J",
+        "1.2 × 10⁻³ J",
+        "3 × 10⁻⁴ J",
+        "2.4 × 10⁻³ J"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A solid non-conducting sphere of radius R carries a uniformly distributed charge. The ratio of the electric field at a distance R/2 from the centre to that at the surface is",
+      "options": [
+        "1/4",
+        "1/2",
+        "2",
+        "1/8"
+      ],
+      "answer": 2
+    }
+  ]
+}

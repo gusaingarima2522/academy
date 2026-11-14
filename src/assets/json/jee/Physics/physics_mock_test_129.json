@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 129",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Optics & Modern Physics (Hard)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Total internal reflection can happen when light travels from:",
+            "options": [
+                "1) Air to glass",
+                "2) Air to water",
+                "3) Glass to water",
+                "4) Vacuum to air"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two thin lenses of power +5D and -2D are placed in contact. The focal length of the combination is:",
+            "options": [
+                "1) +33.3 cm",
+                "2) -33.3 cm",
+                "3) +50 cm",
+                "4) +100 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, if the distance between the slits is halved, the fringe width:",
+            "options": [
+                "1) Halves",
+                "2) Doubles",
+                "3) Quadruples",
+                "4) Remains unchanged"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resolving power of a telescope can be increased by:",
+            "options": [
+                "1) Increasing the focal length of the objective",
+                "2) Decreasing the diameter of the objective",
+                "3) Increasing the diameter of the objective",
+                "4) Increasing the wavelength of light"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Einstein's photoelectric equation, the graph of maximum kinetic energy of photoelectrons versus frequency of incident light is:",
+            "options": [
+                "1) A parabola",
+                "2) A straight line passing through origin",
+                "3) A straight line with a positive intercept on the frequency axis",
+                "4) A circle"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The de Broglie wavelength of an electron accelerated through a potential difference V is proportional to:",
+            "options": [
+                "1) V",
+                "2) sqrt(V)",
+                "3) 1/V",
+                "4) 1/sqrt(V)"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "In the Bohr model of the hydrogen atom, the energy of the electron in the nth orbit is proportional to:",
+            "options": [
+                "1) n",
+                "2) n^2",
+                "3) 1/n",
+                "4) 1/n^2"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The transition of an electron from n=4 to n=2 in a hydrogen atom results in the emission of a photon in the:",
+            "options": [
+                "1) Lyman series",
+                "2) Balmer series",
+                "3) Paschen series",
+                "4) Brackett series"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The mass defect in a nucleus is converted into:",
+            "options": [
+                "1) Kinetic energy",
+                "2) Potential energy",
+                "3) Binding energy",
+                "4) Thermal energy"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The half-life of a radioactive substance is 10 days. The fraction of the substance remaining after 30 days is:",
+            "options": [
+                "1) 1/2",
+                "2) 1/4",
+                "3) 1/8",
+                "4) 1/16"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an n-type semiconductor, the majority charge carriers are:",
+            "options": [
+                "1) Holes",
+                "2) Electrons",
+                "3) Protons",
+                "4) Neutrons"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Zener diode is heavily doped to have a:",
+            "options": [
+                "1) Very thick depletion region",
+                "2) Very thin depletion region",
+                "3) High forward resistance",
+                "4) Zero breakdown voltage"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which gives a HIGH output only if all its inputs are HIGH is:",
+            "options": [
+                "1) OR",
+                "2) NOR",
+                "3) NAND",
+                "4) AND"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Polarization of light proves that light waves are:",
+            "options": [
+                "1) Longitudinal",
+                "2) Transverse",
+                "3) Mechanical",
+                "4) Matter waves"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a full-wave rectifier, the fundamental ripple frequency is:",
+            "options": [
+                "1) Equal to the input frequency",
+                "2) Twice the input frequency",
+                "3) Half the input frequency",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The penetrating power of X-rays increases with:",
+            "options": [
+                "1) Increase in its intensity",
+                "2) Decrease in its velocity",
+                "3) Increase in its frequency",
+                "4) Increase in its wavelength"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "When an alpha particle is emitted from a nucleus, its mass number:",
+            "options": [
+                "1) Decreases by 2",
+                "2) Decreases by 4",
+                "3) Remains unchanged",
+                "4) Increases by 2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is a universal logic gate?",
+            "options": [
+                "1) AND",
+                "2) OR",
+                "3) NAND",
+                "4) NOT"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a common emitter amplifier, the phase difference between the input and output voltage is:",
+            "options": [
+                "1) 0 degrees",
+                "2) 90 degrees",
+                "3) 180 degrees",
+                "4) 360 degrees"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Diffraction is easily observable for sound waves rather than light waves because:",
+            "options": [
+                "1) Sound waves are longitudinal",
+                "2) Sound waves require a medium",
+                "3) The wavelength of sound is much larger",
+                "4) Sound travels slower"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "The power of a convex lens of focal length 20 cm in Diopters is:",
+            "answer": "5"
+        },
+        {
+            "type": "numerical",
+            "question": "In Young's double slit experiment, if lambda = 500 nm, d = 1 mm, and D = 1 m, the fringe width in mm is:",
+            "answer": "0.5"
+        },
+        {
+            "type": "numerical",
+            "question": "The work function of a metal is 2.0 eV. If incident photons have an energy of 5.0 eV, the maximum kinetic energy of the emitted photoelectrons in eV is:",
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A radioactive sample has a half-life of 10 days. The time taken for 75% of the sample to decay in days is:",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "The energy of the electron in the first excited state (n=2) of a hydrogen atom in eV is -x. The value of x is:",
+            "answer": "3.4"
+        }
+    ]
+}

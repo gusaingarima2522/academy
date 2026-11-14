@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Cuet_Guide = () => {
   return (
     <div>

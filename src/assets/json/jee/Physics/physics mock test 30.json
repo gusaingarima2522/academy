@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 30",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Electronic Devices",
+        "Communication Systems",
+        "WEP",
+        "SHM"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The width of the depletion region in a p-n junction diode:",
+            "options": [
+                "1) Increases under forward bias",
+                "2) Increases under reverse bias",
+                "3) Remains independent of bias",
+                "4) Becomes zero under reverse bias"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "For effective amplitude modulation, the modulation index should be:",
+            "options": [
+                "1) Greater than 1",
+                "2) Equal to 0",
+                "3) Between 0 and 1",
+                "4) Infinite"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Instantaneous power is the dot product of:",
+            "options": [
+                "1) Force and displacement",
+                "2) Force and velocity",
+                "3) Force and acceleration",
+                "4) Mass and velocity"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a spring-mass system depends on:",
+            "options": [
+                "1) Amplitude",
+                "2) Mass and spring constant",
+                "3) Acceleration due to gravity",
+                "4) Initial velocity"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the length of a simple pendulum is increased by 21%, its time period increases by:",
+            "options": [
+                "1) 10%",
+                "2) 11%",
+                "3) 21%",
+                "4) 42%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a damped harmonic oscillator, the amplitude decreases:",
+            "options": [
+                "1) Linearly",
+                "2) Exponentially",
+                "3) Sinusoidally",
+                "4) Parabolically"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The line of sight (LOS) communication range for an antenna of height h is proportional to:",
+            "options": [
+                "1) h",
+                "2) h^2",
+                "3) \u221ah",
+                "4) 1/h"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is a universal logic gate?",
+            "options": [
+                "1) AND",
+                "2) OR",
+                "3) NOR",
+                "4) NOT"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The work done by a conservative force along a closed path is:",
+            "options": [
+                "1) Positive",
+                "2) Negative",
+                "3) Zero",
+                "4) Depends on path length"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Potential energy is defined only for:",
+            "options": [
+                "1) Non-conservative forces",
+                "2) Conservative forces",
+                "3) Frictional forces",
+                "4) Viscous forces"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ripple frequency of a full-wave rectifier operating at 50 Hz mains is:",
+            "options": [
+                "1) 50 Hz",
+                "2) 100 Hz",
+                "3) 25 Hz",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Light Emitting Diode (LED) operates under:",
+            "options": [
+                "1) Reverse bias",
+                "2) Forward bias",
+                "3) Unbiased condition",
+                "4) Breakdown region"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In SHM, the kinetic energy is maximum at:",
+            "options": [
+                "1) Extreme positions",
+                "2) Mean position",
+                "3) Midway between mean and extreme",
+                "4) Never"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The mechanical analog of an LCR series circuit in resonance is:",
+            "options": [
+                "1) Free oscillation",
+                "2) Damped oscillation",
+                "3) Forced oscillation at resonance",
+                "4) Coupled oscillation"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Total energy of a particle in SHM is proportional to:",
+            "options": [
+                "1) Square of amplitude",
+                "2) Amplitude",
+                "3) Square root of amplitude",
+                "4) Inverse of amplitude"
+            ],
+            "answer": "1"
+        }
+    ]
+}

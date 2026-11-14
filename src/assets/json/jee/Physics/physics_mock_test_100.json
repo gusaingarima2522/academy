@@ -1,0 +1,232 @@
+{
+    "testName": "Physics Mock Test 100",
+    "totalMarks": 80,
+    "timeMinutes": 40,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 20,
+    "topics": [
+        "Full Syllabus Part 13"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle moves such that x = 4t^2 and y = 3t^2. The path of the particle is a:",
+            "options": [
+                "1) Circle",
+                "2) Parabola",
+                "3) Straight line",
+                "4) Ellipse"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If friction is strictly absent, a cyclist leaning inward while taking a turn will:",
+            "options": [
+                "1) Fall outward",
+                "2) Fall inward",
+                "3) Navigate perfectly",
+                "4) Float"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The center of mass of a system of particles does not depend on:",
+            "options": [
+                "1) Masses of the particles",
+                "2) Internal forces",
+                "3) Position of the particles",
+                "4) Relative distances"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A force F = (5i + 3j) N acts on a particle which gives a displacement d = (2i - j) m. The work done is:",
+            "options": [
+                "1) 13 J",
+                "2) 7 J",
+                "3) 10 J",
+                "4) 4 J"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The time of flight of a projectile is 10 s and range is 500 m. The maximum height reached by it will be (g=10):",
+            "options": [
+                "1) 125 m",
+                "2) 250 m",
+                "3) 500 m",
+                "4) 100 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A system goes from A to B via two different paths I and II. If delta U1 and delta U2 are the changes in internal energy in the two paths, then:",
+            "options": [
+                "1) delta U1 > delta U2",
+                "2) delta U1 < delta U2",
+                "3) delta U1 = delta U2",
+                "4) Relation depends on the paths"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an adiabatic process, the quantity that remains constant is:",
+            "options": [
+                "1) Temperature",
+                "2) Pressure",
+                "3) Volume",
+                "4) Entropy"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The efficiency of a Carnot engine working between ice point and steam point is:",
+            "options": [
+                "1) 100%",
+                "2) 26.8%",
+                "3) 73.2%",
+                "4) 0%"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "For a monoatomic gas, the value of gamma (ratio of specific heats) is:",
+            "options": [
+                "1) 5/3",
+                "2) 7/5",
+                "3) 4/3",
+                "4) 9/7"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Heat travels through vacuum by:",
+            "options": [
+                "1) Conduction",
+                "2) Convection",
+                "3) Radiation",
+                "4) Both convection and radiation"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric field intensity at a point due to a point charge is inversely proportional to the:",
+            "options": [
+                "1) Square of the distance",
+                "2) Distance",
+                "3) Cube of the distance",
+                "4) Charge"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The work done in moving a charge of 2 C across a potential difference of 5 V is:",
+            "options": [
+                "1) 2.5 J",
+                "2) 10 J",
+                "3) 0.4 J",
+                "4) 7 J"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Equipotential surfaces for a uniform electric field are:",
+            "options": [
+                "1) Concentric spheres",
+                "2) Parallel planes",
+                "3) Coaxial cylinders",
+                "4) Intersecting planes"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A soap bubble is given a negative charge. Its radius will:",
+            "options": [
+                "1) Increase",
+                "2) Decrease",
+                "3) Remain unchanged",
+                "4) Fluctuate"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric dipole moment is a vector quantity directed from:",
+            "options": [
+                "1) Positive to negative charge",
+                "2) Negative to positive charge",
+                "3) Perpendicular to the charges",
+                "4) Center to infinity"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The velocity-time graph of a moving object is given. The area under the v-t graph gives:",
+            "options": [
+                "1) Acceleration",
+                "2) Displacement",
+                "3) Force",
+                "4) Momentum"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Ohm's law is not applicable to:",
+            "options": [
+                "1) Metals",
+                "2) Semiconductors",
+                "3) Superconductors",
+                "4) Both 2 and 3"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Kirchhoff's junction rule is a statement of conservation of:",
+            "options": [
+                "1) Mass",
+                "2) Energy",
+                "3) Momentum",
+                "4) Charge"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance R is stretched to double its length. Its new resistance is:",
+            "options": [
+                "1) R/2",
+                "2) 2R",
+                "3) 4R",
+                "4) R"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a potentiometer experiment, the balancing length is l. If the length of the potentiometer wire is increased, the balancing length will:",
+            "options": [
+                "1) Increase",
+                "2) Decrease",
+                "3) Remain same",
+                "4) Become zero"
+            ],
+            "answer": "1"
+        }
+    ]
+}

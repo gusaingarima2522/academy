@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 8",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A block of mass 5 kg rests on a rough horizontal surface with coefficient of friction 0.4. The limiting friction force is (take g = 10 m/s²)",
+      "options": [
+        "2 N",
+        "50 N",
+        "20 N",
+        "200 N"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two masses of 2 kg and 3 kg are connected by a light string passing over a smooth pulley (Atwood machine). The acceleration of the system is (take g = 10 m/s²)",
+      "options": [
+        "5 m/s²",
+        "1 m/s²",
+        "10 m/s²",
+        "2 m/s²"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A block slides down a smooth inclined plane of inclination 30° with the horizontal. Its acceleration is (take g = 10 m/s²)",
+      "options": [
+        "5 m/s²",
+        "8.66 m/s²",
+        "10 m/s²",
+        "2.5 m/s²"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A car turns on a level road along a circular path of radius 20 m. If the coefficient of friction between the tyres and the road is 0.5, the maximum safe speed is (take g = 10 m/s²)",
+      "options": [
+        "5 m/s",
+        "20 m/s",
+        "10 m/s",
+        "100 m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A body of mass 2 kg moving at 4 m/s is brought to rest by a constant friction force of 4 N. The distance travelled before stopping is",
+      "options": [
+        "4 m",
+        "8 m",
+        "2 m",
+        "16 m"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A machine lifts a load of 100 kg through a height of 10 m in 10 s. The power developed is (take g = 10 m/s²)",
+      "options": [
+        "100 W",
+        "1000 W",
+        "10 W",
+        "10000 W"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A ball of mass m moving with velocity v makes a head-on elastic collision with an identical ball at rest. After the collision the first ball",
+      "options": [
+        "continues with velocity v",
+        "moves with velocity v/2",
+        "rebounds with velocity v",
+        "comes to rest"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A ball of mass 0.2 kg strikes a wall normally at 10 m/s and rebounds with the same speed. The magnitude of the impulse imparted to the wall is",
+      "options": [
+        "0",
+        "2 N s",
+        "4 N s",
+        "8 N s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A small body is whirled in a vertical circle of radius 0.5 m. The minimum speed it must have at the lowest point to just complete the circle is (take g = 10 m/s²)",
+      "options": [
+        "10 m/s",
+        "7.07 m/s",
+        "5 m/s",
+        "2.5 m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two particles of masses 1 kg and 3 kg are placed on the x-axis at x = 0 and x = 4 m respectively. The position of their centre of mass is",
+      "options": [
+        "3 m",
+        "1 m",
+        "2 m",
+        "4 m"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A person of mass 60 kg stands in a lift moving upward with an acceleration of 2 m/s². The apparent weight of the person is (take g = 10 m/s²)",
+      "options": [
+        "480 N",
+        "600 N",
+        "840 N",
+        "720 N"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The work done by a conservative force on a particle moving along a closed path is",
+      "options": [
+        "positive",
+        "zero",
+        "negative",
+        "dependent on the path"
+      ],
+      "answer": 2
+    }
+  ]
+}

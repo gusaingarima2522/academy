@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 133",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 13"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A lens has power +2.0 D. Its focal length is:",
+            "options": [
+                "1) 50 cm",
+                "2) -50 cm",
+                "3) 20 cm",
+                "4) -20 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Total internal reflection occurs when light travels from:",
+            "options": [
+                "1) Rarer to denser medium",
+                "2) Denser to rarer medium",
+                "3) Vacuum to air",
+                "4) Denser to denser medium"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resolving power of a telescope can be increased by:",
+            "options": [
+                "1) Using light of longer wavelength",
+                "2) Increasing the diameter of objective lens",
+                "3) Decreasing the focal length of objective",
+                "4) Decreasing the diameter of objective"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, if the distance between slits is halved, the fringe width:",
+            "options": [
+                "1) Halves",
+                "2) Doubles",
+                "3) Quadruples",
+                "4) Remains same"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Diffraction of sound is easier to observe than diffraction of light because:",
+            "options": [
+                "1) Sound is a mechanical wave",
+                "2) Sound travels slower",
+                "3) Sound wavelength is much larger",
+                "4) Sound requires a medium"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Einstein's photoelectric equation, the graph between maximum kinetic energy of photoelectrons and frequency of incident light is:",
+            "options": [
+                "1) A parabola",
+                "2) A straight line passing through origin",
+                "3) A straight line not passing through origin",
+                "4) An ellipse"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The de Broglie wavelength of a particle is inversely proportional to its:",
+            "options": [
+                "1) Mass",
+                "2) Velocity",
+                "3) Momentum",
+                "4) Kinetic energy"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In Bohr's model of the hydrogen atom, the energy of an electron in the nth orbit is proportional to:",
+            "options": [
+                "1) n",
+                "2) 1/n",
+                "3) n^2",
+                "4) 1/n^2"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The half-life of a radioactive substance is 10 days. The fraction of substance remaining after 30 days is:",
+            "options": [
+                "1) 1/2",
+                "2) 1/4",
+                "3) 1/8",
+                "4) 1/16"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Mass defect of a nucleus is related to its:",
+            "options": [
+                "1) Kinetic energy",
+                "2) Binding energy",
+                "3) Potential energy",
+                "4) Decay constant"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-type semiconductor, the majority charge carriers are:",
+            "options": [
+                "1) Electrons",
+                "2) Holes",
+                "3) Protons",
+                "4) Neutrons"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which gives output 0 only when both inputs are 0 is:",
+            "options": [
+                "1) OR",
+                "2) AND",
+                "3) NAND",
+                "4) NOR"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a monoatomic gas, the ratio of specific heats Cp/Cv is:",
+            "options": [
+                "1) 1.67",
+                "2) 1.40",
+                "3) 1.33",
+                "4) 1.28"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The absolute temperature of a gas is increased to 4 times its initial value. The RMS velocity of its molecules will:",
+            "options": [
+                "1) Become 2 times",
+                "2) Become 4 times",
+                "3) Become 16 times",
+                "4) Remain same"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a Carnot engine, the source is at 500 K and sink at 300 K. The efficiency of the engine is:",
+            "options": [
+                "1) 20%",
+                "2) 40%",
+                "3) 60%",
+                "4) 80%"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is true for an adiabatic process?",
+            "options": [
+                "1) Delta Q = 0",
+                "2) Delta U = 0",
+                "3) Delta W = 0",
+                "4) Delta V = 0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A tuning fork produces 4 beats/second with a pipe open at both ends. When the pipe is closed at one end, the beat frequency becomes 2 beats/second. If the frequency of the tuning fork is 320 Hz, the original frequency of the open pipe could be:",
+            "options": [
+                "1) 324 Hz",
+                "2) 316 Hz",
+                "3) 322 Hz",
+                "4) 318 Hz"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The speed of sound in air:",
+            "options": [
+                "1) Is independent of temperature",
+                "2) Increases with temperature",
+                "3) Decreases with temperature",
+                "4) Is independent of pressure at constant temperature"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, the distance between a node and its adjacent antinode is:",
+            "options": [
+                "1) lambda",
+                "2) lambda/2",
+                "3) lambda/4",
+                "4) 2*lambda"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A simple pendulum is suspended from the roof of a trolley which moves in a horizontal direction with an acceleration a. The time period is given by T = 2pi*sqrt(L/g'), where g' is:",
+            "options": [
+                "1) g",
+                "2) g - a",
+                "3) g + a",
+                "4) sqrt(g^2 + a^2)"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "Two lenses of power +4 D and -2 D are in contact. Their equivalent focal length in cm is:",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "The work function of a metal is 2.5 eV. If a photon of energy 4 eV hits the metal, the maximum kinetic energy of the emitted photoelectron in eV is:",
+            "answer": "1.5"
+        },
+        {
+            "type": "numerical",
+            "question": "A radioactive sample has a decay constant of 0.1 per day. Its mean life in days is:",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "A Carnot engine absorbs 1000 J of heat from a reservoir at 500 K and rejects heat to a sink at 300 K. The work done in Joules is:",
+            "answer": "400"
+        },
+        {
+            "type": "numerical",
+            "question": "The fundamental frequency of a closed organ pipe is 50 Hz. The frequency of its second overtone in Hz is:",
+            "answer": "250"
+        }
+    ]
+}

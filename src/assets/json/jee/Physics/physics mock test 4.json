@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 4",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Two point charges of 2 μC and 3 μC are placed 3 m apart in vacuum. The force between them is (k = 9 × 10⁹ N m²/C²)",
+      "options": [
+        "6 × 10⁻³ N",
+        "6 × 10⁻⁶ N",
+        "18 × 10⁻³ N",
+        "2 × 10⁻³ N"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "If the distance from a point charge is doubled, the electric field at that point becomes",
+      "options": [
+        "half",
+        "double",
+        "one-fourth",
+        "four times"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two capacitors of 2 μF and 3 μF are connected in series. The equivalent capacitance is",
+      "options": [
+        "5 μF",
+        "6 μF",
+        "0.6 μF",
+        "1.2 μF"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The energy stored in a 10 μF capacitor charged to 100 V is",
+      "options": [
+        "0.005 J",
+        "0.5 J",
+        "0.05 J",
+        "5 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two resistors of 4 Ω and 12 Ω are connected in parallel. The equivalent resistance is",
+      "options": [
+        "3 Ω",
+        "8 Ω",
+        "16 Ω",
+        "6 Ω"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The power dissipated in a 100 Ω resistor carrying a current of 2 A is",
+      "options": [
+        "200 W",
+        "400 W",
+        "50 W",
+        "800 W"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A wire of resistance R is uniformly stretched to double its length (its volume remaining constant). Its new resistance is",
+      "options": [
+        "R/2",
+        "2R",
+        "R/4",
+        "4R"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "Kirchhoff's junction rule is based on the conservation of",
+      "options": [
+        "energy",
+        "momentum",
+        "charge",
+        "angular momentum"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "In a balanced Wheatstone bridge, P = 10 Ω, Q = 20 Ω and R = 30 Ω, where P/Q = R/S. The value of S is",
+      "options": [
+        "60 Ω",
+        "15 Ω",
+        "40 Ω",
+        "90 Ω"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The electric potential at a point on the equatorial line of an electric dipole is",
+      "options": [
+        "maximum positive",
+        "zero",
+        "maximum negative",
+        "infinite"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "According to Gauss's law, the electric flux through a closed surface enclosing a charge q in vacuum is",
+      "options": [
+        "zero",
+        "ε₀/q",
+        "q/ε₀",
+        "qε₀"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A cell of emf 12 V and internal resistance 1 Ω is connected to an external resistance of 5 Ω. The terminal voltage of the cell is",
+      "options": [
+        "12 V",
+        "2 V",
+        "6 V",
+        "10 V"
+      ],
+      "answer": 4
+    }
+  ]
+}

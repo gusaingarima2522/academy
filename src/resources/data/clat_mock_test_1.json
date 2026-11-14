@@ -1,0 +1,133 @@
+﻿{
+    "test_details":  {
+                         "title":  "CLAT 2024 UG Mock Test (Sample)",
+                         "reference_file":  "Actual-clat-2024-ug.pdf",
+                         "duration_minutes":  120,
+                         "total_marks":  120,
+                         "marking_scheme":  {
+                                                "correct":  1.0,
+                                                "incorrect":  -0.25,
+                                                "unanswered":  0.0
+                                            }
+                     },
+    "sections":  [
+                     {
+                         "section_id":  "sec_01",
+                         "section_name":  "English Language",
+                         "passages":  [
+                                          {
+                                              "passage_id":  "p_01",
+                                              "text":  "In the realm of contemporary literature, the interplay between character and setting is a nuanced dance that shapes the narrative\u0027s essence. The setting, often described with painstaking detail, becomes more than a backdrop; it becomes a character, influencing the plot and character development.\n\nConsider, for instance, the barren expanse of the desert in Jhumpa Lahiri\u0027s The Namesake. The arid landscape mirrors the sense of isolation felt by the protagonist, Gogol, as he navigates his identity crisis in a foreign land. The relentless sun and vast sands are not mere descriptions; they are the silent witnesses to his inner turmoil.\n\nOn the other end of the literary spectrum, there is Arundhati Roy\u0027s The God of Small Things. The lush, vibrant Kerala backwaters are not just the setting; they are a character woven into the fabric of the story. The teeming, humid landscape reflects the complex web of human relationships and secrets that unravel in the narrative. This interplay is not confined to contemporary literature alone. In Shakespeare\u0027s timeless tragedy Macbeth, the eerie and foreboding setting of the Scottish moors casts a dark shadow over the characters\u0027 actions. The moors, shrouded in mist and mystery, serve as an ever-present omen of the impending tragedy.",
+                                              "image_url":  null,
+                                              "questions":  [
+                                                                {
+                                                                    "question_id":  1,
+                                                                    "question_text":  "In contemporary literature, how is the relationship between character and setting described in the passage?",
+                                                                    "options":  {
+                                                                                    "A":  "It is non-existent; characters and settings are entirely separate entities.",
+                                                                                    "B":  "It is a complex interplay where the setting influences the plot and character development.",
+                                                                                    "C":  "Characters and settings are interchangeable.",
+                                                                                    "D":  "Settings are insignificant in contemporary literature."
+                                                                                },
+                                                                    "correct_option":  "B"
+                                                                },
+                                                                {
+                                                                    "question_id":  2,
+                                                                    "question_text":  "In the novel, The Namesake by Jhumpa Lahiri, what does the barren desert landscape symbolize?",
+                                                                    "options":  {
+                                                                                    "A":  "A thriving community.",
+                                                                                    "B":  "The protagonist\u0027s sense of isolation and identity crisis.",
+                                                                                    "C":  "A lush, vibrant setting.",
+                                                                                    "D":  "A happy, carefree life."
+                                                                                },
+                                                                    "correct_option":  "B"
+                                                                }
+                                                            ]
+                                          }
+                                      ]
+                     },
+                     {
+                         "section_id":  "sec_02",
+                         "section_name":  "Current Affairs Including General Knowledge",
+                         "passages":  [
+                                          {
+                                              "passage_id":  "p_02",
+                                              "text":  "On the evening of the 10th, General Dyer arrived at Amritsar, and the Deputy-Commissioner handed over the civil power to him. He issued a proclamation by word of mouth that no meetings should be held. Two days later, after there had been no sort of riot, nor murder, General Dyer heard that a meeting was to be held at the Jallianwala Bagh. He proceeded there with about fifty troops, half British, half Indian, and a certain number of Ghurkas, armed with their kukris. The Jallianwala Bagh is an open space, half a mile square, which has one entry wide enough for three persons. The troops got in and lined up on a mound of debris.\n\nThe walls, seven feet high, and the surrounding houses enclosed the people. There were, too, three alleys through which the people might have been able to pass. Within thirty seconds of the troops getting in, General Dyer gave orders to fire, and the crowd of people, estimated at anything from 5,000 to 20,000, who were sitting on the ground peacefully listening to the mob oratory, were fired on. The result of the troops\u0027 fire into the mass of people we do not know. But we do know that Dyer\u0027s own estimate of the casualties resulting from ten minutes continual individual firing, was 400 to 500 killed and 1,500 wounded. The people were not able to escape. They were people who had not offered any violence and who had not been warned. These people were shot down.",
+                                              "image_url":  null,
+                                              "questions":  [
+                                                                {
+                                                                    "question_id":  25,
+                                                                    "question_text":  "Which incident is described in the passage?",
+                                                                    "options":  {
+                                                                                    "A":  "Baisakhi festival at Amritsar, April 1919",
+                                                                                    "B":  "Jallianwala Bagh Massacre, April 1919",
+                                                                                    "C":  "Congress Protests of April 1919",
+                                                                                    "D":  "Non-Cooperation Movement, April 1919"
+                                                                                },
+                                                                    "correct_option":  "B"
+                                                                },
+                                                                {
+                                                                    "question_id":  26,
+                                                                    "question_text":  "Why did the General Dyer order to fire on the crowd?",
+                                                                    "options":  {
+                                                                                    "A":  "To bring the crowd under control",
+                                                                                    "B":  "To scatter the crowd",
+                                                                                    "C":  "To teach the crowd a lesson",
+                                                                                    "D":  "To enforce the martial law"
+                                                                                },
+                                                                    "correct_option":  "C"
+                                                                }
+                                                            ]
+                                          }
+                                      ]
+                     },
+                     {
+                         "section_id":  "sec_03",
+                         "section_name":  "Legal Reasoning",
+                         "passages":  [
+                                          {
+                                              "passage_id":  "p_03",
+                                              "text":  "The Indian legal system places a significant emphasis on protecting the rights and welfare of children. The Juvenile Justice (Care and Protection of Children) Act, 2015, is a vital piece of legislation in this regard. It is designed to ensure that children in conflict with the law receive special care, protection, and treatment, with the ultimate goal of their rehabilitation and reintegration into society.\n\nOne of the key provisions of the Act is the establishment of Juvenile Justice Boards (JJBs) at the district level. These boards consist of a Metropolitan Magistrate or Judicial Magistrate of the first class and two social workers, at least one of whom should be a woman. The primary function of the JJB is to determine the age of the juvenile, the circumstances in which the offense was committed, and whether the juvenile should be sent to a special home or released on probation.",
+                                              "image_url":  null,
+                                              "questions":  [
+                                                                {
+                                                                    "question_id":  53,
+                                                                    "question_text":  "What is the primary objective of the Juvenile Justice (Care and Protection of Children) Act, 2015?",
+                                                                    "options":  {
+                                                                                    "A":  "To punish child offenders.",
+                                                                                    "B":  "To rehabilitate and reintegrate children in conflict with the law.",
+                                                                                    "C":  "To remove all forms of violence against children.",
+                                                                                    "D":  "To increase the age of criminal responsibility."
+                                                                                },
+                                                                    "correct_option":  "B"
+                                                                }
+                                                            ]
+                                          }
+                                      ]
+                     },
+                     {
+                         "section_id":  "sec_04",
+                         "section_name":  "Quantitative Techniques",
+                         "passages":  [
+                                          {
+                                              "passage_id":  "p_04",
+                                              "text":  "Automobiles are the most preferred mode of transport because they allow us to cover large distance quickly. Resultantly, vehicles have been developed that run on diesel, petrol and even on electricity, which is a remarkable innovative development. During a survey about the percentage wise distribution of cars in four different states, the information regarding ratio between the diesel engine cars, petrol engine cars and electric cars was collected.\n\nTotal number of cars for which data was collected was 8000. Of these, State 1 had 15% of the total cars in the ratio of 3:4:1 (diesel, petrol and electric); State 2 had 20% of the total cars in the ratio of 5:3:2 (diesel, petrol and electric); State 3 had 30% of the total cars in the ratio of 4:5:3 (diesel, petrol and electric), and; State 4 had 35% of the total cars in the ratio of 7:5:2 (diesel, petrol and electric).",
+                                              "image_url":  null,
+                                              "questions":  [
+                                                                {
+                                                                    "question_id":  109,
+                                                                    "question_text":  "If 45% of the electric cars in State 4 are air conditioned (AC) and remaining are non-AC, what is the number of non-AC cars?",
+                                                                    "options":  {
+                                                                                    "A":  "380",
+                                                                                    "B":  "240",
+                                                                                    "C":  "220",
+                                                                                    "D":  "180"
+                                                                                },
+                                                                    "correct_option":  "C"
+                                                                }
+                                                            ]
+                                          }
+                                      ]
+                     }
+                 ]
+}

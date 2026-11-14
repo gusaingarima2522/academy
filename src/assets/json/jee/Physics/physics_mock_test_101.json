@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 101",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Hard Multi-concept Part 1 (Includes Numericals)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A block of mass m is projected up an inclined plane of inclination theta with initial speed v0. The coefficient of friction is mu. The time taken to reach the maximum height is:",
+            "options": [
+                "1) v0 / (g(sin theta + mu cos theta))",
+                "2) v0 / (g(sin theta - mu cos theta))",
+                "3) v0 / (2g(sin theta + mu cos theta))",
+                "4) v0 / (g(cos theta + mu sin theta))"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A solid sphere and a solid cylinder of same mass and radius roll without slipping down the same inclined plane. The ratio of their accelerations (a_sphere / a_cylinder) is:",
+            "options": [
+                "1) 14/15",
+                "2) 15/14",
+                "3) 1",
+                "4) 7/5"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The escape velocity from the earth is 11.2 km/s. If a body is projected at an angle of 30 degrees to the horizontal, the escape velocity will be:",
+            "options": [
+                "1) 11.2 * sqrt(3) km/s",
+                "2) 11.2 / sqrt(3) km/s",
+                "3) 11.2 km/s",
+                "4) 22.4 km/s"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of length L and area of cross-section A is stretched by a force F. If Y is Young's modulus, the elastic potential energy stored per unit volume is:",
+            "options": [
+                "1) F^2 / (2AY)",
+                "2) F^2 / (2A^2 Y)",
+                "3) F / (2AY)",
+                "4) F^2 A / (2Y)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle performs SHM of amplitude A. At what distance from the mean position is its kinetic energy one-third of its potential energy?",
+            "options": [
+                "1) A/2",
+                "2) A*sqrt(3)/2",
+                "3) A/sqrt(2)",
+                "4) A*sqrt(3)/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The fundamental frequency of an open organ pipe is 300 Hz. If it is dipped vertically in water such that half of it is submerged, its new fundamental frequency is:",
+            "options": [
+                "1) 150 Hz",
+                "2) 300 Hz",
+                "3) 600 Hz",
+                "4) 1200 Hz"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas operates in a Carnot cycle. It takes heat from the source at 500 K and rejects heat to the sink at 300 K. If the engine performs 1000 J of work per cycle, the heat taken from the source is:",
+            "options": [
+                "1) 1500 J",
+                "2) 2000 J",
+                "3) 2500 J",
+                "4) 3000 J"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The root mean square speed of molecules of an ideal gas is v. If the pressure is doubled keeping the temperature constant, the rms speed becomes:",
+            "options": [
+                "1) v",
+                "2) 2v",
+                "3) 4v",
+                "4) v/sqrt(2)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "An electric dipole of dipole moment p is placed in a uniform electric field E in stable equilibrium position. The work done in rotating it through 90 degrees is:",
+            "options": [
+                "1) pE",
+                "2) 2pE",
+                "3) -pE",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A capacitor of capacitance C is charged to a potential V. It is then connected to an identical uncharged capacitor. The ratio of total electrostatic energy before and after connection is:",
+            "options": [
+                "1) 1:1",
+                "2) 2:1",
+                "3) 4:1",
+                "4) 1:2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a meter bridge experiment, the null point is at 25 cm from one end when a standard resistance of 30 ohms is used in the right gap. The unknown resistance in the left gap is:",
+            "options": [
+                "1) 10 ohms",
+                "2) 15 ohms",
+                "3) 90 ohms",
+                "4) 120 ohms"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "An electron moving with velocity v enters a magnetic field B at an angle of 30 degrees. The pitch of its helical path is (m = mass, e = charge):",
+            "options": [
+                "1) pi*m*v / (e*B)",
+                "2) 2*pi*m*v*sqrt(3) / (e*B)",
+                "3) pi*m*v*sqrt(3) / (e*B)",
+                "4) 2*pi*m*v / (e*B)"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an LCR series circuit, the voltage across the inductor, capacitor and resistor are 10V, 10V and 20V respectively. The applied voltage is:",
+            "options": [
+                "1) 40 V",
+                "2) 20 V",
+                "3) 20*sqrt(2) V",
+                "4) 10*sqrt(2) V"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, the ratio of maximum to minimum intensity is 25:9. The ratio of amplitudes of the interfering waves is:",
+            "options": [
+                "1) 5:3",
+                "2) 4:1",
+                "3) 16:1",
+                "4) 2:1"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The work function of a metal is 1 eV. The maximum kinetic energy of photoelectrons emitted when light of wavelength 310 nm falls on it is approximately:",
+            "options": [
+                "1) 1 eV",
+                "2) 2 eV",
+                "3) 3 eV",
+                "4) 4 eV"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the Bohr model, the ratio of the areas of the electron orbits in the first and second orbits of a hydrogen atom is:",
+            "options": [
+                "1) 1:2",
+                "2) 1:4",
+                "3) 1:8",
+                "4) 1:16"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A radioactive sample has a half-life of 2 days. The time taken for 15/16th of the sample to decay is:",
+            "options": [
+                "1) 4 days",
+                "2) 6 days",
+                "3) 8 days",
+                "4) 10 days"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a common emitter configuration, the current gain alpha is 0.98. If the base current is 40 microamperes, the collector current is:",
+            "options": [
+                "1) 1.96 mA",
+                "2) 0.08 mA",
+                "3) 19.6 mA",
+                "4) 3.92 mA"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which produces a high output only when the two inputs are in different logic states is:",
+            "options": [
+                "1) OR",
+                "2) AND",
+                "3) XOR",
+                "4) XNOR"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A block is kept on a truck moving with an acceleration of 3 m/s^2. If the coefficient of static friction is 0.5, the frictional force on the block of mass 5 kg is (g=10 m/s^2):",
+            "options": [
+                "1) 25 N",
+                "2) 15 N",
+                "3) 10 N",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A block of mass 2 kg is moving with a velocity of 6 m/s. Its kinetic energy in Joules is:",
+            "answer": "36"
+        },
+        {
+            "type": "numerical",
+            "question": "A spring has a spring constant of 200 N/m. It is compressed by 0.1 m. The potential energy stored in the spring in Joules is:",
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "Two identical capacitors of capacitance 12 microFarads are connected in series. Their equivalent capacitance in microFarads is:",
+            "answer": "6"
+        },
+        {
+            "type": "numerical",
+            "question": "A transformer has 100 turns in the primary coil and 300 turns in the secondary coil. If the primary voltage is 50 V, the secondary voltage in Volts is:",
+            "answer": "150"
+        },
+        {
+            "type": "numerical",
+            "question": "A force of 10 N acts on a body of mass 2 kg initially at rest for 5 seconds. The final velocity of the body in m/s is:",
+            "answer": "25"
+        }
+    ]
+}

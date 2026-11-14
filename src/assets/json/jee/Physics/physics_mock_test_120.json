@@ -1,0 +1,268 @@
+{
+    "testName": "Physics Mock Test 120",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 26,
+    "topics": [
+        "Full Syllabus Simulation 6"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A physical quantity Q is given by Q = A^2 * B / C^3. If percentage errors in A, B and C are 1%, 2% and 1% respectively, the percentage error in Q is:",
+            "options": [
+                "1) 3%",
+                "2) 5%",
+                "3) 7%",
+                "4) 1%"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle is thrown vertically upwards with a velocity of 20 m/s. The distance traveled by the particle in the first 3 seconds is (g=10 m/s^2):",
+            "options": [
+                "1) 15 m",
+                "2) 20 m",
+                "3) 25 m",
+                "4) 30 m"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass M moving with velocity V explodes into two equal parts. If one part comes to rest and the other part moves with velocity v, what is the value of v?",
+            "options": [
+                "1) V",
+                "2) 2V",
+                "3) V/2",
+                "4) 4V"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform circular disc of radius R is rotating about its axis with angular velocity w. If a small mass m is placed gently at the edge of the disc, the new angular velocity will be (Mass of disc is M):",
+            "options": [
+                "1) M w / (M + m)",
+                "2) M w / (M + 2m)",
+                "3) (M + 2m) w / M",
+                "4) 2M w / (M + m)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The escape velocity of a body on the earth's surface is 11.2 km/s. If the mass of the earth is doubled and its radius is halved, the escape velocity will be:",
+            "options": [
+                "1) 5.6 km/s",
+                "2) 11.2 km/s",
+                "3) 22.4 km/s",
+                "4) 44.8 km/s"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Water is flowing through a horizontal tube of non-uniform cross-section. The pressure is lowest where:",
+            "options": [
+                "1) Velocity is lowest",
+                "2) Area is maximum",
+                "3) Velocity is highest",
+                "4) Both 1 and 2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The absolute temperature of a gas is increased by 3 times. The RMS velocity of its molecules will:",
+            "options": [
+                "1) Become 3 times",
+                "2) Become 9 times",
+                "3) Become sqrt(3) times",
+                "4) Become 4 times (since increased BY 3 times = 4 times initial)"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The absolute temperature of a gas is increased to 4 times its initial value. The RMS velocity of its molecules will:",
+            "options": [
+                "1) Become 2 times",
+                "2) Become 4 times",
+                "3) Become 16 times",
+                "4) Remain same"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a Carnot engine, the source is at 500 K and sink at 300 K. The efficiency of the engine is:",
+            "options": [
+                "1) 20%",
+                "2) 40%",
+                "3) 60%",
+                "4) 80%"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, the distance between a node and its adjacent antinode is:",
+            "options": [
+                "1) lambda",
+                "2) lambda/2",
+                "3) lambda/4",
+                "4) 2*lambda"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric potential at a distance r from a point charge q is proportional to:",
+            "options": [
+                "1) r",
+                "2) 1/r",
+                "3) 1/r^2",
+                "4) 1/r^3"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform wire of resistance 16 ohms is cut into 4 equal parts. They are connected in parallel. The equivalent resistance is:",
+            "options": [
+                "1) 1 ohm",
+                "2) 4 ohms",
+                "3) 16 ohms",
+                "4) 64 ohms"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle moves undeflected in a region of crossed electric and magnetic fields. If the electric field is 20 V/m and the magnetic field is 0.5 T, the velocity of the particle is:",
+            "options": [
+                "1) 10 m/s",
+                "2) 40 m/s",
+                "3) 20 m/s",
+                "4) 5 m/s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The core of a transformer is laminated to minimize:",
+            "options": [
+                "1) Flux leakage",
+                "2) Copper losses",
+                "3) Eddy current losses",
+                "4) Hysteresis losses"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the lowest frequency?",
+            "options": [
+                "1) X-rays",
+                "2) Microwaves",
+                "3) Radio waves",
+                "4) Gamma rays"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two thin lenses of power +4D and -2D are placed in contact. The focal length of the combination is:",
+            "options": [
+                "1) +50 cm",
+                "2) -50 cm",
+                "3) +25 cm",
+                "4) -25 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, if the distance between the slits is halved, the fringe width:",
+            "options": [
+                "1) Halves",
+                "2) Doubles",
+                "3) Quadruples",
+                "4) Remains same"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The work function of a metal is 1 eV. Light of energy 3 eV falls on it. The maximum kinetic energy of the emitted photoelectron is:",
+            "options": [
+                "1) 1 eV",
+                "2) 2 eV",
+                "3) 3 eV",
+                "4) 4 eV"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The half-life of a radioactive substance is 5 days. The fraction of the substance decayed in 15 days is:",
+            "options": [
+                "1) 1/8",
+                "2) 7/8",
+                "3) 1/4",
+                "4) 3/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-type semiconductor, the majority charge carriers are:",
+            "options": [
+                "1) Electrons",
+                "2) Holes",
+                "3) Protons",
+                "4) Neutrons"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which gives output 0 only when both inputs are 1 is:",
+            "options": [
+                "1) OR",
+                "2) AND",
+                "3) NAND",
+                "4) NOR"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A force of 10 N acts on a mass of 2 kg for 3 seconds. The final velocity in m/s (assuming initial velocity is zero) is:",
+            "answer": "15"
+        },
+        {
+            "type": "numerical",
+            "question": "The spring constant of a spring is 100 N/m. It is compressed by 0.2 m. The potential energy stored in the spring in Joules is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A convex lens of focal length 15 cm forms a real image at 30 cm from the lens. The object distance in cm is:",
+            "answer": "30"
+        },
+        {
+            "type": "numerical",
+            "question": "Three identical capacitors of 12 uF each are connected in series. Their equivalent capacitance in uF is:",
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "The mass defect of a nucleus is 0.1 amu. The binding energy in MeV is approximately (using 1 amu = 931 MeV):",
+            "answer": "93.1"
+        }
+    ]
+}

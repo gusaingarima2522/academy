@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 9",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A torque of 10 N m acts on a disc of moment of inertia 2 kg m². The angular acceleration produced is",
+      "options": [
+        "20 rad/s²",
+        "10 rad/s²",
+        "5 rad/s²",
+        "0.2 rad/s²"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The rotational kinetic energy of a body of moment of inertia 4 kg m² rotating at 5 rad/s is",
+      "options": [
+        "100 J",
+        "25 J",
+        "10 J",
+        "50 J"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A skater spinning with her arms outstretched pulls her arms in so that her moment of inertia becomes half. Her angular velocity becomes",
+      "options": [
+        "half",
+        "unchanged",
+        "double",
+        "four times"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A solid sphere rolls without slipping on a horizontal surface. The fraction of its total kinetic energy that is translational is",
+      "options": [
+        "2/7",
+        "2/5",
+        "1/2",
+        "5/7"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The moment of inertia of a uniform ring of mass M and radius R about a diameter is",
+      "options": [
+        "½MR²",
+        "MR²",
+        "¼MR²",
+        "2MR²"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A uniform rod of mass 3 kg and length 2 m is rotated about an axis perpendicular to it and passing through one end. Its moment of inertia is",
+      "options": [
+        "2 kg m²",
+        "12 kg m²",
+        "4 kg m²",
+        "1 kg m²"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The acceleration due to gravity at a depth equal to half the radius of the earth below its surface is (g = value at the surface)",
+      "options": [
+        "g/2",
+        "g/4",
+        "g",
+        "zero"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "If the orbital radius of a planet around the sun becomes 4 times, its time period becomes",
+      "options": [
+        "4 times",
+        "16 times",
+        "64 times",
+        "8 times"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The ratio of kinetic energy to potential energy of a satellite in a circular orbit around the earth is",
+      "options": [
+        "-1/2",
+        "-2",
+        "2",
+        "1/2"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A planet has a mass 8 times and a radius 2 times that of the earth. The escape velocity from its surface is (escape velocity on the earth = 11.2 km/s)",
+      "options": [
+        "44.8 km/s",
+        "11.2 km/s",
+        "22.4 km/s",
+        "5.6 km/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The time period of a geostationary satellite is",
+      "options": [
+        "1.5 hours",
+        "12 hours",
+        "48 hours",
+        "24 hours"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A solid cylinder rolls down an inclined plane of inclination 30° without slipping. Its linear acceleration is (take g = 10 m/s²)",
+      "options": [
+        "3.33 m/s²",
+        "5 m/s²",
+        "2.5 m/s²",
+        "6.67 m/s²"
+      ],
+      "answer": 1
+    }
+  ]
+}

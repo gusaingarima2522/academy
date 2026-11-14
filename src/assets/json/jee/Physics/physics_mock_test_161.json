@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 161",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Exact JEE Main Simulation 11"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle starts from rest with constant acceleration. If it covers a distance d in the first t seconds, the distance covered in the next t seconds is:",
+            "options": [
+                "1) d",
+                "2) 2d",
+                "3) 3d",
+                "4) 4d"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A projectile is fired with velocity v at an angle theta. The magnitude of the rate of change of its momentum at the highest point of its trajectory is:",
+            "options": [
+                "1) zero",
+                "2) mg",
+                "3) mg cos(theta)",
+                "4) mg sin(theta)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass m is placed on a rough horizontal table. If the coefficient of friction is mu, the minimum force required to move the block is:",
+            "options": [
+                "1) mu*mg",
+                "2) mu*mg / sqrt(1+mu^2)",
+                "3) mg / sqrt(1+mu^2)",
+                "4) mu*mg / (1+mu^2)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform circular disc of mass M and radius R about an axis passing through its edge and parallel to its diameter is:",
+            "options": [
+                "1) 5/4 MR^2",
+                "2) 3/2 MR^2",
+                "3) 3/4 MR^2",
+                "4) 1/2 MR^2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The escape velocity from the surface of the earth is v_e. The escape velocity from a planet having twice the mass and half the radius of the earth will be:",
+            "options": [
+                "1) v_e",
+                "2) 2*v_e",
+                "3) v_e / 2",
+                "4) 4*v_e"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of length L and cross-sectional area A is made of a material of Young's modulus Y. The work done in stretching the wire by an amount x is:",
+            "options": [
+                "1) YAx^2 / (2L)",
+                "2) YAx^2 / L",
+                "3) YAx / (2L)",
+                "4) YAx / L"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas operates in a Carnot cycle. It absorbs heat from a source at 561 K and rejects heat to a sink at 461 K. The efficiency is:",
+            "options": [
+                "1) 1 - (461/561)",
+                "2) 0.5",
+                "3) 0.25",
+                "4) 0.75"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The RMS speed of gas molecules at absolute temperature T is v. If the temperature is quadrupled, the RMS speed becomes:",
+            "options": [
+                "1) v",
+                "2) 2v",
+                "3) 4v",
+                "4) v/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle executes SHM. At what displacement from the mean position is its kinetic energy equal to its potential energy? (A is amplitude)",
+            "options": [
+                "1) A/2",
+                "2) A/sqrt(2)",
+                "3) A*sqrt(3)/2",
+                "4) A/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The fundamental frequency of an open organ pipe is f. If it is half submerged in water vertically, its fundamental frequency becomes:",
+            "options": [
+                "1) f/2",
+                "2) f",
+                "3) 2f",
+                "4) 4f"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "An electric dipole of moment p is placed in a uniform electric field E. The maximum torque experienced by the dipole is:",
+            "options": [
+                "1) pE",
+                "2) pE/2",
+                "3) 2pE",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A parallel plate capacitor is charged by a battery. The battery remains connected and a dielectric slab is inserted. The energy stored in the capacitor:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains constant",
+                "4) Becomes zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A cell of internal resistance r is connected across an external resistance R. The maximum power is delivered to the external resistance when:",
+            "options": [
+                "1) R = r",
+                "2) R = 2r",
+                "3) R = r/2",
+                "4) R = 0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is projected perpendicularly into a uniform magnetic field. Its path is a:",
+            "options": [
+                "1) Straight line",
+                "2) Parabola",
+                "3) Circle",
+                "4) Helix"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law is a direct consequence of the law of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Mass",
+                "3) Energy",
+                "4) Momentum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an LCR series AC circuit at resonance, the phase difference between voltage and current is:",
+            "options": [
+                "1) 90 degrees",
+                "2) 45 degrees",
+                "3) 0 degrees",
+                "4) 180 degrees"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Total internal reflection can occur when light travels from:",
+            "options": [
+                "1) Air to glass",
+                "2) Water to glass",
+                "3) Glass to water",
+                "4) Vacuum to air"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Einstein's photoelectric equation, the maximum kinetic energy of emitted photoelectrons varies linearly with:",
+            "options": [
+                "1) Intensity of light",
+                "2) Frequency of light",
+                "3) Wavelength of light",
+                "4) Square of frequency"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In Bohr's model of the hydrogen atom, the angular momentum of an electron in the nth orbit is proportional to:",
+            "options": [
+                "1) n",
+                "2) 1/n",
+                "3) n^2",
+                "4) 1/n^2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is a universal logic gate?",
+            "options": [
+                "1) AND",
+                "2) OR",
+                "3) NOT",
+                "4) NOR"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "A force of 10 N acts on a mass of 2 kg for 3 seconds. The change in momentum in kg m/s is:",
+            "answer": "30"
+        },
+        {
+            "type": "numerical",
+            "question": "A Carnot engine operates between 600 K and 300 K. If it absorbs 1000 J of heat from the source, the work done in Joules is:",
+            "answer": "500"
+        },
+        {
+            "type": "numerical",
+            "question": "Two thin lenses of power +4 D and -2 D are placed in contact. Their equivalent focal length in cm is:",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "The work function of a metal is 2.5 eV. If a photon of energy 4.5 eV hits the metal, the maximum kinetic energy of the emitted photoelectron in eV is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A radioactive sample has a half-life of 10 days. The time in days taken for 87.5% of the sample to decay is:",
+            "answer": "30"
+        }
+    ]
+}

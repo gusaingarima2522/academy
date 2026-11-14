@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 131",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 11"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A body starts from rest with a uniform acceleration. The ratio of distances covered in the nth second to the distance covered in n seconds is:",
+            "options": [
+                "1) (2n-1)/n^2",
+                "2) 1/n",
+                "3) (2n-1)/n",
+                "4) 1/n^2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "If the kinetic energy of a body is increased by 300%, its momentum will increase by:",
+            "options": [
+                "1) 100%",
+                "2) 150%",
+                "3) 300%",
+                "4) 175%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform semicircular wire of mass M and radius R about an axis passing through its center of mass and perpendicular to its plane is:",
+            "options": [
+                "1) MR^2",
+                "2) MR^2 * (1 - 4/pi^2)",
+                "3) MR^2 / 2",
+                "4) MR^2 * (1 - 2/pi^2)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A satellite is moving around the earth in a circular orbit with velocity v. If the gravitational force suddenly disappears, the satellite will:",
+            "options": [
+                "1) Fall towards earth",
+                "2) Move tangentially with velocity v",
+                "3) Stop immediately",
+                "4) Move radially outwards"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If a wire is stretched to double its original length, the stress produced in it is (Y is Young's modulus):",
+            "options": [
+                "1) Y/2",
+                "2) Y",
+                "3) 2Y",
+                "4) 4Y"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A real gas behaves as an ideal gas at:",
+            "options": [
+                "1) High pressure and low temperature",
+                "2) Low pressure and high temperature",
+                "3) High pressure and high temperature",
+                "4) Low pressure and low temperature"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two simple pendulums of length 1 m and 1.21 m are at their mean position with their velocities in the same direction at some instant. After how many oscillations of the longer pendulum will they be in the same phase again?",
+            "options": [
+                "1) 10",
+                "2) 11",
+                "3) 20",
+                "4) 21"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The velocity of sound in a gas is v. If the density of the gas is doubled at constant pressure, the new velocity of sound will be:",
+            "options": [
+                "1) v",
+                "2) v/sqrt(2)",
+                "3) v*sqrt(2)",
+                "4) 2v"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A charge Q is divided into two parts q and Q-q. If the Coulomb repulsion between them when they are separated is to be maximum, the ratio of Q/q should be:",
+            "options": [
+                "1) 2",
+                "2) 1/2",
+                "3) 4",
+                "4) 1/4"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "When a wire of uniform cross-section a, length l and resistance R is bent into a complete circle, resistance between any two of diametrically opposite points will be:",
+            "options": [
+                "1) R/2",
+                "2) R/4",
+                "3) R/8",
+                "4) 4R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A proton enters a uniform magnetic field of 5 T with a velocity of 4 x 10^7 m/s at right angles to the field. The magnetic force acting on the proton is:",
+            "options": [
+                "1) 3.2 x 10^-11 N",
+                "2) 3.2 x 10^-12 N",
+                "3) 1.6 x 10^-11 N",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Magnetic susceptibility of a diamagnetic substance:",
+            "options": [
+                "1) Decreases with temperature",
+                "2) Increases with temperature",
+                "3) Is independent of temperature",
+                "4) First increases then decreases"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An inductor of 2 H and a resistor of 10 ohms are connected in series to a battery of 5 V. The time constant of the circuit is:",
+            "options": [
+                "1) 5 s",
+                "2) 0.2 s",
+                "3) 2 s",
+                "4) 0.5 s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A plane electromagnetic wave is propagating along the x-direction. If the electric field is along the y-direction, then the magnetic field is along:",
+            "options": [
+                "1) x-direction",
+                "2) y-direction",
+                "3) z-direction",
+                "4) negative x-direction"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An object approaches a convergent lens from the left of the lens with a uniform speed 5 m/s and stops at the focus. The image:",
+            "options": [
+                "1) Moves away from the lens with a uniform speed 5 m/s",
+                "2) Moves away from the lens with a uniform acceleration",
+                "3) Moves away from the lens with a non-uniform acceleration",
+                "4) Moves towards the lens with a non-uniform acceleration"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The resolving power of a human eye is approximately:",
+            "options": [
+                "1) 1 degree",
+                "2) 1 minute",
+                "3) 1 second",
+                "4) 1 radian"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a photoelectric experiment, if both the intensity and frequency of the incident light are doubled, then the saturation photoelectric current:",
+            "options": [
+                "1) Remains constant",
+                "2) Is halved",
+                "3) Is doubled",
+                "4) Becomes four times"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a full wave rectifier circuit operating from 50 Hz mains frequency, the fundamental frequency in the ripple would be:",
+            "options": [
+                "1) 50 Hz",
+                "2) 100 Hz",
+                "3) 25 Hz",
+                "4) 70.7 Hz"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the acceleration due to gravity on a planet is one-fourth that of earth and its radius is half of that of earth, the escape velocity from the planet is:",
+            "options": [
+                "1) v_e / 2",
+                "2) v_e / (2*sqrt(2))",
+                "3) v_e / 4",
+                "4) v_e / (sqrt(2))"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two thin lenses of powers 5D and -2D are placed in contact. The focal length of the combination is:",
+            "options": [
+                "1) +33.3 cm",
+                "2) -33.3 cm",
+                "3) +50 cm",
+                "4) -50 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "A constant force F = (2i + 3j) N acts on a body displacing it by d = (3i - 2j) m. The work done in Joules is:",
+            "answer": "0"
+        },
+        {
+            "type": "numerical",
+            "question": "A charge of 2 C is moving with a velocity of 3 m/s perpendicularly into a magnetic field of 4 T. The magnetic force on it in Newtons is:",
+            "answer": "24"
+        },
+        {
+            "type": "numerical",
+            "question": "A radioactive substance has a half-life of 6.93 days. Its decay constant in days^-1 is (ln 2 = 0.693):",
+            "answer": "0.1"
+        },
+        {
+            "type": "numerical",
+            "question": "Three identical resistors of 6 ohms each are connected in parallel. Their equivalent resistance in ohms is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "The radius of curvature of a concave mirror is 40 cm. Its focal length in cm (magnitude) is:",
+            "answer": "20"
+        }
+    ]
+}

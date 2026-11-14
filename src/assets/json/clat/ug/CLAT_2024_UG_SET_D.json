@@ -1,0 +1,1463 @@
+{
+  "test_metadata": {
+    "testName": "Actual CLAT 2024 UG - SET D",
+    "totalMarks": 120,
+    "timeMinutes": 120,
+    "marking": "+1 for correct, -0.25 for incorrect",
+    "totalQuestions": 120,
+    "topics": [
+      "English",
+      "GK",
+      "Legal",
+      "Logical",
+      "Quantitative"
+    ]
+  },
+  "sections": [
+    {
+      "sectionName": "English Language",
+      "passages": [
+        {
+          "passageText": "the crisis of justice that is the subject matter of discussion in the media today is in fact the crisis of “justice for the middle class”. the main difference between india and the OECD (Organisation for economic Cooperation and development) countries is that whereas the middle class in these countries has reasonable access to justice, in india it does not. A vocal and powerful middle class has emerged in india since 1991. it is demanding reasonable access to justice. much of the judicial reform effort will help meet this demand… the question of justice for the poor is, however, an altogether different challenge. No country in the world has been able to secure justice for the poor. most of the jails of the richest countries are filled with the poorest. The “masses” are more often victims of the criminal justice system than of crime. In India as well, jails are almost exclusively filled with the poor. the civil justice system is hardly accessible to them. they are often victimised by lawyers, touts and court staff. they are docket-excluded, a new type of untouchability. the language and the logic—and the colonial and feudal culture—of the judicial system are alien to them. it rarely takes cognisance of their needs and interests. their main concern, therefore, is to escape the attention of the justice system, criminal and civil.\n\nA landless dalit person in the interior of madhya Pradesh once gave me an insightful definition of a court from the perspective of the masses: “A court is a place where you are forcibly taken by the police to be punished; no one goes to a court.” in contrast, many lawyers and judges colloquially define a court as “a temple of justice where rights are protected”. these sharply divergent visions mean that justice for one section is often injustice for another. Protecting the livelihood of traditional taxi and auto drivers from predatory pricing by corporate app-based taxi providers by imaginatively using the available tools of law to delay their incursion would be seen by the rich and by sections of the middle class as a failure of the judicial system, and possibly as also resulting in a downgrading of the “ease of doing business” measure. However, the masses would see such a judicial intervention as strong evidence of a good justice system. Although the conflict over competing visions of the nation and conflicting demands from social and economic segments have confined judicial reform of judicial administration mainly to “neutral” areas such as process reform, procedural law, technology, planning and court and case management, judge strength, and the workload of judges, there has been considerable improvement in these areas, and the judicial system has improved its performance. [extracted, with edits, from “Justice and the two ideas of india”, by G. mohan Gopal, Frontline]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following statements is the author most likely to agree with?",
+              "options": [
+                "1) The judicial system reflects the same power relationships as those that exist in society.",
+                "2) Access to the judicial system is determined more by a person’s economic status such as wealth and income, than by their social status, such as religion and caste.",
+                "3) the judicial system was made by the rich, for the rich, of the rich.",
+                "4) None of the above."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements is the author most likely to disagree with?",
+              "options": [
+                "1) A truly representative democracy would ensure that the interests of the poor are also represented in the judicial system.",
+                "2) the Law ensures equality both in text and in practise.",
+                "3) the poor suffer most at the hands of lawyers and touts, compared to judges who might still pronounce judgments in their favour from time to time.",
+                "4) All of the above."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What makes reform of judicial administration a ‘neutral’ area?",
+              "options": [
+                "1) Persons across socio-economic strata agree on the need to reform judicial administration.",
+                "2) there is consensus among political parties across the ideological and regional spectrum on reforms to judicial administration.",
+                "3) reforms to judicial administration do not favour one class of people over another.",
+                "4) reform of judicial administration is mandated by the Constitution, and thus lies beyond political considerations."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the central thesis of the above extract?",
+              "options": [
+                "1) the practice of untouchability takes various forms in modern india.",
+                "2) the imagination of justice for the rich and poor is vastly different.",
+                "3) Addressing judge strength and case-load management does not affect the performance of the judicial system.",
+                "4) Protecting the livelihood of traditional taxi drivers is contrary to the goals of ease of doing business."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the author mean by ‘docket-excluded’ in the second paragraph?",
+              "options": [
+                "1) the poor do not have easy access to the justice system.",
+                "2) Courts do not list bail petitions of poor undertrial prisoners who populate the country’s jails.",
+                "3) the poor reject the judicial system as being alien to their language and logic.",
+                "4) the rich are excluded from the country’s prisons, which are mostly populated by the poor."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following words best describes the experience of different segments of people with the justice system as described in the third paragraph?",
+              "options": [
+                "1) Symbiotic",
+                "2) Affective",
+                "3) Conflicting",
+                "4) Inter-dependent"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "english literature is a vast and diverse field that has left an indelible mark on the world of letters. From the eloquent plays of William Shakespeare to the complex novels of Jane Austen and the profound poetry of William Wordsworth, english literature offers a window into the human experience. One of the luminaries of english literature is William Shakespeare, often hailed as the greatest playwright in the history of english language. His works, including Hamlet, Macbeth, and Romeo and Juliet, are celebrated for their exploration of human nature, love, ambition, and tragedy. His characters, such as the tormented Hamlet and the star-crossed lovers romeo and Juliet, continue to captivate readers and audiences worldwide. the 19th century ushered in a new era of literary giants. Jane Austen’s novels, such as Pride and Prejudice and Sense and Sensibility, provide incisive social commentary through the lens of wit and romance. Austen’s heroines, like elizabeth bennet and elinor dashwood, remain beloved literary figures known for their intelligence and resilience. The Romantic era brought forth poets like William Wordsworth and Samuel taylor Coleridge, who celebrated the beauty of nature and the emotional intensity of the individual. Wordsworth’s ‘‘i Wandered Lonely as a Cloud’’ and Coleridge’s ‘‘the rime of the Ancient mariner’’ are testament to the power of the written words to evoke profound emotions and imagery. moving towards 20th century, english literature continued to evolve. Virginia Woolf’s ground-breaking novel Mrs. Dalloway explored the inner thoughts and lives of its characters with a modernist narrative style. dystopian visions, as seen in George Orwell’s Nineteen Eighty-Four provided stark warnings about the dangers of totalitarianism and the erosion of individual freedom. today, english literature is a global phenomenon, transcending borders and languages. indian authors like Arundhati roy, with her novel The God of Small Things, have won prestigious international literary awards. the book not only explores intricate family dynamics but also delves into the broader socio-political landscape of india. in summary, english literature is a testament to the enduring power of storytelling and the written word. it encompasses an array of authors, themes, and styles that continue to captivate and inspire readers across the world.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the title of Virginia Woolf's novel known for its modernist narrative style?",
+              "options": [
+                "1) Pride and Prejudice",
+                "2) Nineteen Eighty-Four",
+                "3) Mrs. Dalloway",
+                "4) The God of Small Things"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Identify the 20th century novel mentioned in the passage that provides a warning about the dangers of totalitarianism?",
+              "options": [
+                "1) Nineteen Eighty-Four",
+                "2) Romeo and Juliet",
+                "3) Sense and Sensibility",
+                "4) “i Wandered Lonely as a Cloud”"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the passage highlight as the enduring power of english literature?",
+              "options": [
+                "1) its ability to win literary awards",
+                "2) the diversity of its authors, themes, and styles",
+                "3) its ability to captivate and inspire only british readers",
+                "4) the decline of storytelling"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Who is often regarded as the greatest playwright in the history of english language?",
+              "options": [
+                "1) Jane Austen",
+                "2) William Wordsworth",
+                "3) William Shakespeare",
+                "4) George Orwell"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of Jane Austen’s novels is known for its social commentary and witty portrayal of romance?",
+              "options": [
+                "1) Nineteen Eighty-Four",
+                "2) Sense and Sensibility",
+                "3) “i Wandered Lonely as a Cloud”",
+                "4) “the rime of the Ancient mariner”"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Who are the romantic poets mentioned in the passage known for celebrating nature and intense human emotions?",
+              "options": [
+                "1) William Shakespeare and Virginia Woolf",
+                "2) George Orwell and Samuel taylor Coleridge",
+                "3) William Wordsworth and Samuel taylor Coleridge",
+                "4) Jane Austen and Arundhati roy"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "in the realm of contemporary literature, the interplay between character and setting is a nuanced dance that shapes the narrative’s essence. the setting, often described with painstaking detail, becomes more than a backdrop; it becomes a character, influencing the plot and character development. Consider, for instance, the barren expanse of the desert in Jhumpa Lahiri’s The Namesake. the arid landscape mirrors the sense of isolation felt by the protagonist, Gogol, as he navigates his identity crisis in a foreign land. the relentless sun and vast sands are not mere descriptions; they are the silent witnesses to his inner turmoil. On the other end of the literary spectrum, there is Arundhati roy’s The God of Small Things. the lush, vibrant Kerala backwaters are not just the setting; they are a character woven into the fabric of the story. The teeming, humid landscape reflects the complex web of human relationships and secrets that unravel in the narrative. This interplay is not confined to contemporary literature alone. in Shakespeare’s timeless tragedy Macbeth, the eerie and foreboding setting of the Scottish moors casts a dark shadow over the characters’ actions. the moors, shrouded in mist and mystery, serve as an ever-present omen of the impending tragedy.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What does the term “interplay” refer to in the context of the passage?",
+              "options": [
+                "1) A lack of interaction between characters and setting.",
+                "2) A complex relationship where the setting influences the narrative.",
+                "3) An insignificant connection between characters and setting.",
+                "4) A complete separation of characters and setting."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following words best describes the setting in The God of Small Things?",
+              "options": [
+                "1) boring.",
+                "2) Lush and vibrant.",
+                "3) Insignificant.",
+                "4) Dark and foreboding."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the main theme discussed in the passage?",
+              "options": [
+                "1) The characters in contemporary literature are not influenced by their settings.",
+                "2) Setting in literature is unimportant.",
+                "3) In literature, settings can be as influential as characters in shaping the narrative.",
+                "4) Settings have no role in character development."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In contemporary literature, how is the relationship between character and setting described in the passage?",
+              "options": [
+                "1) it is non-existent; characters and settings are entirely separate entities.",
+                "2) It is a complex interplay where the setting influences the plot and character development.",
+                "3) Characters and settings are interchangeable.",
+                "4) Settings are insignificant in contemporary literature."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In the novel, The Namesake by Jhumpa Lahiri, what does the barren desert landscape symbolize?",
+              "options": [
+                "1) A thriving community.",
+                "2) the protagonist’s sense of isolation and identity crisis.",
+                "3) A lush, vibrant setting.",
+                "4) A happy, carefree life."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What role does the Scottish moors play in Shakespeare’s Macbeth?",
+              "options": [
+                "1) it serves as a beautiful, serene landscape.",
+                "2) It has no influence on the characters’ actions.",
+                "3) it is an ever-present omen of impending tragedy.",
+                "4) it is a place for the characters to relax."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "everything she wanted was here, at Carignano, in Kasauli. Here, on the ridge of the mountain, in this quiet house. it was the place, and the time of life, that she had wanted and prepared for all her life-as she realized on the first day at Carignano, with a great, cool flowering of relief - and at last she had it. She wanted no one and nothing else. Whatever else came, or happened here, would be an unwelcome intrusion and distraction. this she tried to convey to the plodding postman with a cold and piercing stare from the height of the ridge onto his honest bull back. unfortunately, he did not look up at her on the hilltop but stared stolidly down at the dust piling onto his shoes as he plodded on. A bullock-man, an oafish ox, she thought bitterly. She stepped backwards into the garden and the wind suddenly billowed up and threw the pine branches about as though to curtain her. She was grey, tall and thin and her silk sari made a sweeping, shivering sound and she fancied she could merge with the pine trees and be mistaken for one. to be a tree, no more and no less, was all she was prepared to undertake. What pleased and satisfied her so, here at Carignano, was its barrenness. This was the chief virtue of all Kasauli of course-its starkness. it had rocks, it had pines, it had light and air. in every direction there was a sweeping view - to the north, of the mountains, to the south, of the plains. Occasionally an eagle swam through this clear unobstructed mass of light and air, that was all. And Carignano, her home on the ridge, had no more than that. Why should it? the sun shone on its white walls. its windows were open the ones facing north opened on to the blue waves of the Himalayas flowing out and up to the line of ice and snow sketched upon the sky, while those that faced south looked down the plunging cliff to the plain stretching out, flat and sere to the blurred horizon. Yes, there were some apricot trees close to the house. there were clumps of iris that had finished blooming. There was the kitchen with a wing of smoke lifting out of its chimney and a stack of wood outside its door. but these were incidental, almost unimportant. [extracted, with edits and revisions, from “Fire on the mountain” by Anita desai]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The protagonist’s description of the nestlings’ screams as “shrill and maddening” shows that:",
+              "options": [
+                "1) She perceives the sounds to be out of tune yet soothing.",
+                "2) She considers the nestlings to be symbols of new life and vitality.",
+                "3) She finds the nestlings to be vexatious and irritating.",
+                "4) She feels a sense of protectiveness and care towards the nestlings."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements are true about the protagonist’s overall state of mind in Carignano? Statement I: She experienced a sense of constant restlessness and anguish. Statement II: She felt isolated and disconnected from her environment. Statement III: She was content, fulfilled, and at peace with her surroundings.",
+              "options": [
+                "1) Statement i and ii",
+                "2) Statement ii and iii",
+                "3) Only Statement ii",
+                "4) Only Statement iii"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In the light of above passage, what role does nature play in the protagonist’s life at Carignano?",
+              "options": [
+                "1) it provides her with a source of creativity.",
+                "2) it offers her solace, peace, and a sense of belonging.",
+                "3) it serves as a reminder of the harsh realities of life.",
+                "4) it serves as a constant source of distraction and intrusion for her."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the protagonist’s preference for “barrenness” and “starkness” at Carignano suggest about her personality?",
+              "options": [
+                "1) She enjoys a bustling and vibrant environment.",
+                "2) She values simplicity and minimalism in her surroundings.",
+                "3) She prefers lush and colorful landscapes.",
+                "4) She seeks constant stimulation and variety in her life."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What do you get to know about the protagonist’s state of mind from her reaction towards the postman?",
+              "options": [
+                "1) She feels grateful for his presence and the assistance he offers.",
+                "2) She dislikes any disturbance or interruption in her solitude.",
+                "3) She feels suspicious and is interested in the lives of others.",
+                "4) She is disinterested and generally unaffected by the presence of others."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the protagonist’s desire to be mistaken for a pine tree reveal about her mindset?",
+              "options": [
+                "1) She desires to be appreciated and noticed by others in society.",
+                "2) She has a deep admiration for the beauty of the pine trees.",
+                "3) She feels a sense of superiority over other living beings.",
+                "4) She yearns to one with nature and escapes from her human identity."
+              ],
+              "answer": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Current Affairs including General Knowledge",
+      "passages": [
+        {
+          "passageText": "On 7th October 2023, an armed conflict broke out between Israel and Hamas-led Palestinian militants from the Gaza Strip[o] after the latter launched a multi-pronged invasion of southern israel. After clearing Hamas militants, the israeli military retaliated by conducting an extensive aerial bombardment campaign on Gazan targets and followed up with a large- scale ground invasion of Gaza. more than 1,400 israelis, mostly civilians, and more than 10,000 Palestinians have been killed in the fighting. Over 240 Israelis and foreign nationals were taken hostage and brought into the Gaza Strip. the Hamas-led attack began in the morning of 7th October, as Palestinian militants in Gaza launched a barrage of over 5,000 rockets against israeli cities and kibbutzim while some 3,000 Palestinian militants breached the Gaza-israel barrier. Over 1,000 israeli civilians were killed in more than a dozen massacres, including the re’im music festival massacre, and military bases were attacked. Over 200 civilians and israeli soldiers were captured or abducted and taken to the Gaza Strip. At least 44 countries, mostly from the Western world, characterized the massacres of civilians as terrorism. Hamas declared that the invasion was carried out in response to the ‘‘desecration of the Al-Aqsa mosque’’, the Gaza Strip blockade, the construction of israeli settlements, and israeli settler violence against Palestinians in the West bank. israel declared a state of war on 8th October, and its response to the attack has seen the most significant military escalation in the region since the Yom Kippur War. The current hostilities constitute the fifth war of the Gaza–Israel conflict, which is part of the broader Israeli– Palestinian conflict. In 2023, before the offensive started, an uptick in Israeli–Palestinian violence saw at least 247 Palestinians, 32 israelis, and two foreigners killed. According to the Gaza Health ministry, as of 6 November, over 10,000 Palestinians had been killed, including 79 UNRWA staff. Israel dropped a total of 6,000 bombs during the first six days of the conflict—nearly double the number of bombs dropped by the American-led CJTF—OIR in one month during the War against the islamic State. there has been widespread killing of civilians, and human rights groups and a panel of united Nations special rapporteurs have accused both israel and Hamas of war crimes.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What was the reason for Hamas-led Palestinian militants’ attack on israel?",
+              "options": [
+                "1) to retaliate against israeli settler violence against Palestinians",
+                "2) in response to the desecration of the Western Wall",
+                "3) to protest against the construction of Palestinian settlements in the West bank",
+                "4) to seek an end to the Gaza Strip blockade"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What was the reaction of the international community to the killing of israeli civilians?",
+              "options": [
+                "1) Condemned as terrorism by 44 countries",
+                "2) ignored by most of the countries",
+                "3) Supported by the uN",
+                "4) Praised as a necessary measure by 10 countries"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is not true about the historical context of the israel Hamas Conflict?",
+              "options": [
+                "1) the Palestinian refugees started settling under Ottoman rule in the late 19th Century",
+                "2) Hamas emerged during the first Intifada in the late 1980s",
+                "3) Hamas was formally known as the islamic resistance movement",
+                "4) First intifada was a Palestinian uprising against israeli rule."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What has been the response of the israeli military to the Hamas-led attack?",
+              "options": [
+                "1) declared a state of war and launched a ground invasion",
+                "2) Conducted an aerial bombardment campaign only",
+                "3) Asked for international intervention",
+                "4) Captured and imprisoned the militants responsible"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the current hostilities known as in the Gaza-Israel conflict?",
+              "options": [
+                "1) Sixth war",
+                "2) Fifth war",
+                "3) Seventh war",
+                "4) Fourth war"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which major war does the current Gaza-Israel conflict resemble?",
+              "options": [
+                "1) Yom Kippur War",
+                "2) iraq War",
+                "3) Six-day War",
+                "4) Gulf War"
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "On 26th January 1950, we are going to enter into a life of contradictions. in politics, we will have equality and in social and economic structure, continue to deny the principle of one man one value. How long shall we continue to live this life of contradictions? How long shall we continue to deny equality in our social and economic life? if we continue to deny it for long, we will do so only by putting our political democracy in peril. We must remove this contradiction at the earliest possible moment else those who suffer from inequality will blow up the structure of democracy, which this Constituent Assembly has so laboriously built up. i feel that the Constitution is workable, it is flexible and it is strong enough to hold the country together both in peacetime and in wartime. indeed, if i may say so, if things go wrong under the new Constitution, the reason will not be that we had a bad Constitution. What we will have to say is that man was vile? the third thing we must do is not be content with mere political democracy. We must note that our political democracy cannot last unless there lies at the base of social democracy. What does social democracy mean? it means a way of life, which recognizes liberty, equality and fraternity as the principles of life. … however, good a Constitution may be, it is sure to turn out bad because those who are called to work it, happen to be a bad lot. However, bad a Constitution may be, it may turn out to be good if those who are called to work it, happen to be a good lot. the working of a Constitution does not depend wholly upon the nature of the Constitution. [excerpts from dr. Ambedkar’s address to the Constituent Assembly, 25 November 1949]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the life of contradiction referred to here?",
+              "options": [
+                "1) that of equality in politics but inequality in social and economic structure",
+                "2) that of inequality in politics but equality in social and economic structure",
+                "3) that of inequality in social structure but equality in economic structure",
+                "4) that of equality in politics and economic structure but inequality in social structure"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What will happen, according to dr. Ambedkar, if we continue to deny equality in our social and economic life?",
+              "options": [
+                "1) there will be no injustice",
+                "2) Our political democracy will be in danger",
+                "3) equality in social and economic life will be achieved nevertheless",
+                "4) Our social and economic life will be in peril"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What might be the cause, according to dr. Ambedkar, if things go wrong under the new Constitution?",
+              "options": [
+                "1) that the Constitution was ignored",
+                "2) that the men called upon to work the Constitution were good",
+                "3) that the men called upon to work the Constitution were not good",
+                "4) that the Constitution was bad and failed the people"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What does social democracy mean?",
+              "options": [
+                "1) equality before the Law",
+                "2) equality of opportunities",
+                "3) equality in social life",
+                "4) equality in economic life"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "When does a bad Constitution turnout to be good?",
+              "options": [
+                "1) When the people called upon to work it are good",
+                "2) When the people called upon to work it are bad",
+                "3) When the Constitution is amended",
+                "4) None of the above"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statement is not correct about what dr. b.r. Ambedkar feel about the Constitution?",
+              "options": [
+                "1) the Constitution is workable",
+                "2) The Constitution is flexible",
+                "3) the Constitution is strong enough to hold the country together in peacetime only",
+                "4) the Constitution is strong enough to hold the country together both in peacetime and in wartime"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "the 18th G20 Summit, in which the heads of states and governments will meet, on September 9 and 10 will be held in india’s national capital New delhi. Over 25 world leaders along with other delegates are going to attend this mega event. One of the largest multilateral summits, the G20 Summit presents a significant diplomatic opportunity for india, which will convene with the adoption of a joint declaration by all the member states. india assumed the G20 Presidency on december 1 last year. the 18th G20 Summit in New delhi is scheduled to be held on September 9-10. …… the Group of twenty (G20) comprises 19 countries …. and the european union. the G20 members represent around 85% of the global GdP, over 75% of the global trade, and about two-thirds of the world population. …… World leaders from several countries and institutions will mark their presence at the event. they include uS President Joe biden, uK Prime minister rishi Sunak, Australian Prime minister Anthony Albanese, Canadian Prime minister Justin trudeau and French President emmanuel macron. However, russian President Vladimir Putin has opted out of the summit and foreign minister Sergei Lavrov will represent the country in his place. Chinese President Xi Jinping has also decided to skip the event and will send country’s Premier Li Qiang instead, according to sources. ……. the G20 Summit 2023 is being held under the theme – Vasudhaiva Kutumbakam (One earth. One Family. One Future) – centered around the value of all life including human, animal, plant, and microorganisms and their interconnectedness on the planet earth and in the wider universe. India’s presidency of the summit holds significance as it aims to become a voice for the ‘less developed’ global South in a world dominated by developed nations of the West. it is also likely to take up the issue of border tension with China. india, for its part, may attempt to straighten out its diplomatic intricacies with the West after it faced challenges due to the Russia-Ukraine conflict. [Extracted, with edits and revisions, from “India gears up for G20 Summit: Check event venue, guest list, special invitees”, Hindustan Times]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The Group of twenty (G20) is a forum for _______________. Select the correct option.",
+              "options": [
+                "1) international economic cooperation",
+                "2) international peace and security",
+                "3) international cooperation for combating money laundering",
+                "4) All of the above"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The G20 Summit is hosted by the incumbent ‘Presidency’. the G20 Presidency is responsible for bringing together the G20 agenda in consultation with other members and in response to developments in the global economy. Which country will hold the Presidency in 2024?",
+              "options": [
+                "1) india",
+                "2) indonesia",
+                "3) brazil",
+                "4) Saudi Arabia"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which one of the following countries is not a member of the G20?",
+              "options": [
+                "1) egypt",
+                "2) mexico",
+                "3) republic of Korea",
+                "4) turkiye"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "At every G20 Summit, the host country invites countries and institutions that are not members of the G20.  Which among the following denotes the correct list of countries being G20 invitees to the Summit held in New delhi in September 2023?",
+              "options": [
+                "1) Nepal, bangladesh, egypt, Netherlands",
+                "2) bhutan, mauritius, Nigeria, Oman",
+                "3) bangladesh, Singapore, Spain, Netherlands",
+                "4) Sri Lanka, egypt, uAe, mauritius"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "On the evening of the 10th, General dyer arrived at Amritsar, and the deputy-Commissioner handed over the civil power to him. He issued a proclamation by word of mouth that no meetings should be held. two days later, after there had been no sort of riot, nor murder, General dyer heard that a meeting was to be held at the Jallianwala bagh. He proceeded there with about fifty troops, half British, half Indian, and a certain number of Ghurkas, armed with their kukris. the Jallianwala bagh is an open space, half a mile square, which has one entry wide enough for three persons. the troops got in and lined up on a mound of debris. the walls, seven feet high, and the surrounding houses enclosed the people. there were, too, three alleys through which the people might have been able to pass. Within thirty seconds of the troops getting in, General Dyer gave orders to fire, and the crowd of people, estimated at anything from 5,000 to 20,000, who were sitting on the ground peacefully listening to the mob oratory, were fired on. The result of the troops’ fire into the mass of people we do not know. but we do know that dyer’s own estimate of the casualties resulting from ten minutes continual individual firing, was 400 to 500 killed and 1,500 wounded. The people were not able to escape. they were people who had not offered any violence and who had not been warned. these people were shot down. After ten minutes, the ammunition was exhausted and the troops marched off, and they left 1,500 wounded there. there were men lying there for two days, dying of thirst, eating the ground, bleeding to death and nobody to look after them. those who lived nearby came and carried away some of the wounded from the heap of dead and dying, but the unfortunate country people died there miserably of their wounds. this is what is done in 1919 in british india… Centuries hence you will find Indian children brought up to this spot, just as they visit now the Cawnpore Well, and you can imagine the feelings of these indians for generations over this terrible business. [Col. Wedgwood, mP, speaking in the british Parliament, 22 december 1919]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which incident is described in the passage?",
+              "options": [
+                "1) baisakhi festival at Amritsar, April 1919",
+                "2) Jallianwala bagh massacre, April 1919",
+                "3) Congress Protests of April 1919",
+                "4) Non-Cooperation movement, April 1919"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Why did the General Dyer order to fire on the crowd?",
+              "options": [
+                "1) to bring the crowd under control",
+                "2) to scatter the crowd",
+                "3) to teach the crowd a lesson",
+                "4) to enforce the martial law"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In the light of above passage, what was the intention of the speaker?",
+              "options": [
+                "1) to praise General dyer",
+                "2) to expose the deeds of General dyer",
+                "3) to get sympathy for the indians who died",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "After the incident, who helped the injured and the dying people?",
+              "options": [
+                "1) the army",
+                "2) the police",
+                "3) the civil administration",
+                "4) Some people who lived nearby"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What would be the feelings of the indian children brought up to the spot?",
+              "options": [
+                "1) Friendliness to the british rule",
+                "2) bitterness about the british rule",
+                "3) A sense of helplessness",
+                "4) None of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What was the full name of General dyer?",
+              "options": [
+                "1) reginald murree Harry dyer",
+                "2) reginald royce Harry dyer",
+                "3) reginald edward Harry dyer",
+                "4) reginald Coleman Harry dyer"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "today, india has become the fourth country in the world to touch the surface of the moon. this success becomes even greater when we look at the place from where india had started its journey. there was a time when india did not have the required technology and there was no support either. We used to be among the ‘third World’ countries, standing in the third row. Today, India has become the fifth largest economy in the world. Today, from trade to technology, India is among the countries standing in the first row. In this journey from third row to first row, institutions like ISRO have played a major role. Today, you have taken ‘make in india’ to the moon. I have seen the photo in which our moon lander has firmly set its foot on the moon like Angad. On one hand is the confidence of Vikram while on the other hand is the bravery of Pragyan. Our Pragyan is continuously leaving its footprints on the moon. the pictures taken from different cameras, which have just been released, and i have had the privilege of seeing, are indeed amazing. For the first time, since the beginning of human civilization, for the first time in the history of lakhs of years on the earth, man is looking at the pictures of that place with his own eyes. india has done the work of showing these pictures to the world! All the scientists like you have done it. today, the whole world is acknowledging the significance of India’s scientific spirit, our technology and our scientific temperament. Chandrayaan maha Abhiyan is a success not only for india but for the entire humanity. [extracted from the Speech made by the Prime minister of india Shri. Narendra modi on the occasion of the landing of Chandrayaan 3 on 26th August 2023]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In what did india become the fourth country in the world?",
+              "options": [
+                "1) Sending a spacecraft to the moon",
+                "2) Landing a spacecraft on the moon",
+                "3) Landing a man on the moon",
+                "4) Crashlanding (impacting) a spacecraft on the moon"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the role of Pragyan?",
+              "options": [
+                "1) to move around the moon, leaving footprints",
+                "2) to take photographs of the moon, while moving",
+                "3) Showing these pictures to the world",
+                "4) to record the laser radiation"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Name one institution that played a major role in bringing india to the forefront.",
+              "options": [
+                "1) tata industries",
+                "2) indian Oil Corporation",
+                "3) iSrO",
+                "4) reliance industries"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the name of the moon lander and the rover?",
+              "options": [
+                "1) Vikram and Pragyan",
+                "2) Pragyan-2 and Vikram",
+                "3) Chandrayaan and Vikram",
+                "4) Chandrayaan and Pragyan"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Whom did the Prime minister address this to?",
+              "options": [
+                "1) to the people of india",
+                "2) to the world",
+                "3) to the students",
+                "4) to the scientists of iSrO"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following countries in the world had touched the surface of the moon?",
+              "options": [
+                "1) united States of America, uSSr, China, india",
+                "2) united States of America, russia, China, india",
+                "3) united States of America, uSSr, France, india",
+                "4) united States of America, russia, israel, india"
+              ],
+              "answer": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Legal Reasoning",
+      "passages": [
+        {
+          "passageText": "In India, the legal landscape surrounding online defamation is a subject of significant interest and debate. With the rise of social media, and online platforms, cases of online defamation have become increasingly common. defamation refers to making false statements about someone that harm their reputation. Online defamation includes defamatory statements made on the internet, including social media, blogs, forums, and other online platforms. One critical aspect of online defamation is determining the liability of intermediaries, such as social media platforms or websites, for defamatory content posted by users. Section 79 of the information technology Act, 2000, provides a safe harbor for intermediaries, stating that they are not liable for third-party content if they act as intermediaries and follow due diligence in removing or disabling access to the content once notified. However, determining whether an intermediary has fulfilled its due diligence obligations can be complex. the indian judiciary has been actively interpreting this provision. One significant case is the Shreya Singhal v. Union of India, in which the Supreme Court clarified that intermediaries are required to act upon a valid court order or government directive for content removal, not upon private complaints. the court also emphasized that the intermediaries should not take a proactive role in monitoring content, as this could potentially infringe on free speech. While the law provides a safe harbor, it does not absolve intermediaries from their responsibilities. Online defamation cases often involve a balancing act between the right to freedom of expression and the right to reputation. the indian legal system requires a careful examination of the content, context, and intent of the statements to determine whether they qualify as defamatory. Additionally, the plaintiff in an online defamation case must prove that the statement was false, damaging to their reputation, and made with a degree of fault, such as negligence or actual malice.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the primary focus of the passage?",
+              "options": [
+                "1) the rise of social media in india.",
+                "2) the legal aspects of online defamation in india.",
+                "3) the role of intermediaries in online content.",
+                "4) the importance of free speech on the internet."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is online defamation, as described in the passage?",
+              "options": [
+                "1) making harmful statements about someone in person.",
+                "2) False statements made on the internet that harm someone’s reputation.",
+                "3) Online harassment.",
+                "4) A form of political activism."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the significance of Section 79 of the Information Technology Act, 2000, as mentioned in the passage?",
+              "options": [
+                "1) It defines defamation laws in India.",
+                "2) it provides safe harbor for intermediaries in cases of online defamation.",
+                "3) it regulates the content on social media platforms.",
+                "4) it allows private complaints against online defamation."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the Supreme Court in the Shreya Singhal v. Union of India case, under what circumstances should intermediaries act in response to content removal?",
+              "options": [
+                "1) upon receiving a private complaint.",
+                "2) upon a valid court order or government directive.",
+                "3) Proactively to monitor content.",
+                "4) Only if the content is found to be defamatory."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "How does the indian legal system balance the right to Freedom of expression and the right to reputation in online defamation cases?",
+              "options": [
+                "1) by favoring freedom of expression over reputation.",
+                "2) by favoring reputation over freedom of expression.",
+                "3) by carefully examining the content, context, and intent of statements.",
+                "4) by absolving intermediaries of their responsibilities."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In an online defamation case, what must the plaintiff prove about the defamatory statement?",
+              "options": [
+                "1) that it was political activism.",
+                "2) that it was made with good intentions.",
+                "3) that it was true and intended to inform the public.",
+                "4) that it was false, damaging to their reputation, and made with a degree of fault."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the role of intermediaries in the context of online defamation cases?",
+              "options": [
+                "1) to actively monitor and censor content.",
+                "2) to act upon private complaints for content removal.",
+                "3) to completely absolve themselves of liability.",
+                "4) to encourage online defamation."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "the Supreme Court on September 1 held that a child born of a void or voidable marriage can inherit the parent’s share in a joint Hindu family property. A three-judge bench headed by Chief Justice of India D.Y. Chandrachud however clarified that such a child would not be entitled to rights in or to the property of any other person in the family. A voidable marriage is one that is made invalid by the husband or wife through a decree. A void marriage is invalid at its very inception. Chief Justice Chandrachud said the first step to the inheritance of a child from a void or voidable marriage would be to ascertain the exact share of his parent in the ancestral property. this could be done by means of conducting a “notional partition” of the ancestral property and calculating how much of the property the parent would have got immediately before his death. Once the share of the deceased parent in the property is ascertained through such a notional partition, his heirs, including his children by means of void or voidable marriage, would be entitled to their portions in the share. the Chief Justice said that Section 16 of the Hindu marriage Act has statutorily conferred legitimacy to children born out of void or voidable marriages. in fact, Chief Justice Chandrachud pointed out that Section 16(3) stipulates that children from void and voidable marriages would have a right to their parents’ property. the court said the intent of granting legitimacy to such children in the Hindu Marriage Act should also be reflected in the Hindu Succession Act, which governs inheritance. Children from void or voidable marriages come within the ambit of “legitimate kinship” and cannot be regarded as illegitimate by the Hindu Succession Act when it comes to inheritance. the case before the three-judge bench was focused on an amended provision in the Hindu marriage Act, Section 16(3). the case was referred to a larger bench in 2011 after a division bench of the apex court refused to follow past precedents and championed the cause of children born out of illegitimate marriages. […] “With changing social norms of legitimacy in every society, including ours, what was illegitimate in the past may be legitimate today. the concept of legitimacy stems from social consensus, in the shaping of which various social groups play a vital role,” Justice Ganguly, who authored the 2011 judgment, had observed. during the hearings on the reference, Chief Justice Chandrachud had agreed with the Division Bench’s findings that children from void and voidable marriages had rights over the property, whether self-acquired or ancestral, of their parents. [extracted with edits and revisions from “Children from void, voidable marriages entitled to parents’ share in ancestral property: Supreme Court”, by Krishnadas Rajagopal, The Hindu, https://www.thehindu.com/news/national/children-from-void-voidable-marriages-are- legitimate-can-claim-rights-in-parents-properties-sc/article67259229.ece ]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Ashima and Ashok got married to each other in a traditional Hindu ceremony in Kolkata, after which they both moved to the uSA, where Ashok had a job. in the uSA, they had a child, whom they named Gogol. many years later, Ashima found that Ashok was already married to Sushma before their wedding in Kolkata. Ashok and Sushma also had a child from their marriage, Arpita, who was older than Gogol by 4 years. Ashok explained to Ashima that although he had no intention of cheating on her, he had to keep his marriage to Sushma a secret since his parents would have never agreed as Sushma belonged to a different caste. Ashima is shocked to learn that her marriage to Ashok is void as per Hindu marriage laws since Ashok was already married before their wedding. She is trying to explore possibilities so that Gogol doesn’t lose his inheritance from his father’s side of the family. based on your reading of the passage, what do you think is the correct position with respect to Gogol’s inheritance rights?",
+              "options": [
+                "1) Gogol could claim the entirety of Ashok’s share of the ancestral property.",
+                "2) Gogol would inherit the entire ancestral property as the only son of Ashok.",
+                "3) Gogol would inherit his share from within Ashok’s share of the full ancestral property without prejudice to the inheritance of other legal heirs, including Arpita.",
+                "4) Only Sushma and Arpita are the rightful legal heirs of Ashok."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In the above fact scenario, consider a property that was purchased by Ashok from his own earnings in the uSA, thereby not making it part of ancestral property but instead falling in the category of self-acquired property. upon Ashok’s death, who would have inheritance rights over the said property?",
+              "options": [
+                "1) Sushma and Ashima.",
+                "2) Sushma, Ashima, Arpita, and Gogol, as they are all his rightful legal heirs.",
+                "3) Sushma, Arpita, and Gogol.",
+                "4) Sushma and Arpita."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Based on your reading of the passage, how did the Hindu Marriage Act influence the outcome of the case on inheritance? Select one option from below:",
+              "options": [
+                "1) the amended provisions of the Hindu marriage Act grant legitimacy to children from voidable marriages and therefore this logic should be extended to children born of voidable and void marriages under the Hindu Succession Act.",
+                "2) the amended provisions of the Hindu marriage Act give legitimacy to the second marriage and therefore this should also have an impact on the Hindu Succession Act.",
+                "3) the amended provisions of the Hindu marriage Act grant legitimate status to children from void or voidable marriages and therefore this should also extend to the Hindu Succession Act.",
+                "4) the Hindu marriage Act has no bearing on the case in question."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "12-year-old Kausalya was married off to 23-year-old dashrath in her maternal home in uttar Pradesh. She completed her education after her marriage and went on to get a job as a teacher at a government school. dashrath’s family, however, was opposed to her taking up a job outside the house and insisted that she should stay at home and look after her 2 sons, ram and Lakshman. Kausalya, however, was very excited about starting her new job and sought advice from her younger sister, Vershini, who was training to be a lawyer.  Vershini advises her that since she was married before she turned 18, her marriage was voidable and she could get it annulled. Kausalya, who was not very happy in her marriage, considers this option but is worried that her sons may lose their inheritance. Select the option that denotes correctly the status of ram and Lakshman to inherit their father’s ancestral property.",
+              "options": [
+                "1) Kausalya’s children cannot inherit dashrath’s ancestral property but can inherit his self-acquired property.",
+                "2) both ram and Lakshman can inherit their father’s share of the ancestral property irrespective of the voidable status of their parent’s marriage.",
+                "3) if Kausalya decides to annul her voidable marriage, she and her sons would lose all rights of inheriting ancestral property from dashrath.",
+                "4) ram and Lakshman can only inherit ancestral property from their mother’s side since she decided to annul the voidable marriage."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Ajay is married to 2 women, diya and riya, and both don’t know of each other. He was married to Diya first, when they were both around 23 years of age and studying together in college. they have no children. He later got married to riya in a temple, and she had no idea about his first marriage with Diya. Ajay and Riya have 2 children, raj and rani. One day, riya found out about diya from one of Ajay’s college friends. She wants to divorce Ajay but finds out that her marriage to him is void since he was already married at that time. At a loss, she goes to a lawyer to find out about the rights of her children to inherit property. Which is the most legally sound advice that the lawyer could give to her?",
+              "options": [
+                "1) He would say that her children can still inherit property from Ajay thanks to the Supreme Court judgment.",
+                "2) He would advise her to get her marriage registered so that they can inherit property.",
+                "3) He would advise her to ignore her marriage with Ajay since it is anyway a void marriage.",
+                "4) He would advise her to speak to diya and sort it out with her so that her children can inherit property since she would have the final say."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In the above scenario, riya wants to know if there is any way in which the judgment can come to her aid while inheriting property owned by Ajay. What would the correct position of law?",
+              "options": [
+                "1) No, she cannot inherit property as the judgment merely talks about the rights of children from void marriages.",
+                "2) Yes, she should fight for her rights to inherit property.",
+                "3) Yes, Ajay would have to give her property since he cheated on her.",
+                "4) She would get an equal share of property as diya, since they are both his wives who got married to him without knowing about each other."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Srimati’s first marriage was void due to being within the prohibited degree of relationship. Dhanalakshmi, who is the daughter of Srimati from her first marriage confronts her mother once she finds her identity, demanding her share in her mother’s ancestral property. Srimati, however, subsequently married dhrupad and has 2 daughters with him- ira and Shira and is not interested in giving any property to dhanalakshmi. dhanalakshmi decides to assert her right in a court of law. How would dhanalakshmi’s share be determined?",
+              "options": [
+                "1) dhanalakshmi would not have any right in her mother’s share of the property since the right of inheritance pertains only to father’s share of property.",
+                "2) dhanalakshmi could demand a notional partition and get a share from Srimati’s portion of her ancestral property.",
+                "3) being a child from a void marriage, dhanalakshmi has no rights of inheritance.",
+                "4) it is Srimati’s decision as to whom she gives rights in her property."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "there are some advantages of the digital Personal data Protection Act (dPdPA), 2023. For instance, for the first time, personal data belonging to or identifying children will have to be classified separately, with such data carrying a greater degree of security and privacy. The law also seeks to reduce the rate and impact of data breaches targeting indian businesses. the digital Personal data Protection law, however, goes a step beyond by imposing penalties for cases where data is breached as a result of a lack of implementation of adequate security controls. However, it could be said that the law isn’t balanced, because it provides wide exemptions to the processing of personal data to the government. For instance, data can be processed “in the interest of prevention, detection, investigation or prosecution of any offence … in india.” these kinds of exemptions are dangerous as they stand to legitimise widespread and unwarranted collection of data under the guise that such collection and processing may ultimately be useful for preventing or deterring a crime. Security agencies will have significant authority to collect and retain any data whatsoever, as is typically the case with exemptions relating to the maintenance of sovereignty, integrity, security of the state, preservation of public order, prevention of offences, and incitement to commit offences. the law also exempts processing of personal data held outside of india. the government is also exempt from being required to delete any data that it possesses, regardless of the purpose it may have been collected for, on the request of an individual, or by way of a prescribed data retention period. The government is not bound by purpose limitations, allowing data collected for one specified purpose be used for a new, incompatible purpose, which stands in contrast to the regulations imposed on businesses. [extracted, with edits and revisions from “digital Personal data Protection Law raises Questions About Consistency with right to Privacy ruling” published in the Wire dated 22-08-2023]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "M r. Lal was suffering from a rare disease and the data relating of that  was collected by the government. Suppose the dPdPA, 2023 provides exemptions for the government relating to data deemed “necessary for research, archiving or statistical purposes” if the personal data is not to be used to take any decision specific to a data principal and such processing is carried on in accordance with such standards as may be prescribed. Which of the following is most appropriate?",
+              "options": [
+                "1) the personal data of mr. Lal can be preserved by the government till the research on rare disease is complete.",
+                "2) the data can only be used for taking any decision regarding mr. Lal.",
+                "3) the personal data of mr. Lal’s health conditions and his personal data can be preserved by; the private hospital forever and used for research by them without his consent.",
+                "4) All of the above."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Suppose the dPdPA, 2023 provided exemption for the processing of personal data for the purpose of ascertaining the financial position of any person who has defaulted in payment of amount due on loan taken from a nationalised bank. mr. X Commits a default in repayment of emi of loan taken from a nationalized bank.",
+              "options": [
+                "1) the bank can demand access to and process the personal data of mr. X relating to family history of ailments from which mr. X or his family was suffering.",
+                "2) the bank can process the personal data of mr. X viz., the particulars of the family, wife, children, brothers etc.",
+                "3) the bank can process the data of mr. X for the purpose of ascertaining the assets and liabilities of the defaulter.",
+                "4) All of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Suppose mr. Y, a citizen of india, is working in an mNC in New Zealand since 2021. the mNC has obtained personal details of the employee for the purpose of recovering the amount of indemnity bond if mr. Y left the job within three years of joining.",
+              "options": [
+                "1) Mr. Y can file an application in India for protection of his digital personal data under the dPdPA if he leaves the job in September 2023, and returns to india.",
+                "2) mr. Y, being a citizen of india, can claim protection against the mNC for misuse of his personal data even while serving in New Zealand.",
+                "3) the dPdPA 2023 is not applicable since the data is held outside india.",
+                "4) the dPdPA 2023, is not applicable since the data has been obtained before the enactment of dPdPA."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "If personal data is defined as any data about an individual who is identifiable by or in relation to such data, which of the following shall be classified as the personal data?",
+              "options": [
+                "1) Name of the Person.",
+                "2) Full residential Address.",
+                "3) Aadhar Number.",
+                "4) All of the Above."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, the access to personal data shall be granted and the person whose data is accessed and processed cannot claim personal data protection?",
+              "options": [
+                "1) mr. Z has committed many robberies and police wants to access his Aadhar details and fingerprint data for the purpose of tracing Mr. Z.",
+                "2) It is apprehended that a person identified as Mr. G would spread hatred among various communities which would lead to riots and Police intends to use the mobile number and other personal details of mr. G for the purpose of preventing such crimes.",
+                "3) both (A) and (b).",
+                "4) Neither (A) nor (b)."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is correct?",
+              "options": [
+                "1) Personal data collected by a health service provider can be sold to an insurance agency by the service provider without the consent of the concerned person.",
+                "2) Personal data collected by the government can be used for whatever purpose.",
+                "3) Personal data collected by the insurance company can be sold to mobile companies for mobile marketing without the consent of the concerned person.",
+                "4) All of the above."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "The Indian legal system places a significant emphasis on protecting the rights and welfare of children. the Juvenile Justice (Care and Protection of Children) Act, 2015, is a vital piece of legislation in this regard. It is designed to ensure that children in conflict with the law receive special care, protection, and treatment, with the ultimate goal of their rehabilitation and reintegration into society. One of the key provisions of the Act is the establishment of Juvenile Justice boards (JJbs) at the district level. these boards consist of a metropolitan magistrate or Judicial magistrate of the first class and two social workers, at least one of whom should be a woman. The primary function of the JJb is to determine the age of the juvenile, the circumstances in which the offense was committed, and whether the juvenile should be sent to a special home or released on probation. The Act makes a clear distinction between a “child in conflict with the law” and a “child in need of care and protection.” A child in conflict with the law is one who has committed an offense, while a child in need of care and protection is a child who is vulnerable or at risk and requires special care and support. The Act introduces a unique approach to dealing with children who are in conflict with the law. For children between the ages of 16 and 18, who have committed heinous offenses, they can be tried as adults, subject to a preliminary assessment by the Juvenile Justice board. this assessment considers the child’s mental and physical capacity to commit such an offense. if the board determines that the child should be tried as an adult, the case is transferred to the regular criminal courts. the Act also places restrictions on the publication of information that could lead to the identification of a juvenile offender. This is done to protect the privacy and future prospects of the child.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the primary objective of the Juvenile Justice (Care and Protection of Children) Act, 2015?",
+              "options": [
+                "1) to punish child offenders.",
+                "2) To rehabilitate and reintegrate children in conflict with the law.",
+                "3) to remove all forms of violence against children.",
+                "4) to increase the age of criminal responsibility."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Who makes up the Juvenile Justice board (JJb)?",
+              "options": [
+                "1) two Judges.",
+                "2) A metropolitan magistrate and two Lawyers.",
+                "3) A Metropolitan Magistrate or Judicial Magistrate of the first class and two Social Workers.",
+                "4) Three Police Officers."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the role of the Juvenile Justice board (JJb)?",
+              "options": [
+                "1) to determine the punishment for juvenile offenders.",
+                "2) to decide whether a child should be sent to a regular prison.",
+                "3) to assess the age and circumstances of the juvenile, and make decisions on rehabilitation.",
+                "4) to prosecute child offenders."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the distinction between a ‘‘child in conflict with the law’’ and a ‘‘child in need of care and protection’’ ?",
+              "options": [
+                "1) there is no distinction; both terms mean the same thing.",
+                "2) A ‘‘child in conflict with the law’’ has committed a crime, while a ‘‘child in need of care and protection’’ is vulnerable or at risk.",
+                "3) A ‘‘child in need of care and protection’’ is more likely to commit crimes.",
+                "4) A ‘‘child in conflict with the law’’ is an adolescent offender."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Under what circumstances can children between the ages of 16 and 18 be tried as adults?",
+              "options": [
+                "1) they can always be tried as adults.",
+                "2) After a preliminary assessment by the Juvenile Justice board.",
+                "3) When they have committed any offense, regardless of the severity.",
+                "4) When they reach the age of 18."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the purpose of placing restrictions on the publication of information related to juvenile offenders?",
+              "options": [
+                "1) to increase the age of criminal responsibility.",
+                "2) to protect the privacy and future prospects of the child.",
+                "3) to encourage public shaming of juvenile offenders.",
+                "4) to help law enforcement track juvenile offenders."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "the editors Guild of india has expressed concern over the “draconian provisions” of the Press and registration of Periodicals (PrP) bill, 2023, that can have an adverse impact on freedom of the press. The Guild added: “Editors Guild of India would like the proposed bill to ensure that publishing of news in india remains free of encumbrances and intrusive checks on publishers by the registrar, and that the primary emphasis of the registrar and the PrP remains ‘registration’ and not ‘regulation’, as the latter has the potential of restricting freedom of the press.” “In the definitions section, the term ‘specified authority’ gives power to government agencies beyond the Press registrar, to conduct the functions of the registrar, which could even include police and other law enforcement agencies. Given the intrusive, expansive, and vague nature of powers that the bill in any case allows to the Press registrar, the power to further delegate this power to other government agencies including law enforcement agencies is deeply distressing,” the Guild said. the statement says sections 4(1) and 11(4) allow the registrar to deny the right to bring out a periodical and cancel the certificate of registration of a periodical to persons convicted of “terrorist act or unlawful activity” or “for having done anything against the security of the State”. “interestingly, the Prb Act, 1867, had no such provisions. Given the liberal and arbitrary use of UAPA (which is the basis for defining ‘terrorist act’ and ‘unlawful activity’), as well as other criminal laws, including sedition, against journalists and media organisations to suppress freedom of speech, the Guild is deeply concerned by the introduction of these new provisions, and the way they can be misused to deny the right to bring out news publications to persons who are critical of governments,” it said. Among the other worrisome provisions listed by the Guild is Section 6(b), which gives power to the Press Registrar (as well as any other “specified authority”) to enter the premises of a periodical to “inspect or take copies of the relevant records or documents or ask any questions necessary for obtaining any information required to be furnished”. [extracted, with edits and revisions from “editors Guild of india expresses concern over draconian provisions of the Press and registration of Periodicals bills, 2023” published in the telegraph dated 07-08-2023]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The PRP Bill defines “newspaper” to mean a periodical of loose-folded sheets usually printed on newsprint and brought out daily or at least once in a week, containing information on current events, public news or comments on public news. Who among the following is covered by the definition of newspaper?",
+              "options": [
+                "1) mr. X publishing news content on digital media.",
+                "2) mr. Y publishing books containing the comments of the public on public news.",
+                "3) mr. Z publishing news content in print media on weekly basis.",
+                "4) All of the above."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Who among the following is not eligible to publish a periodical as per the PrP bill?",
+              "options": [
+                "1) mr. A convicted of waging war against Government of india.",
+                "2) m r. b, accused of unlawful activities under the unlawful Activities Prevention Act.",
+                "3) m r. C, accused of terrorist activities under the unlawful Activities Prevention Act.",
+                "4) All of the above."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is a threat to the freedom of press in india?",
+              "options": [
+                "1) Liberal use of unlawful Activities Prevention Act against Journalists refrains journalists from tracing, tracking and publishing investigative articles because they apprehend that they might be linked with criminals.",
+                "2) use of Sedition laws against journalists under the guise that through their articles they are promoting hatred and exciting disaffection against the government.",
+                "3) Levy of GSt on newspapers.",
+                "4) both ( A) and (b)."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The PRP Bill defines “specified authority” to mean a District Magistrate or Collector or such other officer as the State Government or, as the case may be, Union territory Administration may, by notification, specify. The PRP Bill is criticised by Editors Guild of India because:",
+              "options": [
+                "1) The definition of specified authority is too wide and can include even officers below the level of Collector. The PRP Bill enables the specified authority to perform the functions of Press registrar General.",
+                "2) the PrP bill confers various powers on the Press registrar General including the power to register, deny registration, cancel the registration, etc.",
+                "3) The PRP Bill enables the specified authority to enter the premises of a periodical for inspection",
+                "4) All of the above."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Freedom of press is not specifically guaranteed under the Constitution of India but is implied in Article 19(1)(a) i.e. Freedom of Speech and expression. therefore, freedom of press is part of fundamental rights.",
+              "options": [
+                "1) Freedom of press being a fundamental right, no law can be made for registration and denial of registration of newspapers.",
+                "2) Fundamental rights are not absolute rights and reasonable restrictions can be imposed on the exercise of fundamental rights and therefore, laws such as PrP bill can be enacted.",
+                "3) Freedom of press being a fundamental right, journalists and press is exempt from the operation of general criminal law of the country.",
+                "4) None of the above."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "PrP bill denies the right to publish periodicals to a person who has been found to have committed a terrorist act and has been convicted by a competent Court in india. Which of the following is most appropriate reason?",
+              "options": [
+                "1) the right to publish a periodical is denied because criminals do not possess any fundamental rights.",
+                "2) the right to publish a periodical is denied because such a person is a threat to the society and nation.",
+                "3) the right to publish a periodical is denied because they may not be neutral in reporting and may incite violence and spread disaffection against the state being themselves involved in terrorist acts.",
+                "4) All of the above."
+              ],
+              "answer": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Logical Reasoning",
+      "passages": [
+        {
+          "passageText": "Students have been abuzz over how artificial intelligence tools can do their homework and programmers over how these can increase their productivity or take away their jobs. As much as digitization has transformed the country in recent years, there is a widespread feeling that at some point around the horizon, Ai shall rejig everything in even more fundamental, fantastic, and frightening ways. this is why deciding how the coming changes should be regulated is very important. trAi has made a strong case for an independent statutory authority to ensure the responsible development and use of Ai in the country, a global agency along similar lines shall likely be pitched at the G20 leaders’ summit, and interestingly even American MNC Microsoft has floated a blueprint for AI governance in India. The great size and diversity of its “data points” make india of great interest to all developers of Ai technologies. but india is only at their receiving end, nowhere close to the uS and China’s advances. Although lately, it is becoming obvious how much state censorship is encumbering China’s Large Language modeling, the country is still very much in the game with PhDs in fields related to Ai, investments in Ai chip hardware design, and domestic generative models like Wu Dao. The scientific accomplishments of India’s Chandrayaan mission have seen it being wooed for various international space collaborations. this promises spinoff technological benefits across Indian industry and is also geo-strategically useful. Likewise, it is only with sufficient AI prowess that India shall really get to play at the high table of global rulemaking for Ai. Knowing how much indians’ future shall be shaped by generative Ai needs matching efforts to create indigenous models. in this and at this stage, a proactive government role is key, rather than just waiting on some large corporation to do the needful. missing this bus will after all be even more costly than missing the chip research one. Plus, GOi alone can push academia-industry collaborations with the necessary weight and urgency. this does not let other institutions off the hook. A uS judge has rejected the copyright for an Ai-generated artwork. indian courts should start engaging with the broader issue of non-human agency rather than wait for precedence to be set elsewhere. indian schools need to think beyond the ban-ChatGPt mindset. Let us lead instead of only being led. [Extracted from “First, get the tech: Unless India develops domestic AI heft, it wouldn’t play any meaningful part in global regulatory efforts”, Times of India]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "If the information in the passage above is correct, which of the following must necessarily be true?",
+              "options": [
+                "1) Ai regulation is the responsibility of the legislature alone.",
+                "2) Ai regulation is the responsibility of courts and can’t be addressed through standalone statutory rules.",
+                "3) Ai regulation is a collaborative effort involving all the institutions of the State.",
+                "4) Ai regulation is the domain of private industry."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Based on the author’s arguments, which of the following would result in weakening, rather than strengthening india’s position at the forefront of generative Ai?",
+              "options": [
+                "1) investing in indigenous AI chip hardware design and domestic generative models.",
+                "2) Exploring spinoff technological benefits with other scientific advancements like the Chandrayaan mission.",
+                "3) introducing generative models like Wu dao which have demonstrated success in other jurisdictions.",
+                "4) Locally developing technologies such as indigenous Ai models."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The author states that, “missing this bus will after all be even more costly than missing the chip research one.” For this statement to be true, with which of the following statements about chip research must the author most likely agree?",
+              "options": [
+                "1) india lead chip research from its frontiers.",
+                "2) india was right to leave regulation of chip industry and research to mNCs.",
+                "3) india should have proactively played a role in responding to new research in chip technology.",
+                "4) the failure to respond to new developments in chip technology was a bigger loss than the potential failure to regulate generative Ai."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is the author most likely to agree with?",
+              "options": [
+                "1) the best way to deal with the advancement of Ai is to leave its regulation to market forces.",
+                "2) Government-driven control of AI is inefficient and shall promote red-tapism.",
+                "3) Private companies with their large capital and infrastructure design the most efficient AI governance models.",
+                "4) Government-led initiatives of AI regulation and development lead to efficient outcomes."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following, if true, would most strengthen the main argument of the passage?",
+              "options": [
+                "1) Governments that lead the initiative on regulating and responding to the advancement of AI tools benefit the most from them.",
+                "2) Governments that don’t engage with generative Ai and remain at its receiving end stay risk-averse with nothing to lose.",
+                "3) Governments that actively incentivise mNCs to participate in Ai governance make the most out of the advancements in the field.",
+                "4) Governments that explore models of public-private partnership strike the right balance in regulating generative Ai."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Based only on the author’s statement that “indian courts should start engaging with the broader issue of non-human agency rather than wait for precedence to be set elsewhere”, which of the following would the author be most likely to agree with?",
+              "options": [
+                "1) Courts should take the initiative by being innovative and laying down rules where no precedents exist.",
+                "2) Courts should wait for precedents and in the meantime refrain from engaging with the challenges presented by generative Ai.",
+                "3) Courts should stop relying on precedents and decide cases on the basis of judicial wisdom.",
+                "4) Precedents are the best possible safeguard against arbitrary decision-making."
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "in a world where aspirations for upward mobility are fervent, the opportunities for achieving such dreams remain limited. When one generation falls short, the mantle of ambition passes to the next, embedding within it a heavy burden of responsibility. Failing to meet these expectations can lead to profound sorrow, and in the direst cases, even to suicide. it’s in this landscape that coaching institutes assume a significant role, cultivating an atmosphere of uncertainty among students and parents. A stark discrepancy emerges between preparation for board examinations and competitive tests, amplifying the inequalities that plague the education system. the coaching industry’s massive marketing campaigns further exacerbate the situation, with some strategies veering into ethical grey areas. the tests themselves, designed to be more challenging than standardised exams, set the stage for feelings of inadequacy and self-doubt when not conquered. Our educational system is tailored to gauge an individual’s merit through examinations. eminent thinker michael J Sandel dubs this system the “tyranny of merit”, a sentiment echoed by the Supreme Court of india. upholding the ObC reservation judgment, the Court called for a deeper evaluation of the “idea of merit”, highlighting its nuanced nature. merit as a concept remains shrouded in misunderstanding and often goes unexamined within school curriculum. Adapting to new living arrangements, sourcing nourishing meals, battling isolation, and grappling with commutes form the backdrop against, which education unfolds. For marginalised communities and gender minorities, these hurdles are often amplified. Social media algorithms exacerbate mental health concerns, sowing loneliness and impeding attention spans and creativity. technology emerges as a potential equaliser in this landscape. Online platforms now offer preparation opportunities from the comfort of one’s home. Government-curated or market-driven content could usher in a new era of accessibility. [extracted, with edits and revisions from “Kota suicides: Coaching institutes manufacture insecurity — moving beyond the tyranny of merit might help” authored by Akash Kumar and published in the Indian express dated September 2, 2023]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following is correct regarding the inequalities mentioned by the author?",
+              "options": [
+                "1) there is no difference between the preparation of board and competitive examination.",
+                "2) education system accommodates the inequalities.",
+                "3) Competitive examination leads to social equality.",
+                "4) there are existing inequalities which are enlarged by the competitive examinations."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements reflects the use of online platforms for education as per the author?",
+              "options": [
+                "1) it provides equal opportunity to all the students irrespective of caste or creed.",
+                "2) it encourages the students to prepare for examination.",
+                "3) it should be the only means to education.",
+                "4) it cannot be accessed by majority of the people due to technological impediments."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which one of the following is not a challenge for quality education?",
+              "options": [
+                "1) Influence of social media.",
+                "2) mental health of the students and parents.",
+                "3) Availability of online resources.",
+                "4) Lack of competitive atmosphere among the peers."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "As per the author, which one of the following is not likely leading to suicide among the students?",
+              "options": [
+                "1) incorrect marketing strategies by the coaching institutes.",
+                "2) burdening of ambitions by one generation to another.",
+                "3) Creation of hostile environment by the coaching institutes.",
+                "4) Living in a surrounding with different background and culture."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is not true regarding the education system as per the opinion of the author?",
+              "options": [
+                "1) it is primarily based on the merit of the students.",
+                "2) merit of the students is not the determining factor.",
+                "3) examination plays a pivotal role in the education system.",
+                "4) An individual’s merit cannot be identified without examination."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following strengthens the argument regarding the ‘idea of merit’ as per the above-mentioned passage?",
+              "options": [
+                "1) true merit is multifaceted and extends beyond performance in a single competitive examination.",
+                "2) Pervasive inequalities can only be identified with the help of a single competitive examination.",
+                "3) true merit is not multifaceted and does not extend beyond performance in a single competitive examination.",
+                "4) the school education ensures the proper implementation of the idea of merit."
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "Words remain an enigma, their presence within human sphere is a unique mystery. they form the intricate tapestry that convinces us of our existence, blurring lines between fact and fiction. An engagement with words is the most captivating, enchanting, and sometimes daunting encounter with the world. A word, a symbolic entity formed from the ethereal, exists neither as animate nor inanimate, yet pulsates with life. it can emanate warmth or coldness, absorb emotions, or stand as dry as a rock. Words can provoke smiles and elicit joy. they are like glow-worms, momentarily dispelling the surrounding darkness and act as life-saving rafts amid the tumultuous ocean waves. Words grant us the ability to explore the universe, and “to see a world in a grain of sand.” as William blake noted. they impart a semantic existence to the lifeless, and bestow aesthetic form upon the formless. Scriptures say the word is the world. i say the world within the word is the abode of faith.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "“An engagement with words is the most captivating, enchanting, and sometimes daunting encounter with the world.” Which of the following conclusions can be drawn from the above statement?",
+              "options": [
+                "1) Words can be used to manipulate others.",
+                "2) the power of words should be used carefully.",
+                "3) Words can capture the atrocities of the world.",
+                "4) Words can paint a picture of the world in all its different colours."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following strengthens the author’s idea of words being “like glow-worms momentarily dispelling the surrounding darkness”?",
+              "options": [
+                "1) Words help in understanding reality.",
+                "2) Words illuminate the mind of the reader.",
+                "3) Words help in escaping reality.",
+                "4) Words cast darkness in the mind of the reader."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In the context of the passage, what is the significance of the “world within the word”?",
+              "options": [
+                "1) it refers to the power of language to create inspiration, energy and faith.",
+                "2) It signifies the author’s love for the global community.",
+                "3) it represents the mysteries hidden in language.",
+                "4) it describes the author’s mission to explore different cultures."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the central theme of the passage?",
+              "options": [
+                "1) the history of the human language",
+                "2) the impact of words on human existence",
+                "3) the importance of storytelling",
+                "4) the mystery of human cognition"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the passage, what does a ‘word’ symbolize?",
+              "options": [
+                "1) An inanimate object",
+                "2) An animate entity",
+                "3) A tangible entity",
+                "4) An intangible concept"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "How does the passage describe words’ ability to affect emotions?",
+              "options": [
+                "1) Words can only evoke positive emotions.",
+                "2) Words can absorb emotions and become emotion themselves.",
+                "3) Words have no impact on emotions.",
+                "4) Words can be devoid of emotions."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "imagine you have just been appointed as a consultant for a manufacturing company that is experiencing a decline in its production efficiency. The company produces a wide range of products, and the management is concerned about the overall output. Your task is to identify the root causes of this decline and recommend solutions. As you begin your investigation, you gather information and observe the following: • \tThe company recently introduced a new production system that is more automated but requires highly specialized operators. • \tThe workforce has reported a lack of motivation and job satisfaction, which has led to increased absenteeism. • \tThere have been several breakdowns in the new machinery, leading to production delays and quality issues. • \tThe company’s competitors have adopted similar automation technologies and are experiencing increased productivity. • \tCustomer complaints about product quality have increased in recent months.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "How might the increased absenteeism affect production efficiency?",
+              "options": [
+                "1) it might lead to increased quality issues.",
+                "2) it might result in longer machinery breakdowns.",
+                "3) it could lead to delays in production.",
+                "4) It has no impact on production efficiency."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What could be a possible solution to address the decline in production efficiency?",
+              "options": [
+                "1) Hire more specialized operators for the new system.",
+                "2) implement a motivation and job satisfaction program for the workforce.",
+                "3) upgrade the machinery to reduce breakdowns.",
+                "4) Purchase new machinery to replace the automated system."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Based on the information provided, what is a potential consequence of increased customer complaints about product quality?",
+              "options": [
+                "1) it indicates that the company’s competitors are also experiencing quality issues.",
+                "2) it suggests that the company’s products are meeting customer expectations.",
+                "3) it may lead to a loss of customers and reputation damage.",
+                "4) it shows that the company’s automated system is performing well."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Based on the information provided, which of the following is a potential root cause of the decline in production efficiency?",
+              "options": [
+                "1) the introduction of a new production system",
+                "2) Lack of motivation and job satisfaction among the workforce",
+                "3) increased absenteeism",
+                "4) breakdowns in machinery"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What makes the introduction of the new production system a potential contributing factor to the decline in efficiency?",
+              "options": [
+                "1) the system is highly automated",
+                "2) it requires specialized operators",
+                "3) the machinery is prone to breakdowns",
+                "4) Competitors have adopted similar technologies"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is a critical difference between the company’s situation and that of its competitors?",
+              "options": [
+                "1) both the company and its competitors have introduced new production systems.",
+                "2) the competitors have experienced increased customer complaints.",
+                "3) the company’s workforce lacks motivation and job satisfaction.",
+                "4) the company’s machinery is prone to breakdowns."
+              ],
+              "answer": "3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Quantitative Techniques",
+      "passages": [
+        {
+          "passageText": "A survey was conducted about the population of a particular region having working population of three lacs and information was collected about self-employed persons, casual wage workers, regular salaries employees of both urban and rural areas of the region. Self-employment is a key source of income in both rural and urban areas but it is more prevalent in rural areas (56% of the rural population) than in urban areas (40% of the urban population). rural population was 48% of the total population. regular salaried workers in urban areas were 48% of the urban population whereas in rural areas, regular salaried workers constituted 12% of the rural population. during the survey, the casual wage workers were found to be more common in rural areas than in urban areas. Casual wage workers in rural areas were 32% of the rural population whereas it was 12% of the urban population in urban areas. based on the above information, answer the following questions.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "If urban population of the region increased from 52% to 56% and percentage of self employed in urban region remains same, then number of self-employed people in urban areas are:",
+              "options": [
+                "1) 66840",
+                "2) 68640",
+                "3) 62700",
+                "4) 67200"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the total number of regular salaried employees of the region?",
+              "options": [
+                "1) 90216",
+                "2) 91260",
+                "3) 92160",
+                "4) 96210"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the percentage of regular salaried employees in rural areas corresponding to the number of casual wage workers in urban areas?",
+              "options": [
+                "1) 72.3%",
+                "2) 79.8%",
+                "3) 88.7%",
+                "4) 92.3%"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "If 60% of the total working population of the region were self-employed in rural areas and 40% of total population were self-employed in urban areas, then what is the ratio of rural self-employed to urban self-employed?",
+              "options": [
+                "1) 2:3",
+                "2) 3:2",
+                "3) 13:18",
+                "4) 18:13"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "By what percentage the number of self-employed workers in rural areas is more than the number of self-employed workers in urban areas?",
+              "options": [
+                "1) 29.23",
+                "2) 33.24",
+                "3) 35.01",
+                "4) 34.32"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the ratio of urban and rural working population?",
+              "options": [
+                "1) 12:13",
+                "2) 11:12",
+                "3) 13:12",
+                "4) 03:08"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "Automobiles are the most preferred mode of transport because they allow us to cover large distance quickly. resultantly, vehicles have been developed that run on diesel, petrol and even on electricity, which is a remarkable innovative development. during a survey about the percentage wise distribution of cars in four different states, the information regarding ratio between the diesel engine cars, petrol engine cars and electric cars was collected. total number of cars for which data was collected was 8000. Of these, State 1 had 15% of the total cars in the ratio of 3:4:1 (diesel, petrol and electric); State 2 had 20% of the total cars in the ratio of 5:3:2 (diesel, petrol and electric); State 3 had 30% of the total cars in the ratio of 4:5:3 (diesel, petrol and electric), and; State 4 had 35% of the total cars in the ratio of 7:5:2 (diesel, petrol and electric). based on the above information, answer the following questions.",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the ratio of diesel cars in State 4 to electric cars in State 3?",
+              "options": [
+                "1) 7:3",
+                "2) 3:7",
+                "3) 7:4",
+                "4) 4:7"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Compute the percentage of total electric cars to total cars in all the States.",
+              "options": [
+                "1) 19.37%",
+                "2) 18.37%",
+                "3) 18.73%",
+                "4) 19.57%"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the difference between number of petrol cars in State 3 and diesel cars in State 1?",
+              "options": [
+                "1) 350",
+                "2) 400",
+                "3) 500",
+                "4) 550"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the average number of diesel cars in all the States?",
+              "options": [
+                "1) 810",
+                "2) 862.5",
+                "3) 886",
+                "4) 912.5"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "If 45% of the electric cars in State 4 are air conditioned (AC) and remaining are non-AC, what is the number of non-AC cars?",
+              "options": [
+                "1) 380",
+                "2) 240",
+                "3) 220",
+                "4) 180"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Number of petrol cars in State 2 is how much percentage more than the number of diesel cars in State 1?",
+              "options": [
+                "1) 4.67%",
+                "2) 9.23%",
+                "3) 3.33%",
+                "4) 6.67%"
+              ],
+              "answer": "4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+    "testName": "Physics Mock Test 97",
+    "totalMarks": 80,
+    "timeMinutes": 40,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 20,
+    "topics": [
+        "Full Syllabus Part 10"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A body of mass 5 kg is thrown vertically up with a kinetic energy of 490 J. The height at which the kinetic energy becomes half of its original value is (g=9.8 m/s^2):",
+            "options": [
+                "1) 12.5 m",
+                "2) 10 m",
+                "3) 5 m",
+                "4) 2.5 m"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two masses 10 kg and 20 kg are connected by a massless spring. A force of 200 N acts on the 20 kg mass. At the instant the 10 kg mass has an acceleration of 12 m/s^2, the acceleration of the 20 kg mass is:",
+            "options": [
+                "1) 2 m/s^2",
+                "2) 4 m/s^2",
+                "3) 10 m/s^2",
+                "4) 12 m/s^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wheel of radius R rolls without slipping. The velocity of the center of mass is v. The velocity of a point at the top of the wheel is:",
+            "options": [
+                "1) v",
+                "2) 2v",
+                "3) zero",
+                "4) v/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the rotational velocity of a dynamo armature is doubled, the induced emf will:",
+            "options": [
+                "1) Become half",
+                "2) Remain unchanged",
+                "3) Double",
+                "4) Quadruple"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A car accelerates from rest at 2 m/s^2 for 10 s. It then travels at constant speed for 20 s, and then decelerates to rest at 4 m/s^2. The total distance covered is:",
+            "options": [
+                "1) 400 m",
+                "2) 450 m",
+                "3) 500 m",
+                "4) 550 m"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the kinetic theory of gases, the absolute temperature is directly proportional to:",
+            "options": [
+                "1) RMS velocity",
+                "2) Square of RMS velocity",
+                "3) Mean free path",
+                "4) Volume"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A tuning fork makes 256 vibrations per second in air. The speed of sound is 330 m/s. The wavelength of the tone emitted is:",
+            "options": [
+                "1) 1.29 m",
+                "2) 0.89 m",
+                "3) 1.11 m",
+                "4) 0.56 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "When a gas expands adiabatically:",
+            "options": [
+                "1) Its entropy increases",
+                "2) It does no work",
+                "3) It absorbs heat",
+                "4) Its internal energy decreases"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is projected in a magnetic field B = 2i + 3j Tesla. The acceleration of the particle is a = xi + 2j m/s^2. The value of x is:",
+            "options": [
+                "1) -3",
+                "2) 3",
+                "3) -2",
+                "4) 2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a series LCR circuit, the potential differences across L, C and R are 50 V, 50 V and 120 V respectively. The peak voltage across the circuit is:",
+            "options": [
+                "1) 120 V",
+                "2) 120*sqrt(2) V",
+                "3) 130 V",
+                "4) 130*sqrt(2) V"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The stopping potential in an experiment on the photoelectric effect is 1.5 V. This means that:",
+            "options": [
+                "1) The maximum kinetic energy of the photoelectrons is 1.5 eV",
+                "2) The work function of the metal is 1.5 eV",
+                "3) The energy of incident photons is 1.5 eV",
+                "4) The minimum kinetic energy is 1.5 eV"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A ray of light traveling in air is incident on a liquid surface at an angle of 45\u00b0. The angle of refraction is 30\u00b0. The refractive index of the liquid is:",
+            "options": [
+                "1) sqrt(2)",
+                "2) sqrt(3)",
+                "3) 1.5",
+                "4) 1.33"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-n junction diode, the barrier potential offers resistance to:",
+            "options": [
+                "1) Majority carriers in both regions",
+                "2) Minority carriers in both regions",
+                "3) Electrons in n-region only",
+                "4) Holes in p-region only"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A capacitor of 10 microFarad is charged to 100 V and then disconnected from the supply. If a dielectric slab of K=2 is inserted between its plates, the new potential difference is:",
+            "options": [
+                "1) 100 V",
+                "2) 50 V",
+                "3) 200 V",
+                "4) 0 V"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the radius of the earth shrinks by 2%, mass remaining same, the value of g on the surface will:",
+            "options": [
+                "1) Decrease by 2%",
+                "2) Increase by 2%",
+                "3) Decrease by 4%",
+                "4) Increase by 4%"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Water is flowing through a pipe of non-uniform cross-section. The ratio of the radii of the pipe at the entry and exit ends is 3:2. The ratio of velocities of water at entry and exit is:",
+            "options": [
+                "1) 3:2",
+                "2) 2:3",
+                "3) 9:4",
+                "4) 4:9"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "In a nuclear reactor, the moderators are used to:",
+            "options": [
+                "1) Absorb neutrons",
+                "2) Slow down fast neutrons",
+                "3) Accelerate neutrons",
+                "4) Generate heat"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A magnifying glass is a:",
+            "options": [
+                "1) Convex lens of large focal length",
+                "2) Convex lens of small focal length",
+                "3) Concave lens of large focal length",
+                "4) Concave lens of small focal length"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The time constant of an L-R circuit is:",
+            "options": [
+                "1) R/L",
+                "2) L/R",
+                "3) L*R",
+                "4) 1/(L*R)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "For maximum power transfer to a load resistance R from a source of internal resistance r, the condition is:",
+            "options": [
+                "1) R = 2r",
+                "2) R = r/2",
+                "3) R = r",
+                "4) R = 0"
+            ],
+            "answer": "3"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+  "testName": "Physics Mock Test 15",
+  "totalMarks": 56,
+  "timeMinutes": 28,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A biconvex lens made of glass of refractive index 1.5 has both radii of curvature equal to 20 cm. Its focal length in air is",
+      "options": [
+        "40 cm",
+        "10 cm",
+        "20 cm",
+        "30 cm"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two thin lenses of focal lengths +10 cm and +20 cm are placed in contact. The power of the combination is",
+      "options": [
+        "+5 D",
+        "+10 D",
+        "+30 D",
+        "+15 D"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "An object is placed 30 cm in front of a convex lens of focal length 20 cm. The image is formed at a distance of",
+      "options": [
+        "60 cm",
+        "12 cm",
+        "30 cm",
+        "50 cm"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A prism of angle 60° and refractive index √3 is in the position of minimum deviation. The angle of minimum deviation is",
+      "options": [
+        "60°",
+        "30°",
+        "45°",
+        "90°"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The critical angle for a medium of refractive index √2 with respect to air is",
+      "options": [
+        "30°",
+        "60°",
+        "45°",
+        "90°"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two coherent sources have an intensity ratio of 9 : 1. The ratio of maximum to minimum intensity in the interference pattern is",
+      "options": [
+        "16 : 1",
+        "9 : 1",
+        "2 : 1",
+        "4 : 1"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A single slit of width 0.2 mm is illuminated by light of wavelength 500 nm. The width of the central maximum on a screen 1 m away is",
+      "options": [
+        "2.5 mm",
+        "10 mm",
+        "5 mm",
+        "1 mm"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The polarising (Brewster) angle for glass of refractive index √3 is",
+      "options": [
+        "60°",
+        "30°",
+        "45°",
+        "90°"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Unpolarised light of intensity I₀ passes through a polariser and then through an analyser whose axis is at 60° to that of the polariser. The final intensity is",
+      "options": [
+        "I₀/4",
+        "I₀/8",
+        "I₀/2",
+        "I₀/16"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "An astronomical telescope in normal adjustment has an objective of focal length 100 cm and an eyepiece of focal length 5 cm. Its magnifying power is",
+      "options": [
+        "5",
+        "105",
+        "500",
+        "20"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The far point of a myopic eye is 50 cm. The focal length of the lens needed to correct it is",
+      "options": [
+        "+50 cm",
+        "+25 cm",
+        "−50 cm",
+        "−25 cm"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A fish is 12 cm below the surface of water (refractive index 4/3). Its apparent depth when seen from above is",
+      "options": [
+        "12 cm",
+        "9 cm",
+        "16 cm",
+        "18 cm"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "An object is placed 10 cm in front of a concave mirror of radius of curvature 40 cm. The magnification of the image is",
+      "options": [
+        "−2",
+        "−1/2",
+        "+1/2",
+        "+2"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "Light of wavelength 600 nm in vacuum enters a medium of refractive index 1.5. Its wavelength in the medium is",
+      "options": [
+        "600 nm",
+        "400 nm",
+        "900 nm",
+        "300 nm"
+      ],
+      "answer": 2
+    }
+  ]
+}

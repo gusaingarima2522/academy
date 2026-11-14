@@ -1,0 +1,177 @@
+{
+    "testName": "Physics Mock Test 46",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Basic Mechanics & General Physics (Easy Level)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A potential difference of 21 V is applied across a resistor of 2 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 10.5 A",
+                "2) 11.5 A",
+                "3) 5.25 A",
+                "4) 21.0 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A constant force of 26 N displaces an object by 3 m in the direction of the force. The work done is:",
+            "options": [
+                "1) 78 J",
+                "2) 39.0 J",
+                "3) 156 J",
+                "4) 0 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 15 m/s for 6 seconds. The distance covered is:",
+            "options": [
+                "1) 90 m",
+                "2) 100 m",
+                "3) 85 m",
+                "4) 180 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 16 V is applied across a resistor of 6 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 2.67 A",
+                "2) 3.67 A",
+                "3) 1.335 A",
+                "4) 5.34 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 10 V is applied across a resistor of 5 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 2.0 A",
+                "2) 3.0 A",
+                "3) 1.0 A",
+                "4) 4.0 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 18 V is applied across a resistor of 3 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 6.0 A",
+                "2) 7.0 A",
+                "3) 3.0 A",
+                "4) 12.0 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 20 V is applied across a resistor of 6 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 3.33 A",
+                "2) 4.33 A",
+                "3) 1.665 A",
+                "4) 6.66 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 14 V is applied across a resistor of 4 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 3.5 A",
+                "2) 4.5 A",
+                "3) 1.75 A",
+                "4) 7.0 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A constant force of 17 N displaces an object by 5 m in the direction of the force. The work done is:",
+            "options": [
+                "1) 85 J",
+                "2) 42.5 J",
+                "3) 170 J",
+                "4) 0 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 10 V is applied across a resistor of 3 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 3.33 A",
+                "2) 4.33 A",
+                "3) 1.665 A",
+                "4) 6.66 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 2 kg accelerates at 3 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 6 N",
+                "2) 11 N",
+                "3) 4 N",
+                "4) 12 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 18 m/s for 3 seconds. The distance covered is:",
+            "options": [
+                "1) 54 m",
+                "2) 64 m",
+                "3) 49 m",
+                "4) 108 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A constant force of 10 N displaces an object by 2 m in the direction of the force. The work done is:",
+            "options": [
+                "1) 20 J",
+                "2) 10.0 J",
+                "3) 40 J",
+                "4) 0 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 13 V is applied across a resistor of 3 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 4.33 A",
+                "2) 5.33 A",
+                "3) 2.165 A",
+                "4) 8.66 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 18 V is applied across a resistor of 3 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 6.0 A",
+                "2) 7.0 A",
+                "3) 3.0 A",
+                "4) 12.0 A"
+            ],
+            "answer": "1"
+        }
+    ]
+}

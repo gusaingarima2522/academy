@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 112",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 1"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle is dropped from a height h. A constant horizontal wind force acts on it. The trajectory of the particle is:",
+            "options": [
+                "1) A straight line",
+                "2) A parabola",
+                "3) An ellipse",
+                "4) A hyperbola"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass m is placed on a rough horizontal surface. A force F is applied at an angle theta with the horizontal. The minimum coefficient of friction for which the block will not move for any value of F is:",
+            "options": [
+                "1) sin(theta)",
+                "2) cos(theta)",
+                "3) tan(theta)",
+                "4) cot(theta)"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform rod of mass M and length L is pivoted at one end. It is released from a horizontal position. The angular velocity of the rod when it becomes vertical is:",
+            "options": [
+                "1) sqrt(3g/L)",
+                "2) sqrt(g/L)",
+                "3) sqrt(2g/L)",
+                "4) sqrt(6g/L)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A planet orbits a star in an elliptical path. The areal velocity of the planet is constant. This is a direct consequence of the conservation of:",
+            "options": [
+                "1) Linear momentum",
+                "2) Angular momentum",
+                "3) Kinetic energy",
+                "4) Total energy"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a simple pendulum is T. If its point of suspension is accelerated upwards with acceleration g/2, the new time period is:",
+            "options": [
+                "1) T * sqrt(2/3)",
+                "2) T * sqrt(3/2)",
+                "3) T * sqrt(1/2)",
+                "4) T * sqrt(2)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A liquid drops to merge into a single larger drop. In this process:",
+            "options": [
+                "1) Energy is absorbed",
+                "2) Energy is released",
+                "3) Energy remains constant",
+                "4) Temperature of the drop decreases"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The specific heat of an ideal gas at constant volume is Cv. Its specific heat at constant pressure Cp is:",
+            "options": [
+                "1) Cv + R",
+                "2) Cv - R",
+                "3) R - Cv",
+                "4) Cv / R"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A reversible Carnot engine operates between 300 K and 600 K. Its efficiency is:",
+            "options": [
+                "1) 25%",
+                "2) 50%",
+                "3) 75%",
+                "4) 100%"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, the points of maximum amplitude are called:",
+            "options": [
+                "1) Nodes",
+                "2) Antinodes",
+                "3) Troughs",
+                "4) Crests"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two waves of same frequency and same amplitude superpose to produce a resultant wave of the same amplitude. The phase difference between the waves is:",
+            "options": [
+                "1) 60 degrees",
+                "2) 90 degrees",
+                "3) 120 degrees",
+                "4) 180 degrees"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric field lines always point from:",
+            "options": [
+                "1) Lower to higher potential",
+                "2) Higher to lower potential",
+                "3) Infinity to zero potential",
+                "4) Zero to infinity potential"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The capacitance of a parallel plate capacitor does not depend on:",
+            "options": [
+                "1) Area of the plates",
+                "2) Distance between the plates",
+                "3) Medium between the plates",
+                "4) Metal of the plates"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance R is stretched such that its radius is halved. Its new resistance is:",
+            "options": [
+                "1) 2R",
+                "2) 4R",
+                "3) 8R",
+                "4) 16R"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field at the center of a circular coil of radius R carrying current I is B. The magnetic field at a point on its axis at a distance R from the center is:",
+            "options": [
+                "1) B / 2",
+                "2) B / (2*sqrt(2))",
+                "3) B / 4",
+                "4) B / 8"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "When a diamagnetic substance is placed in a non-uniform magnetic field, it tends to move:",
+            "options": [
+                "1) From weaker to stronger part",
+                "2) From stronger to weaker part",
+                "3) Perpendicular to the field",
+                "4) It does not move"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The core of a transformer is laminated to reduce:",
+            "options": [
+                "1) Copper loss",
+                "2) Hysteresis loss",
+                "3) Eddy current loss",
+                "4) Flux leakage loss"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a series LCR circuit, the phase difference between voltage and current at resonance is:",
+            "options": [
+                "1) pi/2",
+                "2) pi",
+                "3) 0",
+                "4) pi/4"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "For a totally reflecting prism, the angle of the prism is typically:",
+            "options": [
+                "1) 45 degrees",
+                "2) 60 degrees",
+                "3) 90 degrees",
+                "4) 120 degrees"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The de Broglie wavelength of an electron accelerated by a potential difference V is given by:",
+            "options": [
+                "1) 12.27 / sqrt(V) Angstroms",
+                "2) 1.227 / sqrt(V) nm",
+                "3) Both 1 and 2",
+                "4) Neither 1 nor 2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-n junction diode, the depletion layer thickness is of the order of:",
+            "options": [
+                "1) 10^-3 m",
+                "2) 10^-6 m",
+                "3) 10^-9 m",
+                "4) 10^-12 m"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A body of mass 2 kg is subjected to a constant force of 10 N. The distance traveled in the first 4 seconds starting from rest is (in meters):",
+            "answer": "40"
+        },
+        {
+            "type": "numerical",
+            "question": "A tuning fork of frequency 340 Hz resonates with an air column of length 25 cm. The speed of sound in air is (in m/s):",
+            "answer": "340"
+        },
+        {
+            "type": "numerical",
+            "question": "A transformer steps down 220 V to 22 V. If the primary has 1000 turns, the number of turns in the secondary is:",
+            "answer": "100"
+        },
+        {
+            "type": "numerical",
+            "question": "A lens of power +5 D is combined with a lens of power -3 D. The focal length of the combination in cm is:",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "The work function of a metal is 2 eV. If light of energy 5 eV is incident, the maximum kinetic energy of the emitted electron in eV is:",
+            "answer": "3"
+        }
+    ]
+}

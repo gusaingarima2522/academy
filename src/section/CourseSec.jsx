@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState } from "react";
+import { useRef, useEffect, useState } from "react";
 import CoursesCard from "../components/CoursesCard";
 import courses from "../data/courses";
 import "../index.css";
@@ -8,6 +8,13 @@ const CourseSec = () => {
 
   const [loading, setLoading] = useState(true);
 
+  const getStep = () => {
+    const slider = sliderRef.current;
+    const slide = slider?.firstElementChild;
+    if (!slider || !slide) return 320;
+    return slide.offsetWidth + (parseFloat(getComputedStyle(slider).columnGap) || 0);
+  };
+
   // =====================================================
   // SKELETON LOADING
   // =====================================================
@@ -15,7 +22,7 @@ const CourseSec = () => {
   useEffect(() => {
     const timer = setTimeout(() => {
       setLoading(false);
-    }, 1200);
+    }, 1000);
 
     return () => clearTimeout(timer);
   }, []);
@@ -26,7 +33,7 @@ const CourseSec = () => {
 
   const scrollLeft = () => {
     sliderRef.current?.scrollBy({
-      left: -320,
+      left: -getStep(),
       behavior: "smooth",
     });
   };
@@ -37,7 +44,7 @@ const CourseSec = () => {
 
   const scrollRight = () => {
     sliderRef.current?.scrollBy({
-      left: 320,
+      left: getStep(),
       behavior: "smooth",
     });
   };
@@ -63,7 +70,7 @@ const CourseSec = () => {
           });
         } else {
           slider.scrollBy({
-            left: 320,
+            left: getStep(),
             behavior: "smooth",
           });
         }

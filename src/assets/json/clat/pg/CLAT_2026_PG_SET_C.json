@@ -1,0 +1,1445 @@
+{
+  "test_metadata": {
+    "testName": "Actual CLAT 2026 PG - SET C",
+    "totalMarks": 120,
+    "timeMinutes": 120,
+    "marking": "+1 for correct, -0.25 for incorrect",
+    "totalQuestions": 120,
+    "topics": [
+      "Law Subjects"
+    ]
+  },
+  "sections": [
+    {
+      "sectionName": "Law Subjects (Constitutional, Jurisprudence, etc.)",
+      "passages": [
+        {
+          "passageText": "The Companies Act, 2013 does not deal with insolvency and bankruptcy when the companies are unable to pay their debts or the aspects relating to the revival and rehabilitation of the companies and their winding up if revival and rehabilitation is not possible. In principle, it cannot be doubted that the cases of revival or winding up of the company on the ground of insolvency and inability to pay debts are different from cases where companies are wound up under Section 271 of the Companies Act 2013. The two situations are not identical. Under Section 271 of the Companies Act, 2013, even a running and financially sound company can also be wound up for the reasons in clauses (a) to (e). The reasons and grounds for winding up under Section 271 of the Companies Act, 2013 are vastly different from the reasons and grounds for the revival and rehabilitation scheme as envisaged under the IBC. The two enactments deal with two distinct situations and in our opinion, they cannot be equated when we examine whether there is discrimination or violation of Article 14 of the Constitution of India. For the revival and rehabilitation of the companies, certain sacrifices are required from all quarters, including the workmen. In case of insolvent companies, for the sake of survival and regeneration, everyone, including the secured creditors and the Central and State Government, are required to make sacrifices. The workmen also have a stake and benefit from the revival of the company, and therefore unless it is found that the sacrifices envisaged for the workmen, which certainly form a separate class, are onerous and burdensome so as to be manifestly unjust and arbitrary, we will not set aside the legislation, solely on the ground that some or marginal sacrifice is to be made by the workers. We would also reject the argument that to find out whether there was a violation of Article 14 of the Constitution of India or whether the right to life under Article 21 Constitution of India was infringed, we must word by word examine the waterfall mechanism envisaged under the Companies Act, 2013, where the company is wound up in terms of grounds (a) to (e) of Section 271 of the Companies Act, 2013; and the rights of the workmen when the insolvent company is sought to be revived, rehabilitated or wound up under the Code. The grounds and situations in the context of the objective and purpose of the two enactments are entirely different. (Extracted, with edits and revision, from Moser Baer Karamchari Union v. Union of India, 2023 SCC Online SC 547)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, it was held by the Supreme Court that although a company is a separate legal entity distinct from that of its members, the corporate veil may be lifted and the corporate personality may be ignored?",
+              "options": [
+                "1) Life Insurance Corporation of India v. Escorts Ltd. (1986) 59 Comp Case 548",
+                "2) R. K. Dalmia vs Delhi Administration, AIR 1962 SC 1821",
+                "3) Dale And Carrington Invt. P. Ltd. v. P.K. Prathapan AIR 2005 SC 1624",
+                "4) Rohtas Industries Ltd v. S.D. Agarwal, AIR 1969 SC 707"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The extent to which a Corporation as a legal person can be held criminally liable for its acts and omissions and for those of the natural persons employed by it is called?",
+              "options": [
+                "1) Corporate manslaughter",
+                "2) Lifting the corporate veil",
+                "3) Corporate criminal liability",
+                "4) Corporate social responsibility"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, the constitutionality of the Insolvency and Bankruptcy Code, 2016 was upheld by the Supreme Court?",
+              "options": [
+                "1) RPS Infrastructure Ltd. v. Union of India, 2023 INSC 816",
+                "2) Paschimanchal Vidyut Vitran Nigam Ltd. v. Union of India, AIR 1971 SC 862",
+                "3) Union Bank of India v. Financial Creditors of M/s Amtek Auto Limited, (2023) IBC Law.in 85 SC.",
+                "4) Swiss Ribbons v. Union of India, (2019) SCC Online SC 73."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "A director other than a managing director or a whole-time director or a nominee director who does not have any material or pecuniary relationship with the company/ directors other than the remuneration is called",
+              "options": [
+                "1) Founding Director",
+                "2) Promoter Director",
+                "3) Independent Director",
+                "4) Associate Director"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which among the following is not a duty of a Director of the company?",
+              "options": [
+                "1) To file return of allotments",
+                "2) To disclose interest",
+                "3) Duty to call upon the shareholders to attend the Board meetings",
+                "4) To convene General meeting"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "In his heroic efforts, my learned brother Krishna Iyer, if I may say so with great respect, has not discarded the tests of industry formulated in the past. Indeed, he has actually restored the tests laid down by this Court in D. N. Banerji's case and, after that, in the Corporation of the City of Nagpur v. Its Employees, and State of Bombay  v. The Hospital Mazdoor Sabha to their pristine glory.\n\nMy learned brother has, however, rejected what may appear, to use the word employed recently by an American Jurist, \"excrescences\" of subjective notions of judges which may have blurred those tests. The temptation is great, in such cases, for us to give expression of what may be purely subjective personal predilections. It has, however, to be resisted if law is to possess a direction in Conformity with Constitutional objectives and criteria which must impart that reasonable state of predictability and certainty to interpretations of the Constitution as well as to the laws made under it which citizens should expect. We have, so to speak, to chart what may appear to be a Sea in which the ship of law like Noah's ark may have to be navigated. Indeed, Lord Sankey on one occasion, said that law itself is like the ark to which people look for some certainty and security amidst the shifting sands of political life and vicissitudes of times. The Constitution and the directive principles of State policy, read with the basic fundamental rights, provide us with a compass.\n\nThis Court has tried to indicate in recent cases that the meaning of what could be described as a basic \"structure\" of the Constitution must necessarily be found in express provisions of the construction and not merely in subjective notions about meanings of words. Similar must be the reasoning we must employ in extracting the core of meaning hidden between the interstices of statutory provisions. Each of us is likely to have a subjective notion about \"industry\". For objectivity, we have to look first to the, words used in the statutory provision defining industry in an attempt to find the meaning. If that meaning is clear, we need proceed no further. But, the trouble here is that the words found there do not yield a meaning so readily. They refer to what employers or workers may do as parts of their ordinary avocation or business in life.\n\n(Extracted with edits from Bangalore Water Supply v. A. Rajappa & Others, AIR 1978 SC 548)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the Supreme Court's judgment, what is the most important factor in determining whether an activity constitutes an industry?",
+              "options": [
+                "1) The profit-making motive of the employer",
+                "2) When there are multiple activities carried on by an establishment, its dominant function has to be considered. If the dominant function is not commercial, benefits of a workman of an industry under Industrial Dispute Act may be given.",
+                "3) The nature of the activity and the authority of the employer over its employees",
+                "4) When there are multiple activities carried on by an establishment, all the activities must be considered. Even if one activity is commercial, the employees will not get the benefit of workman of an industry under the Industrial Dispute Act."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best describes the broader impact of the judgment?",
+              "options": [
+                "1) It reduced labour protections for workers",
+                "2) It extended labour protections to a broader spectrum of workers",
+                "3) It had no significant impact on labour laws",
+                "4) It only affected private sector workers"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best describes the term 'industry' as defined by the Supreme Court in this judgment?",
+              "options": [
+                "1) Any activity involving profit-making",
+                "2) Any systematic activity organized by cooperation between an employer and employees for producing or distributing goods and services",
+                "3) Only activities conducted by private enterprises",
+                "4) Activities limited to manufacturing sectors"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following landmark judgements, the Supreme Court held that when an association or society of apartment owners employs workers for personal services to its members, those workers do not qualify as workmen under the Act and the association is not an “Industry” under the Industrial Disputes Act?",
+              "options": [
+                "1) Som Vihar Apartment Owners’ Housing Maintenance Society Ltd v. Workmen, 2009 SC",
+                "2) Anand Vihar Apartment Owners’ Society Ltd. V. Workmen, 2024 SC",
+                "3) Kanchanjunga Building Employees Union v. Kanchanjunga Flat Ownner’s Society &Anr., 2024 SC",
+                "4) Workmen represented by Secretary v. Reptakos Brett AIR 1992 SC 504"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Under the Industrial Dispute Act, 1947, what is the role of the “Works Committee” and which of the following correctly describes its function?",
+              "options": [
+                "1) The works committee is a body formed by the central government to address wage disputes between employer and employee in public sector industries.",
+                "2) The works committee is a grievance redressal body constituted by the employer, primarily to promote measures for securing and preserving amity and good relations between the employer and employee.",
+                "3) The Works Committee is responsible for making binding decisions on industrial disputes related to layoffs, retrenchment and closure of industrial units.",
+                "4) The Works Committee is responsible for adjudicating major industrial disputes regarding wages, bonus or retrenchment."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "The Act of 1948 defines “manufacturing process” and we clearly find that “washing, cleaning” and the activities carried out by the respondent with a view to its use, delivery or disposal are squarely attracted. The contention of the respondent that dry cleaning does not make any product usable, saleable or worthy of transport, delivery or disposal has only to be stated to be rejected. “Manufacturing process” has been defined to mean any process for washing or cleaning with a view to its use, sale, transport, delivery or disposal. The linen deposited with the launderer is, after washing and cleaning, delivered to the customer for use. The ingredients of the section are fully satisfied. There is nothing in the Act of 1948, which is repugnant in the subject or context, constraining us to jettison the definition. Hence, we reject the findings of the High Court and hold that the activity carried out which on facts is not disputed is clearly covered by the definition of “manufacturing process” under Section 2(k) which, in turn, would bring the premises in question of the respondent under the definition of “factory” under Section 2(m). If that were so, the complaint lodged against the respondent could not have been quashed. (Extracted with edits from The State of Goa v. Namita Tripathi, 2025 INSC 306)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the Supreme Court's interpretation of Section 2(k)(i) of the Factories Act, 1948, the business of a laundry service involving cleaning and washing of clothes is considered a \"manufacturing process\" primarily because it involves:",
+              "options": [
+                "1) Producing a new marketable commodity through transformation.",
+                "2) Washing or cleaning any article or substance with a view to its delivery or use.",
+                "3) Carrying on a service and not a manufacturing activity.",
+                "4) Employing more than 50 workers, regardless of the activity."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What rule of statutory interpretation did the Supreme Court explicitly state should be applied to the Factories Act, 1948, because of its nature?",
+              "options": [
+                "1) Rule of Literal Interpretation.",
+                "2) Doctrine of Stare Decisis.",
+                "3) Liberal and Beneficial Construction.",
+                "4) Rule of Ejusdem Generis."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court used the 'Mischief Rule' of interpretation to analyze the definition of \"manufacturing process\" by comparing the Factories Act, 1948, with its predecessor. What was the critical difference noted in the 1948 Act's definition (Section 2(k)) compared to the 1934 Act's definition (Section 2(g))?",
+              "options": [
+                "1) The 1948 Act introduced the concept of \"power\" being used in the process.",
+                "2) The 1948 Act included the words 'washing, cleaning', which were absent in the 1934 Act.",
+                "3) The 1948 Act removed the exemption for mobile units of the armed forces.",
+                "4) The 1948 Act lowered the minimum age of employment for children."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "A premises is defined as a \"factory\" under Section 2(m)(i) of the Factories Act, 1948, if:",
+              "options": [
+                "1) Twenty or more workers are working without the aid of power.",
+                "2) Ten or more workers are working, and a manufacturing process is carried on with the aid of power.",
+                "3) Less than ten workers are working, but the process involves hazardous substances.",
+                "4) It is a hotel, restaurant, or eating place."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court ruled that the Punjab and Haryana High Court judgment in Employees' State Insurance Corporation, Jullundur v. Triplex Dry Cleaners and Others (1982) was not applicable to the present case because:",
+              "options": [
+                "1) The Triplex Dry Cleaners case was decided under the Shops and Establishments Act, not the Factories Act.",
+                "2) The Triplex Dry Cleaners case was decided before the definition of \"manufacturing process\" under the Factories Act, 1948, was incorporated into the Employees State Insurance Act (ESIC Act).",
+                "3) The Triplex Dry Cleaners case dealt with washing, not dry cleaning.",
+                "4) The ESIC Act was a penal statute, while the Factories Act, 1948, is a welfare statute."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "“Section 55 of the Indian Contract Act says that when a party to a contract promises to do a certain thing within a specified time but fails to do so, the contract or so much of it as has not been performed, becomes voidable at the option of the promisee if the intention of the parties was, that time should be of the essence of the contract. If time is not the essence of the contract, the contract does not become voidable by the failure to do such thing on or before the specified time but the promisee is entitled to compensation from the promisor for any loss occasioned to him by such failure. Further, if in case of a contract voidable on account of the promisor’s failure to perform his promise within the time agreed and the promisee accepts performance of such promise at any time other than that agreed, the promisee cannot claim compensation for any loss occasioned by the non-performance of the promise at the time agreed, unless, at the time of such acceptance he gives notice to the promisor of his intention to do so. … Sections 73 and 74 deal with consequences of breach of contract. Heading of Section 73 is compensation for loss or damage caused by breach of contract. When a contract is broken, the party who suffers by such breach is entitled to receive from the party who has broken the contract compensation for any loss or damage caused to him thereby which naturally arose in the usual course of things from such breach or which the parties knew when they made the contract to be likely to result from the breach of it. On the other hand, Section 74 deals with compensation for breach of contract where penalty is stipulated for. When a contract is broken, if a sum is mentioned in the contract as the amount to be paid in case of such breach or if the contract contains any other stipulation by way of penalty, the party complaining of the breach is entitled whether or not actually damage or loss is proved to have been caused thereby, to receive from the party who has broken the contract reasonable compensation not exceeding the amount so named or the penalty stipulated for.” [Extracted from: Consolidated Construction Consortium Limited v Software Technology Parks of India 2025 INSC 574]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Whether time is of essence or not is a question of fact, and the real test is the parties’ intention. Which amongst the following is not correct in ascertaining the intention of the parties with respect to “time is of essence”.",
+              "options": [
+                "1) The express words used in the contract.",
+                "2) The nature of the property which forms the subject-matter of the contract.",
+                "3) The nature of the contract and the surrounding circumstances.",
+                "4) The nature of the contract that provides for an extension of time or liquidated damages for delays"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is NOT a leading judgement on section 74 of the Indian Contract Act:",
+              "options": [
+                "1) Kailash Nath Associates v Delhi Development Authority [2015] 1 SCR 627.",
+                "2) ONGC Ltd v Saw Pipes Ltd (2003) 5 SCC 705.",
+                "3) Fateh Chand v Balkishan Dass (1964) 1 SCR 515.",
+                "4) Satyabrata Ghose v MugneeramBangur& Co 1954 SCR 310."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is a CORRECT proposition as regards award of damages in contract:",
+              "options": [
+                "1) In general, no damages in contract are awarded for injury to plaintiff’s feelings or for mental distress, loss of reputation or social discredit caused by the breach of contract.",
+                "2) In general, damages in contract are awarded for anguish and vexation caused by the breach of contract.",
+                "3) In general, damages in contract are awarded for anguish and loss of reputation, but not for social discredit caused by the breach of contract.",
+                "4) In general, damages in contract are awarded for emotional distress, but not for mental agony caused by the breach of contract."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is/are CORRECT proposition(s) as regards the law on damages for the breach of contract under section 74 of the Indian Contract Act:",
+              "options": [
+                "1) Where a sum is named in the contract as a liquidated amount payable by way of damages, only reasonable compensation can be awarded not exceeding the amount so stated.",
+                "2) In cases where the amount fixed is in the nature of penalty, only reasonable compensation can be awarded, not exceeding the penalty so stated.",
+                "3) The expression ‘whether or not actual damage or loss is proved to have been caused thereby’ in section 74 means that in every case the proof of actual damage or loss has been dispensed with.",
+                "4) Both (A) and (B)."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "————— will apply to cases of forfeiture of earnest money under a contract. Where, however, forfeiture takes place under the terms and conditions of a public auction before agreement is reached, section 74 would have no application:",
+              "options": [
+                "1) Section 55.",
+                "2) Section 73.",
+                "3) Section 74.",
+                "4) Section 75."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "“Law treats all contracts with equal respect and unless a contract is proved to suffer from any of the vitiating factors, the terms and conditions have to be enforced regardless of the relative strengths and weakness of the parties. Section 28 of the Contract Act does not bar exclusive jurisdiction clauses. What has been barred is the absolute restriction of any party from approaching a legal forum. The right to legal adjudication cannot be taken away from any party through contract but can be relegated to a set of Courts for the ease of the parties. In the present dispute, the clause does not take away the right of the employee to pursue a legal claim but only restricts the employee to pursue those claims before the courts in Mumbai alone. … the Court must already have jurisdiction to entertain such a legal claim. This limb pertains to the fact that a contract cannot confer jurisdiction on a court that did not have such a jurisdiction in the first place.” [Extracted from: Rakesh Kumar Verma v HDFC Bank Ltd 2025 INSC 473]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions is CORRECT:",
+              "options": [
+                "1) It is, in general, open to the contracting parties to confer by their agreement jurisdiction on a court which does not possess the jurisdiction under the law.",
+                "2) It is not open to the contracting parties to confer by their agreement jurisdiction on a court which does not possess the jurisdiction under the law.",
+                "3) It is open to the contracting parties to confer by their written and registered agreement jurisdiction on a court which does not possess the jurisdiction under the law.",
+                "4) If it is absolutely in the interest of the contracting parties, then only it is open to the contracting parties to confer by their agreement jurisdiction on a court which does not possess the jurisdiction under the law."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions is NOT CORRECT about an ouster clause:",
+              "options": [
+                "1) Jurisdiction of civil courts is created by statute and cannot be created or conferred by consent of the parties upon a court which has not been granted jurisdiction by the law.",
+                "2) Where two or more courts have under the law jurisdiction to try a suit or proceeding, an agreement between the parties that the dispute between them will be tried in one of such courts, is not contrary to public policy.",
+                "3) Ouster clauses can oust the jurisdiction only of civil courts and not of the High Court, provided such jurisdiction exists in the High Court on account of part of cause of action having arisen with its territorial jurisdiction.",
+                "4) An ouster clause is valid even if it confers exclusive jurisdiction on a court that otherwise has no territorial or pecuniary jurisdiction over the matter."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following cannot be a condition for an exclusive jurisdiction clause in a contract to be valid:",
+              "options": [
+                "1) It should be in consonance with section 28 of the Indian Contract Act, i.e. it should not absolutely restrict any party from initiating legal proceedings pertaining to the contract.",
+                "2) The court which the parties have chosen for exclusive jurisdiction must be competent to have such jurisdiction.",
+                "3) The parties must either impliedly or explicitly agree to subject themselves to the jurisdiction of a specific court for the resolution of their contractual dispute.",
+                "4) The parties agree to the jurisdiction of a court that does not have the jurisdiction over the matter under the general law."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Section 28 of the Indian Contract Act is subject to ————— appended to it:",
+              "options": [
+                "1) One exception.",
+                "2) Two exceptions.",
+                "3) Three exceptions.",
+                "4) Four exceptions."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following agreements has/have been rendered void by section 28 of the Indian Contract Act:",
+              "options": [
+                "1) An agreement by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary tribunals.",
+                "2) An agreement which limits the time within which any party thereto may enforce his contractual rights.",
+                "3) Both (A) and (B).",
+                "4) Neither (A) nor (B)."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "“The law is well settled that a constitutional court can award monetary compensation against the State and its officials for its failure to safeguard fundamental rights of citizens but there is no system or method to measure the damages caused in such situations. Quite often the courts have a difficult task in determining damages in various fact situations. The yardsticks normally adopted for determining the compensation payable in private tort claims are not as such applicable when a constitutional court determines the compensation in cases where there is a violation of fundamental rights guaranteed to its citizens.\n\n… In D.K. Basu v. State of W.B. [(1997) SCC 1 416], a Constitution Bench of this Court held that there is no straitjacket formula for computation of damages and we find that there is no uniformity or yardstick followed in awarding damages for violation of fundamental rights. In Rudul Sah case [Rudul Sah v. State of Bihar, (1983) 4 SCC 141] this Court used the terminology ‘palliative’ for measuring the damages and the formula of ‘adhoc’ was applied. In Sebastian Hongray case [Sebastian M. Hongray v. Union of India, (1984) 3 SCC 82] the expression used by this Court for determining the monetary compensation was ‘exemplary’ costs and the formula adopted was ‘punitive’. In Bhim Singh case [Bhim Singh v. State of J & K, (1985) 4 SCC 677], the expression used by the Court was ‘compensation’ and the method adopted was ‘tortious formula’. In D.K. Basu v. State of W.B. [(1997) SCC 1 416] the expression used by this Court for determining the compensation was ‘monetary compensation’. The formula adopted was ‘cost to cost’ method. Courts have not, therefore, adopted a uniform criterion since no statutory formula has been laid down.”\n\n[Extracted from: Municipal Corporation of Delhi, Delhi v Uphaar Tragedy Victims Association (2011) 14 SCC 481]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The public law proceedings serve a different purpose than the private law proceedings. The relief of monetary compensation, as exemplary damages, in proceedings under article 32 by the Supreme Court or under article 226 by the High Courts, for established infringement of the indefeasible right guaranteed under article 21 of the Constitution is a remedy available in ————— and is based on the strict liability for contravention of the guaranteed basic and indefeasible rights of the citizen:",
+              "options": [
+                "1) Public law.",
+                "2) Private law.",
+                "3) Civil law.",
+                "4) All the above."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Choose the IN-CORRECT proposition about ‘constitutional tort’:",
+              "options": [
+                "1) In essence, it attributes vicarious liability on the State for acts and omissions of its agents which result in violation of fundamental rights of an individual or group.",
+                "2) Constitutional law and tort law came to be merged by the Supreme Court which began allowing successful petitioners to recover monetary damages from the State for infraction of their fundamental rights.",
+                "3) The causal connection between the act or omission and the resultant infraction of fundamental rights, is central to any determination of an action of constitutional tort.",
+                "4) The doctrine of sovereign immunity absolutely protects the State from liability for all acts of its servants, including those that violate fundamental rights."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following cases is NOT related to constitutional tort:",
+              "options": [
+                "1) Kaushal Kishor v State of Uttar Pradesh 2023 INSC 4.",
+                "2) Bombay Hospital & Medical Research Centre v Asha Jaiswal 2021 INSC 801.",
+                "3) Municipal Corporation of Delhi, Delhi v Uphaar Tragedy Victims Association (2011) 14 SCC 481.",
+                "4) DK Basu v State of WB [(1997) SCC 1 416."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions is/are CORRECT about the award of damages in cases where there is violation of fundamental rights:",
+              "options": [
+                "1) Constitutional courts can in appropriate cases of serious violation of life and liberty of the individuals award punitive damages.",
+                "2) Owing to lack of legislation, the Courts dealing with the cases of tortious claims against State and its officials are not following a uniform pattern while deciding those claims and this, at times, leads to undesirable consequences and arbitrary fixation of compensation amount.",
+                "3) Both (A) and (B).",
+                "4) Neither (A) nor (B)."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The principle of sovereign immunity of the State for the tortious acts of its servant, has been held to be ————— in the case of violation of fundamental rights:",
+              "options": [
+                "1) Always applicable.",
+                "2) Inapplicable.",
+                "3) A good defence.",
+                "4) Occasionally applicable."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "It is well recognized that actionable negligence in context of medical profession involves three constituents (i) duty to exercise due care; (ii) breach of duty and (iii) consequential damage. However, a simple lack of care, an error of judgment or an accident is not sufficient proof of negligence on part of the medical professional so long as the doctor follows the acceptable practice of the medical profession in discharge of his duties. He cannot be held liable for negligence merely because a better alternative treatment or course of treatment was available or that more skilled doctors were there who could have administered better treatment.\n\nA medical professional may be held liable for negligence only when he is not possessed with the requisite qualification or skill or when he fails to exercise reasonable skill which he possesses in giving the treatment. None of the above two essential conditions for establishing negligence stand satisfied in the case at hand as no evidence was brought on record to prove that Dr. Neeraj Sud had not exercised due diligence, care or skill which he possessed in operating the patient and giving treatment to him. When reasonable care, expected of the medical professional, is extended or rendered to the patient unless contrary is proved, it would not be a case for actionable negligence.\n\n[Extracted with edits and revisions from Neeraj Sud v Jaswinder Singh 2024 INSC 825]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In which of the following situations, a professional would be held liable for negligence:",
+              "options": [
+                "1) If he was not possessed of the requisite skill which he professed to have possessed, or, he did not exercise, with reasonable competence, in the given case, the skill which he did possess.",
+                "2) If he failed to use exceptional or extraordinary precautions which might have prevented the damage (particular happening).",
+                "3) Both (A) and (B).",
+                "4) Neither (A) nor (B)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions is INCORRECT as regards negligence in civil law and in criminal law:",
+              "options": [
+                "1) The jurisprudential concept of negligence differs in civil law and criminal law.",
+                "2) What may be negligence in civil law may not necessarily be negligence in criminal law.",
+                "3) For an act to amount to criminal negligence, the degree of negligence should be much higher, i.e. gross or of a very high degree.",
+                "4) For negligence to amount to both a ‘tort’ and an ‘offence’, the element of mens rea must necessarily be shown to have existed."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The basis or the yardstick for judging the performance of the professional proceeded against on indictment of negligence is:",
+              "options": [
+                "1) That of an ordinary and reasonably competent person exercising ordinary skill in that profession.",
+                "2) That of a person with the highest level of expertise or skills in that branch which he practices.",
+                "3) That of a person with the highest level of expertise or skills in that branch which he practices, and possessing the knowledge of all latest developments.",
+                "4) Both (B) and (C)."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Deviation from normal medical practice is not necessarily evidence of negligence. In order to establish liability of a medical practitioner on that basis, which of the following requirements has/have to be shown:",
+              "options": [
+                "1) That, there is a usual and normal practice; and the medical practitioner (defendant) has not adopted it.",
+                "2) That, the course in fact adopted by the medical practitioner (defendant) is one, which no professional man of ordinary skill would have taken, had he been acting with ordinary care.",
+                "3) Both (A) and (B).",
+                "4) Neither (A) nor (B)."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "A medical practitioner would not be held liable:",
+              "options": [
+                "1) Where his conduct fell below that of the standards of a reasonably competent practitioner in his field.",
+                "2) Where things went wrong from mischance or misadventure or through an error of judgment in choosing one reasonable course of treatment in preference of another.",
+                "3) Both (A) and (B).",
+                "4) Neither (A) nor (B)."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Today, in the year 2025, we have been experiencing the drastic consequences of large scale destruction of environment on human lives in the capital city of our country and in many other cities. At least for a span of two months every year, the residents of Delhi suffocate due to air pollution. The AQI level is either dangerous or very dangerous. They suffer in their health. The other leading cities are not far behind. The air and water pollution in the cities is ever increasing. Therefore, coming out with measures such as the 2021 Official Memorandum is violative of fundamental rights of all persons guaranteed under Article 21 to live in a pollution free environment. It also infringes the right to health guaranteed under Article 21 of the Constitution. The 2021 OM talks about the concept of development. Can there be development at the cost of environment? Conservation of environment and its improvement is an essential part of the concept of development. Therefore, going out of the way by issuing such OMs to protect those who have caused harm to the environment has to be deprecated by the Courts which are under a constitutional and statutory mandate to uphold the fundamental right under Article 21 and to protect the environment. In fact, the Courts should comedown heavily on such attempts. As stated earlier, the 2021 OM deals with project proponents who were fully aware of the EIA notification and who have taken conscious risk to flout the EIA notification and go ahead with the construction/continuation/expansion of projects. They have shown scant respect to the law and their duty to protect the environment. Apart from violation of Article 21, such action is completely arbitrary which is violative article 14 of the Constitution of India, besides being violative of the 1986 Act and the EIA notification. (Extracted with edits from Vanashakti v. Union of India, 2025 INSC 718)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What was the central controversy in the petition,  Vanashakti v. Union of India?",
+              "options": [
+                "1) The constitutional validity of the Environment (Protection) Act, 1986.",
+                "2) The determination of pollution load standards for Category 'B' projects.",
+                "3) The ex post facto grant of Environmental Clearance (EC).",
+                "4) The delegation of powers to the State Environment Impact Assessment Authority (SEIAA)."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Environment Impact Assessment (EIA) Notification, 2006, which mandates prior EC, was issued by the Central Government under which primary legislation?",
+              "options": [
+                "1) The Wild Life (Protection) Act, 1972.",
+                "2) The Biological Diversity Act, 2002.",
+                "3) The Environment (Protection) Act, 1986.",
+                "4) The National Green Tribunal Act, 2010."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court reiterated a concluded finding that the concept of ex post facto or retrospective Environmental Clearance (EC) is:",
+              "options": [
+                "1) Detrimental to the environment but permissible under Article 142 of the Constitution.",
+                "2) Completely alien to environmental jurisprudence and the EIA notification.",
+                "3) A necessary measure to bring defaulting entities into regulatory compliance.",
+                "4) A valid administrative decision protected by Section 3 of the 1986 Act."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The EIA Notification 2006, mandates that prior Environmental Clearance (EC) must be obtained at what stage of a project?",
+              "options": [
+                "1) Before commencing operations or processes.",
+                "2) Within six months of a project's completion.",
+                "3) After the public hearing but before the final appraisal.",
+                "4) Before any construction work, or preparation of land is started on the project."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Allowing for ex post facto clearance was held to be contrary to which two fundamental principles of environmental jurisprudence?",
+              "options": [
+                "1) Doctrine of Necessity and Principle of Stare Decisis.",
+                "2) Polluter Pays Principle and Public Trust Doctrine.",
+                "3) Precautionary Principle and Sustainable Development.",
+                "4) Doctrine of Sovereign immunity and doctrine of Public Trust"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "With the Paris Agreement, countries established an enhanced transparency framework (ETF). Under ETF, starting in 2024, countries will report transparently on actions taken and progress in climate change mitigation, adaptation measures and support provided or received. It also provides for international procedures for the review of the submitted reports. The information gathered through the ETF will feed into the Global stocktake which will assess the collective progress towards the long-term climate goals. This will lead to recommendations for countries to set more ambitious plans in the next round. Although climate change action needs to be massively increased to achieve the goals of the Paris Agreement, the years since its entry into force have already sparked low- carbon solutions and new markets. More and more countries, regions, cities and companies are establishing carbon neutrality targets. Zero-carbon solutions are becoming competitive across economic sectors representing 25% of emissions. This trend is most noticeable in the power and  transport sectors and has created many new business opportunities for early movers. By 2030, zero-carbon solutions could be competitive in sectors representing over 70% of global emissions. (Extracted with edits from the website UNFCCC.INT)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the central, long-term temperature goal of the Paris Agreement?",
+              "options": [
+                "1) To limit the global temperature increase to exactly 1.5 degrees",
+                "2) To hold the increase in the global average temperature to well below 2 degrees above pre-industrial levels and to pursue efforts to limit it to 1.5 degrees.",
+                "3) To reduce the global average temperature to pre-industrial levels by the year 2100.",
+                "4) To limit the global temperature increase to 3 degrees above pre-industrial levels."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The Paris Agreement calls for a process to periodically assess the collective progress toward achieving its long-term goals. What is this process called?",
+              "options": [
+                "1) The Compliance Mechanism",
+                "2) The Global Stocktake",
+                "3) The Transparency Framework",
+                "4) The Adaptation Communication"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which previous International Climate Treaty did the Paris Agreement succeed and replace in terms of its operational framework after 2020?",
+              "options": [
+                "1) The Montreal Protocol",
+                "2) The Basel Convention",
+                "3) The Kyoto Protocol",
+                "4) The Convention on Biological Diversity (CBD)"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Paris Agreement establishes a clear distinction in obligations between developed and developing countries regarding:",
+              "options": [
+                "1) The long-term temperature goal, with different limits for each group.",
+                "2) Mitigation efforts, by requiring only developed countries to submit NDCs.",
+                "3) Climate finance, by requiring developed countries to provide financial resources to assist developing countries.",
+                "4) The principle of sovereignty, by allowing only developing countries to withdraw from the Agreement."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The mechanism known as \"Loss and Damage\" in the context of climate change, which addresses the unavoidable adverse effects of climate change, is reinforced in the Paris Agreement through the:",
+              "options": [
+                "1) Technology Executive Committee.",
+                "2) Global Stocktake.",
+                "3) Warsaw International Mechanism (WIM).",
+                "4) Adaptation Fund."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "SEBI was established as India’s principal capital markets regulator with the aim to protect the interest of investors in securities and promote the development and regulation of the securities market in India. SEBI is empowered to regulate the securities market in India by the SEBI Act 1992, the SCRA and the Depositories Act 1996. SEBI’s powers to regulate the securities market are wide and include delegated legislative, administrative, and adjudicatory powers to enforce SEBI’s regulations. SEBI exercises its delegated legislative power by inter alia framing regulations and appropriately amending them to keep up with the dynamic nature of the securities’ market. SEBI has issued a number of regulations on various areas of security regulation which form the backbone of the framework governing the securities market in India.\n\nSection 11 of the SEBI Act lays down the functions of SEBI and expressly states that it “shall be the duty of the Board to protect the interests of investors in securities and to promote the development of, and to regulate the securities market, by such measures as it thinks fit”. Further, Section 30 of the SEBI Act empowers SEBI to make regulations consistent with the Act. Significantly, while framing these regulations, SEBI consults its advisory committees consisting of domain experts, including market experts, leading market players, legal experts, technology experts, retired Judges of this Court or the High Courts, academicians, representatives of industry associations and investor associations. During the consultative process, SEBI also invites and duly considers comments from the public on their proposed regulations. SEBI follows similar consultative processes while reviewing and amending its regulations. (Extracted, with edits and revision, from the judgement in Vishal Tiwari v. Union Of India, [2024] 1 S.C.R. 171)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is meant by SCRA in the above passage.",
+              "options": [
+                "1) Securities Contracts (Regulation) Act",
+                "2) Securities and Corporate (Registration) Act",
+                "3) Securities Compliance (Regulation) Act",
+                "4) SEBI and Companies (Regulation) Act"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is not a committee setup by SEBI?",
+              "options": [
+                "1) Technical Advisory Committee",
+                "2) Competition Advisory committee",
+                "3) Intermediary Advisory Committee",
+                "4) Market Data Advisory Committee"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which among the following is not a function of SEBI?",
+              "options": [
+                "1) regulating substantial acquisition of shares and take over of companies",
+                "2) prohibiting and regulating self-regulatory organisations",
+                "3) prohibiting insider trading in securities",
+                "4) promoting investors‘education and training of intermediaries of securities markets."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The process by which an organisation thinks about and evolves its relationships with stakeholders for the common good, and demonstrates its commitment in this regard by adoption of appropriate business processes and strategies is called?",
+              "options": [
+                "1) Annual general meeting",
+                "2) Corporate social responsibility",
+                "3) Issuing Shelf prospectus",
+                "4) Incorporation of a company"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases did the court struck down the attempt of the government to nationalise banks and pay minimal compensation to the shareholders?",
+              "options": [
+                "1) Shri Sunil Siddharthbhai Etc v. Union of India",
+                "2) R.C. Cooper v. Union of India",
+                "3) United Bank Of India v. SatyawatiTondon & Ors",
+                "4) Punjab National Bank v. Union of India"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "The element of gift is traceable to both ‘settlement’ and ‘will’. As settled in law, the nomenclature of an instrument is immaterial and the nature of the document is to be derived from its contents. While so, a voluntary disposition can transfer the interest in praesenti and in future, in the same document. In such a case, the document would have the elements of both the settlement and will. Such document, then has to be registered and by operation of the doctrine of severability, becomes a composite document and has to be treated as both, a settlement and will and the respective rights will flow with regard to each disposition from the same document. It is pertinent to mention here that the reservation of life interest or any condition in the instrument, even if it postpones the physical delivery of possession to the donee/settlee, cannot be treated as a will, as the property had already been vested with the donee/settlee. [Extracted from: NP Saseendran v NP Ponnamma 2025 INSC 388.]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following is NOT an essential of a valid gift:",
+              "options": [
+                "1) It is a transfer of certain existing movable or immovable property.",
+                "2) It is made voluntarily.",
+                "3) It is made without consideration.",
+                "4) It must be accepted by or on behalf of the donee during the lifetime of the donor, even if the donor becomes incapable of giving the property."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The element of ————— is common to all the three transactions, i.e. Gift, Settlement and Will:",
+              "options": [
+                "1) physical delivery of possession.",
+                "2) absence of consideration.",
+                "3) voluntary disposition.",
+                "4) vesting of the right in praesenti."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The main test to find out whether a document constitutes a ‘Will’ or a ‘Settlement’ is to see whether the disposition of the interest in the property is in praesenti in favour of the settlee or whether the disposition is to take effect on the death of the executant. In view of this position of law, choose the CORRECT proposition:",
+              "options": [
+                "1) If the disposition is to take effect on the death of the executant, it will be a Settlement. But, if the executant divests his interest in the property and vests his interest in praesenti in the transferee, the document will be a Will.",
+                "2) Whether the disposition is to take effect on the death of the executant or the executant divests his interest in the property and vests his interest in praesenti in the transferee, the document will nevertheless remain a Settlement.",
+                "3) If the disposition is to take effect on the death of the executant, it will be a Will. But, if the executant divests his interest in the property and vests his interest in praesenti in the settlee, the document will be a Settlement.",
+                "4) If the disposition takes effect on the assumption of death of the executant, it shall be a will."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions is INCORRECT about a valid gift:",
+              "options": [
+                "1) A gift may be suspended or revoked.",
+                "2) A gift comprising both existing and future property is valid in totality.",
+                "3) Delivery of possession is not a condition sine qua non to validate the gift.",
+                "4) In so far as gift of an immovable property is concerned, registration is mandatory."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following propositions  is CORRECT about a Will:",
+              "options": [
+                "1) It is revocable, as no interest in the property is intended to pass during the lifetime of the testator.",
+                "2) It is revocable, despite interest in the property being passed under the Will during the lifetime of the testator.",
+                "3) It is revocable because registration is not mandatory.",
+                "4) It is irrevocable because registration is not mandatory"
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "“Mortgage inter alia means transfer of interest in the specific immovable property for the purpose of securing the money advanced by way of loan. Section 17(1)(c) of the Registration Act provides that a non-testamentary instrument which acknowledges the receipt or payment of any consideration on account of the creation, declaration, assignment, limitation or extension of any such right, title or interest, requires compulsory registration. Mortgage by deposit of title-deeds in terms of Section 58(f) of the Transfer of Property Act surely acknowledges the receipt and transfer of interest and, therefore, one may contend that its registration is compulsory. However, Section 59 of the Transfer of Property Act mandates that every mortgage other than a mortgage by deposit of title-deeds can be effected only by a registered instrument. In the face of it, in our opinion, when the debtor deposits with the creditor title-deeds of the property for the purpose of security, it becomes mortgage in terms of Section 58(f) of the Transfer of Property Act and no registered instrument is required under Section 59 thereof as in other classes of mortgage. The essence of mortgage by deposit of title-deeds is handing over by a borrower to the creditor title-deeds of immovable property with the intention that those documents shall constitute security, enabling the creditor to recover the money lent. After the deposit of the title-deeds the creditor and borrower may record the transaction in a memorandum but such a memorandum would not be an instrument of mortgage. A memorandum reducing other terms and conditions with regard to the deposit in the form of a document, however, shall require registration under Section 17(1)(c) of the Registration Act, but in a case in which such a document does not incorporate any term and condition, it is merely evidential and does not require registration.” [Extracted from: State of Haryana v Narvir Singh (2014) 1 SCC 105]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following is NOT an essential of a mortgage under the Transfer of Property Act, 1882:",
+              "options": [
+                "1) It is a transfer of an interest in specific immovable property.",
+                "2) It is for the purpose of securing the payment of money advanced or to be advanced by way of loan.",
+                "3) It is always in respect of an existing debt.",
+                "4) It is in respect of an existing or future debt, or the performance of an engagement which may give rise to a pecuniary liability."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "A mortgage by deposit of title-deeds is a form of mortgage recognised by section 58(f) of the Transfer of Property Act, 1882, which provides that:",
+              "options": [
+                "1) When the debtor deposits with the creditor the title-deeds of his property with an intent to create a security, the law implies a contract between the parties to create a mortgage, and no registered instrument is required under section 59 of the Transfer of Property Act, as in other forms of mortgage.",
+                "2) When the debtor deposits with the creditor the title-deeds of his property with an intent to create a security, the implication of law (that there exists a contract between the parties to create a mortgage) is excluded, and a registered instrument is required under section 59 of the Transfer of Property Act.",
+                "3) When the debtor deposits with the creditor the title-deeds of his property with an intent to create a security, the implication of law (that there exists a contract between the parties to create a mortgage) is excluded, and a registered instrument is required under section 58(f) of the Transfer of Property Act.",
+                "4) When the debtor deposits with the creditor the title-deeds of his property with an intent to create a security, the implication of law (that there exists a contract between the parties to create a mortgage) is excluded, and a registered instrument is required under section 17(1)(c) of the Registration Act."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "As per section 96 of the Transfer of Property Act, the provisions which apply to ————— shall, so far as may be, apply to a mortgage by deposit of title-deeds.",
+              "options": [
+                "1) A simple mortgage.",
+                "2) A mortgage by conditional sale.",
+                "3) A usufructuary mortgage.",
+                "4) An English mortgage."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The period of limitation for a suit to enforce payment of money secured by a mortgage or otherwise charged upon immovable property is:",
+              "options": [
+                "1) 30 years.",
+                "2) 12 years.",
+                "3) 20 years.",
+                "4) 3 years."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In a mortgage by deposit of title-deeds, after the deposit of the title-deeds, if the creditor and the borrower choose to record their transaction in a memorandum reducing other terms and conditions (in addition to what flow from the mortgage by deposit of title- deeds) with regard to the deposit in the form of a memorandum/document, then the memorandum/document requires registration under section 17(1)(c) of the Registration Act. In this context which among the following propositions is not correct?",
+              "options": [
+                "1) The deposit and the document both form integral parts of the transaction and are essential ingredients in the creation of the mortgage.",
+                "2) The deposit alone is not intended to create the charge and the document, which constitutes the bargain regarding the security, is also necessary and operates to create the charge in conjunction with the deposit.",
+                "3) The implication of law (that there exists a contract between the parties to create a mortgage) is excluded by their express bargain, and the document becomes the sole evidence of its terms.",
+                "4) The deposit and the documents do not form integral parts of the transaction and hence  they are not essential ingredients in the creation of the mortgage."
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "Having heard the learned Counsels for the parties, and on perusal of the material on record, the primary issue which arises for consideration of this Court is “whether a review or recall of an order passed in a criminal proceeding initiated under section 340 of CrPC is permissible or not?” […] A careful consideration of the statutory provisions and the aforesaid decisions of this Court clarify the now-well settled position of jurisprudence of Section 362 of CrPC which when summarized would be that the criminal courts, as envisaged under the CrPC, are barred from altering or reviewing in their own judgments except for the exceptions which are explicitly provided by the statute, namely, correction of a clerical or an arithmetical error that might have been committed or the said power is provided under any other law for the time being in force. As the courts become functus officio the very moment a judgment or an order is signed, the bar of Section 362 CrPC becomes applicable. Despite the powers provided under Section 482 CrPC which, this veil cannot allow the courts to step beyond or circumvent an explicit bar. It also stands clarified that it is only in situations wherein an application for recall of an order or judgment seeking a procedural review that the bar would not apply and not a substantive review where the bar as contained in Section 362 CrPC is attracted. Numerous decisions of this Court have also elaborated that the bar under said provision is to be applied stricto sensu. (Extracted with edits and revisions from Vikram Bakshi v. RP Khosla 2025 INSC 1020)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "As per section 362 of Cr. P.C.(equivalent to section 403 of BNSS 2023), a criminal court has power to review or alter its own judgment or order only under the following circumstances.",
+              "options": [
+                "1) If there is an error as to the question of fact.",
+                "2) If there is an error as to the question of law.",
+                "3) If there is/are clerical and arithmetical errors.",
+                "4) If the judgment or order is rendered per in curium."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The bench in this case referred to a distinction drawn previously in Grindlays Bank case, that of procedural review and substantive review by criminal courts. Which of the following statements most accurately captures the distinction between the two decisions?",
+              "options": [
+                "1) A procedural review is exercised when a higher court finds an error in interpretation, while a substantive review is limited to correcting factual inaccuracies within the same court.",
+                "2) A procedural review is available only in appellate courts, whereas a substantive review may be conducted by the original court that issued in court",
+                "3) A procedural review is inherent or implied in a court to set aside a palpably erroneous order passed under misapprehension by it. However, a substantive review is when error sought to be corrected is one of law and is apparent on the face of the record.",
+                "4) A procedural review involves correcting errors of judgement made after hearing the parties while a substantive review is confined to omissions in recording of legal reasoning."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the Supreme Court's analysis, under which principle did the High Court claim to recall its Judgment, even though the Supreme Court ultimately rejected this basis?",
+              "options": [
+                "1) Ex debito justitiae, to correct a factual error not brought to its notice earlier.",
+                "2) Inherent power under Section 482 of the CrPC to prevent the abuse of the process of any Court.",
+                "3) The power of a criminal court to conduct a \"substantive review\" on the merits of the case.",
+                "4) The binding nature of the Supreme Court's earlier Judgment which mandated a decision on the perjury application."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The court identified certain exceptional circumstances wherein the criminal court is empowered to alter or review its own judgement or a final order under Section 362 (CrPC). Which of the following is NOT one among them:",
+              "options": [
+                "1) Such power is expressly conferred upon court by law",
+                "2) The court passing such a judgement or order lacked inherent jurisdiction to do so",
+                "3) Fact relating to non-serving of necessary party being non-represented, not brought to notice of court while passing such judgment or order",
+                "4) A subsequent judicial precedent renders the earlier judgment legally untenable"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In relation to exceptional circumstances identified by the court under which the embargo on criminal courts to review or alter their judgement or final order after signing under Section 362 (CrPC) would not apply, which of the following statements is correct? I. The exceptions are exercisable only if a ground that is raised was not available or existent at the time of original proceedings before the Court II. The said power cannot be invoked as a means to circumvent the finality of the judicial process or mistakes and/or errors in the decision which are attributable to a conscious omission by the parties. Select the most appropriate option:",
+              "options": [
+                "1) Only I is correct",
+                "2) Only II is correct",
+                "3) Both I and II are correct",
+                "4) Both I and II are incorrect"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "A glance over all the Sections related to extortion would reveal a clear distinction being carried out between the actual commission of extortion and the process of putting a person in fear for the purpose of committing extortion. Section 383 defines extortion, the punishment therefor is given in Section 384. Sections 386 and 388 provide for an aggravated form of extortion. These sections deal with the actual commission of an act of extortion, whereas Sections 385, 387 and 389 IPC seek to punish for an act committed for the purpose of extortion even though the act of extortion may not be complete and property not delivered. It is in the process of committing an offence that a person is put in fear of injury, death or grievous hurt. Section 387 IPC provides for a stage prior to committing extortion, which is putting a person in fear of death or grievous hurt 'in order to commit extortion', similar to Section 385 IPC. Hence, Section 387 IPC is an aggravated form of 385 IPC, not 384 IPC. Having deliberated upon the offence of extortion and its forms, we proceed to analyze the essentials of both Sections, i.e.,383 and 387 IPC, the High Court dealt with. (Extracted from  Balaji Traders v. State of UP, 2025 INSC 806)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the Supreme Court's analysis in the judgment, Section 387 of the Indian Penal Code (IPC) deals with:",
+              "options": [
+                "1) The actual commission of the act of extortion by putting a person in fear of death or grievous hurt.",
+                "2) The punishment for a completed act of extortion by putting a person in fear of death or grievous hurt.",
+                "3) The process or stage prior to committing extortion, specifically putting or attempting to put a person in fear of death or grievous hurt in order to commit extortion.",
+                "4) A lesser, non-aggravated form of extortion defined in Section 383 IPC."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The core difference between Section 383/384 IPC (Extortion/Punishment) and Section 387 IPC (Putting person in fear of death or grievous hurt, in order to commit extortion), as established by the Supreme Court, is that:",
+              "options": [
+                "1) Section 387 IPC requires the use of firearms, whereas Section 383/384 IPC does not.",
+                "2) Section 383/384 IPC deals with the actual commission of extortion and requires delivery of property, while Section 387 IPC deals with the process (putting a person in fear) and does not require the delivery of property.",
+                "3) Section 383/384 IPC is an aggravated form of Section 387 IPC.",
+                "4) Section 387 IPC involves only an attempt, while Section 383/384 IPC involves a completed offence."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the minimum essential ingredient that the Supreme Court found prima facie disclosed in the complaint for an offence under Section 387 IPC?",
+              "options": [
+                "1) The transfer of at least Rs. 5 lakhs from the complainant to the accused.",
+                "2) The use of rifles, a specific type of weapon.",
+                "3) Putting the complainant in fear of death or grievous hurt in order to commit extortion, such as by pointing a gun and demanding Rs. 5 lakhs per month.",
+                "4) The existence of pending litigation regarding Trademark and Copyright claims."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court cites which of the following as a well-settled principle of law regarding the interpretation of penal statutes?",
+              "options": [
+                "1) Penal statutes must be given a wide and flexible interpretation to cover all intended mischief.",
+                "2) Courts are competent to stretch the meaning of an expression used by the Legislature to carry out the intention of the Legislature.",
+                "3) If two possible and reasonable constructions can be put upon a penal provision, the Court must lean towards the construction that imposes the maximum penalty.",
+                "4) If two possible and reasonable constructions can be put upon a penal provision, the Court must lean towards that construction which exempts the subject from penalty rather than the one which imposes penalty."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court's final decision on the appeal filed by M/s. Balaji Traders was to:",
+              "options": [
+                "1) Dismiss the appeal and uphold the High Court's quashing order.",
+                "2) Dismiss the appeal but modify the charge to Section 384 IPC.",
+                "3) Allow the appeal, set aside the High Court's order, and restore the proceedings of Complaint case to the file of the Trial Court.",
+                "4) Allow the appeal and transfer the case to the High Court for a fresh hearing on merits."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "The reference essentially raises the following issue: whether a child who is conferred with legislative legitimacy under Section 16(1) or 16(2) is, by reason of Section 16(3), entitled to the ancestral/coparcenary property of the parents or is the child merely entitled to the self-earned/separate property of the parents. The questions that arise before us are - first, whether the legislative intent is to confer legitimacy on a child covered by Section 16 in a manner that makes them coparceners, and thus entitled to initiate or get a share in the partition - actual or notional; second, at what point does a specific property transition into becoming the property of the parent. For, it is solely within such property that children endowed with legislative legitimacy hold entitlement, in accordance with Section 16(3).[..]Holding that the consequence of legitimacy under sub-sections (1) or (2) of Section 16 is to place such an individual on an equal footing as a coparcener in the coparcenary would be contrary to the plain intendment of sub-section (3) of Section 16 of the HMA 1955 which recognises rights to or in the property only of the parents. In fact, the use of language in the negative by Section 16(3) places the position beyond the pale of doubt. We would therefore have to hold that when an individual falls within the protective ambit of sub-section (1) or sub-section (2) of Section 16, they would be entitled to rights in or to the absolute property of the parents and no other person. (Extracted with edits and revisions from Revanasiddappa&Anr v. Mallikarjun 2023 INSC 783)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "When a Hindu Mitakshara coparcener, who has a child legitimised under section 16 of Hindu Marriage Act 1955, dies intestate, after the 2005 Amendment of the Hindu Succession Act, 1956, what is the legal mechanism that determines the child’s share in the parent’s interest in the coparcenary property?",
+              "options": [
+                "1) The Child becomes a coparcener by birth, and the entire coparcenary property is divided equally amongst all the coparceners.",
+                "2) The parent’s interest devolves by traditional rule of survivorship, and the section 16 child receives no share",
+                "3) The parent’s interest is first determined through a notional partition immediately before death under section 6 (3) of Hindu Succession Act 1956 and this determined share then devolves by intestate succession to all the deceased’s  children (including the section 16 child) under section 8/10 of Hindu Succession Act 1956.",
+                "4) The share of section 16 child is limited to receiving maintenance from the joint family estate."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "From the decisions rendered by the Supreme Court on this issue, which of the following correctly states the legal position of a child conferred with legitimacy under section 16 of Hindu Marriage Act",
+              "options": [
+                "1) Such a child is a coparcener",
+                "2) Such a child is not a coparcener",
+                "3) Such a child is a coparcener, and has the power to seek partition of coparcenary property",
+                "4) Such a child is a coparcener, but does not have the power to seek partition of coparcenary property"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the following statements: I. A child born out of a null and void marriage is considered as legitimate by law II. Conferment of legitimacy is irrespective of whether such child was born before or after the commencement of the Amending Act 1976 Select the most appropriate option:",
+              "options": [
+                "1) Only I is correct",
+                "2) Only II is correct",
+                "3) Both I and II are correct",
+                "4) Both I and II are incorrect"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements is correct in relation to the property rights of children from void/voidable marriages",
+              "options": [
+                "1) Such a child can ask for partition of coparcenary property",
+                "2) Such a child can claim share in their own right in the undivided coparcenary property of his parents",
+                "3) Such a child has rights only to self-acquired property of his parents",
+                "4) Such a child cannot ask for partition of coparcenary property"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best summarises the conclusion reached by the Supreme Court regarding children conferred with legitimacy under Section 16 under the Hindu Marriage Act?",
+              "options": [
+                "1) Such children are entitled to coparcenary rights in the ancestral property to their parents, equal to children born within a valid marriage",
+                "2) Such children are entitled only to the self-acquired or separate property of their parents, and not to ancestral/coparcenary property",
+                "3) Such children are entitled to inherit property only if no legitimate heirs exist from a valid marriage",
+                "4) Such children have no rights in any property of the parents, whether self-acquired or ancestral"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Live-in relationship, as such, as already indicated, is a relationship which has not been socially accepted in India, unlike many other countries. In Lata Singh v. State of U.P. [(2006) 5 SCC 475: (2006) 2 SCC (Cri) 478] it was observed that a live-in relationship between two consenting adults of heterosexual sex does not amount to any offence even though it may be perceived as immoral. However, in order to provide a remedy in civil law for protection of women, from being victims of such relationship, and to prevent the occurrence of domestic violence in the society, first time in India, the DV Act has been enacted to cover the couple having relationship in the nature of marriage, persons related by consanguinity, marriages, etc. We have few other legislations also where reliefs have been provided to woman placed in certain vulnerable situations. Section 125 CrPC, of course, provides for maintenance of a destitute wife and Section 498-A IPC is related to mental cruelty inflicted on women by her husband and in-laws. Section 304-B IPC deals with the cases relating to dowry death. The Dowry Prohibition Act, 1961 was enacted to deal with the cases of dowry demands by the husband and family members. The Hindu Adoptions and Maintenance Act, 1956 provides for grant of maintenance to a legally wedded Hindu wife, and also deals with rules for adoption. The Hindu Marriage Act, 1955 refers to the provisions dealing with solemnisation of marriage also deals with the provisions for divorce. For the first time, though, the DV Act, Parliament has recognised a “relationship in the nature of marriage” and not a live- in relationship simpliciter. We have already stated, when we examine whether a relationship will fall within the expression “relationship in the nature of marriage” within the meaning of Section 2(f) of the DV Act, we should have a close analysis of the entire relationship Invariably, it may be a question of fact and degree, whether a relationship between two unrelated persons of the opposite sex meets the tests judicially evolved. (Extracted with edits and revisions from Indra Sarma v. V.K.V. Sarma, (2013) 15 SCC 755)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the scope of analysis required to determine if a relationship falls within the expression “relationship in the nature of marriage” under Section 2(f) of the DV Act?",
+              "options": [
+                "1) Considering the number of children born in a live in relationship.",
+                "2) Considering only the cohabitation period of the relationship and their emotional connectivity.",
+                "3) Conducting a close analysis of the entire interpersonal relationship, taking into account all facets.",
+                "4) Evaluating only the financial aspects and mutual agreements of the relationship, and if there is any written agreement between the partner."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, the Supreme Court read down the word “adult male” in Section 2(q) of the Protection of Women from Domestic Violence Act, 2005?",
+              "options": [
+                "1) Indra Sarma v. V.K.V. Sarma (2013) 15 SCC 755)",
+                "2) Hiral P Harsora v. Kusum Harsora, (Manu/SC/1269/2016)",
+                "3) Uma Narayanan v. Priya Krishna Prasad, (Laws (Mad) 2008-8-28)",
+                "4) D Velusamy v. D Patchaiammal (AIR 2011 SC 479)"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "As per section 20 of the Protection of Women from Domestic Violence Act, 2005, while disposing of an application under Section 12(1), the Magistrate may direct the respondent to pay monetary relief to the aggrieved person so that the aggrieved person can:",
+              "options": [
+                "1) Live a life that meets at least the bare minimum needs for survival and basic well- being.",
+                "2) Live a life that is consistent with her standard of living which she is accustomed.",
+                "3) Live a life that is consistent with her parent’s standard of living.",
+                "4) Live a life which can cover her medical expenses and expenses incurred due to litigation of domestic violence."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which case, the three judge bench of the Hon’ble Supreme Court has recently interpreted the term “shared household” and has held that  “…lives or at any stage has lived in a domestic relationship…” have to be given its normal and purposeful meaning. The living of woman in a household has to refer to a living which has some permanency. Mere fleeting or casual living at different places shall not make a shared household.",
+              "options": [
+                "1) Satish Chander Ahuja v. Sneha Ahuja, AIR 2020 SC 2483",
+                "2) Rupa Ashok Hurra v. Ashok Hurra AIR 2002 SC 177",
+                "3) S.R. Batra v. Tarun Batra (2007) 3 SCC 169",
+                "4) B.R. Mehta Vs. Atma Devi (1987) 4 SCC 183"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Under Indian Law, can a woman in a live in relationship claim maintenance under S. 125, CrPC despite not being a legally wedded wife?",
+              "options": [
+                "1) No, as per the interpretation of statute ‘wife’ means legally wedded wife and includes who has been divorced by, or has obtained a divorce from her husband.",
+                "2) Yes, a woman in a live in relationship can claim maintenance u/s 125, CrPC as strict proof of marriage is not necessary and maintenance cannot be denied if evidence suggests cohabitation.",
+                "3) A woman in live in relationship can only claim maintenance if she has been cohabiting for more than five years and dependent children from the relationship.",
+                "4) A woman in live in relationship can claim maintenance only through a civil suit as the protection of women from domestic violence act 2005 (PWDVA) does not apply to live in relationships."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Section 2(47) of the Income Tax Act, 1961, which is an inclusive definition, inter alia, provides that relinquishment of an asset or extinguishment of any right therein amounts to a transfer of a capital asset. While the taxpayer continues to remain a shareholder of the company even with the reduction of share capital, it could not be accepted that there was no extinguishment of any part of his right as a shareholder qua the company. A company under Section 66 of the Companies Act, 2013 has a right to reduce the share capital and one of the modes which could be adopted is to reduce the face value of the preference share. When as a result of reducing the face value of the share, the share capital is reduced, the right of the preference shareholder to the dividend or his share capital and the right to share in the distribution of the net assets upon liquidation is extinguished proportionately to the extent of reduction in the capital. Such a reduction of the right of the capital asset clearly amounts to a transfer within the meaning of section 2(47) of the Income Tax Act, 1961. (Extracted with edits and revisions from Principal Commissioner of Income Tax v. Jupiter Capital Pvt Ltd., (2025 INSC 38)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What was the core issue before the Supreme Court in this Special Leave Petition filed by the Income Tax Department?",
+              "options": [
+                "1) Whether the assessee's claim for a long-term capital gain was correctly disallowed by the Assessing Officer.",
+                "2) Whether the reduction in the number of shares due to a reduction in share capital amounted to a \"transfer\" under Section 2(47) of the Income Tax Act, 1961, allowing for a capital loss claim.",
+                "3) Whether the High Court of Karnataka correctly relied on the decision of Anarkali Sarabhai v. CIT.",
+                "4) Whether the face value of the shares remaining the same after the reduction nullified the claim of capital loss."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the Supreme Court, why does a reduction in share capital that proportionately reduces a shareholder's rights amount to a \"transfer\" under Section 2(47) of the Income Tax Act, 1961?",
+              "options": [
+                "1) Because the shareholder's voting percentage remains constant, which is a form of continuous transfer.",
+                "2) Because it involves a sale or exchange of the capital asset to another party.",
+                "3) Because it is covered under the inclusive definition of \"transfer\" as an extinguishment of any rights in the capital asset.",
+                "4) Because the face value of the shares remains unchanged, constituting a deemed transfer."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court clarified a principle regarding the computation of capital gains/loss under Section 48 of the Income Tax Act. What was this clarification?",
+              "options": [
+                "1) That the reduction of share capital must result in a change in the percentage of shareholding.",
+                "2) That the face value of the shares must be reduced for the transfer to be valid.",
+                "3) That the transfer must be a sale or relinquishment, and not merely an extinguishment of rights.",
+                "4) That receipt of some consideration in lieu of the extinguishment of rights is not a condition precedent for the computation of capital gains/loss."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court, in its summary of the principles from Kartikeya V. Sarabhai, stated that the right of a preference shareholder is extinguished proportionately to the extent of the capital reduction. Which of the following two specific rights were mentioned as being extinguished?",
+              "options": [
+                "1) Right to voting power and right to attend general meetings.",
+                "2) Right to proportional share of debt and right to appoint directors.",
+                "3) Right to dividend/share capital and right to share in the distribution of net assets upon liquidation.",
+                "4) Right to face value of the share and right to receive consideration."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Supreme Court emphasized that the expression \"extinguishment of any right therein\" is of wide import. What does this expression cover?",
+              "options": [
+                "1) Only transactions involving the sale or exchange of tangible capital assets.",
+                "2) Only transactions resulting in the destruction, annihilation, or extinction of the entire capital asset.",
+                "3) Every possible transaction that results in the destruction, annihilation, extinction, termination, cessation, or cancellation of all or any of the bundle of rights– qualitative or quantitative-that the assessee has in a capital asset.",
+                "4) Only transactions where the face value of the shares is compulsorily reduced by a court order."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "During Bentham’s lifetime, revolutions occurred in the American colonies and in France, producing the Bill of Rights and the Déclaration des Droits de l’Homme (Declaration of the Rights of Man), both of which were based on liberty, equality, and self-determination. Karl Marx and Friedrich Engels published The Communist Manifesto in 1848. Revolutionary movements broke out that year in France, Italy, Austria, Poland, and elsewhere. In addition, the Industrial Revolution transformed Great Britain and eventually the rest of Europe from an agrarian (farm-based) society into an industrial one, in which steam and coal increased manufacturing production dramatically, changing the nature of work, property ownership, and family. This period also included advances in chemistry, astronomy, navigation, human anatomy, and immunology, among other sciences. Given this historical context, it is understandable that Bentham used reason and science to explain human behaviour. His ethical system was an attempt to quantify happiness and the good so they would meet the conditions of the scientific method. Ethics had to be empirical, quantifiable, verifiable, and reproducible across time and space. Just as science was beginning to understand the workings of cause and effect in the body, so ethics would explain the causal relationships of the mind. Bentham rejected religious authority and wrote a rebuttal to the Declaration of Independence in which he railed against natural rights as “rhetorical nonsense, nonsense upon stilts.” Instead, the fundamental unit of human action for him was utility—solid, certain, and factual. What is utility? Bentham’s fundamental axiom, which underlies utilitarianism, was that all social morals and government legislation should aim for producing the greatest happiness for the greatest number of people. Utilitarianism, therefore, emphasizes the consequences or ultimate purpose of an act rather than the character of the actor, the actor’s motivation, or the particular circumstances surrounding the act. It has these characteristics: (1) universality, because it applies to all acts of human behaviour, even those that appear to be done from altruistic motives; (2) objectivity, meaning it operates beyond individual thought, desire, and perspective; (3) rationality, because it is not based in metaphysics or theology; and (4) quantifiability in its reliance on utility. (353 words) (Extracted from Michael Quinn, “Jeremy Bentham, ‘The Psychology of Economic Man,’ and Behavioural Economics,” Oeconomia 6, no. 1 (2016): 3–32)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the text, what did Bentham consider the fundamental unit of human action, replacing concepts like natural rights?",
+              "options": [
+                "1) Liberty",
+                "2) Self-determination",
+                "3) Utility",
+                "4) Happiness for the greatest number"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is identified as Bentham's fundamental axiom underlying utilitarianism?",
+              "options": [
+                "1) Ethics must be empirical, quantifiable, and reproducible.",
+                "2) Utility must be used to reject religious authority.",
+                "3) All social morals and government legislation should aim for producing the greatest happiness for the greatest number of people.",
+                "4) The character of the actor is the most important aspect of an ethical act."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Utilitarianism, as described in the text, emphasizes which aspect of an act over the others listed?",
+              "options": [
+                "1) The character of the actor",
+                "2) The actor's motivation",
+                "3) The particular circumstances surrounding the act",
+                "4) The consequences or ultimate purpose of an act"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The characteristic of utilitarianism that operates beyond individual thought, desire, and perspective is called:",
+              "options": [
+                "1) Universality",
+                "2) Quantifiability",
+                "3) Rationality",
+                "4) Objectivity"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Bentham's ethical system attempted to quantify happiness and the good to meet the conditions of the scientific method, which required ethics to be all of the following except:",
+              "options": [
+                "1) Empirical",
+                "2) Verifiable",
+                "3) Theological",
+                "4) Quantifiable"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "‘‘We hold these truths to be self-evident: that all men are created equal and are endowed by their Creator with certain inalienable rights”. This statement, in spite of literal inaccuracy in its every phrase, served the purpose for which it was written. It expressed an aspiration, and it was a fighting slogan. In order that slogans may serve their purpose, it is necessary that they shall arouse strong, emotional belief, but it is not at all necessary that they shall be literally accurate. A large part of each human being's time on earth is spent in declaiming about his \"rights,\" asserting their existence, complaining of their violation, describing them as present or future, vested or contingent, absolute or conditional, perfect or inchoate, alienable or inalienable, legal or equitable, in rem or in personam, primary or secondary, moral or jural (legal),  inherent or acquired, natural or artificial, human or divine. No doubt still other adjectives are available. Each one expresses some idea, but not always the same idea even when used twice by one and the same person.\n\nThey all need definition in the interest of understanding and peace. In his table of correlatives, Hohfeld set \"right\" over against \"duty\" as its necessary correlative. This had been done numberless times by other men. He also carefully distinguished it from the concepts expressed in his table by the terms \"privilege,\" \"power,\" and \"immunity.\"' To the present writer, the value of his work seems beyond question and the practical convenience of his classification is convincing. However, the adoption of Hohfeld's classification and the correlating of the terms \"right\" and \"duty\" do not complete the work of classification and definition. (Extracted from Arthur L Corbin, Rights and Duties, 33 Yale LJ 501(1923)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The author suggests that the statement \"all men are created equal and are endowed by their Creator with certain inalienable rights\" was effective primarily because:",
+              "options": [
+                "1) It accurately reflects the literal truth of human existence and legal principles.",
+                "2) It provided a comprehensive legal definition of natural rights.",
+                "3) Its emotional and aspirational content made it a successful \"fighting slogan.\"",
+                "4) It meticulously categorized rights using precise jural (legal) terminology."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Based on the passage, the primary problem the author identifies with the current discourse surrounding \"rights\" is the:",
+              "options": [
+                "1) Lack of a comprehensive list of all possible rights.",
+                "2) Failure of historical documents to be literally accurate.",
+                "3) Proliferation of undefined and inconsistently used qualifying adjectives.",
+                "4) Over reliance on Hohfeld's narrow and incomplete classification system."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The author's view of Hohfeld's contribution to legal scholarship can best be described as:",
+              "options": [
+                "1) Essential but ultimately incomplete in fully defining and classifying \"rights.\"",
+                "2) Flawed because it failed to distinguish \"right\" from \"duty\" effectively.",
+                "3) Irrelevant, as his classification uses confusing and difficult jargon.",
+                "4) Sufficiently exhaustive to complete the work of definition and classification."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The phrase \"literal inaccuracy in its every phrase\" is used by the author to critique the Declaration's statement, suggesting a conflict between its rhetorical power and its:",
+              "options": [
+                "1) Emotional resonance for revolutionaries.",
+                "2) Utility as a means for legislative action.",
+                "3) Precision as a statement of verifiable facts or legal principles.",
+                "4) Acceptance by religious authority and the Creator."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which concept from Hohfeld's table of correlatives is not explicitly mentioned in the passage as a concept \"right\" was distinguished from?",
+              "options": [
+                "1) Duty",
+                "2) Privilege",
+                "3) Immunity",
+                "4) Disability"
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "The International Law Commission (ILC), in compliance with General Assembly resolution 177 (II), was directed to \"formulate the principles of international law recognized in the Charter of the Nuremberg Tribunal and in the judgment of the Tribunal\". The ILC’s task was to merely formulate the principles not to express an appreciation of them as principles of International law since they had already been affirmed by the General Assembly. At its second session in 1950, the ILC adopted a formulation of seven Principles of International Law recognized in the Charter and Judgment of the Nuremberg Tribunal. * Principle I:   Any person who commits an act which constitutes a crime under international law is responsible therefor and liable to punishment. This is based on the general rule that international law may impose duties directly on individuals. * Principle II:   The fact that internal law does not impose a penalty for an international crime does not relieve the person who committed the act from international responsibility. This implies the \"supremacy\" of international law over national law. * Principle III:  The fact that a person acted as Head of State or responsible Government official does not relieve him from responsibility under international law. * Principle IV:  Acting pursuant to an order of his Government or of a superior does not relieve him from responsibility, provided a moral choice was in fact possible to him. * Principle V:  Any person charged with a crime under international law has the right to a fair trial on the facts and law * Principle VI: sets out the crimes punishable under international law:\n\n* Crimes against peace:  Includes planning, preparation, initiation, or waging of a war of aggression or a war in violation of international treaties, as well as participation in a conspiracy for these acts. The ILC understands the term \"waging of a war of aggression\" to refer only to high-ranking military personnel and high State officials. The Tribunal affirmed the illegality of aggressive war based on the Kellogg-Briand Pact.\n\n*  War crimes:  Violations of the laws or customs of war, such as murder, ill-treatment, deportation, killing of hostages, and plunder.\n\n* Crimes against humanity:  Murder, extermination, enslavement, deportation, and other inhuman acts or persecutions on political, racial, or religious grounds, when done in execution of or in connection with a crime against peace or a war crime. These acts may constitute crimes against humanity even if committed by the perpetrator against their own population. * Principle VII:  Complicity in the commission of any of the crimes listed in Principle VI is a crime under international law. The ILC also considered the General Assembly's invitation to study the desirability and possibility of establishing an international judicial organ for the trial of persons charged with genocide or other crimes. While some members questioned its effectiveness, particularly for grave international crimes, others argued that the creation of such a jurisdiction was desirable as an effective contribution to world peace and security, serving as a deterrent against aggressors. (496 words) (Summary of the Principles of International Law recognized in the Charter of the Nuremberg Tribunal and in the Judgment of the Tribunal, with commentaries 1950 based on the Text adopted by the International Law Commission at its second session, in 1950)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The International Law Commission (ILC) concluded that its task, as directed by General Assembly resolution 177 (II), was primarily:",
+              "options": [
+                "1) To determine the extent to which the Nuremberg principles constituted principles of international law.",
+                "2) To formulate the Nuremberg principles, without expressing an appreciation of their status as principles of international law.",
+                "3) To assess whether the Charter and judgment were already an expression of positive international law at the time of the Tribunal's establishment.",
+                "4) To formulate the general principles of law on which the provisions of the Charter and the Tribunal's decisions were based."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Principle IV of the Nuremberg Principles concerning superior orders, differs from Article 8 of the Charter of the Nuremberg Tribunal by:",
+              "options": [
+                "1) Narrowing the application of the principle to exclude high State officials.",
+                "2) Adding the condition that \"a moral choice was in fact possible\" to the accused.",
+                "3) Eliminating the reference to the order being considered in mitigation of punishment.",
+                "4) Formulating the principle in general terms, unlike the Charter's specific context."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The Tribunal, in its judgment, was constrained from making a general declaration that the acts of persecution and murder committed in Germany before 1939 were \"crimes against humanity\" primarily because:",
+              "options": [
+                "1) Persecution on political, racial, or religious grounds was not yet recognized as an international crime.",
+                "2) It could not be satisfactorily proved that these acts were committed in execution of, or in connection with, a crime within the Tribunal's jurisdiction.",
+                "3) The definition of crimes against humanity in the Charter explicitly excluded acts committed before the outbreak of the war.",
+                "4) International law at the time imposed duties only on States, not on individuals, for these types of crimes."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In formulating Principle VI (a), the ILC clarified the term \"waging of a war of aggression\" because:",
+              "options": [
+                "1) The Charter of the Tribunal had no definition of \"war of aggression\".",
+                "2) Members feared that every combatant in uniform might be charged with the crime.",
+                "3) The Tribunal had not made a clear distinction between \"planning\" and \"preparation\".",
+                "4) The General Assembly had requested a more precise definition for use in future conventions."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The debate within the International Law Commission regarding the creation of an international judicial organ (Part IV) centered on the following contrasting positions:",
+              "options": [
+                "1) Whether the judicial organ should be created only for the trial of persons charged with genocide versus all international crimes.",
+                "2) Whether the creation of the organ required an amendment to the Charter of the United Nations versus being possible through a convention open to all States.",
+                "3) Whether the establishment of the organ was desirable and possible versus being undesirable due to its likely ineffectiveness against grave international crimes.",
+                "4) Whether an international criminal court should have a deterrent effect versus serving only to ensure the rule of law in the community of States."
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "The document presents a critique of the United Nations (UN) organization, arguing that it has failed to carry out its charter-mandated tasks, specifically to \"maintain international peace and security\" and \"to achieve international cooperation\" in solving global problems. The author notes growing public frustration with catastrophic humanitarian situations and the failure of peace-keeping operations, leading to widespread scepticism about the possibility of \"revitalization\". UN Reform Approaches Discussions on UN reform are divided into two main categories: the conservative approach and the radical approach.\n\n1. Conservative Approach: The conservative view considers the existing Charter \"practically untouchable\" and believes in improving \"collective security\" as defined in Chapter VII. Key positions include: US Position: Prioritizes its own interests, supports better management and the creation of an Inspector General, favours enlarging the Security Council (to include Germany and Japan, mainly for financing peace-keeping), and associates the UN with regional organizations like NATO for peace enforcement. The US remains reluctant to allow full application of Chapter VII and views collective security restrictively.\n\nSecretary-General's Position (Boutros Ghali): Advocated for the full implementation of 'collective security' as envisaged in 1945, including the use of the Military Staff Committee (Article 47) and the conclusion of special agreements (Article 43) for providing armed forces. He also proposed 'peace enforcement units' under the command of the Secretary-General and wider use of 'preventive diplomacy'. The report candidly recognized the Security Council's incapacity to deal with threats from a major power. 2. Radical Approach: The radical approach criticizes the principles of the present system and proposes an overhaul. It reflects increasing doubts about the value of the Charter's collective security system, especially in intra-State conflicts. Radical proposals include: * Establishing an Economic Security Council. * Modifying the Charter with less reluctance. * Reforming the IMF and World Bank. * Developing a new global security system (e.g., regional models like CSCE/CSCM). * The creation of a consultative parliamentary assembly at the world level. Future Outlook: The author asserts that no major or minor reform has any chance of being implemented now, primarily because the Charter's amendment procedures (requiring a two-thirds majority including all five permanent Security Council members) preclude agreement. However, he concludes that the continuing deterioration of the global situation, driven by economic integration, rising inequality, and intra-State conflicts, will inevitably lead the political establishment to define a new global institutional structure. This future debate will become highly political, opposing the defence of democracy and human rights against nationalism and fascism. (408 words) (Summary of the article titled “The UN as an organisation. A critique of its functioning” by Maurice Bertrand, published in 6 EJIL (1995) pp-349-359)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The author attributes the growing public frustration with the UN primarily to which pair of continuous failures?",
+              "options": [
+                "1) The inability to define a new institutional structure and the spread of poverty.",
+                "2) The persistent reliance on Chapter VII enforcement and the lack of a Central World Bank.",
+                "3) The failure of peace-keeping operations and the spread of unemployment at a world level.",
+                "4) The supremacy of the US position and the rejection of the Economic Security Council."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "A primary point of divergence between the US Conservative position and the Secretary- General’s Conservative position on security matters, according to the summary is:",
+              "options": [
+                "1) The US supports the creation of 'peace enforcement units,' while the Secretary- General is opposed.",
+                "2) The Secretary-General advocates for the full implementation of 'collective security', while the US restricts its participation in peace-keeping.",
+                "3) The US views 'preventive diplomacy' as an illusion, whereas the Secretary-General supports its larger use.",
+                "4) The US opposes the enlargement of the Security Council, while the Secretary- General supports the entrance of Japan and Germany."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the critique's conclusion, the immediate, insurmountable barrier preventing the implementation of any reform, major or minor, is:",
+              "options": [
+                "1) The widespread public scepticism and the rise of nationalist political parties.",
+                "2) The Secretary-General's reluctance to give up command over new peace enforcement units.",
+                "3) The procedural requirements for amending the Charter, specifically requiring the consensus of all five permanent Security Council members.",
+                "4) The ideological debate on global governance and the lack of a complete theoretical framework for the radical approach."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Secretary-General’s 'Agenda for Peace' proposed a specific military capability intended to address the gap between traditional peace-keeping and full military action. This proposed unit was explicitly characterized by the summary as being:",
+              "options": [
+                "1) Composed of permanent Member State forces under Article 43 agreements.",
+                "2) Less heavily armed than peace-keeping forces and under the direction of the Military Staff Committee.",
+                "3) More heavily armed than peace-keeping forces and under the command of the Secretary-General.",
+                "4) Primarily associated with NATO under a regional security arrangement."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Radical Approach to reform, as outlined in the summary, calls for an institutional overhaul of global economic governance by suggesting which two specific actions related to the Bretton Woods institutions?",
+              "options": [
+                "1) The full use of Article 42 and the reduction of social inequality.",
+                "2) The creation of an Economic Security Council and the replacement of the IMF with a Central World Bank.",
+                "3) The implementation of international taxation and the institutionalization of G7 summit meetings.",
+                "4) The transfer of significant resources from rich to poor countries and the reform of the World Bank's structure."
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which one of the following statements is correct with respect to the granting of pardon by the President?",
+              "options": [
+                "1) The power to grant pardon is a constitutional duty. Hence, judicial review is available, just as any executive action is.",
+                "2) Granting pardon being the privilege of the President, no judicial review is available against the decision of the President in granting or refusing to grant a pardon.",
+                "3) The constitution expressly conferred the power to grant to the President hence, the President is not bound to rely on the aid  and advice of the executive.",
+                "4) The President’s power to grant pardon can be reviewed on the grounds of non- application of mind."
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In the above case the Supreme Court held that a minimum period of ________________ days be stipulated between the receipt of communication of the rejection of the mercy petition and the scheduled date of execution.",
+              "options": [
+                "1) ",
+                "2) ",
+                "3) ",
+                "4) No such timeline was fixed"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is not true about the pardoning power vis a vis  Article 21 of Constitution of India?",
+              "options": [
+                "1) Insanity is not a relevant supervening factor for commutation of death sentence.",
+                "2) Right to life of a person continues till his last breath and that Court will protect that right even if the noose is being tied on the condemned person’s neck.",
+                "3) The anguish of alternating hope and despair, the agony of uncertainty and the consequence of such suffering on the mental, emotional and physical integrity and health violates Art. 21 of the prisoners.",
+                "4) Article 21 is a substantive right and not merely procedural."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In which case, the Supreme Court held that if the crime is brutal and heinous and involves the killing of a large number of innocent people without any reason, delay cannot be the sole factor for the commutation of the death sentence to life imprisonment?",
+              "options": [
+                "1) Devender Pal Singh Bhullar v. State (NCT) of Delhi.",
+                "2) V. Sriharan @ Murugan v. Union of India",
+                "3) Yakub Abdul Razak Memon v. State of Maharashtra",
+                "4) Shatrughan Chauhan v. Union of India"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The President’s power to grant a pardon",
+              "options": [
+                "1) Can be delegated to the Prime Minister and his Council of Ministers",
+                "2) Cannot be delegated as it is an essential executive function",
+                "3) Cannot be delegated as it is expressly conferred on the President",
+                "4) Can be delegated to the Vice-president."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following Supreme Court judgments does not deal with minority educational institution for the purpose of Article 30(1) of the Constitution of India?",
+              "options": [
+                "1) TMA Pai Foundation v. State of Karnataka (2002) 8 SCC 481",
+                "2) S Azeez Basha v. Union of India AIR 1968 SC 662",
+                "3) Rev. Stanislaus v. State of Madhya Pradesh  1977 SCR (2) 611",
+                "4) Central Board of Dawoodi Bohra Community v. State of Maharashtra (2005) 2 SCC 673"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In determining the status of a minority educational institution, Article 30 of the Constitution of India is of significance. Which of the following statements regarding Article 30 is correct? I. Article 30 prescribes conditions which must be fulfilled for an educational institution to be considered a minority educational institution. II. Article 30 confers two group rights on all linguistic and religious minorities: the right to establish an educational institution and the right to administer an educational institution. Select the most appropriate option:",
+              "options": [
+                "1) Only I is correct",
+                "2) Only II is correct",
+                "3) Both I and II are correct",
+                "4) Both I and II are incorrect"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which core principle from the 1968 judgment in S. Azeez Basha v. Union of India was overruled by the Supreme Court in the 2024 judgment, Aligarh Muslim University v. Naresh Agarwal & Ors.?",
+              "options": [
+                "1) That Article 30 protection is not available to 'Universities' established before the commencement of the Constitution.",
+                "2) That the words \"establish and administer\" in Article 30(1) must be read conjunctively.",
+                "3) That an educational institution is not established by a minority if it derives its legal character and incorporation through a statute.",
+                "4) That legislative amendments to the AMU Act violated Articles 14, 19, 25, 29, and 31 of the Constitution."
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The court in this case justified application of Article 30(1) to educational institutions established by religious and linguistic minorities before commencement of Constitution through a co-joint reading of Article 30, with Articles 13 and 372. In doing so it observed that ‘Article 13(1) has a retroactive effect and not a retrospective effect.’ Which of the following statement best captures the difference between the two effects?",
+              "options": [
+                "1) A provision is retrospective if it alters the position of law before its enactment/commencement, it is retroactive if it imposes new results for previous actions",
+                "2) A retroactive effect applies only prospectively, whereas retrospective effect alters past rights and liabilities",
+                "3) A provision is retrospective if it applies to past and closed transactions, whereas provision is retroactive if it applies only to future cases",
+                "4) A retrospective provision alters both substantive and procedural rights in the past, while a retroactive provision affects only substantive law"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The court observed that a holistic and realistic view should be taken keeping in mind the objective and purpose of the provision. From the judgements referred to by it, which of the following inferences can be drawn: I. Existence of religious place for prayer and worship is a necessary indicator of minority character II. Existence of religious symbols in the precincts of the educational institution are necessary to prove minority character Select the most appropriate option:",
+              "options": [
+                "1) Only I is correct",
+                "2) Only II is correct",
+                "3) Both I and II are correct",
+                "4) Both I and II are incorrect"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following case the Court held that though judicial review is a basic feature of the Constitution, the vesting of the power of judicial review in an alternative institutional mechanism, after taking it away from the High Courts, would not violate the basic structure so long as it was ensured that the alternative mechanism was an effective and real substitute for the High Court.",
+              "options": [
+                "1) L. Chandra Kumar v. Union Of India And Others 1997",
+                "2) R.K. Jain v. Union of India: 1993",
+                "3) S.P. Sampath Kumar v. Union of India: (1985)",
+                "4) Kesvananda Bharti v. State of Kerala. 1973"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The provisions of the Administrative Tribunals Act, 1985 shall NOT apply to-",
+              "options": [
+                "1) Any member of the naval, military or air forces or of any other armed forces of the Union",
+                "2) Officer or servant of the Supreme Court or of any High Court or Courts subordinate",
+                "3) Person appointed to the secretarial staff of either House of Parliament or to the secretarial staff of any State Legislature or a House thereof or, in the case of a Union Territory having a Legislature, of that Legislature.",
+                "4) Officers of the  Indian Police Services."
+              ],
+              "answer": "Withdrawn",
+              "withdrawn": true
+            },
+            {
+              "type": "mcq",
+              "question": "The first tribunal established in India is:",
+              "options": [
+                "1) Central Administrative Tribunal",
+                "2) Railway Claims Tribunal",
+                "3) Armed Forces Tribunal",
+                "4) Income tax Appellate Tribunal"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Article 323A and 323B of the Indian Constitution for the establishment of tribunal to adjudicate disputes in specific matters. While both articles deal with tribunals, there are key differences in their scope and application. Which of the following statements correctly reflect the distinction between Article 323A and 323B?",
+              "options": [
+                "1) Article 323A exclusively deals with administrative tribunals for public service matters, while Article 323B deals with the tribunals for a wider range of subjects including taxation and land reforms.",
+                "2) While tribunals under Article 323A can be established only by Parliament, tribunals under Article 323B can only be established by State legislature, with matters falling within their legislative competence.",
+                "3) Under Article 323A, only one tribunal for centre and no tribunal for state may be established. As far as Article 323B is concerned, there is no hierarchy of tribunals.",
+                "4) Article 323A grant tribunals the power to hear appeals directly from the Supreme Court, by passing the high court. Under Article 323B there is no such power."
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The creation of Administrative Tribunals to ease the burden of service related cases, on the High Courts and the amendment of the constitution to add articles 323A and 323B were based on the recommendation of:",
+              "options": [
+                "1) Parliamentary Standing Committee",
+                "2) National Tribunals Commission",
+                "3) Swaran Singh Committee",
+                "4) Law commission of India’s 272nd Report —————"
+              ],
+              "answer": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1469 @@
+{
+  "test_metadata": {
+    "testName": "Actual CLAT 2026 UG - SET C",
+    "totalMarks": 120,
+    "timeMinutes": 120,
+    "marking": "+1 for correct, -0.25 for incorrect",
+    "totalQuestions": 120,
+    "topics": [
+      "English",
+      "Current Affairs",
+      "Legal",
+      "Logical",
+      "Quantitative"
+    ]
+  },
+  "sections": [
+    {
+      "sectionName": "Logical Reasoning",
+      "passages": [
+        {
+          "passageText": "In a language laboratory, students were given an interesting puzzle involving the word “ELECTROCARDIOGRAPH.” The teacher explained that such exercises not only test logical skills but also sharpen attention to detail. According to the challenge, the word had to undergo a series of transformations. First, the class was asked to take the first half of the letters, reverse their order and make the arrangement of letters look quite different from the original. Next, the students were told to identify the last but one letter of the original word and place it at the very beginning, a step that changed the opening appearance of the sequence completely. Finally, as a finishing touch, they had to add the letter ‘S’ at the end. Following these steps carefully would lead them to the correct transformed word, and only those who adhered to each condition in the exact order could solve the puzzle successfully. (150 words)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which letter will be exactly in the middle?",
+              "options": [
+                "1) L",
+                "2) R",
+                "3) D",
+                "4) E"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "How many vowels will be to the left of the middle letter?",
+              "options": [
+                "1) ",
+                "2) 1",
+                "3) ",
+                "4) "
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the two vowels will be adjoining each other?",
+              "options": [
+                "1) IE",
+                "2) IO",
+                "3) AE",
+                "4) AO"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which vowel will have a consonant to the left but a vowel to the right of it?",
+              "options": [
+                "1) I",
+                "2) O",
+                "3) A",
+                "4) E"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Name the letter sandwiched between two vowels?",
+              "options": [
+                "1) R and T",
+                "2) C and L",
+                "3) R and L",
+                "4) D and R"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which letter is prefixed to the word after the first half is reversed?",
+              "options": [
+                "1) G",
+                "2) P",
+                "3) H",
+                "4) S"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "On the night of October 12th, the \"Sunburst Medallion\" was stolen from the highly secured display case in the city museum. The theft occurred sometime between the museum closing at 10:00 PM and the night guard, Mr. Hemant, completing his final round at 1:00 AM.Three primary suspects were identified, all of whom had recently been dismissed from their museum positions: Anjali, the former curator; Bharat, the former security expert; and Chitra, the former exhibits designer. Here are the established facts and their alibis: * The security system logs show that the display case was opened using a specific five-digit code, which only Anjali and the museum director (who was out of the country) knew. * Bharat's alibi is that he was at a distant relative's birthday party from 8:00 PM to 1:30 AM. Multiple independent witnesses confirmed his presence throughout the entire period. * Chitra's alibi is that she was working late at a downtown graphic design studio. A time-stamped security camera from the studio's entrance shows her entering at 7:00 PM and exiting at 11:45 PM. The studio is a 20-minute drive from the museum. * Mr. Hemant, the night guard, stated he checked the medallion at 10:30 PM, and it was still there.\n\nFurther investigation revealed that a small, distinctive silver button  was found near the display case. Anjali is known to frequently wear a coat with similar unique silver buttons. The security expert, Bharat, had previously boasted that he could remotely disable a certain type of magnetic lock-the same type used on the medallion's case-without needing the code, though the log suggests the code was used. (269 words)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Identifying the Most Likely Suspect Based only on the fact that the five-digit code was used to open the display case, who is the only plausible suspect among the three?",
+              "options": [
+                "1) Anjali",
+                "2) Bharat",
+                "3) Chitra",
+                "4) Both Anjali and Chitra"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Evaluating Alibis and Time Constraints The theft occurred between 10:00 PM and 1:00 AM, but the night guard saw the medallion at 10:30 PM. Given Chitra's alibi, what is the earliest time she could have reached the museum?",
+              "options": [
+                "1) 11:45 PM",
+                "2) 12:05 AM",
+                "3) 12:45 AM",
+                "4) 10:50 PM"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Deduction and Contradictory Evidence If the theft was committed by Bharat, which established fact must be incorrect, based on the provided information?",
+              "options": [
+                "1) The medallion was present at 10:30 PM",
+                "2) The security logs indicating the code was used",
+                "3) The museum closing time of 10:00 PM",
+                "4) The time frame of his alibi (8:00 PM to 1:30 AM)"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Analyzing Accessory Evidence The discovery of the silver button near the display case is the most incriminating evidence against which suspect, and why?",
+              "options": [
+                "1) Bharat, because he had the technical expertise to get close to the case",
+                "2) Chitra, because she was near the museum late that night",
+                "3) Anjali, because she is known to wear a coat with similar buttons",
+                "4) Mr. Hemant, as he was the last person to check the area"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Identifying the Logical Flaw in the Argument: A detective argues: \"Since Bharat has a confirmed, continuous alibi covering the entire time window of the theft (10:30 PM to 1:00 AM), he cannot be the thief.\" What principle of logic supports this detective's conclusion?",
+              "options": [
+                "1) Correlation does not imply causation",
+                "2) If an event requires presence, confirmed absence proves innocence",
+                "3) The rule of double jeopardy",
+                "4) The burden of proof lies with the accuser"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Drawing a Strongest Conclusion Considering all the facts (the code being used, the silver button, and the confirmed alibis), which is the most reasonable inference?",
+              "options": [
+                "1) Bharat must have had an accomplice who knew the code",
+                "2) Chitra's alibi is false because she had enough time to commit the crime after leaving the studio",
+                "3) Anjali is the most likely suspect because the code was used and she has a direct link to the physical evidence (the button)",
+                "4) Mr. Hemant is secretly the thief and is trying to frame the former employees"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Assessing Necessary Conditions What condition is necessary for Chitra to have stolen the medallion?",
+              "options": [
+                "1) She must know the five digit code",
+                "2) She must have left the graphic design studio before 11.45 pm",
+                "3) The theft must have occurred after she left the studio and before 1 am",
+                "4) She must have worked with Anjali to disable the locks"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "In a small town lived a close-knit family where every relation could be expressed through simple symbols. For instance, when they said A × B, it meant A is the father of B, while A ÷ B meant A is the mother of B. The younger ones were often introduced with A + B, meaning A was the daughter of B, and the bond of brotherhood was shown by A – B (A is brother of B). One day, the children in the family turned these symbols into a playful code. Instead of introducing their parents and siblings in words, they spoke only in symbols. “Look,” giggled little Meena, “M + N ÷ O!” Everyone laughed, because they knew it meant Meena was the daughter of N, and N was the mother of O, making her O’s sister. What started as a code soon became a family game, making the bonds of father, mother, daughter, and brother not just relations, but symbols of love and togetherness. (165 words)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "If ‘P + Q – R÷ T’, how is T related to P?",
+              "options": [
+                "1) Aunt",
+                "2) Father",
+                "3) Grandmother",
+                "4) None of these"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following means that R is wife of P?",
+              "options": [
+                "1) P × R – Q – T",
+                "2) P ÷ T + R – Q",
+                "3) P ÷ R – Q + T",
+                "4) P × T – Q + R"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "If ‘P × T ÷ Q + R’ how is R related to P?",
+              "options": [
+                "1) Daughter",
+                "2) Husband",
+                "3) Son-in-law",
+                "4) None of these"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "If ‘P ÷ R – Q × T’, how is P related to T?",
+              "options": [
+                "1) Grandmother",
+                "2) Mother-in-law",
+                "3) Sister",
+                "4) Grandfather"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "If ‘R ÷ Q + R × T’, how is T related to Q?",
+              "options": [
+                "1) Aunt",
+                "2) Sister",
+                "3) Brother",
+                "4) Grandson"
+              ],
+              "answer": "Withdrawn",
+              "withdrawn": true
+            },
+            {
+              "type": "mcq",
+              "question": "If ‘R – P ÷ J × Q’, how is J related to R?",
+              "options": [
+                "1) Son",
+                "2) Nephew",
+                "3) Niece",
+                "4) Grandson"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Four teams – Red (R), Blue (B), Green (G), and Yellow (Y) – are competing in the final four rounds of the Inter-School Science Olympiad, labeled Round A, Round B, Round C, and Round D. Each round consists of one match between two teams, and every team plays exactly two matches. No team plays the same opponent more than once. The final schedule must adhere to the following rules: * Rule 1 (Consecutive Play): The Green team (G) must play their two matches in consecutive rounds. * Rule 2 (Fixed Appearance): The Yellow team (Y) must play in Round B. * Rule 3 (Positional Constraint): The Red team (R) must play against the Blue team (B) in a round that is immediately before a round in which neither R nor B is playing. * Rule 4 (Timing): The Blue team's (B) first match must occur in an earlier round than the Green team's (G) first match. * Rule 5 (Opponent Link): The team that plays against the Red team (R) in the round that is not against the Blue team (B), is the same team that plays in Round D. (193 words)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Determining the Green Team's Schedule Considering Rules 1 and 2, which of the following pairs of rounds contains the Green team's two matches?",
+              "options": [
+                "1) Round A and Round D",
+                "2) Round B and Round C",
+                "3) Round C and Round D",
+                "4) Round A and Round B"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Applying the Positional Constraint Based on all the rules, particularly Rule 3, which of the following matches must be scheduled for Round A?",
+              "options": [
+                "1) Red vs. Green",
+                "2) Red vs. Yellow",
+                "3) Red vs. Blue",
+                "4) Blue vs. Yellow"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Identifying the Blue Team's First Opponent Who is the Blue team’s first opponent in the tournament?",
+              "options": [
+                "1) Green",
+                "2) Red",
+                "3) Yellow",
+                "4) The opponent cannot be determined"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Finding the Match in Round C What is the match scheduled for Round C?",
+              "options": [
+                "1) Red vs. Green",
+                "2) Green vs. Blue",
+                "3) Blue vs. Yellow",
+                "4) Red vs. Yellow"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Identifying the Teams Excluded from a Round Which pair of rounds contains matches where the Yellow team does not participate?",
+              "options": [
+                "1) Round A and Round C",
+                "2) Round A and Round D",
+                "3) Round B and Round C",
+                "4) Round C and Round D"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Team Opponent Check Which team does the Yellow team NOT play against over the course of the four rounds?",
+              "options": [
+                "1) Red",
+                "2) Blue",
+                "3) Green",
+                "4) The Yellow team plays against all other teams"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Assessing a Rule Violation If the match in Round D was (Blue vs. Yellow), which of the original rules would be violated by this schedule change?",
+              "options": [
+                "1) Rule 1 (Consecutive Play)",
+                "2) Rule 3 (Positional Constraint)",
+                "3) Rule 4 (Timing)",
+                "4) Rule 5 (Opponent Link)"
+              ],
+              "answer": "4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Quantitative Aptitude",
+      "passages": [
+        {
+          "passageText": "Health insurance plays a vital role in ensuring financial protection and access to quality healthcare. In India, however, the extent and nature of health insurance coverage vary significantly between urban and rural areas. While urban populations often have better access to organized insurance schemes, employer-provided coverage, and awareness about health policies, rural populations face challenges such as limited outreach of insurance schemes, inadequate infrastructure, and lower awareness levels. This urban– rural divide in health insurance coverage highlights the broader issue of healthcare inequality, making it essential to analyze the factors contributing to this gap and explore strategies for more inclusive health protection. A state-level health survey was conducted. The survey covered 1,80,000 adults across urban and rural areas. Urban residents formed 55% of the sample (that is, 99,000 people) while rural residents made up 45% (that is, 81,000 people). In each area, coverage was classified under four heads – Public schemes, Private insurance, Employer-provided coverage, and Uninsured. In urban areas, Public coverage accounted for 28% of the urban population, Private for 22%, Employer for 18%, and the remaining 32% were Uninsured. In rural areas, where formal coverage is generally lower, Public coverage stood at 35%, Private at 10%, Employer at 8%, while 47% were Uninsured. For this survey, “Insured” includes everyone covered by Public + Private + Employer schemes, and “Uninsured” indicates those with no coverage at all. Officials noted that public schemes remain the backbone of rural coverage, while employer and private plans are relatively more prevalent in urban centres.  (250 words)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The ratio of insured adults in Urban: Rural is:",
+              "options": [
+                "1) 82:65",
+                "2) 748:477",
+                "3) 65:82",
+                "4) 477:748"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "By what percentage is the number of Uninsured in Rural higher than Uninsured in Urban?",
+              "options": [
+                "1) 18.75%",
+                "2) 20.17%",
+                "3) 22.50%",
+                "4) 25.00%"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "If the total population grows by 5% next year and all percentage shares remain the same (including the Urban-Rural split), how many additional privately insured people will there be (vs. this year)?",
+              "options": [
+                "1) 1,494",
+                "2) 1,560",
+                "3) 1,620",
+                "4) 1,650"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The total number of Employer-covered adults is:",
+              "options": [
+                "1) 22,800",
+                "2) 23,100",
+                "3) 24,300",
+                "4) 25,200"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What percentage of all insured adults are Publicly insured?",
+              "options": [
+                "1) 48.50%",
+                "2) 49.75%",
+                "3) 50.86%",
+                "4) 52.00%"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What percentage of the total surveyed population was insured?",
+              "options": [
+                "1) 52.15%",
+                "2) 56.25%",
+                "3) 61.25%",
+                "4) 64%"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "A state electricity report serves as an important tool to assess energy production and track progress in the power sector. By providing quarterly data on generation measured in gigawatt hours (GWh), the report highlights the contribution of different energy sources such as coal, gas, hydro, solar, and wind. This not only helps in understanding the overall energy mix and dependence on conventional versus renewable sources but also enables policymakers, planners, and stakeholders to evaluate trends, address gaps, and promote sustainable energy development. A state electricity report provides quarterly generation (in GWh) by source – Coal, Gas, Hydro, Solar, and Wind. In Q1 Generation from Coal is 2,200 GWh, Gas contributes 800 GWh, Hydro 900 GWh, Solar 700 GWh, and Wind 400 GWh, for a total of 5,000 GWh. In Q2 Coal rises to 2,400 GWh, while Gas dips to 700 GWh; Hydro improves to 1,000 GWh, Solar to 800 GWh, and Wind to 600 GWh, bringing the quarterly total to 5,500 GWh. In Q3 Coal moderates to 2,100 GWh, Gas increases to 900 GWh, Hydro softens to 800 GWh, but Solar advances to 1,000 GWh and Wind to 700 GWh, keeping the total at 5,500 GWh. In Q4 Coal moves to 2,300 GWh, Gas to 850 GWh, Hydro to 1,100 GWh, Solar to 900 GWh, and Wind to 850 GWh, for a total of 6,000 GWh. For analysis, Renewables are taken as Hydro + Solar + Wind. A carbon policy scenario proposes cutting Q4 Coal by 10%, shifting the entire reduction equally into Solar and Wind. (255 words)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The total annual generation (GWh) is:",
+              "options": [
+                "1) 20,500",
+                "2) 21,500",
+                "3) 22,000",
+                "4) 22,500"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The overall renewable share (as % of annual generation) is closest to:",
+              "options": [
+                "1) 42.5%",
+                "2) 43.8%",
+                "3) 44.3%",
+                "4) 45.0%"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The quarter with the highest renewable percentage share is:",
+              "options": [
+                "1) Q1",
+                "2) Q2",
+                "3) Q3",
+                "4) Q4"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "A carbon policy reduces Q4 Coal by 10% and shifts the entire reduction equally to Solar and Wind. The new Q4 Solar (GWh) is:",
+              "options": [
+                "1) 975",
+                "2) 1,000",
+                "3) 1,015",
+                "4) 1,030"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The annual Gas: Hydro generation ratio is:",
+              "options": [
+                "1) 13:15",
+                "2) 65:76",
+                "3) 5:6",
+                "4) 26:31"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The quarter with the lowest renewable percentage share is:",
+              "options": [
+                "1) Q1",
+                "2) Q2",
+                "3) Q3",
+                "4) Q4"
+              ],
+              "answer": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Current Affairs including General Knowledge",
+      "passages": [
+        {
+          "passageText": "US president Donald trump has landed a triple whammy on India by torpedoing the H-1B visa programme, days after revoking sanctions waiver on Chabahar port in Iran and weeks after imposing a 50% tariff on Indian exports to the US. The White House also maintained a conspicuous silence on the Pakistan-Saudi Arabia mutual defence treaty amid reports that neither country informed Washington of the pact, suggesting a growing US indifference to India’s concerns. The triple blow has shaken US-India ties to the foundation, mystifying experts who expected a reset after an exchange of friendly messages between Modi and Trump. While some observers see in the crackdown on H-1B a pressure tactic to make India bend on the trade deal, sources familiar with the dynamics of the current White House say the two issues are unrelated and Trump was convinced of the  need to “reform” the guest worker visa programme ever since MAGA hardliners persuaded him that American workers were being gamed out of jobs by foreign companies and US big tech acting in tandem. (174 words) [Extracted from the newspaper, The Times of India, September 21, 2025]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What percentage tariff did President Trump initially impose on Indian imports in 2025?",
+              "options": [
+                "1) 15%",
+                "2) 25%",
+                "3) 40%",
+                "4) 50%"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What strategic reason did Donald Trump cite for penalizing India with additional tariffs apart from trade imbalances?",
+              "options": [
+                "1) India’s IT service exports",
+                "2) Indian Banknote Demonetization",
+                "3) India’s immigration policies",
+                "4) India’s defense and energy ties with Russia"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the strategic significance of Chabahar Port for India?",
+              "options": [
+                "1) Provides trade access to China through Pakistan",
+                "2) Acts as counterbalance to China’s presence in nearby Gwadar Port, Pakistan",
+                "3) Serves as the primary naval base for India",
+                "4) Connects India directly to the Mediterranean Sea"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the primary purpose of the H-1B Visa?",
+              "options": [
+                "1) Exchange Visitor Visa",
+                "2) Employment Visa",
+                "3) Immigrant visa for permanent residence in the U.S.",
+                "4) Non-immigrant visa that allows US companies to hire foreign professionals in specialized field"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The acronym ‘MAGA’ mentioned in the above passage refers to:",
+              "options": [
+                "1) Multilateral Agencies Global Association",
+                "2) Make America Great Again",
+                "3) Mutual Agreements for Global Advantage",
+                "4) Monetary Advantage For Great America"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Indian Chess recorded yet another great moment on Monday; as Divya Deshmukh won the Women’s World Cup in Georgian city of Batumi. In the final, the 19-year-old defeated fellow-Indian Koneru Humpy in the tiebreakers. While Humpy contesting the final wasn’t much of a surprise-she is the World No. 5 and has been one of the best female players for the last couple of decades-not many would have anticipated Divya’s stunning show. But, given her obvious talent and the way she has been playing for the past two years, it didn’t come as a big surprise. By winning the World Cup, one of the biggest events organized by the world chess governing body FIDE, Divya also achieved another significant milestone. She became India’s 88th Grandmaster and is only the fourth Indian Woman after Humpy, D. Harika and R. Vaishali to get that coveted title. Last year, Divya won the World junior championship in Ahmedabad with a dominant display. She also played a key role in India’s historic gold in the Chess Olympiad at Budapest. India was the top seed there, though. At the World Cup, the Indian women exceeded expectations, with four of them making it to the quarterfinals. (198 words) [Extracted from the newspaper, The Hindu July 29, 2025]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Where is the origin of chess believed to be?",
+              "options": [
+                "1) China",
+                "2) Russia",
+                "3) India",
+                "4) Egypt"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Who was the first Indian to earn the title of chess Grandmaster?",
+              "options": [
+                "1) D. Gukesh",
+                "2) Praveen Thipsay",
+                "3) Dibyendu Barua",
+                "4) Vishwanathan Anand"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Who was the first official World Chess Champion?",
+              "options": [
+                "1) Bobby Fischer",
+                "2) Gary Kasparov",
+                "3) Vishwanathan Anand",
+                "4) Wilhelm Steinitz"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following computers successfully defeated Garry Kasparov, the reigning world chess champion, in a tournament match?",
+              "options": [
+                "1) Deep AI",
+                "2) Deep Thought",
+                "3) Deep Blue",
+                "4) Deep Water"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following cities is the venue for hosting the 11th edition of Chess World Cup 2025?",
+              "options": [
+                "1) Paris, France",
+                "2) Baku, Azerbaijan",
+                "3) Goa, India",
+                "4) Chennai, India"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "I rise to apprise this august House of the foreign policy dimension of our response to the Pahalgam terrorist attack, going into the preparations for Operation Sindoor and how foreign policy was handled during Operation Sindoor. As all the honourable members would appreciate, it was important to send a clear, strong and resolute message after the Pahalgam attack. Our red lines had been crossed and we had to make it very apparent that there would be serious consequences. As a result, the first step which was taken was that a meeting of the Cabinet Committee of Security took place on the 23rd of April, and that meeting decided that:\n\n● One, the Indus Water Treaty of 1960 will be held in abeyance with immediate effect until Pakistan credibly and irrevocably abjures its support for cross- border terrorism.\n\n● Two, the integrated checkpost Attari would be closed with immediate effect.\n\n● Three, Pakistani nationals who were traveling under SAARC visa exemption scheme would no longer be allowed to do that.\n\n● Four, the Defence, Naval and Air Advisors of the Pakistani High Commission would be declared persona non-grata and,\n\n● Five, the overall strength of the High Commission would be brought down to 30 from the number of 55. (207 words) (Excerpts from Statement made by Minister of External Affairs Dr. S Jaishankar on special discussion in Lok Sabha on Operation Sindoor dated 28th Jul 2025)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Where is Pahalgam situated in India?",
+              "options": [
+                "1) Punjab",
+                "2) Himachal Pradesh",
+                "3) Jammu & Kashmir",
+                "4) Uttarakhand"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Checkpost Attari is located in",
+              "options": [
+                "1) Near Amritsar Punjab",
+                "2) Near Baramulla in Jammu & Kashmir",
+                "3) Near Kutch in Gujrat",
+                "4) Near Barmer in Rajasthan"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which amongst the following is not a SAARC Nation?",
+              "options": [
+                "1) Afghanistan",
+                "2) Maldives",
+                "3) Mauritius",
+                "4) Bangladesh"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Expression ‘Persona Non Grata’ means:",
+              "options": [
+                "1) An ungrateful person",
+                "2) An unwelcome person",
+                "3) An untrustworthy person",
+                "4) A displaced person"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The Indus Water Treaty signed in 1960 between India and Pakistan was facilitated by:",
+              "options": [
+                "1) The United Nations General Assembly",
+                "2) The United Nations Security Council",
+                "3) The World Bank",
+                "4) The permanent Indus Commission"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which amongst the following is not a tributary of River Indus?",
+              "options": [
+                "1) Ravi",
+                "2) Jhelum",
+                "3) Tapti",
+                "4) Chenab"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "Prime Minister Shri Narendra Modi participated in the 25th Meeting of the Council of Heads of State of the Shanghai Cooperation Organization (SCO), held in Tianjin, China, from 31 August to 1 September 2025. The Summit witnessed productive discussions on SCO Development Strategy, Reform of Global Governance, Counter-Terrorism, Peace and Security, Economic and Financial Cooperation, and Sustainable Development. Addressing the Summit, Prime Minister highlighted India’s approach to strengthening cooperation under the SCO framework. In this regard, he noted that India seeks greater action under three pillars – Security, Connectivity and Opportunity. Emphasising that peace, security and stability remain key to progress and prosperity, he called upon member countries to take firm and decisive action to fight terrorism in all its manifestations. Prime Minister underlined the need for coordinated action against terror financing and radicalization. Thanking member countries for their strong solidarity in the wake of the Pahalgam terror attack, he emphasized that there should be no double standards in dealing with terrorism and urged the group to hold countries who perpetrate and support cross-border terrorism accountable. Highlighting the role of connectivity in fostering development and building trust, Prime Minister stated that India strongly supported projects such as Chabahar port and International North-South Transport Corridor. He also spoke about opportunities in the fields of start-ups, innovation, youth empowerment and shared heritage, which must be pursued under the SCO umbrella. Prime Minister proposed commencing a Civilizational Dialogue Forum within the group to foster greater people-to-people ties and cultural understanding. (246 words) (Excerpts from the Press release issued by Press Information Bureau Govt of India, dated 1st September 2025)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The civilizational dialogue forum (CDF) proposed by the  Prime Minister of India at the 25th Meeting of Shanghai Cooperation Organization, is intended to promote",
+              "options": [
+                "1) Peace and security",
+                "2) Sustainable development",
+                "3) Reform of Global governance",
+                "4) Cultural Understanding"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The next Presidency of SCO is taken over by:",
+              "options": [
+                "1) Kyrgyzstan",
+                "2) Tajikistan",
+                "3) Uzbekistan",
+                "4) Kazakhistan"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Prime Minister of India stated that India strongly supported projects such as Chabahar port. Where is this port located?",
+              "options": [
+                "1) Oman",
+                "2) Iran",
+                "3) Afghanistan",
+                "4) Saudi Arabia"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following countries is not a member of SCO?",
+              "options": [
+                "1) Belarus",
+                "2) Iran",
+                "3) Pakistan",
+                "4) Myanmar"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The Secretariat of SCO is located in:",
+              "options": [
+                "1) Beijing, China",
+                "2) Tianjin, China",
+                "3) Shanghai, China",
+                "4) Wuhan, China"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "At the conclusion of 25th SCO summit, the member countries adopted the:",
+              "options": [
+                "1) Beijing Declaration",
+                "2) Tianjin Declaration",
+                "3) Shanghai Declaration",
+                "4) Wuhan Declaration"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Air India stands in solidarity with the families and those affected by the AI-171 accident. We continue to mourn their loss and remain fully committed to providing support during this difficult time. Over a month ago, Air India started releasing interim payment of Rs 25 lakh to the affected families, to help them meet their immediate financial needs. The interim payment will be adjusted against any final compensation. Air India has, so far, released the interim compensation to the families of 147 of the 229 deceased passengers and also the 19 who lost their lives at the accident site. In addition, the requisite documents of 52 others have been verified, to whose families the interim compensation will be released progressively. The Tata Group has also registered ‘The AI-171 Memorial and Welfare Trust’, dedicated to the victims of the unfortunate accident. The Trust has pledged an ex-gratia payment of Rs 1 crore in respect of each of the deceased, and support for rebuilding the B.J. Medical College Hostel infrastructure, which was damaged in the accident. The Trust will also provide aid and assistance for alleviation of any trauma or distress suffered by the first responders, medical and disaster relief professionals, social workers, and governmental staff who provided invaluable institutional support and service in the aftermath of the accident. (217 words) (Excerpts from the Press Release published by Air India, on July 26, 2025)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Air India flight AI-171 was operating from Ahmedabad to:",
+              "options": [
+                "1) London Gatwick airport",
+                "2) Heathrow Airport",
+                "3) London Luton Airport",
+                "4) London Stansted Airport"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Who is the Minister of Civil Aviation of India?",
+              "options": [
+                "1) Shri Piyush Goyal",
+                "2) Shri Jyotiraditya Scindia",
+                "3) Shri Ram Mohan Naidu",
+                "4) Shri Prafulla Patel"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "‘The AI-171 Memorial and Welfare Trust’ is registered  by Tata Group as a public charitable trust in:",
+              "options": [
+                "1) Ahmedabad",
+                "2) Gandhinagar",
+                "3) Mumbai",
+                "4) Delhi"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The sole survivor of ‘The Air India flight AI-171 accident is:",
+              "options": [
+                "1) British National of Indian Origin",
+                "2) Canadian National of Indian origin",
+                "3) Portuguese National of Indian Origin",
+                "4) Indian National"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The agency that probes the fatal crash of AI-171 is:",
+              "options": [
+                "1) DGCA",
+                "2) AAI",
+                "3) AAIB",
+                "4) FIP"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Air India flight AI-171 was:",
+              "options": [
+                "1) Boeing 737-800 aircraft",
+                "2) Boeing 787-8 Dreamliner",
+                "3) Boeing 737 Max aircraft",
+                "4) Boeing Next Generation 737"
+              ],
+              "answer": "2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "Legal Reasoning",
+      "passages": [
+        {
+          "passageText": "One of the central motifs of the past decade of governance under Indian Prime Minister has been the embrace of policy measures that seek to apply uniform solutions to disparate policy dilemmas facing the country. These measures, often termed One Nation policies, are motivated by a desire to replace the existing patchwork of state- specific policies, regulations, and regimes with measures that are identical across the length and breadth of India. There are numerous examples of such One Nation policies being propagated and, in several cases, implemented in the eleven years since this Government came to power. For instance, in 2016, Parliament passed a series of constitutional amendments to introduce a new Goods and Services Tax (GST), which introduced a unified value-added tax in place of state-specific levies. This reform, known informally as One Nation, One Tax, had been debated and discussed for nearly two decades and was widely touted as an important precursor to forging a common market across India’s twenty-eight states. In a similar vein, the government rolled out a new initiative to allow Indian citizens to take advantage of subsidized food rations irrespective of their state of residence. This scheme, commonly termed One Nation, One Ration Card, was intended to increase access to welfare benefits, especially for the millions of internal migrants in India without a fixed place of residence. Earlier this year, the government announced the launch of a new online portal that will provide students, faculty, and researchers across the country’s public higher education institutions with open access to international scholarly journals and articles under a scheme it has dubbed One Nation, One Subscription. Most notably, the government recently signalled its intention to pursue a monumental One Nation policy that has been long discussed but only recently outlined in detail. This measure, known as One Nation, One Election, would do away with India’s current system of staggered elections for state and national assemblies, replacing it with a framework of simultaneous elections. The proposal, which has featured in many of PM’s speeches in the past, was advanced by a high-level committee (HLC) established by the government in 2023. (351 words) [Excerpts from Does “One Nation, One Election” Make Sense for India? by Milan Vaishnav, Caroline Mallory, and Annabel Richter Published on July 28, 2025]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the underlying idea behind the “One Nation” policies of the government?",
+              "options": [
+                "1) To strengthen federalism by empowering states with greater autonomy",
+                "2) To apply uniform solutions across India, replacing state-specific variations",
+                "3) To decentralize governance to local self-government institutions",
+                "4) To promote diversity by encouraging state-specific policies"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following Constitution Amendment Bill deals with empowerment of the Election Commission of India (ECI) to implement simultaneous state and national elections.",
+              "options": [
+                "1) One Hundred and Twenty-Ninth Amendment",
+                "2) One Hundred and Twenty-Eighth Amendment",
+                "3) One Hundred and Twenty-Seventh Amendment",
+                "4) One Hundred and Twenty-Sixth Amendment"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which committee or report has discussed the feasibility of simultaneous elections in India?",
+              "options": [
+                "1) Justice Verma Committee 2013",
+                "2) Law Commission of India Report 2018",
+                "3) Sarkaria Commission Report 1988",
+                "4) Punchhi Commission Report 2010"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "A High-Level Committee was constituted by the government to examine the policy of One Nation One Election. The Committee was led by:",
+              "options": [
+                "1) Shri Ram Nath Kovind",
+                "2) Shri JagdipDhankar",
+                "3) Shri Pranab Mukherjee",
+                "4) Smt. Draupadi Murmu"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "As per the new GST reforms introduced in  September 2025, the structure of new GST rates are as follows",
+              "options": [
+                "1) 5%, 12%, 18% and 28%",
+                "2) 5%, 12% and 18%",
+                "3) 5%, 12% and 40%",
+                "4) 5%, 18% and 40%"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The object of One Nation, One Ration Card scheme is to  benefit:",
+              "options": [
+                "1) The rural population",
+                "2) The Farmers",
+                "3) The Migrant labourers",
+                "4) The ration shopkeepers"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "I may here trace the history of the shaping of the Preamble because this would show that the Preamble was in conformity with the Constitution as it was finally accepted. Not only was the Constitution framed in the light of the Preamble but the Preamble was ultimately settled in the light of the Constitution. In the earliest draft the Preamble was something formal and read: \"We, the people of India, seeking to promote the common good, do hereby, through our chosen representatives, enact, adopt and give to ourselves this Constitution. After the plan of June 3, 1947, which led to the decision to partition the country and to set up two independent Dominions of India and Pakistan, on June 8, 1947, a joint sub- committee of the Union Constitution and Provincial Constitution Committees, took note that the objective resolution would require amendment in view of the latest announcement of the British Government. The announcement of June 3 had made it clear that full independence, in the form of Dominion Status, would be conferred on India as from August 15, 1947. After examining the implications of partition the sub- committee thought that the question of making changes in the Objectives Resolution could appropriately be considered only when effect had actually been given to the June 3 Plan. Later on July 12, 1947, the special sub-committee again postponed consideration of the matter. The Union Constitution Committee provisionally accepted the Preamble as drafted by B.N. Rao and reproduced it in its report of July 4, 1947 without any change, with the tacit recognition at that stage that the Preamble would be finally based on the Objectives Resolution. In a statement circulated to members of the Assembly on July 18, 1947 Pandit Jawaharlal Nehru inter alia, observed that the Preamble was covered more or less by the Objectives Resolution which it was intended to incorporate in the final Constitution, subject to some modification on account of the political changes resulting from partition. (327 words) (Extracted with edits and revision from  B Shiva Rao's-Framing of India's Constitution)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the passage, the relationship between the Constitution and the Preamble can best be described as:",
+              "options": [
+                "1) The Preamble was drafted in isolation",
+                "2) The Constitution and the Preamble were framed independent of each other",
+                "3) Both the Constitution and the Preamble were shaped in light of each other",
+                "4) The Preamble had no relevance to the Constitution"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What did the earliest draft of the Preamble emphasize?",
+              "options": [
+                "1) Liberty, equality, and fraternity",
+                "2) Sovereign, socialist, secular democratic republic",
+                "3) Formal enactment by the people through representatives",
+                "4) Unity and integrity of the nation"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is not enshrined in the Preamble of the Constitution of India?",
+              "options": [
+                "1) Equality of status and of opportunity",
+                "2) Liberty of thought, expression, belief, faith and worship",
+                "3) Justice –moral, ethical and legal",
+                "4) Fraternity assuring the dignity of the individual"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which has been rightly arranged according to the Preamble of the Constitution of India-",
+              "options": [
+                "1) Sovereign Socialist Secular Democratic Republic",
+                "2) Sovereign Secular Socialist Democratic Republic",
+                "3) Sovereign Socialist Democratic Secular Republic",
+                "4) Secular, Socialist, Sovereign and Democratic Republic"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The Preamble of the Constitution of India is finally based on:",
+              "options": [
+                "1) The Objectives Resolution",
+                "2) The Report of the Union Constitution Committee",
+                "3) The June 3 plan of the British Government",
+                "4) The Report of special Sub-committee of the Constituent Assembly"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What was the role of Sir B. N. Rau in the making of the Indian Constitution?",
+              "options": [
+                "1) Chairman of the Drafting Committee",
+                "2) Constitutional Advisor to the Constituent Assembly",
+                "3) President of the Constituent Assembly",
+                "4) Member of the Union Powers Committee"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Good governance is only in the hands of good men. No doubt, what is good or bad is not for the court to decide: but the court can always indicate the constitutional ethos on goodness, good governance and purity in administration remind the constitutional functionaries to preserve, protect and promote the same. That ethos are the unwritten words in our Constitution. However, as the Constitution makers stated, there is a presumption that the Prime Minister/Chief Minister would be well advised and guided by such unwritten yet constitutional principles as well. According to Dr. B. R. Ambedkar, such things were only to be left to the good sense of the Prime Minister, and for that matter, the Chief Minister of State, since it was expected that the two great constitutional functionaries would not dare to do any infamous thing by inducting an otherwise unfit person to the Council of Ministers. It appears, over a period of time, at least in some cases, it was only a story of great expectations. Some of the instances pointed out in the writ petition indicate that Dr. Ambedkar and other great visionaries in the Constituent Assembly have been bailed out. Qualification has been wrongly understood as the mere absence of prescribed disqualification. Hence, it has become the bounden duty of the court to remind the Prime Minister and the Chief Minister of the State of their duty to act in accordance with the constitutional aspirations. No doubt, it is not for the court to issue any direction to the Prime Minister or the Chief Minister, as the case may be, as to the manner in which they should exercise their power while selecting the colleagues in the Council of Ministers. That is the constitutional prerogative of those functionaries who are called upon to preserve, protect and defend the Constitution. But it is the prophetic duty of this Court to remind the key duty holders about their role in working the Constitution. Hence, I am of the firm view, that the Prime Minister and the Chief Minister of the State, who themselves have taken oath to bear true faith and allegiance to the Constitution of India and to discharge their duties faithfully and conscientiously, will be well advised to consider avoiding any person in the Council of Ministers, against whom charges have been framed by a criminal court in respect of offences involving moral turpitude and also offences specifically referred to in Chapter III of The Representation of the People Act, 1951. (416 words) [Extract from the Supreme Court Judgement Manoj Narula v. Union of India]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the passage, the Court cannot decide what is “good” or “bad” governance, but it can:",
+              "options": [
+                "1) Disqualify Ministers from holding office",
+                "2) Indicate constitutional ethos on governance and remind functionaries of their duty",
+                "3) Frame rules on qualifications of Ministers",
+                "4) Amend the Constitution to insert explicit standards of morality"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Dr. B.R. Ambedkar believed that the working of the Constitution ultimately depends on:",
+              "options": [
+                "1) The rigidity of the constitutional text",
+                "2) The good sense and integrity of those who are going to administer this constitution",
+                "3) The presence of a strong opposition",
+                "4) Judicial intervention in governance"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The Court, while respecting the prerogative of the Prime Minister and Chief Minister to select Ministers emphasized that:",
+              "options": [
+                "1) They should avoid appointing persons against whom criminal charges involving moral turpitude are framed",
+                "2) They must appoint Ministers strictly from the ruling party only",
+                "3) They should consult the Supreme Court before finalizing appointments",
+                "4) They are bound to appoint only members of the Lok Sabha/Legislative Assembly"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What role does the Court assume, as described in the passage, regarding governance and appointments to the Council of Ministers?",
+              "options": [
+                "1) Judicial review of all ministerial appointments",
+                "2) Prophetic duty to remind key functionaries of their constitutional role",
+                "3) Power to veto ministerial selections made by the Prime Minister",
+                "4) Directing Parliament to amend the law on disqualification"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Who are the constitutional functionaries, this passage primarily refers to?",
+              "options": [
+                "1) Council of Ministers",
+                "2) Prime Minister and Council of Ministers",
+                "3) Chief Minister and Council of Ministers",
+                "4) Prime Minister and Chief Minister"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Who, according to the above passage shall not be appointed as a Minister?",
+              "options": [
+                "1) Against whom charges have been framed in a court of law",
+                "2) Against whom charges involving moral turpitude have been framed in a court of law",
+                "3) Against whom charges have been proved in a court of law",
+                "4) Against whom case is pending in a court of law"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "The recent Supreme Court judgment in State of Tamil Nadu v. Governor of Tamil Nadu (2025) affirmed that a Governor cannot exercise an absolute or \"pocket\" veto on bills, holding that if assent is withheld, the bill must be returned to the legislature “as soon as possible” for reconsideration, with the Governor having no discretion to withhold assent again. The court established that inaction or indefinite delay is illegal and unconstitutional, prescribing timelines for the Governor's decision and even “deeming assent” on pending bills in the Tamil Nadu case, establishing a critical precedent for judicial review of gubernatorial powers. The Supreme Court explicitly rejected the Governor’s power to an absolute or “pocket” veto, which allows for bills to be indefinitely delayed. If a Governor withholds assent to a bill, they are constitutionally obligated to return it to the State Assembly for reconsideration, according to the proviso in Article 200 of the Constitution. If the State Assembly re-enacts a bill after it has been returned by the Governor, the Governor has no choice but to give assent to it and cannot withhold it for a second time. The Court held that indefinitely delaying or remaining silent on bills is unconstitutional and that Governors must act “as soon as possible” on bills. The judgment expanded the scope of judicial review by setting timelines for the Governor’s actions on bills, allowing state governments to approach courts if these timelines are breached. In the case of the Tamil Nadu, the Court used its powers under Article 142 to “deem assent” on the long-pending bills, which had the effect of making any subsequent decision by the President on those bills void. (276 words) [Extracted with edits & revisions from ‘‘The Hindu’’, dated 8th April 2025]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The Legislative Assembly of State X passes a controversial bill and sends it to the Governor for assent. The Governor, strongly disagreeing with the bill's provisions, decides to neither give assent nor return the bill, hoping it will be forgotten over the time. Which of the following statements accurately describes the legal position of the Governor's action?",
+              "options": [
+                "1) The Governor’s action is a legitimate exercise of a “pocket veto”, allowing for indefinite delay of bills",
+                "2) The Governor’s inaction is unconstitutional, as the Supreme Court has explicitly rejected the power to an absolute or “pocket” veto, and they are obligated to return the bill “as soon as possible” if assent is withheld",
+                "3) The Governor is within their rights to delay the bill indefinitely as long as they do not explicitly reject it, reflecting the true spirit of gubernatorial discretion",
+                "4) The bill will automatically lapse after six months of gubernatorial inaction, making the delay a de facto rejection"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Governor Y receives a bill from the State Assembly and, after careful consideration, decides to withhold assent, promptly returning it with a message for reconsideration. The State Assembly then re-enacts the bill without any change and sends it back to Governor Y. What is the constitutional obligation of Governor Y at this point?",
+              "options": [
+                "1) Governor Y has no choice but to give assent to the re-enacted bill, as the Supreme Court has ruled that the Governor cannot withhold assent for a second time",
+                "2) Governor Y can again withhold assent if they continue to disagree with the bill’s content, sending it back for further reconsideration",
+                "3) Governor Y can refer the bill to the President of India for a final decision, exercising a higher discretionary power",
+                "4) Governor Y can dissolve the State Assembly for consistently passing erroneous bills"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "After the Supreme Court's judgment in State of Tamil Nadu v. Governor of Tamil Nadu (2025), a State Governor holds a bill for eight months without taking any action—neither assenting nor returning it. The State Government believes that this delay is unconstitutional. Based on the precedent set by the judgment, what recourse is available to the State Government?",
+              "options": [
+                "1) The State Government must wait for a full year before any action can be taken, as gubernatorial delays are typically permitted for this duration",
+                "2) The bill automatically lapses after six months of inaction, making any further action by the State Government unnecessary",
+                "3) The State Government's only recourse is to re-enact the bill, which would then compel the Governor to act",
+                "4) The State Government can approach the courts, as the judgment had prescribed timelines for the Governor’s actions on bills since indefinite delay was construed unconstitutional"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In a situation mirroring the Tamil Nadu case, a Supreme Court bench is reviewing several instances where a particular Governor has indefinitely delayed assent on multiple bills passed by the State Assembly, despite Constitutional obligations. If the Supreme Court decides to follow the precedent established in State of Tamil Nadu v. Governor of Tamil Nadu (2025) regarding pending bills, what would be a likely outcome for these delayed bills?",
+              "options": [
+                "1) The Supreme Court would order the Governor to explicitly reject all the delayed bills",
+                "2) The Supreme Court would direct the State Assembly to conduct a public referendum on each delayed bill",
+                "3) The Supreme Court could deem assent on the pending bills, establishing a critical precedent for judicial review of gubernatorial powers in such cases, as it did in the Tamil Nadu case",
+                "4) The Supreme Court would advise the Governor to seek legal counsel and then re- evaluate each bill individually without a set timeline"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "A newly appointed Governor publicly declares that he intend to use his discretion to permanently halt any legislation he deems inappropriate, by simply not acting on the bills, citing an inherent gubernatorial power. How does this declaration align with the constitutional interpretation provided by the Supreme Court of India?",
+              "options": [
+                "1) The Governor's declaration is consistent with the broad discretionary powers traditionally afforded to Governors, allowing them significant influence over state legislation",
+                "2) The Governor’s declaration is valid only for non-money bills, as money bills have different Constitutional protocols",
+                "3) The Governor’s declaration is partially valid, as indefinite delay is permissible only if the State Assembly is not in session",
+                "4) The Governor’s declaration is unconstitutional; the Supreme Court explicitly rejected the Governor’s power to an absolute or “pocket” veto"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What are the three primary courses of action for a Governor when a Bill is enacted by the State Assembly and sent to him/her for his/her assent. Which option correctly lists these three courses?",
+              "options": [
+                "1) (i) Give assent, (ii) Veto absolutely, or (iii) Refer to the Supreme Court",
+                "2) (i) Give assent, (ii) Withhold assent (allowing the Bill to fail, unless the proviso is followed), or (iii) Recommend amendments",
+                "3) (i) Give assent, (ii) Withhold assent (with the option to return for reconsideration), or (iii) Reserve for the consideration of the President",
+                "4) (i) Give assent, (ii) Return for reconsideration, or (iii) Refer to the Union Government"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "Same-sex marriage has no legal recognition in India as per the recent Supreme Court's judgment, where it was decided that this is an issue for Parliament to address. While Hindu marriages between transgender persons and cisgender men are permissible, and the Court acknowledged systemic discrimination and the right to choose a partner, it held that there is no fundamental right to marry. The government has been urged to form a panel to consider granting more legal rights to same-sex couples, but the legal status of marriage remains unchanged for now. The five-judge bench of the Supreme Court of India in Supriyo @ Supriya Chakraborty &Anr. v. Union of India (2023), in a majority verdict, ruled that there is no fundamental right to marry under the Indian Constitution, making it beyond the court's scope to legislate on same-sex marriage.\n\nThe Court stated that the power to legislate on same-sex marriage rests with the Parliament and state legislatures. The judgment affirmed constitutional rights for LGBTQ+ citizens and the right to choose a partner. The government agreed to set up a panel to explore legal rights and benefits for same-sex couples, though these benefits are not the same as those conferred by marriage. Same-sex couples cannot legally marry and do not receive the same legal rights, such as automatic inheritance, pension, or adoption rights, that legally married couples do. Despite the ruling, LGBTQ+ couples continue to face legal discrimination and have no social recognition of marriage. The Court affirmed the right of same-sex couples to cohabit privately. While the Supreme Court's verdict brought limited benefits and acknowledgments, it has not legalized same-sex marriage in India, deferring the ultimate decision to the Parliament. (279 words)\n\n[Extracted, with edits and revisions, from ‘‘The Hindu’’, dated 27th October 2023)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In October 2023, two individuals in India, Ramesh and Sameer, who identify as a same- sex couple, sought to legally solemnize their marriage. Based on the Supreme Court's ruling, what is the current legal standing of their ability to marry?",
+              "options": [
+                "1) Their marriage is legally recognized nationwide under a new constitutional right",
+                "2) Their marriage is not legally recognized, as the Supreme Court ruled that this issue is for Parliament to address",
+                "3) Their marriage is recognized only if both of them identify as transgender",
+                "4) Their marriage is temporarily recognized until Parliament decides otherwise"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "During a legal proceeding in India, an advocate argues that the Supreme Court should directly legislate on same-sex marriage because the right to choose a partner inherently implies a fundamental right to marry for all citizens. How would the Supreme Court's judgment likely to counter this argument?",
+              "options": [
+                "1) The Court acknowledged the right to choose a partner, therefore it would agree to legislate on marriage",
+                "2) The Court held that there is no fundamental right to marry under the Indian Constitution, and such a policy can be made only by the Parliament",
+                "3) The Court has held that it will set up a panel to look into the fundamental right to marry",
+                "4) The Court upheld the fundamental right to marry, but declined to recognise same sex marriage"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Following the Supreme Court's decision, an LGBTQ+ advocacy group in India aims to achieve legal recognition for same-sex marriage. To which governmental body or bodies should this group primarily direct its lobbying efforts to secure the necessary legislation?",
+              "options": [
+                "1) The Supreme Court of India, as they are ultimately responsible for interpreting constitutional rights",
+                "2) The President of India as head of the Union legislature",
+                "3) The Parliament and state legislatures, as the power to legislate on same-sex marriage rests with them",
+                "4) The National Commission for Human Rights, to advocate for a new directive"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "While same-sex marriage is not legally recognized in India, however, the Supreme Court's verdict did offer some acknowledgments of rights for same-sex couples. Which of the following rights was specifically affirmed by the Court?",
+              "options": [
+                "1) The automatic right to inheritance for same-sex partners",
+                "2) The right of same-sex couples to adopt children jointly",
+                "3) The right of same-sex couples to cohabit privately",
+                "4) The right to maintenance for same-sex partners"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Ramesh and Suresh, a same-sex couple in India, have lived together for a decade and want to ensure they receive legal benefits equivalent to those of married couples, such as automatic inheritance and pension rights. Based on the Supreme Court's judgment, what is the primary obstacle they face in achieving these benefits?",
+              "options": [
+                "1) They must first register their union with the government panel that was urged to be formed",
+                "2) They cannot legally marry and therefore cannot automatically be entitled to these specific legal rights",
+                "3) These rights are only available to same-sex couples where one partner is transgender",
+                "4) They can receive these benefits if they convert to a religion that recognizes same- sex unions"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The new acronym that is evolved after LGBTQ+ is an acronym called LGBTQIA+. In this new acronym ‘IA’ refers to:",
+              "options": [
+                "1) Intersex and Asexual",
+                "2) Initialisms and Agender",
+                "3) Intersex and Ally",
+                "4) Intrasex and Androgynous"
+              ],
+              "answer": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sectionName": "English Language",
+      "passages": [
+        {
+          "passageText": "The adoption of the Non-Cooperation Movement by the Congress gave it a new energy and from January 1921 it began to register considerable success all over the country. Gandhiji undertook a nation-wide tour during which he addressed hundreds of meetings and met a large number of political workers. In the first month, thousands of students left their educational institutions and joined more than 800 national schools and colleges that had sprung up all over the country. Gandhiji had promised Swaraj within a year, if his programme was adopted.\n\nThe Non-Cooperation Movement demonstrated that it commanded the support and sympathy of vast sections of the Indian people. Its reach among many sections of Indian peasants, workers, artisans etc, had been demonstrated. The spatial spread of the movement was also nation-wide. Some areas were more active than others, but there were few that showed no signs of activity at all.\n\nThe capacity of the ‘poor dumb millions’ of India to take part in modern nationalist politics was also demonstrated. This was the first time that nationalists from the towns, students from schools and colleges or even the educated and politically aware in the villages had made a serious attempt to bring the ideology and the movement into their midst.\n\nThe tremendous participation of different communities in the movement, and the maintenance of communal unity, despite the Malabar developments, was in itself no mean achievement. There is hardly any doubt that it was minority participation that gave the movement its truly mass character in many areas. And it was, indeed, unfortunate that this most positive feature of the movement was not to be repeated in later years once communalism began to take its toll. [324 words]\n\n[Extracted, with edits and revisions, from India’s Struggle for Independence1857-1947, by Bipin Chandra and Others, Penguin Books, 1989.]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "From the passage it is evident that:",
+              "options": [
+                "1) The idea of Swaraj seemed futile",
+                "2) The non-cooperation movement was a complete success",
+                "3) The non-cooperation movement gained the sympathy of majority of the Indians",
+                "4) The Indian National Congress represented microscopic minority"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The term “poor dumb millions” refer to-",
+              "options": [
+                "1) The vast number of common people who are impoverished",
+                "2) Large number of common people who are hearing impaired",
+                "3) Large number of people who are vulnerable",
+                "4) The vast number of people who are impoverished and uneducated"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the statements is true?",
+              "options": [
+                "1) The Swaraj movement happened before the non co-operation movement",
+                "2) The non co-operation movement failed due to sudden withdrawal",
+                "3) There was a fine show of communal unity in the movement",
+                "4) The rich and the educated kept themselves away from the non co-operation movement"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The main idea of the passage is-",
+              "options": [
+                "1) The Non co-operation movement did not give impetus to the future movements",
+                "2) The movement made the Indians realize their potential to fight against the mighty British",
+                "3) The British became fearful and worried of Gandhiji’s leadership and co-operation of Indians",
+                "4) That the most positive feature of the movement was that it was repeated in later years"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The word “Communalism”  in the above passage refers to-",
+              "options": [
+                "1) Religious identity",
+                "2) Caste identity",
+                "3) Regional identity",
+                "4) Secularism"
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "There were humans long before there was history. The archaic humans loved, played, formed close friendships and competed for status and power, but so did chimpanzees, baboons and elephants. There was nothing special about them.\n\nNobody, least of all humans themselves, had any inkling that their descendants would one day walk on the moon, split the atom, fathom the genetic code and write history books. The most important thing to know about prehistoric humans is that they were incognisant animals with no more impact on their environment than gorillas, fireflies or jellyfish.\n\nBiologists classify organisms into species. Animals are said to belong to the same species if they tend to mate with each other, giving birth to fertile offspring. Horses and donkeys have a recent common ancestor and share many physical traits. They will mate if induced to do so - but their offspring, called mules, are sterile. Mutations in donkey DNA can therefore never cross over to horses, or vice versa. The two types of animals are consequently considered two distinct species, moving along separate evolutionary paths. By contrast, a bulldog and a spaniel may look very different, but they are members of the same species, sharing the same DNA pool. [203 words]\n\n(Extracted from Sapiens: A Brief History of Humankind by Yuval Noah Harari)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following can be inferred as the most significant characteristic of prehistoric humans, as per the passage?",
+              "options": [
+                "1) Their conscious effort to alter and shape their environment for survival",
+                "2) Their complex social organization and clear hierarchical structures that set them apart from other species",
+                "3) Their evolutionary divergence was marked by warfare and the pursuit of dominance over rival species",
+                "4) Their inability to distinguish themselves from other species in terms of environmental impact"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In the context of the passage, the term ‘incognisant’ most likely means:",
+              "options": [
+                "1) Lacking intelligence",
+                "2) Unaware of their future potential",
+                "3) Incapable of social interaction",
+                "4) Disinterested in the environment"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best explains why humans did not initially stand out among other organisms?",
+              "options": [
+                "1) They had fewer offspring than other species",
+                "2) Their behaviours were not unique compared to other animals",
+                "3) They did not yet evolve the ability to use tools",
+                "4) They lacked the genetic capacity to develop language"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the passage, what determines whether two animals belong to the same species?",
+              "options": [
+                "1) Their ability to produce fertile offspring",
+                "2) Their physical appearance and size",
+                "3) Their shared evolutionary ancestor",
+                "4) Their capacity to adapt to the environment"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The passage explains the concept of species classification by",
+              "options": [
+                "1) Highlighting the behavioural differences between species like horses, donkeys, bulldogs and spaniels",
+                "2) Focusing on the DNA pool they share",
+                "3) Contrasting horses and bulldogs with donkeys and spaniels to explain reproductive compatibility",
+                "4) Discussing the environmental impact of different species like horses and donkeys, and bulldogs and spaniels"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "In 1973, only 45 of the world’s 151 countries were counted as ‘free’ by Freedom House, a nongovernmental organization that produces quantitative measures of civil and political rights for countries around the world. The following generation saw momentous political change, with democracies and market-oriented economies spreading in virtually every part of the world except for the Arab Middle East. This transformation was Samuel Huntington’s third wave of democratization; liberal democracy as the default form of government became part of the accepted political landscape at the beginning of the twenty-first century. Underlying these changes in political systems was a massive social transformation as well. The shift to democracy was a result of millions of formerly passive individuals around the world organizing themselves and participating in the political life of their societies. This social mobilization was driven by a host of factors: greatly expanded access to education that made people more aware of themselves and the political world around them; information technology, which facilitated the rapid spread of ideas and knowledge; cheap travel and communications that allowed people to vote with their feet if they didn’t like their government; and greater prosperity, which induced people to demand better protection of their rights. The third wave crested after the late 1990s, however, a ‘democratic recession’ emerged in the first decade of the twenty-first century. Approximately one in five countries that had been part of the third wave either reverted to authoritarianism or saw a significant erosion of democratic institutions. Freedom house noted that 2009 marked the fourth consecutive year in which freedom had declined around the world, the first time this had happened since it established its measures of freedom in 1973. [279 words] (Extracted from The Origins of Political Order by Francis Fukuyama)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following aspects is most critical in understanding Freedom House’s evaluation process?",
+              "options": [
+                "1) The methodology by which it quantifies the relative freedoms in different political systems",
+                "2) Its emphasis on electoral participation and voter turnout in measuring democracy",
+                "3) Its role in advising governments on democratic reforms based on its rankings",
+                "4) Its primary focus on economic disparities within democracies"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the phrase ‘vote with their feet’ imply in the context of the passage?",
+              "options": [
+                "1) Engaging in electoral processes to demand political change",
+                "2) Demonstrating political preferences through public protests",
+                "3) Migrating to countries with better governance or conditions",
+                "4) Participating in local government initiatives and reforms"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The term ‘third wave of democratization’ as used in the passage refers to:",
+              "options": [
+                "1) The rise of communism in Eastern Europe",
+                "2) The spread of democracy and market-oriented economies",
+                "3) The decline of authoritarian regimes in the 1960s",
+                "4) The global movement for civil rights"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following was not mentioned as a factor contributing to social mobilization and the shift to democracy?",
+              "options": [
+                "1) Increased access to education",
+                "2) Expanding information technology",
+                "3) Heightened global military presence",
+                "4) Greater prosperity"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "According to this passage, when was the first time  the freedom had declined around the world",
+              "options": [
+                "1) 1973",
+                "2) 1990",
+                "3) 2006",
+                "4) 2009"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "My kinsman and I were returning to Calcutta from our Puja trip when we encountered an unusual man on the train. At first, judging from his dress and bearing, we mistook him for an up-country boorish man. But as soon as he began to speak, our impression changed. He discoursed on every subject with such confidence that one might think the ‘Disposer of All Things’ sought his counsel in every decision. Until then, we had been perfectly content, unaware of hidden forces shaping the world—that the Russians were advancing, that the English were pursuing secret policies, and that confusion among native chiefs had reached its peak. Our new acquaintance, however, hinted at such matters with a sly smile, remarking: “There are more things in heaven and earth, Horatio, than are reported in your newspapers.” Having never before travelled beyond our homes, we were struck dumb with wonder at his manner. No matter how trivial the topic, he could quote science, comment on the Vedas, or recite quatrains from Persian poets. Since we possessed no real knowledge of science, the Vedas, or Persian literature, our admiration for him only grew. My kinsman, a theosophist, became convinced that our fellow passenger was inspired by some strange magnetism, occult power, or astral body. He listened with devotional rapture even to the most common place remarks and secretly noted down his words. I suspect our extraordinary companion noticed this and was quietly pleased. When the train reached the junction, we gathered in the waiting room to await our connection. It was 10 p.m., and as the train was expected to be delayed owing to some fault in the lines, I spread my bed on the table and prepared to sleep. But just then, the extraordinary man began spinning a tale, and of course, I could not close my eyes all night. (307 words) [Extracted with edits from Rabindranath Tagore’s “The Hungry Stones”]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The narrator and his kinsman’s initial impression of the “unusual man” highlights which theme most strongly?",
+              "options": [
+                "1) The deceptive nature of appearances",
+                "2) The superiority of Western education",
+                "3) The danger of blind faith",
+                "4) The reliability of cultural stereotypes"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which literary device is most evident in the narrator’s line: “one might think the Disposer of All Things sought his counsel in every decision”?",
+              "options": [
+                "1) Irony",
+                "2) Euphemism",
+                "3) Allegory",
+                "4) Hyperbole"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The word “theosophist” means:",
+              "options": [
+                "1) Skeptic",
+                "2) Mystic",
+                "3) Agnostic",
+                "4) Materialist"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The word “Boorish” mean:",
+              "options": [
+                "1) Discourteous",
+                "2) Genteel",
+                "3) Well-bred",
+                "4) Courtly"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The narrator’s suspicion that the extraordinary man was “quietly pleased” suggests:",
+              "options": [
+                "1) The man was genuinely humble and embarrassed by the attention",
+                "2) The man wished to avoid any recognition of his authority",
+                "3) The man was indifferent to how others perceived him",
+                "4) The man derived satisfaction from impressing and influencing others"
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "Man is the only creature that consumes without producing. He does not give milk, he does not lay eggs, he is too weak to pull the plough, and he cannot run fast enough to catch rabbits. Yet he claims dominion over all animals. He sets us to work, returns only the bare minimum to keep us from starving, and keeps the rest for himself. Our labour tills the soil, our dung fertilizes it, and still, not one of us owns more than our bare skin. You cows, look at yourselves–how many thousands of gallons of milk have you produced this past year? And what has become of it, milk that should have nurtured strong calves? Every drop has gone down the throats of our enemies. And you hens, how many eggs have you laid, and how many of those ever hatched into chicks? The rest have gone to market to bring in money for Jones and his men. And you, Clover, where are the four foals you bore, who should have supported and comforted you in your old age? Each was sold at just a year old–you will never see them again. For all your labour in the fields and your four confinements, what have you gained except bare rations and a stall?\n\nEven the lives we do live are cut short, denied their natural span. I do not grumble, for I am among the fortunate. I am twelve years old and have borne over four hundred children. Such is the natural life of a pig. But no animal escapes the cruel knife in the end. You young porkers sitting before me, each of you will scream your lives out at the block within a year. This is the fate that awaits all of us–cows, pigs, hens, sheep, everyone. Even horses and dogs share no better end. Boxer, the very day your great muscles fail you, Jones will sell you to the knacker, who will slit your throat and boil you down for the foxhounds. And the dogs, when old and toothless, are tied with a brick and drowned in the nearest pond. (356 words) [Extracted with edits from George Orwell’s “Animal Farm”]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following best describes the tone of the passage?",
+              "options": [
+                "1) Detached and neutral",
+                "2) Critical, somber, and resentful, evoking both awareness and outrage",
+                "3) Humorous and light-hearted",
+                "4) Admiring and celebratory"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The speaker frequently contrasts animals’ work with human gain. This literary technique is best classified as:",
+              "options": [
+                "1) Allegory of class exploitation",
+                "2) Hyperbole for comic effect",
+                "3) Irony about farm management",
+                "4) Metaphor for animal biology"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Who is ‘knacker’?",
+              "options": [
+                "1) A slaughterer",
+                "2) A trader whose business is disposal of dead and unwanted animals",
+                "3) A person whose business is disposal of dead or unwanted animals especially those whose flesh is not fit for human consumption",
+                "4) Harness-maker"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The repeated reference to slaughter, drowning, and the knacker in the passage primarily implies to:",
+              "options": [
+                "1) Provide a detailed account of animal husbandry",
+                "2) Evoke emotional outrage and highlight the brutality of exploitation",
+                "3) Suggest that animals are naturally subservient",
+                "4) Indicate that humans value animals ––––––––––––––––"
+              ],
+              "answer": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

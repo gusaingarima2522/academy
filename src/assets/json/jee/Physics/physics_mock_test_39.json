@@ -1,0 +1,179 @@
+{
+    "testName": "Physics Mock Test 39",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "SHM",
+        "Waves",
+        "Sound"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The equation of a particle executing SHM is x = 5 sin(pi t + pi/3). The amplitude and time period are:",
+            "options": [
+                "1) 5, 2s",
+                "2) 5, 1s",
+                "3) 5, pi s",
+                "4) 10, 2s"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, nodes are points of:",
+            "options": [
+                "1) Maximum amplitude",
+                "2) Zero amplitude",
+                "3) Minimum pressure",
+                "4) Maximum frequency"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The speed of sound in air is 330 m/s. The fundamental frequency of an open organ pipe of length 33 cm is:",
+            "options": [
+                "1) 250 Hz",
+                "2) 500 Hz",
+                "3) 1000 Hz",
+                "4) 125 Hz"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "When a source of sound moves towards a stationary observer, the apparent frequency increases. This is known as:",
+            "options": [
+                "1) Doppler effect",
+                "2) Interference",
+                "3) Diffraction",
+                "4) Resonance"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two waves of same frequency and constant phase difference interfere. The resulting amplitude is maximum when the phase difference is:",
+            "options": [
+                "1) pi/2",
+                "2) pi",
+                "3) 0",
+                "4) 3pi/2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A simple pendulum has time period T. If it is taken to a height equal to the radius of the Earth, its new time period will be:",
+            "options": [
+                "1) T",
+                "2) 2T",
+                "3) T/2",
+                "4) 4T"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The phenomenon of beats is a result of:",
+            "options": [
+                "1) Diffraction",
+                "2) Reflection",
+                "3) Interference in space",
+                "4) Interference in time"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "For a particle in SHM, the phase difference between displacement and velocity is:",
+            "options": [
+                "1) 0",
+                "2) pi/2",
+                "3) pi",
+                "4) 3pi/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A string fixed at both ends oscillates in 3 segments. If the length of the string is L, the wavelength is:",
+            "options": [
+                "1) 2L/3",
+                "2) 3L/2",
+                "3) L/3",
+                "4) 3L"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The pitch of a musical sound depends primarily on its:",
+            "options": [
+                "1) Amplitude",
+                "2) Frequency",
+                "3) Waveform",
+                "4) Intensity"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Total energy of a particle in SHM is E. When its displacement is half of its amplitude, its kinetic energy is:",
+            "options": [
+                "1) E/4",
+                "2) E/2",
+                "3) 3E/4",
+                "4) E"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Loudness of sound is measured in:",
+            "options": [
+                "1) Hertz",
+                "2) Decibels",
+                "3) Watts",
+                "4) Joules"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A tuning fork produces 4 beats per second with another tuning fork of frequency 256 Hz. The frequency of the first fork could be:",
+            "options": [
+                "1) 252 Hz only",
+                "2) 260 Hz only",
+                "3) 252 Hz or 260 Hz",
+                "4) 250 Hz"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The velocity of a transverse wave in a stretched string depends on:",
+            "options": [
+                "1) Tension and length",
+                "2) Tension and linear mass density",
+                "3) Length and mass",
+                "4) Amplitude and frequency"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the tension in a stretched string is quadrupled, the velocity of the wave becomes:",
+            "options": [
+                "1) Half",
+                "2) Double",
+                "3) Four times",
+                "4) Unchanged"
+            ],
+            "answer": "2"
+        }
+    ]
+}

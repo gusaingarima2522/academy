@@ -1,0 +1,166 @@
+{
+  "testName": "Physics Mock Test 16",
+  "totalMarks": 56,
+  "timeMinutes": 28,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Light of wavelength 4000 Å falls on a metal whose threshold wavelength is 5000 Å. The maximum kinetic energy of the emitted photoelectrons is approximately (hc = 12400 eV Å)",
+      "options": [
+        "1.24 eV",
+        "2.48 eV",
+        "0.62 eV",
+        "3.10 eV"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The radius of the third Bohr orbit of hydrogen is (radius of the first orbit = 0.529 Å)",
+      "options": [
+        "1.587 Å",
+        "0.529 Å",
+        "2.12 Å",
+        "4.76 Å"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The longest wavelength in the Lyman series of hydrogen is approximately (hc = 1240 eV nm, ground state energy = −13.6 eV)",
+      "options": [
+        "91.2 nm",
+        "656 nm",
+        "121.6 nm",
+        "365 nm"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The number of different spectral lines that can be emitted when a hydrogen atom de-excites from the n = 4 level to the ground state is",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "10"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A radioactive sample initially has 800 nuclei with a half-life of 1 hour. The number of nuclei left undecayed after 3 hours is",
+      "options": [
+        "200",
+        "100",
+        "400",
+        "50"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The ratio of the radii of nuclei with mass numbers 8 and 64 is",
+      "options": [
+        "1 : 4",
+        "1 : 8",
+        "1 : 2",
+        "1 : 16"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The half-life of a radioactive element is 6.93 minutes. Its mean life is",
+      "options": [
+        "6.93 min",
+        "14.4 min",
+        "4.8 min",
+        "10 min"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "An X-ray tube operates at 40 kV. The minimum wavelength of the X-rays produced is approximately (hc = 12400 eV Å)",
+      "options": [
+        "3.1 Å",
+        "0.31 Å",
+        "0.031 Å",
+        "31 Å"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "In an n-type semiconductor at 300 K, the electron concentration is 4.5 × 10²² m⁻³ and the intrinsic carrier concentration is 1.5 × 10¹⁶ m⁻³. The hole concentration is",
+      "options": [
+        "5 × 10¹⁰ m⁻³",
+        "5 × 10⁶ m⁻³",
+        "1.5 × 10¹⁶ m⁻³",
+        "5 × 10⁹ m⁻³"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A Zener diode is used as a voltage regulator when it is operated in",
+      "options": [
+        "forward bias",
+        "reverse bias in the breakdown region",
+        "reverse bias below the breakdown voltage",
+        "zero bias"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A full-wave rectifier is supplied with an AC of frequency 50 Hz. The frequency of the ripple in the output is",
+      "options": [
+        "100 Hz",
+        "50 Hz",
+        "25 Hz",
+        "200 Hz"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following is a universal logic gate?",
+      "options": [
+        "AND",
+        "NAND",
+        "OR",
+        "XOR"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A carrier wave of amplitude 10 V is amplitude modulated by a signal of amplitude 5 V. The modulation index is",
+      "options": [
+        "0.2",
+        "2",
+        "5",
+        "0.5"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A TV tower has a height of 80 m. The maximum range of line-of-sight transmission is (radius of earth = 6.4 × 10⁶ m)",
+      "options": [
+        "16 km",
+        "64 km",
+        "32 km",
+        "8 km"
+      ],
+      "answer": 3
+    }
+  ]
+}

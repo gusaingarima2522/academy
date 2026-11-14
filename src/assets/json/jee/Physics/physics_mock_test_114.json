@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 114",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 3"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A body is projected vertically upwards. At the highest point, its acceleration is:",
+            "options": [
+                "1) Zero",
+                "2) Maximum",
+                "3) Equal to g",
+                "4) Dependent on the mass"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A block is kept on a frictionless inclined plane. The force required to keep it in equilibrium is:",
+            "options": [
+                "1) mg",
+                "2) mg cos(theta)",
+                "3) mg sin(theta)",
+                "4) mg tan(theta)"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a perfectly elastic collision in one dimension, which of the following is conserved?",
+            "options": [
+                "1) Kinetic energy only",
+                "2) Momentum only",
+                "3) Both momentum and kinetic energy",
+                "4) Neither"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The center of mass of a solid hemisphere of radius R lies on the axis of symmetry at a distance from the flat surface equal to:",
+            "options": [
+                "1) R/2",
+                "2) 3R/8",
+                "3) 4R/3pi",
+                "4) R/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The acceleration due to gravity g at a depth d below the earth's surface is:",
+            "options": [
+                "1) g(1 - d/R)",
+                "2) g(1 - 2d/R)",
+                "3) g(1 + d/R)",
+                "4) g(1 + 2d/R)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Bernoulli's principle is a statement of conservation of:",
+            "options": [
+                "1) Mass",
+                "2) Energy",
+                "3) Linear momentum",
+                "4) Angular momentum"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "For a given mass of an ideal gas, if the volume is halved and the temperature is doubled, the pressure will:",
+            "options": [
+                "1) Remain same",
+                "2) Double",
+                "3) Quadruple",
+                "4) Halve"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the first law of thermodynamics, delta Q = delta U + delta W. For an adiabatic process:",
+            "options": [
+                "1) delta Q = 0",
+                "2) delta U = 0",
+                "3) delta W = 0",
+                "4) delta Q = delta U"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle executes SHM. The phase difference between displacement and acceleration is:",
+            "options": [
+                "1) 0",
+                "2) pi/2",
+                "3) pi",
+                "4) 3pi/2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The phenomenon of beats in sound is based on:",
+            "options": [
+                "1) Reflection",
+                "2) Refraction",
+                "3) Interference",
+                "4) Diffraction"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric field intensity between two oppositely charged parallel plates is:",
+            "options": [
+                "1) sigma / epsilon_0",
+                "2) sigma / (2*epsilon_0)",
+                "3) 2*sigma / epsilon_0",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a potentiometer, the null point is found to be at 50 cm. If the length of the wire is increased, the null point will:",
+            "options": [
+                "1) Shift to a larger length",
+                "2) Shift to a smaller length",
+                "3) Remain unchanged",
+                "4) Become zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A cyclotron is used to accelerate:",
+            "options": [
+                "1) Electrons",
+                "2) Neutrons",
+                "3) Heavy charged particles",
+                "4) Photons"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The self-inductance of a coil is analogous to which quantity in mechanics?",
+            "options": [
+                "1) Momentum",
+                "2) Force",
+                "3) Inertia (Mass)",
+                "4) Velocity"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an LCR series circuit at resonance, the impedance is:",
+            "options": [
+                "1) Maximum",
+                "2) Minimum and equal to R",
+                "3) Zero",
+                "4) Infinite"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Electromagnetic waves transport:",
+            "options": [
+                "1) Only energy",
+                "2) Only momentum",
+                "3) Both energy and momentum",
+                "4) Charge"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Total internal reflection is possible only when light travels from:",
+            "options": [
+                "1) Rarer to denser medium",
+                "2) Denser to rarer medium",
+                "3) Vacuum to air",
+                "4) Any medium to vacuum only"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Photoelectric emission occurs only if the frequency of incident light is greater than:",
+            "options": [
+                "1) Threshold frequency",
+                "2) Critical frequency",
+                "3) Resonant frequency",
+                "4) Infrared frequency"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The transition from n=4 to n=2 in a hydrogen atom emits a photon in the:",
+            "options": [
+                "1) Lyman series",
+                "2) Balmer series",
+                "3) Paschen series",
+                "4) Brackett series"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A p-n junction diode offers:",
+            "options": [
+                "1) High resistance in both directions",
+                "2) Low resistance in both directions",
+                "3) Low resistance in forward bias and high in reverse bias",
+                "4) High resistance in forward bias and low in reverse bias"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A car accelerates from rest at 2 m/s^2. The distance traveled in 5 seconds is (in meters):",
+            "answer": "25"
+        },
+        {
+            "type": "numerical",
+            "question": "The time period of a simple pendulum of length 1 m (taking g = pi^2 m/s^2) is (in seconds):",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "An ideal gas is compressed to half its volume at constant temperature. If the initial pressure was 1 atm, the final pressure is (in atm):",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "Two charges 10 uC and -10 uC are separated by 2 mm. The electric dipole moment magnitude is (in 10^-8 C.m):",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A step-down transformer converts 200 V to 20 V. If the primary has 500 turns, the number of secondary turns is:",
+            "answer": "50"
+        }
+    ]
+}

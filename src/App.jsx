@@ -1,9 +1,10 @@
-import React, { useEffect, useState } from "react";
-import { Link, Routes, Route } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { Link, Routes, Route, useLocation } from "react-router-dom";
 
 import logo from "./assets/logo.png";
 import phonecall from "./assets/phonecall.png";
 
+import whatsapp from "./assets/whatsapp.png";
 import BlogContent from "./pages/BlogContent";
 import Home from "./pages/Home";
 import Courses from "./pages/Courses";
@@ -13,7 +14,14 @@ import Contact from "./pages/Contact";
 import Footer from "./pages/Footer";
 import Brochure from "./pages/Brochure";
 import Head from "./pages/Head";
-import Resources from "./pages/Resources";
+import { ResourceRoutes } from "./resources";
+import JeeMockTest from "./pages/JeeMockTest";
+import JeeMockSubject from "./pages/JeeMockSubject";
+import JeeMockTestPage from "./assets/JeeMockTestPage";
+import ClatPyqYears from "./pages/ClatPyqYears";
+import ClatPyqYear from "./pages/ClatPyqYear";
+import ClatPyqCategory from "./pages/ClatPyqCategory";
+import ClatPyqExamPage from "./pages/ClatPyqExamPage";
 
 import Clat from "./section/Clat";
 import Cuet from "./section/Cuet";
@@ -21,148 +29,82 @@ import Mock from "./section/Mock";
 
 import ClatContent from "./pages/ClatContent";
 import CourseContent from "./pages/CourseContent";
-import ScrolltoHash from './section/ScrolltoHash'
+import LegalPage from "./pages/LegalPage";
+import NotificationDetailPage from "./pages/NotificationDetailPage";
+import Notifications from "./pages/Notifications";
+import CookieConsent from "./components/CookieConsent";
+import SeoManager from "./components/SeoManager";
 
 import "./index.css";
 
 const App = () => {
+  const location = useLocation();
+  const isExamRoute = /^\/(?:jeemocktest\/[^/]+\/test\/\d+|clat-pyq\/\d+\/(?:ug|pg)\/[^/]+)\/?$/.test(
+    location.pathname
+  );
+  const hideSiteChrome = isExamRoute;
+
+  useEffect(() => {
+    if (!isExamRoute) return undefined;
+
+    const root = document.documentElement;
+    const previousRootOverflow = root.style.overflow;
+    const previousBodyOverflow = document.body.style.overflow;
+    const previousRootOverscroll = root.style.overscrollBehavior;
+    const previousBodyOverscroll = document.body.style.overscrollBehavior;
+
+    root.style.overflow = "hidden";
+    document.body.style.overflow = "hidden";
+    root.style.overscrollBehavior = "none";
+    document.body.style.overscrollBehavior = "none";
+
+    return () => {
+      root.style.overflow = previousRootOverflow;
+      document.body.style.overflow = previousBodyOverflow;
+      root.style.overscrollBehavior = previousRootOverscroll;
+      document.body.style.overscrollBehavior = previousBodyOverscroll;
+    };
+  }, [isExamRoute]);
+
   // =====================================================
   // NAVBAR STATES
   // =====================================================
 
   const [menuOpen, setMenuOpen] = useState(false);
   const [coursesOpen, setCoursesOpen] = useState(false);
-
-  // =====================================================
-  // POPUP
-  // TRUE = popup automatically appears on page load
-  // =====================================================
-
-  const [popupOpen, setPopupOpen] = useState(false);
-
-  // =====================================================
-  // FORM DATA
-  // =====================================================
-
-  const [formData, setFormData] = useState({
-    full_name: "",
-    phone: "",
-    preferred_time: "",
-    message: "",
-  });
-
-  const [loading, setLoading] = useState(false);
-  const [success, setSuccess] = useState("");
-  const [error, setError] = useState("");
-
-  // =====================================================
-  // FORM INPUT CHANGE
-  // =====================================================
-
-  const handleChange = (e) => {
-    const { name, value } = e.target;
-
-    setFormData((prev) => ({
-      ...prev,
-      [name]: value,
-    }));
-  };
-
-  // =====================================================
-  // CLOSE MOBILE MENU
-  // =====================================================
-
-  const closeMobileMenu = () => {
-    setMenuOpen(false);
-    setCoursesOpen(false);
-  };
-
-  // =====================================================
-  // CLOSE POPUP
-  // =====================================================
-
-  const closePopup = () => {
-    setPopupOpen(false);
-    setError("");
-    setSuccess("");
-  };
-
-  // =====================================================
-  // ESC KEY CLOSE POPUP
-  // =====================================================
+  const [mockOpen, setMockOpen] = useState(false);
+  const [resourceOpen, setResourceOpen] = useState(false);
+  const [whatsappVisible, setWhatsappVisible] = useState(true);
+  const [callVisible, setCallVisible] = useState(true);
+  const [finishedPageKey, setFinishedPageKey] = useState(null);
+  const pageLoading = finishedPageKey !== location.key;
 
   useEffect(() => {
-    const handleEscape = (event) => {
-      if (event.key === "Escape" && popupOpen) {
-        closePopup();
+    const timer = window.setTimeout(
+      () => setFinishedPageKey(location.key),
+      1000
+    );
+
+    return () => window.clearTimeout(timer);
+  }, [location.key]);
+
+  useEffect(() => {
+    if (location.pathname === "/contact") return;
+
+    window.scrollTo(0, 0);
+  }, [location.key, location.pathname]);
+
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      if (event.key === "Escape") {
+        setCoursesOpen(false);
+        setMockOpen(false);
       }
     };
 
-    document.addEventListener("keydown", handleEscape);
-
-    return () => {
-      document.removeEventListener("keydown", handleEscape);
-    };
-  }, [popupOpen]);
-
-  // =====================================================
-  // FORM SUBMIT
-  // =====================================================
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-
-    setLoading(true);
-    setSuccess("");
-    setError("");
-
-    try {
-      const response = await fetch("http://localhost:5000/api/contact", {
-        method: "POST",
-
-        headers: {
-          "Content-Type": "application/json",
-        },
-
-        body: JSON.stringify(formData),
-      });
-
-      const data = await response.json();
-
-      if (!response.ok) {
-        throw new Error(data.message || "Something went wrong");
-      }
-
-      // SUCCESS
-      setSuccess(
-        data.message ||
-        "Your enquiry has been submitted successfully!"
-      );
-
-      // CLEAR FORM
-      setFormData({
-        full_name: "",
-        phone: "",
-        preferred_time: "",
-        message: "",
-      });
-
-      // CLOSE POPUP AFTER SUCCESS
-      setTimeout(() => {
-        setPopupOpen(false);
-        setSuccess("");
-      }, 1500);
-    } catch (err) {
-      console.error("Form error:", err);
-
-      setError(
-        err.message ||
-        "Unable to submit form. Please try again."
-      );
-    } finally {
-      setLoading(false);
-    }
-  };
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, []);
 
   // =====================================================
   // ROUTE NAVIGATION HELPER
@@ -171,51 +113,55 @@ const App = () => {
   const handleNavigation = () => {
     setMenuOpen(false);
     setCoursesOpen(false);
+    setMockOpen(false);
+    setResourceOpen(false);
   };
 
   return (
     <div className="min-h-screen bg-white">
+      <SeoManager />
       {/* =================================================
           TOP HEAD
       ================================================== */}
 
-      <Head />
+      {!hideSiteChrome && <Head />}
 
       {/* =================================================
           NAVBAR
       ================================================== */}
 
-      <nav
-        className="
+      {!isExamRoute && (
+        <nav
+          className="
           sticky top-0 z-[9998] relative w-full
           bg-red-900 text-white
           pointer-events-auto
         "
-      >
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+        >
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 
-          {/* =================================================
+            {/* =================================================
               NAVBAR MAIN ROW
           ================================================== */}
 
-          <div className="flex h-16 items-center justify-between gap-2">
+            <div className="flex h-16 items-center justify-between gap-2">
 
-            {/* =================================================
+              {/* =================================================
                 LOGO + BRAND
             ================================================== */}
 
-            <div className="flex items-center gap-2">
+              <div className="flex items-center gap-2">
 
-              {/* LOGO */}
-              <Link
-                to="/"
-                onClick={handleNavigation}
-                className="shrink-0"
-              >
-                <img
-                  src={logo}
-                  alt="World Wise Education"
-                  className="
+                {/* LOGO */}
+                <Link
+                  to="/"
+                  onClick={handleNavigation}
+                  className="shrink-0"
+                >
+                  <img
+                    src={logo}
+                    alt="World Wise Education"
+                    className="
                     h-10 w-10
                     rounded-full
                     border-2 border-white
@@ -223,40 +169,54 @@ const App = () => {
                     object-cover
                     sm:h-12 sm:w-12
                   "
-                />
-              </Link>
+                  />
+                </Link>
 
-              {/* BRAND NAME */}
-              <Link
-                to="/"
-                onClick={handleNavigation}
-                className="
+                {/* BRAND NAME */}
+                <Link
+                  to="/"
+                  onClick={handleNavigation}
+                  className="
                   whitespace-nowrap
                   text-lg font-bold
                   text-white no-underline
                   sm:text-xl
                 "
-              >
-                World Wise
-                <span className="text-red-400">
-                  {" "}Education
-                </span>
-              </Link>
-            </div>
+                >
+                  World Wise
+                  <span className="text-red-400">
+                    {" "}Education
+                  </span>
+                </Link>
+              </div>
 
-            {/* =================================================
-                MOBILE HAMBURGER
+              {/* =================================================
+                MOBILE NOTIFICATIONS + HAMBURGER
             ================================================== */}
 
-            <button
-              type="button"
-              aria-label="Toggle menu"
-              aria-expanded={menuOpen}
-              onClick={() => {
-                setMenuOpen((prev) => !prev);
-                setCoursesOpen(false);
-              }}
-              className="
+              <div className="flex items-center gap-1 lg:hidden">
+                <Link
+                  to="/notifications"
+                  onClick={handleNavigation}
+                  aria-label="View all notifications"
+                  className="inline-flex h-10 w-10 items-center justify-center rounded-md text-white no-underline hover:bg-gray-700 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-300"
+                >
+                  <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 17h5l-1.4-1.4A2 2 0 0118 14.2V11a6 6 0 10-12 0v3.2c0 .5-.2 1-.6 1.4L4 17h5m6 0a3 3 0 11-6 0m6 0H9" />
+                  </svg>
+                </Link>
+
+                <button
+                type="button"
+                aria-label="Toggle menu"
+                aria-expanded={menuOpen}
+                onClick={() => {
+                  setMenuOpen((prev) => !prev);
+                  setCoursesOpen(false);
+                  setMockOpen(false);
+                  setResourceOpen(false);
+                }}
+                className="
                 inline-flex items-center justify-center
                 rounded-md p-2
                 text-white
@@ -264,51 +224,52 @@ const App = () => {
                 focus:outline-none
                 lg:hidden
               "
-            >
-              <svg
-                className="h-6 w-6"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
               >
-                {menuOpen ? (
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    d="M6 18L18 6M6 6l12 12"
-                  />
-                ) : (
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    d="M4 6h16M4 12h16M4 18h16"
-                  />
-                )}
-              </svg>
-            </button>
+                <svg
+                  className="h-6 w-6"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  {menuOpen ? (
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
+                      d="M6 18L18 6M6 6l12 12"
+                    />
+                  ) : (
+                    <path
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
+                      d="M4 6h16M4 12h16M4 18h16"
+                    />
+                  )}
+                </svg>
+              </button>
+              </div>
 
-            {/* =================================================
+              {/* =================================================
                 DESKTOP MENU
             ================================================== */}
 
-            <div
-              className="
+              <div
+                className="
                 relative z-[9998]
                 hidden items-center
                 lg:flex
                 pointer-events-auto
               "
-            >
-              <ul className="flex items-center space-x-2">
+              >
+                <ul className="flex items-center space-x-2">
 
-                {/* HOME */}
-                <li>
-                  <Link
-                    to="/"
-                    onClick={handleNavigation}
-                    className="
+                  {/* HOME */}
+                  <li>
+                    <Link
+                      to="/"
+                      onClick={handleNavigation}
+                      className="
                       block rounded-md
                       px-3 py-2
                       text-white no-underline
@@ -318,26 +279,26 @@ const App = () => {
                       hover:text-black
                       hover:shadow-xl
                     "
-                  >
-                    Home
-                  </Link>
-                </li>
+                    >
+                      Home
+                    </Link>
+                  </li>
 
-                {/* =================================================
+                  {/* =================================================
                     COURSES DROPDOWN
                 ================================================== */}
 
-                <li
-                  className="relative"
-                  onMouseLeave={() => setCoursesOpen(false)}
-                >
-                  <button
-                    type="button"
-                    aria-expanded={coursesOpen}
-                    onClick={() =>
-                      setCoursesOpen((prev) => !prev)
-                    }
-                    className="
+                  <li className="relative">
+                    <button
+                      type="button"
+                      aria-controls="desktop-courses-menu"
+                      aria-expanded={coursesOpen}
+                      onClick={() => {
+                        setCoursesOpen((prev) => !prev);
+                        setMockOpen(false);
+                        setResourceOpen(false);
+                      }}
+                      className="
                       flex items-center gap-1
                       rounded-md
                       px-3 py-2
@@ -347,213 +308,360 @@ const App = () => {
                       hover:bg-gray-100
                       hover:text-black
                       hover:shadow-xl
+                      focus-visible:outline focus-visible:outline-2
+                      focus-visible:outline-offset-2 focus-visible:outline-yellow-300
                     "
-                  >
-                    Courses
-
-                    <svg
-                      className={`h-4 w-4 transition-transform ${coursesOpen ? "rotate-180" : ""
-                        }`}
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
                     >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth="2"
-                        d="M19 9l-7 7-7-7"
-                      />
-                    </svg>
-                  </button>
+                      Courses
 
-                  {/* DROPDOWN */}
-                  {coursesOpen && (
-                    <ul
-                      className="
-                        absolute right-0 z-[10000]
-                        mt-2 w-56
-                        rounded-md
-                        bg-white
-                        py-2
-                        shadow-xl
+                      <svg
+                        className={`h-4 w-4 transition-transform ${coursesOpen ? "rotate-180" : ""
+                          }`}
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth="2"
+                          d="M19 9l-7 7-7-7"
+                        />
+                      </svg>
+                    </button>
+
+                    {/* DROPDOWN */}
+                    {coursesOpen && (
+                      <ul
+                        id="desktop-courses-menu"
+                        aria-label="Course links"
+                        className="
+                        absolute right-0 top-full z-[10000]
+                        w-64 overflow-hidden
+                        rounded-xl border border-gray-100
+                        bg-white p-2 text-gray-800
+                        shadow-2xl shadow-black/20
+                        ring-1 ring-black/5
                       "
+                      >
+                        <li>
+                          <Link
+                            to="/courses"
+                            onClick={handleNavigation}
+                            className="
+                            block rounded-lg px-4 py-3
+                            text-sm font-bold text-red-900 no-underline
+                            transition-colors hover:bg-red-50
+                            focus-visible:outline focus-visible:outline-2
+                            focus-visible:outline-red-800
+                          "
+                          >
+                            <span className="block">All Courses</span>
+                            <span className="mt-1 block text-xs font-normal text-gray-500">
+                              Browse every preparation option
+                            </span>
+                          </Link>
+                        </li>
+                        <li className="my-1 border-t border-gray-100" aria-hidden="true" />
+                        <li>
+                          <Link
+                            to="/clat"
+                            onClick={handleNavigation}
+                            className="
+                            block rounded-lg px-4 py-3
+                            text-sm font-semibold text-gray-700 no-underline
+                            transition-colors hover:bg-red-50 hover:text-red-900
+                            focus-visible:outline focus-visible:outline-2
+                            focus-visible:outline-red-800
+                          "
+                          >
+                            CLAT Preparation
+                          </Link>
+                        </li>
+
+                        <li>
+                          <Link
+                            to="/cuet"
+                            onClick={handleNavigation}
+                            className="
+                            block rounded-lg px-4 py-3
+                            text-sm font-semibold text-gray-700 no-underline
+                            transition-colors hover:bg-red-50 hover:text-red-900
+                            focus-visible:outline focus-visible:outline-2
+                            focus-visible:outline-red-800
+                          "
+                          >
+                            CUET Preparation
+                          </Link>
+                        </li>
+
+                      </ul>
+                    )}
+                  </li>
+
+                  {/* BLOGS */}
+                  <li>
+                    <Link
+                      to="/blogs"
+                      onClick={handleNavigation}
+                      className="
+                      block rounded-md
+                      px-3 py-2
+                      text-white no-underline
+                      hover:bg-gray-100
+                      hover:text-black
+                    "
                     >
-                      <li>
-                        <Link
-                          to="/clat"
-                          onClick={handleNavigation}
-                          className="
-                            block px-4 py-2
-                            text-gray-700 no-underline
-                            hover:bg-gray-100
-                            hover:text-red-900
-                          "
-                        >
-                          CLAT Courses
-                        </Link>
-                      </li>
+                      Blogs
+                    </Link>
+                  </li>
 
-                      <li>
-                        <Link
-                          to="/cuet"
-                          onClick={handleNavigation}
-                          className="
-                            block px-4 py-2
-                            text-gray-700 no-underline
-                            hover:bg-gray-100
-                            hover:text-red-900
-                          "
-                        >
-                          CUET Courses
-                        </Link>
-                      </li>
-
-                      <li>
-                        <Link
-                          to="/mock"
-                          onClick={handleNavigation}
-                          className="
-                            block px-4 py-2
-                            text-gray-700 no-underline
-                            hover:bg-gray-100
-                            hover:text-red-900
-                          "
-                        >
-                          Mock Tests
-                        </Link>
-                      </li>
-                    </ul>
-                  )}
-                </li>
-
-                {/* BLOGS */}
-                <li>
-                  <Link
-                    to="/blogs"
-                    onClick={handleNavigation}
-                    className="
+                  {/* ABOUT */}
+                  <li>
+                    <Link
+                      to="/about"
+                      onClick={handleNavigation}
+                      className="
                       block rounded-md
                       px-3 py-2
                       text-white no-underline
                       hover:bg-gray-100
                       hover:text-black
                     "
-                  >
-                    Blogs
-                  </Link>
-                </li>
+                    >
+                      About
+                    </Link>
+                  </li>
 
-                {/* ABOUT */}
-                <li>
-                  <Link
-                    to="/about"
-                    onClick={handleNavigation}
-                    className="
+                  {/* MOCK TESTS DROPDOWN */}
+                  <li className="relative">
+                    <button
+                      type="button"
+                      aria-controls="desktop-mock-menu"
+                      aria-expanded={mockOpen}
+                      onClick={() => {
+                        setMockOpen((prev) => !prev);
+                        setCoursesOpen(false);
+                        setResourceOpen(false);
+                      }}
+                      className="
+                      flex items-center gap-1
+                      rounded-md
+                      px-3 py-2
+                      text-white
+                      shadow-md
+                      transition-shadow duration-300
+                      hover:bg-gray-100
+                      hover:text-black
+                      hover:shadow-xl
+                      focus-visible:outline focus-visible:outline-2
+                      focus-visible:outline-offset-2 focus-visible:outline-yellow-300
+                    "
+                    >
+                      Mock Tests
+
+                      <svg
+                        className={`h-4 w-4 transition-transform ${mockOpen ? "rotate-180" : ""
+                          }`}
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth="2"
+                          d="M19 9l-7 7-7-7"
+                        />
+                      </svg>
+                    </button>
+
+                    {mockOpen && (
+                      <ul
+                        id="desktop-mock-menu"
+                        aria-label="Mock test links"
+                        className="
+                        absolute right-0 top-full z-[10000]
+                        w-64 overflow-hidden
+                        rounded-xl border border-gray-100
+                        bg-white p-2 text-gray-800
+                        shadow-2xl shadow-black/20
+                        ring-1 ring-black/5
+                      "
+                      >
+                        <li>
+                          <Link
+                            to="/mock#clat-mock"
+                            onClick={handleNavigation}
+                            className="
+                            block rounded-lg px-4 py-3
+                            text-sm font-semibold text-gray-700 no-underline
+                            transition-colors hover:bg-red-50 hover:text-red-900
+                            focus-visible:outline focus-visible:outline-2
+                            focus-visible:outline-red-800
+                          "
+                          >
+                            CLAT Mock Tests
+                          </Link>
+                        </li>
+
+                        <li>
+                          <Link
+                            to="/mock#cuet-mock"
+                            onClick={handleNavigation}
+                            className="
+                            block rounded-lg px-4 py-3
+                            text-sm font-semibold text-gray-700 no-underline
+                            transition-colors hover:bg-red-50 hover:text-red-900
+                            focus-visible:outline focus-visible:outline-2
+                            focus-visible:outline-red-800
+                          "
+                          >
+                            CUET Mock Tests
+                          </Link>
+                        </li>
+
+                        <li>
+                          <Link
+                            to="/jeemocktest"
+                            onClick={handleNavigation}
+                            className="
+                            block rounded-lg px-4 py-3
+                            text-sm font-semibold text-gray-700 no-underline
+                            transition-colors hover:bg-red-50 hover:text-red-900
+                            focus-visible:outline focus-visible:outline-2
+                            focus-visible:outline-red-800
+                          "
+                          >
+                            JEE Mock Tests
+                          </Link>
+                        </li>
+                      </ul>
+                    )}
+                  </li>
+
+                  {/* RESOURCES DROPDOWN */}
+                  <li className="relative">
+                    <button
+                      type="button"
+                      aria-controls="desktop-resources-menu"
+                      aria-expanded={resourceOpen}
+                      onClick={() => {
+                        setResourceOpen((prev) => !prev);
+                        setCoursesOpen(false);
+                        setMockOpen(false);
+                      }}
+                      className="flex items-center gap-1 rounded-md px-3 py-2 text-white shadow-md transition-shadow duration-300 hover:bg-gray-100 hover:text-black hover:shadow-xl focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-300"
+                    >
+                      Resources
+                      <svg className={`h-4 w-4 transition-transform ${resourceOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button>
+
+                    {resourceOpen && (
+                      <ul
+                        id="desktop-resources-menu"
+                        aria-label="Study resource links"
+                        className="absolute right-0 top-full z-[10000] w-64 overflow-hidden rounded-xl border border-gray-100 bg-white p-2 text-gray-800 shadow-2xl shadow-black/20 ring-1 ring-black/5"
+                      >
+                        <li>
+                          <Link to="/resources" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm font-bold text-red-900 no-underline transition-colors hover:bg-red-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-red-800">
+                            <span className="block">All Resources</span>
+                            <span className="mt-1 block text-xs font-normal text-gray-500">Browse every study resource</span>
+                          </Link>
+                        </li>
+                        <li className="my-1 border-t border-gray-100" aria-hidden="true" />
+                        <li><Link to="/resources/clat" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm font-semibold text-gray-700 no-underline transition-colors hover:bg-red-50 hover:text-red-900">CLAT</Link></li>
+                        <li><Link to="/resources/cuet" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm font-semibold text-gray-700 no-underline transition-colors hover:bg-red-50 hover:text-red-900">CUET</Link></li>
+                        <li><Link to="/resources/jee" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm font-semibold text-gray-700 no-underline transition-colors hover:bg-red-50 hover:text-red-900">JEE</Link></li>
+                      </ul>
+                    )}
+                  </li>
+
+                  {/* CONTACT */}
+                  <li>
+                    <Link
+                      to="/contact#contact-form"
+
+                      onClick={handleNavigation}
+                      className="
                       block rounded-md
                       px-3 py-2
                       text-white no-underline
                       hover:bg-gray-100
                       hover:text-black
-                    "
-                  >
-                    About
-                  </Link>
-                </li>
-
-                {/* RESOURCES */}
-                <li>
-                  <Link
-                    to="/resources"
-                    onClick={handleNavigation}
-                    className="
-                      block rounded-md
-                      px-3 py-2
-                      text-white no-underline
-                      hover:bg-gray-100
-                      hover:text-black
-                    "
-                  >
-                    Resources
-                  </Link>
-                </li>
-
-                {/* CONTACT */}
-                <li>
-                  <Link
-                    to="/contact#contact-form"
-
-                    onClick={handleNavigation}
-                    className="
-                      inline-block rounded-md
-                      px-3 py-2
-                      text-white no-underline
-                      hover:bg-gray-100
-                      hover:text-black
-                          font-bold
-    px-6
-    sm:px-8
-    py-2.5
-    sm:py-3
-    rounded-lg
-    text-sm
-    sm:text-base
-    transition-all
-    duration-300
-    hover:-translate-y-1
-    hover:shadow-xl
 
                     "
-                  >
-                    Contact
-                  </Link>
-                </li>
+                    >
+                      Contact
+                    </Link>
+                  </li>
 
-              </ul>
+                  {/* NOTIFICATIONS */}
+                  <li>
+                    <Link
+                      to="/notifications"
+                      onClick={handleNavigation}
+                      aria-label="View all notifications"
+                      title="All notifications"
+                      className="relative flex h-10 w-10 items-center justify-center rounded-md text-white no-underline hover:bg-gray-100 hover:text-red-950 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-300"
+                    >
+                      <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 17h5l-1.4-1.4A2 2 0 0118 14.2V11a6 6 0 10-12 0v3.2c0 .5-.2 1-.6 1.4L4 17h5m6 0a3 3 0 11-6 0m6 0H9" />
+                      </svg>
+                      <span className="absolute right-1.5 top-1.5 h-2 w-2 rounded-full border border-red-900 bg-yellow-300" aria-hidden="true" />
+                    </Link>
+                  </li>
+
+                </ul>
+              </div>
             </div>
-          </div>
 
-          {/* =================================================
+            {/* =================================================
               MOBILE MENU
           ================================================== */}
 
-          {menuOpen && (
-            <div
-              className="
+            {menuOpen && (
+              <div
+                className="
                 relative z-[9998]
                 bg-red-900
                 pb-4
                 lg:hidden
               "
-            >
-              <ul className="space-y-1">
+              >
+                <ul className="space-y-1">
 
-                {/* HOME */}
-                <li>
-                  <Link
-                    to="/"
-                    onClick={handleNavigation}
-                    className="
+                  {/* HOME */}
+                  <li>
+                    <Link
+                      to="/"
+                      onClick={handleNavigation}
+                      className="
                       block rounded-md
                       px-3 py-2
                       text-white no-underline
                       hover:bg-gray-100
                       hover:text-black
                     "
-                  >
-                    Home
-                  </Link>
-                </li>
+                    >
+                      Home
+                    </Link>
+                  </li>
 
-                {/* MOBILE COURSES */}
-                <li>
-                  <button
-                    type="button"
-                    aria-expanded={coursesOpen}
-                    onClick={() =>
-                      setCoursesOpen((prev) => !prev)
-                    }
-                    className="
+                  {/* MOBILE COURSES */}
+                  <li>
+                    <button
+                      type="button"
+                      aria-controls="mobile-courses-menu"
+                      aria-expanded={coursesOpen}
+                      onClick={() => {
+                        setCoursesOpen((prev) => !prev);
+                        setMockOpen(false);
+                        setResourceOpen(false);
+                      }}
+                      className="
                       flex w-full
                       items-center justify-between
                       rounded-md
@@ -561,428 +669,347 @@ const App = () => {
                       text-white
                       hover:bg-gray-100
                       hover:text-black
+                      focus-visible:outline focus-visible:outline-2
+                      focus-visible:outline-offset-2 focus-visible:outline-yellow-300
                     "
-                  >
-                    <span>Courses</span>
-
-                    <svg
-                      className={`h-4 w-4 transition-transform ${coursesOpen ? "rotate-180" : ""
-                        }`}
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
                     >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth="2"
-                        d="M19 9l-7 7-7-7"
-                      />
-                    </svg>
-                  </button>
+                      <span>Courses</span>
 
-                  {coursesOpen && (
-                    <div className="ml-4 mt-1 space-y-1">
-
-                      <Link
-                        to="/clat"
-                        onClick={handleNavigation}
-                        className="
-                          block rounded-md
-                          px-3 py-2
-                          text-sm text-gray-200
-                          no-underline
-                          hover:bg-gray-100
-                          hover:text-black
-                        "
+                      <svg
+                        className={`h-4 w-4 transition-transform ${coursesOpen ? "rotate-180" : ""
+                          }`}
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
                       >
-                        CLAT Courses
-                      </Link>
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth="2"
+                          d="M19 9l-7 7-7-7"
+                        />
+                      </svg>
+                    </button>
 
-                      <Link
-                        to="/cuet"
-                        onClick={handleNavigation}
-                        className="
-                          block rounded-md
-                          px-3 py-2
-                          text-sm text-gray-200
-                          no-underline
-                          hover:bg-gray-100
-                          hover:text-black
-                        "
+                    {coursesOpen && (
+                      <div
+                        id="mobile-courses-menu"
+                        className="ml-2 mt-2 space-y-1 rounded-xl border border-white/10 bg-white/10 p-2"
                       >
-                        CUET Courses
-                      </Link>
 
-                      <Link
-                        to="/mock"
-                        onClick={handleNavigation}
-                        className="
-                          block rounded-md
-                          px-3 py-2
-                          text-sm text-gray-200
-                          no-underline
-                          hover:bg-gray-100
-                          hover:text-black
+                        <Link
+                          to="/courses"
+                          onClick={handleNavigation}
+                          className="
+                          block rounded-lg
+                          px-4 py-3
+                          text-sm font-semibold text-white
+                          no-underline transition-colors
+                          hover:bg-white hover:text-red-900
+                          focus-visible:outline focus-visible:outline-2
+                          focus-visible:outline-yellow-300
                         "
+                        >
+                          All Courses
+                        </Link>
+
+                        <Link
+                          to="/clat"
+                          onClick={handleNavigation}
+                          className="
+                          block rounded-lg
+                          px-4 py-3
+                          text-sm text-gray-100
+                          no-underline transition-colors
+                          hover:bg-white hover:text-red-900
+                          focus-visible:outline focus-visible:outline-2
+                          focus-visible:outline-yellow-300
+                        "
+                        >
+                          CLAT Preparation
+                        </Link>
+
+                        <Link
+                          to="/cuet"
+                          onClick={handleNavigation}
+                          className="
+                          block rounded-lg
+                          px-4 py-3
+                          text-sm text-gray-100
+                          no-underline transition-colors
+                          hover:bg-white hover:text-red-900
+                          focus-visible:outline focus-visible:outline-2
+                          focus-visible:outline-yellow-300
+                        "
+                        >
+                          CUET Preparation
+                        </Link>
+
+                      </div>
+                    )}
+                  </li>
+
+                  {/* MOBILE MOCK TESTS */}
+                  <li>
+                    <button
+                      type="button"
+                      aria-controls="mobile-mock-menu"
+                      aria-expanded={mockOpen}
+                      onClick={() => {
+                        setMockOpen((prev) => !prev);
+                        setCoursesOpen(false);
+                        setResourceOpen(false);
+                      }}
+                      className="
+                      flex w-full
+                      items-center justify-between
+                      rounded-md
+                      px-3 py-2
+                      text-white
+                      hover:bg-gray-100
+                      hover:text-black
+                      focus-visible:outline focus-visible:outline-2
+                      focus-visible:outline-offset-2 focus-visible:outline-yellow-300
+                    "
+                    >
+                      <span>Mock Tests</span>
+
+                      <svg
+                        className={`h-4 w-4 transition-transform ${mockOpen ? "rotate-180" : ""
+                          }`}
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
                       >
-                        Mock Tests
-                      </Link>
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth="2"
+                          d="M19 9l-7 7-7-7"
+                        />
+                      </svg>
+                    </button>
 
-                    </div>
-                  )}
-                </li>
+                    {mockOpen && (
+                      <div
+                        id="mobile-mock-menu"
+                        className="ml-2 mt-2 space-y-1 rounded-xl border border-white/10 bg-white/10 p-2"
+                      >
 
-                {/* BLOGS */}
-                <li>
-                  <Link
-                    to="/blogs"
-                    onClick={handleNavigation}
-                    className="
+                        <Link
+                          to="/mock#clat-mock"
+                          onClick={handleNavigation}
+                          className="
+                          block rounded-lg
+                          px-4 py-3
+                          text-sm text-gray-100
+                          no-underline transition-colors
+                          hover:bg-white hover:text-red-900
+                          focus-visible:outline focus-visible:outline-2
+                          focus-visible:outline-yellow-300
+                        "
+                        >
+                          CLAT Mock Tests
+                        </Link>
+
+                        <Link
+                          to="/mock#cuet-mock"
+                          onClick={handleNavigation}
+                          className="
+                          block rounded-lg
+                          px-4 py-3
+                          text-sm text-gray-100
+                          no-underline transition-colors
+                          hover:bg-white hover:text-red-900
+                          focus-visible:outline focus-visible:outline-2
+                          focus-visible:outline-yellow-300
+                        "
+                        >
+                          CUET Mock Tests
+                        </Link>
+
+                        <Link
+                          to="/jeemocktest"
+                          onClick={handleNavigation}
+                          className="
+                          block rounded-lg
+                          px-4 py-3
+                          text-sm text-gray-100
+                          no-underline transition-colors
+                          hover:bg-white hover:text-red-900
+                          focus-visible:outline focus-visible:outline-2
+                          focus-visible:outline-yellow-300
+                        "
+                        >
+                          JEE Mock Tests
+                        </Link>
+
+                      </div>
+                    )}
+                  </li>
+
+                  {/* BLOGS */}
+                  <li>
+                    <Link
+                      to="/blogs"
+                      onClick={handleNavigation}
+                      className="
                       block rounded-md
                       px-3 py-2
                       text-white no-underline
                       hover:bg-gray-100
                       hover:text-black
                     "
-                  >
-                    Blogs
-                  </Link>
-                </li>
+                    >
+                      Blogs
+                    </Link>
+                  </li>
 
-                {/* ABOUT */}
-                <li>
-                  <Link
-                    to="/about"
-                    onClick={handleNavigation}
-                    className="
+                  {/* ABOUT */}
+                  <li>
+                    <Link
+                      to="/about"
+                      onClick={handleNavigation}
+                      className="
                       block rounded-md
                       px-3 py-2
                       text-white no-underline
                       hover:bg-gray-100
                       hover:text-black
                     "
-                  >
-                    About
-                  </Link>
-                </li>
+                    >
+                      About
+                    </Link>
+                  </li>
 
-                {/* RESOURCES */}
-                <li>
-                  <Link
-                    to="/resources"
-                    onClick={handleNavigation}
-                    className="
+                  {/* MOBILE RESOURCES */}
+                  <li>
+                    <button
+                      type="button"
+                      aria-controls="mobile-resources-menu"
+                      aria-expanded={resourceOpen}
+                      onClick={() => {
+                        setResourceOpen((prev) => !prev);
+                        setCoursesOpen(false);
+                        setMockOpen(false);
+                      }}
+                      className="flex w-full items-center justify-between rounded-md px-3 py-2 text-white hover:bg-gray-100 hover:text-black focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-300"
+                    >
+                      <span>Resources</span>
+                      <svg className={`h-4 w-4 transition-transform ${resourceOpen ? "rotate-180" : ""}`} fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button>
+
+                    {resourceOpen && (
+                      <div id="mobile-resources-menu" className="ml-2 mt-2 space-y-1 rounded-xl border border-white/10 bg-white/10 p-2">
+                        <Link to="/resources" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm font-semibold text-white no-underline transition-colors hover:bg-white hover:text-red-900">All Resources</Link>
+                        <Link to="/resources/clat" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm text-gray-100 no-underline transition-colors hover:bg-white hover:text-red-900">CLAT</Link>
+                        <Link to="/resources/cuet" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm text-gray-100 no-underline transition-colors hover:bg-white hover:text-red-900">CUET</Link>
+                        <Link to="/resources/jee" onClick={handleNavigation} className="block rounded-lg px-4 py-3 text-sm text-gray-100 no-underline transition-colors hover:bg-white hover:text-red-900">JEE</Link>
+                      </div>
+                    )}
+                  </li>
+
+                  {/* CONTACT */}
+                  <li>
+                    <Link
+                      to="/contact#contact-form"
+                      onClick={handleNavigation}
+                      className="
                       block rounded-md
                       px-3 py-2
                       text-white no-underline
                       hover:bg-gray-100
                       hover:text-black
                     "
-                  >
-                    Resources
-                  </Link>
-                </li>
+                    >
+                      Contact
+                    </Link>
+                  </li>
 
-                {/* CONTACT */}
-                <li>
-                  <Link
-                    to="/contact"
-                    onClick={handleNavigation}
-                    className="
-                      block rounded-md
-                      px-3 py-2
-                      text-white no-underline
-                      hover:bg-gray-100
-                      hover:text-black
-                    "
-                  >
-                    Contact
-                  </Link>
-                </li>
-
-              </ul>
-            </div>
-          )}
-        </div>
-      </nav>
+                </ul>
+              </div>
+            )}
+          </div>
+        </nav>
+      )}
 
       {/* =====================================================
-          AUTOMATIC ENQUIRY POPUP
+          FLOATING WHATSAPP BUTTON
       ====================================================== */}
-
-      {popupOpen && (
-        <div
-          className="
-            fixed inset-0
-            z-[99999]
-            flex items-center justify-center
-            bg-black/60
-            px-4
-          "
-          role="dialog"
-          aria-modal="true"
-          aria-labelledby="enquiry-popup-title"
-          onMouseDown={(e) => {
-            if (e.target === e.currentTarget) {
-              closePopup();
-            }
-          }}
-        >
-          <div
+      {whatsappVisible && (
+        <div className="floating-item floating-item--whatsapp">
+          <a
+            href="https://wa.me/919911440545"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Chat with World Wise Education on WhatsApp"
             className="
-              relative
-              max-h-[90vh]
-              w-full max-w-lg
-              overflow-y-auto
-              rounded-xl
-              bg-white
-              p-6
-              shadow-2xl
-              sm:p-8
+              floating
+              z-[110]
+              flex
+              items-center
+              justify-center
             "
-            onMouseDown={(e) => e.stopPropagation()}
           >
-
-            {/* =================================================
-                CLOSE BUTTON
-            ================================================== */}
-
-            <button
-              type="button"
-              onClick={closePopup}
-              aria-label="Close popup"
-              className="
-                absolute right-4 top-3
-                z-10
-                text-3xl font-bold
-                text-gray-500
-                hover:text-red-900
-              "
-            >
-              ×
-            </button>
-
-            {/* TITLE */}
-            <h2
-              id="enquiry-popup-title"
-              className="
-                mb-2 pr-8
-                text-2xl font-bold
-                text-red-900
-                sm:text-3xl
-              "
-            >
-              Request a Call
-            </h2>
-
-            <p className="mb-5 text-sm text-gray-600 sm:text-base">
-              Fill in your details and our team will contact you.
-            </p>
-
-            {/* =================================================
-                FORM
-            ================================================== */}
-
-            <form
-              onSubmit={handleSubmit}
-              className="space-y-4"
-            >
-
-              {/* FULL NAME */}
-              <div>
-                <label
-                  htmlFor="popup-full-name"
-                  className="mb-1 block font-medium text-gray-800"
-                >
-                  Full Name
-                </label>
-
-                <input
-                  id="popup-full-name"
-                  type="text"
-                  name="full_name"
-                  value={formData.full_name}
-                  onChange={handleChange}
-                  placeholder="Enter your full name"
-                  required
-                  className="
-                    w-full rounded-md
-                    border border-gray-300
-                    px-4 py-3
-                    outline-none
-                    focus:border-red-900
-                    focus:ring-1
-                    focus:ring-red-900
-                  "
-                />
-              </div>
-
-              {/* PHONE */}
-              <div>
-                <label
-                  htmlFor="popup-phone"
-                  className="mb-1 block font-medium text-gray-800"
-                >
-                  Phone Number
-                </label>
-
-                <input
-                  id="popup-phone"
-                  type="tel"
-                  name="phone"
-                  value={formData.phone}
-                  onChange={handleChange}
-                  placeholder="Enter phone number"
-                  required
-                  className="
-                    w-full rounded-md
-                    border border-gray-300
-                    px-4 py-3
-                    outline-none
-                    focus:border-red-900
-                    focus:ring-1
-                    focus:ring-red-900
-                  "
-                />
-              </div>
-
-              {/* PREFERRED TIME */}
-              <div>
-                <label
-                  htmlFor="popup-preferred-time"
-                  className="mb-1 block font-medium text-gray-800"
-                >
-                  Preferred Time
-                </label>
-
-                <input
-                  id="popup-preferred-time"
-                  type="text"
-                  name="preferred_time"
-                  value={formData.preferred_time}
-                  onChange={handleChange}
-                  placeholder="Example: 5 PM - 7 PM"
-                  className="
-                    w-full rounded-md
-                    border border-gray-300
-                    px-4 py-3
-                    outline-none
-                    focus:border-red-900
-                    focus:ring-1
-                    focus:ring-red-900
-                  "
-                />
-              </div>
-
-              {/* MESSAGE */}
-              <div>
-                <label
-                  htmlFor="popup-message"
-                  className="mb-1 block font-medium text-gray-800"
-                >
-                  Message
-                </label>
-
-                <textarea
-                  id="popup-message"
-                  name="message"
-                  value={formData.message}
-                  onChange={handleChange}
-                  placeholder="Enter your message"
-                  rows="4"
-                  className="
-                    w-full
-                    resize-none
-                    rounded-md
-                    border border-gray-300
-                    px-4 py-3
-                    outline-none
-                    focus:border-red-900
-                    focus:ring-1
-                    focus:ring-red-900
-                  "
-                />
-              </div>
-
-              {/* ERROR */}
-              {error && (
-                <p className="
-                  rounded-md
-                  bg-red-100
-                  p-2
-                  text-sm
-                  text-red-700
-                ">
-                  {error}
-                </p>
-              )}
-
-              {/* SUCCESS */}
-              {success && (
-                <p className="
-                  rounded-md
-                  bg-green-100
-                  p-2
-                  text-sm
-                  text-green-700
-                ">
-                  {success}
-                </p>
-              )}
-
-              {/* SUBMIT */}
-              <button
-                type="submit"
-                disabled={loading}
-                className="
-                  w-full
-                  rounded-md
-                  bg-red-900
-                  py-3
-                  font-semibold
-                  text-white
-                  transition
-                  hover:bg-red-800
-                  disabled:cursor-not-allowed
-                  disabled:opacity-60
-                "
-              >
-                {loading ? "Submitting..." : "Submit Request"}
-              </button>
-
-            </form>
-          </div>
+            <img
+              src={whatsapp}
+              alt="WhatsApp"
+              className="h-6 w-6"
+            />
+          </a>
+          <button
+            type="button"
+            className="floating-close"
+            aria-label="Close WhatsApp button"
+            onClick={() => setWhatsappVisible(false)}
+          >
+            ×
+          </button>
         </div>
       )}
+
 
       {/* =====================================================
           FLOATING CALL BUTTON
       ====================================================== */}
 
-      <a
-        href="tel:9911440545"
-        aria-label="Call World Wise Education"
-        className="
-          floating
-          z-[110]
-          flex
-          items-center
-          justify-center
-        "
-      >
-        <img
-          src={phonecall}
-          alt="Call us"
-          className="h-6 w-6"
-        />
-      </a>
+      {!isExamRoute && callVisible && (
+        <div className="floating-item">
+          <a
+            href="tel:9911440545"
+            aria-label="Call World Wise Education"
+            className="
+              floating
+              z-[110]
+              flex
+              items-center
+              justify-center
+            "
+          >
+            <img
+              src={phonecall}
+              alt="Call us"
+              className="h-6 w-6"
+            />
+          </a>
+          <button
+            type="button"
+            className="floating-close"
+            aria-label="Close call button"
+            onClick={() => setCallVisible(false)}
+          >
+            ×
+          </button>
+        </div>
+      )}
 
       {/* =====================================================
           ROUTES
       ====================================================== */}
 
-      <main className="relative z-0">
+      <main className={isExamRoute ? "" : "relative z-0"}>
         <Routes>
 
           {/* HOME */}
@@ -1015,6 +1042,27 @@ const App = () => {
             element={<Mock />}
           />
 
+          <Route path="/clat-pyq" element={<ClatPyqYears />} />
+          <Route path="/clat-pyq/:year" element={<ClatPyqYear />} />
+          <Route path="/clat-pyq/:year/:category" element={<ClatPyqCategory />} />
+          <Route path="/clat-pyq/:year/:category/:setName" element={<ClatPyqExamPage key={location.pathname} />} />
+
+          {/* JEE MOCK TESTS */}
+          <Route
+            path="/jeemocktest"
+            element={<JeeMockTest />}
+          />
+
+          <Route
+            path="/jeemocktest/:slug"
+            element={<JeeMockSubject />}
+          />
+
+          <Route
+            path="/jeemocktest/:slug/test/:number"
+            element={<JeeMockTestPage key={location.pathname} />}
+          />
+
           {/* ABOUT */}
           <Route
             path="/about"
@@ -1022,10 +1070,7 @@ const App = () => {
           />
 
           {/* RESOURCES */}
-          <Route
-            path="/resources"
-            element={<Resources />}
-          />
+          <Route path="/resources/*" element={<ResourceRoutes />} />
 
           {/* BLOGS */}
           <Route
@@ -1037,6 +1082,30 @@ const App = () => {
           <Route
             path="/contact"
             element={<Contact />}
+          />
+
+          {/* NOTIFICATIONS */}
+          <Route
+            path="/notifications"
+            element={<Notifications />}
+          />
+          <Route
+            path="/notifications/:slug"
+            element={<NotificationDetailPage />}
+          />
+
+          {/* LEGAL INFORMATION */}
+          <Route
+            path="/privacy-policy"
+            element={<LegalPage type="privacy" />}
+          />
+          <Route
+            path="/cookie-policy"
+            element={<LegalPage type="cookies" />}
+          />
+          <Route
+            path="/terms-of-service"
+            element={<LegalPage type="terms" />}
           />
 
           {/* BROCHURE */}
@@ -1070,7 +1139,47 @@ const App = () => {
           FOOTER
       ====================================================== */}
 
-      <Footer />
+      {!hideSiteChrome && <Footer />}
+
+      {pageLoading && !isExamRoute && (
+        <div
+          className="page-loading-overlay"
+          role="status"
+          aria-live="polite"
+          aria-label="Loading page"
+        >
+          <div className="page-loading-header">
+            <div className="page-loading-brand">
+              <span className="page-skeleton-shimmer page-loading-logo" />
+              <span className="page-skeleton-shimmer page-loading-brand-name" />
+            </div>
+            <div className="page-loading-nav">
+              <span className="page-skeleton-shimmer" />
+              <span className="page-skeleton-shimmer" />
+              <span className="page-skeleton-shimmer" />
+              <span className="page-skeleton-shimmer" />
+              <span className="page-skeleton-shimmer" />
+            </div>
+          </div>
+          <div className="page-loading-content">
+            <span className="page-skeleton-shimmer page-loading-eyebrow" />
+            <span className="page-skeleton-shimmer page-loading-title" />
+            <span className="page-skeleton-shimmer page-loading-description" />
+            <div className="page-loading-hero page-skeleton-shimmer" />
+            <div className="page-loading-cards">
+              {[1, 2, 3].map((item) => (
+                <div className="page-loading-card" key={item}>
+                  <span className="page-skeleton-shimmer page-loading-card-image" />
+                  <span className="page-skeleton-shimmer page-loading-card-title" />
+                  <span className="page-skeleton-shimmer page-loading-card-line" />
+                  <span className="page-skeleton-shimmer page-loading-card-line page-loading-card-line-short" />
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+      <CookieConsent />
     </div>
   );
 };

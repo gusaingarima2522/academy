@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 147",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 27"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle moves along the x-axis such that its velocity is given by v = 2x^2 + x (in m/s, where x is in meters). The acceleration of the particle at x = 2 m is:",
+            "options": [
+                "1) 45 m/s^2",
+                "2) 90 m/s^2",
+                "3) 18 m/s^2",
+                "4) 30 m/s^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 4 kg is placed on a rough horizontal plane with coefficient of static friction 0.4. A force F = 10t N (where t is time in seconds) is applied horizontally. The time at which the block just starts to slide is (g = 10 m/s^2):",
+            "options": [
+                "1) 1.2 s",
+                "2) 1.6 s",
+                "3) 2.0 s",
+                "4) 0.8 s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform solid sphere and a uniform hollow cylinder of the same mass and radius are released from rest from the top of an inclined plane. If both roll without slipping, the ratio of their speeds at the bottom of the incline (v_sphere : v_hollow_cylinder) is:",
+            "options": [
+                "1) sqrt(10/7)",
+                "2) sqrt(7/10)",
+                "3) sqrt(5/7)",
+                "4) sqrt(14/15)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two satellites A and B revolve around a planet in coplanar circular orbits in the same sense. Their periods of revolution are 1 hour and 8 hours respectively. The ratio of the orbital speed of A to that of B is:",
+            "options": [
+                "1) 2:1",
+                "2) 1:2",
+                "3) 4:1",
+                "4) 8:1"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A brass rod of length 2 m and cross-sectional area 2 cm^2 is attached end-to-end to a steel rod of length L and cross-sectional area 1 cm^2. The compound rod is subjected to equal and opposite pulls of magnitude 5 x 10^4 N at its ends. If the elongations of the two rods are equal, then the length L of the steel rod is (Y_brass = 10^11 N/m^2, Y_steel = 2 x 10^11 N/m^2):",
+            "options": [
+                "1) 1 m",
+                "2) 2 m",
+                "3) 1.5 m",
+                "4) 0.5 m"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Eight equal drops of water are falling through air with a steady velocity of 10 cm/s. If the drops coalesce into a single drop, the new terminal velocity will be:",
+            "options": [
+                "1) 10 cm/s",
+                "2) 20 cm/s",
+                "3) 40 cm/s",
+                "4) 80 cm/s"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "One mole of an ideal monoatomic gas is mixed with one mole of an ideal diatomic gas at room temperature. The molar specific heat of the mixture at constant volume (Cv) is:",
+            "options": [
+                "1) 3R/2",
+                "2) 2R",
+                "3) 5R/2",
+                "4) 4R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Carnot engine has an efficiency of 40% when its sink temperature is 27\u00b0C. To increase the efficiency to 60% keeping the sink temperature constant, the source temperature must be increased by:",
+            "options": [
+                "1) 250 K",
+                "2) 500 K",
+                "3) 750 K",
+                "4) 150 K"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two simple harmonic motions acting simultaneously on a particle along the same line are given by x1 = 3 sin(wt) and x2 = 4 sin(wt + pi/2). The amplitude of the resultant oscillation is:",
+            "options": [
+                "1) 7",
+                "2) 1",
+                "3) 5",
+                "4) 3.5"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An open organ pipe of length L vibrates in its fundamental mode. The pressure variation is maximum:",
+            "options": [
+                "1) At the two ends",
+                "2) At the middle of the pipe",
+                "3) At distance L/4 from the ends",
+                "4) Uniformly throughout the pipe"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two point charges +9e and +e are kept at a distance of 16 cm from each other. Where should a third charge q be placed on the line joining them from the +9e charge so that it remains in equilibrium?",
+            "options": [
+                "1) 12 cm",
+                "2) 8 cm",
+                "3) 4 cm",
+                "4) 10 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two capacitors of capacitances 3 uF and 6 uF are charged to a potential of 12 V each. They are now connected to each other, with the positive plate of one joined to the negative plate of the other. The common potential will be:",
+            "options": [
+                "1) 4 V",
+                "2) 6 V",
+                "3) 8 V",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a Wheatstone bridge, the four arms have resistances P = 10 ohms, Q = 100 ohms, R = 25 ohms, and S = 250 ohms. If the battery and galvanometer are interchanged, the bridge will:",
+            "options": [
+                "1) Become unbalanced",
+                "2) Remain balanced",
+                "3) Burn the galvanometer",
+                "4) Show maximum deflection"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A circular coil of 100 turns and radius 10 cm carries a current of 1 A. The magnetic dipole moment of the coil is:",
+            "options": [
+                "1) pi A m^2",
+                "2) 10 pi A m^2",
+                "3) 0.1 pi A m^2",
+                "4) 1 A m^2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A metallic square loop ABCD of side 10 cm and resistance 1 ohm is moved with a uniform velocity v in a uniform magnetic field of 2 T directed perpendicular to the plane of the loop. The loop is completely inside the magnetic field. The induced current in the loop is:",
+            "options": [
+                "1) 2 A",
+                "2) 0.2 A",
+                "3) Zero",
+                "4) 1 A"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a series LCR circuit, R = 300 ohms, L = 0.9 H, C = 2 uF, and angular frequency omega = 1000 rad/s. The impedance of the circuit is:",
+            "options": [
+                "1) 300 ohms",
+                "2) 400 ohms",
+                "3) 500 ohms",
+                "4) 700 ohms"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An equiconvex lens of glass (refractive index 1.5) has focal length 20 cm in air. Its radius of curvature of each surface is:",
+            "options": [
+                "1) 10 cm",
+                "2) 20 cm",
+                "3) 40 cm",
+                "4) 15 cm"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a Young's double slit experiment, the intensity at the central maximum is I0. The intensity at a point where the path difference is lambda/6 is:",
+            "options": [
+                "1) I0 / 2",
+                "2) 3 I0 / 4",
+                "3) I0 / 4",
+                "4) I0 / sqrt(2)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "When monochromatic radiation of intensity I falls on a metal surface, the number of photoelectrons and their maximum kinetic energy are N and T respectively. If the intensity of radiation is made 2I, what will be the new values?",
+            "options": [
+                "1) N and 2T",
+                "2) 2N and T",
+                "3) 2N and 2T",
+                "4) N and T"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Zener diode having a breakdown voltage of 6 V is used in a voltage regulator circuit with a series resistor of 200 ohms and an unregulated DC input of 10 V. If the load resistor is 600 ohms, the current through the Zener diode is:",
+            "options": [
+                "1) 10 mA",
+                "2) 20 mA",
+                "3) 30 mA",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "A block of mass 5 kg is pulled along a rough horizontal surface (coefficient of kinetic friction = 0.2) by a horizontal force of 25 N. The acceleration of the block in m/s^2 is (g = 10 m/s^2):",
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A solid sphere of mass 2 kg and radius 1 m rolls without slipping on a horizontal surface with a linear speed of 5 m/s. Its total kinetic energy in Joules is:",
+            "answer": "35"
+        },
+        {
+            "type": "numerical",
+            "question": "Four resistors of 12 ohms each are connected in parallel. Their equivalent resistance in ohms is:",
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "An inductor of inductance 5 H carries a steady current of 4 A. The magnetic energy stored in the inductor in Joules is:",
+            "answer": "40"
+        },
+        {
+            "type": "numerical",
+            "question": "An electron in a hydrogen atom jumps from the n=3 orbit to the n=1 orbit. The number of possible spectral lines emitted in a sample of such atoms is:",
+            "answer": "3"
+        }
+    ]
+}

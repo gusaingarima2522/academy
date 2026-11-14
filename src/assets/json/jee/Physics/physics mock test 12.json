@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 12",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Four equal point charges +q are placed at the four corners of a square of side a. The electric field at the centre of the square is",
+      "options": [
+        "kq/a²",
+        "4kq/a²",
+        "zero",
+        "2kq/a²"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "An electric dipole consists of charges +2 μC and −2 μC separated by 5 mm. Its dipole moment is",
+      "options": [
+        "1 × 10⁻⁹ C m",
+        "1 × 10⁻⁸ C m",
+        "1 × 10⁻⁵ C m",
+        "1 × 10⁻¹¹ C m"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A dipole of moment 2 × 10⁻⁸ C m is placed in a uniform electric field of 5 × 10⁴ N/C at an angle of 30° with the field. The torque on the dipole is",
+      "options": [
+        "1 × 10⁻³ N m",
+        "2.5 × 10⁻⁴ N m",
+        "1 × 10⁻⁴ N m",
+        "5 × 10⁻⁴ N m"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A parallel plate capacitor is charged by a battery and then disconnected. A dielectric slab of dielectric constant 4 is then completely inserted between the plates. If U was the initial energy stored, the new energy stored is",
+      "options": [
+        "U",
+        "4U",
+        "U/4",
+        "U/2"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A conducting sphere of radius 10 cm carries a charge of 10 nC. The electric potential at its centre is (k = 9 × 10⁹ N m²/C²)",
+      "options": [
+        "zero",
+        "90 V",
+        "9000 V",
+        "900 V"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The electric field due to an infinite uniformly charged plane sheet",
+      "options": [
+        "is independent of the distance from the sheet",
+        "varies as 1/r",
+        "varies as 1/r²",
+        "varies as r"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Three capacitors of 3 μF each are connected such that two of them are in parallel and this combination is in series with the third. The equivalent capacitance is",
+      "options": [
+        "4.5 μF",
+        "9 μF",
+        "2 μF",
+        "1 μF"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The work done in moving a charge of 2 μC from a point at potential 10 V to a point at potential 30 V is",
+      "options": [
+        "6 × 10⁻⁵ J",
+        "4 × 10⁻⁵ J",
+        "2 × 10⁻⁵ J",
+        "8 × 10⁻⁵ J"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "For a uniform electric field, the equipotential surfaces are",
+      "options": [
+        "concentric spheres",
+        "planes parallel to the field",
+        "planes perpendicular to the field",
+        "coaxial cylinders"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two identical conducting spheres carry charges +6 μC and −2 μC. They are brought into contact and then separated. The charge on each sphere is",
+      "options": [
+        "4 μC",
+        "3 μC",
+        "2 μC",
+        "8 μC"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The energy stored per unit volume in an electric field E in vacuum is",
+      "options": [
+        "ε₀E²",
+        "½ε₀E²",
+        "E²/(2ε₀)",
+        "2ε₀E²"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A 5 μF capacitor charged to 20 V is connected in parallel with an identical uncharged capacitor. The common potential is",
+      "options": [
+        "20 V",
+        "5 V",
+        "40 V",
+        "10 V"
+      ],
+      "answer": 4
+    }
+  ]
+}

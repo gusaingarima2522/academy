@@ -1,0 +1,655 @@
+[
+  {
+    "title": "Active and Passive Voice",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(4).pdf",
+    "sections": [
+      {
+        "heading": "What does voice tell us?",
+        "text": "Voice tells us whether the subject performs an action or receives it. In active voice, the subject is the doer: “Ram writes a letter.” Ram is the subject, writes is the verb, and a letter is the object. In passive voice, the receiver becomes the focus: “A letter is written by Ram.” The meaning is similar, but the emphasis changes."
+      },
+      {
+        "heading": "The basic formula",
+        "text": "To change an active sentence into passive, move its object to the front, use a suitable helping verb, and put the main verb in its third form (V3). Add “by” + the doer when that information matters. Active: Subject + Verb + Object. Passive: Object + Helping verb + V3 + (by + subject). V3 means the past participle, such as written, eaten, done, or taken."
+      },
+      {
+        "heading": "A step-by-step method",
+        "text": "Take “The teacher checks the answers.” First identify the object: “the answers.” Move it to the front. The verb is simple present, so use is/are + V3; “answers” is plural, so choose “are.” The passive sentence is “The answers are checked by the teacher.” Keep the tense, match the helping verb to the new subject, and include the doer only if useful."
+      },
+      {
+        "heading": "Pronouns after “by”",
+        "text": "When a subject pronoun moves after “by,” use its object form: I → me, we → us, he → him, she → her, they → them, and who → whom. For example, “She helped him” becomes “He was helped by her.”"
+      },
+      {
+        "heading": "When is passive voice useful?",
+        "text": "Use passive when the receiver of the action is more important than the doer, or when the doer is unknown or unimportant. “The road was repaired yesterday” is clear even if we do not know who repaired it. In this case, the by-phrase can be left out."
+      },
+      {
+        "heading": "When can a sentence not become passive?",
+        "text": "A passive form normally needs an object to move into the subject position. So, sentences with a transitive verb (a verb that takes an object) can usually change voice: “She opened the door” → “The door was opened by her.” An intransitive verb has no object, so “The baby slept” cannot normally be changed into passive voice."
+      }
+    ],
+    "tenseRules": [
+      { "tense": "Simple Present", "active": "writes", "passive": "is/am/are + V3" },
+      { "tense": "Present Continuous", "active": "is writing", "passive": "is/am/are + being + V3" },
+      { "tense": "Present Perfect", "active": "has written", "passive": "has/have + been + V3" },
+      { "tense": "Simple Past", "active": "wrote", "passive": "was/were + V3" },
+      { "tense": "Past Continuous", "active": "was writing", "passive": "was/were + being + V3" },
+      { "tense": "Past Perfect", "active": "had written", "passive": "had been + V3" },
+      { "tense": "Simple Future", "active": "will write", "passive": "will be + V3" },
+      { "tense": "Future Perfect", "active": "will have written", "passive": "will have been + V3" }
+    ],
+    "voiceExamples": [
+      { "active": "She cooks food.", "passive": "Food is cooked by her." },
+      { "active": "He is playing cricket.", "passive": "Cricket is being played by him." },
+      { "active": "They have completed the work.", "passive": "The work has been completed by them." },
+      { "active": "Ram wrote a letter.", "passive": "A letter was written by Ram." },
+      { "active": "She will buy a car.", "passive": "A car will be bought by her." }
+    ],
+    "commonMistakes": [
+      { "incorrect": "The work is do by him.", "correct": "The work is done by him." },
+      { "incorrect": "A letter was wrote by Ram.", "correct": "A letter was written by Ram." },
+      { "incorrect": "Food is cooking by her.", "correct": "Food is being cooked by her." }
+    ],
+    "quiz": [
+      {
+        "question": "The teacher praised the student. Choose the passive voice.",
+        "options": [
+          "The student praised the teacher.",
+          "The student was praised by the teacher.",
+          "The student is praised by the teacher.",
+          "The teacher was praised by the student."
+        ],
+        "answer": 1,
+        "explanation": "“Praised” is simple past, so use was/were + V3. The singular object “the student” becomes the new subject."
+      },
+      {
+        "question": "She is reading a book. Choose the passive voice.",
+        "options": [
+          "A book is read by her.",
+          "A book was being read by her.",
+          "A book is being read by her.",
+          "A book has been read by her."
+        ],
+        "answer": 2,
+        "explanation": "The active verb is present continuous. Its passive form is is/am/are + being + V3."
+      },
+      {
+        "question": "They have finished the project. Choose the passive voice.",
+        "options": [
+          "The project had been finished by them.",
+          "The project has been finished by them.",
+          "The project is finished by them.",
+          "The project was finished by them."
+        ],
+        "answer": 1,
+        "explanation": "The active verb is present perfect. Use has/have + been + V3; “project” is singular, so use “has.”"
+      },
+      {
+        "question": "Choose the correct passive form: “Someone stole my phone.”",
+        "options": [
+          "My phone is stolen.",
+          "My phone was stolen.",
+          "My phone has stole.",
+          "My phone had steal."
+        ],
+        "answer": 1,
+        "explanation": "“Stole” is simple past. “My phone” is singular, so the passive is “was stolen.” The unknown doer can be omitted."
+      },
+      {
+        "question": "Which sentence cannot normally be changed into passive voice?",
+        "options": [
+          "She opened the door.",
+          "He kicked the ball.",
+          "The baby slept.",
+          "They built a house."
+        ],
+        "answer": 2,
+        "explanation": "“Slept” has no object. Without an object to move into the subject position, the sentence cannot normally be made passive."
+      }
+    ]
+  },
+  {
+    "title": "Adjectives",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(5).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "An adjective describes or limits a noun or pronoun: a careful driver, a blue bag, she is confident."
+      },
+      {
+        "heading": "Kinds",
+        "text": "Quality (honest), quantity (some), number (three), demonstrative (this), possessive (my), interrogative (which), distributive (each), and proper adjectives (Indian)."
+      },
+      {
+        "heading": "Order",
+        "text": "When several adjectives occur together, a common order is opinion, size, age, shape, colour, origin, material, purpose + noun: a lovely small old round red Italian wooden box."
+      },
+      {
+        "heading": "Degrees",
+        "text": "Positive: tall. Comparative: taller. Superlative: tallest. Longer adjectives often use more/most. Irregular: good, better, best; bad, worse, worst."
+      },
+      {
+        "heading": "Comparison rules",
+        "text": "Use than with a comparative: “older than”. Use the with a superlative: “the tallest”. Avoid double comparison: “more better” is incorrect."
+      },
+      {
+        "heading": "Participial adjectives",
+        "text": "-ing often describes the source of a feeling (boring); -ed often describes the person experiencing it (bored): “The lecture was boring; I was bored.”"
+      }
+    ]
+  },
+  {
+    "title": "Adverbs",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(6).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "An adverb modifies a verb, adjective, another adverb, or a whole clause: speaks clearly, very tall, quite slowly, fortunately."
+      },
+      {
+        "heading": "Kinds",
+        "text": "Manner (carefully), place (here), time (yesterday), frequency (often), degree (very), and sentence adverbs (fortunately)."
+      },
+      {
+        "heading": "Position",
+        "text": "Adverbs of frequency usually come before the main verb but after be: “She often reads”; “She is always punctual.”"
+      },
+      {
+        "heading": "Formation",
+        "text": "Many adverbs use -ly (quick → quickly), but not all: fast, hard, late, well. Some -ly words are adjectives (friendly, lovely)."
+      },
+      {
+        "heading": "Adjective or adverb",
+        "text": "Use an adjective after linking verbs such as look, feel, seem: “The soup tastes good.” Use an adverb to modify an action: “She sings well.”"
+      },
+      {
+        "heading": "Common errors",
+        "text": "Hard means with effort; hardly means almost not. Late means not on time; lately means recently."
+      }
+    ]
+  },
+  {
+    "title": "Antonyms and Synonyms",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(7).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A synonym has a similar meaning; an antonym has an opposite meaning. Exact equivalence is rare, so context matters."
+      },
+      {
+        "heading": "Synonym examples",
+        "text": "Abundant: plentiful. Brief: concise. Candid: frank. Diligent: hardworking. Reluctant: unwilling. Vivid: striking or clear."
+      },
+      {
+        "heading": "Antonym examples",
+        "text": "Ancient ↔ modern. Expand ↔ contract. Generous ↔ stingy. Hostile ↔ friendly. Scarce ↔ abundant. Transparent ↔ opaque."
+      },
+      {
+        "heading": "Context matters",
+        "text": "“Bright” may mean shining, intelligent, or vivid. Select the meaning that fits the sentence rather than memorising one substitute."
+      },
+      {
+        "heading": "Word strength and tone",
+        "text": "Slim and skinny are related but differ in tone. Examine formality, emotion and intensity when choosing a synonym."
+      },
+      {
+        "heading": "Exam approach",
+        "text": "Read the complete sentence, substitute the option, and test whether grammar, meaning and tone remain appropriate."
+      }
+    ]
+  },
+  {
+    "title": "Articles",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(8).pdf",
+    "sections": [
+      {
+        "heading": "The three articles",
+        "text": "A, an and the are articles. A/an are indefinite; the is definite."
+      },
+      {
+        "heading": "A or an",
+        "text": "Use a before a consonant sound (a university, a book) and an before a vowel sound (an hour, an apple). Choose by sound, not spelling."
+      },
+      {
+        "heading": "The",
+        "text": "Use the for something identified or specific, something already mentioned, unique things in context, and many names of rivers, seas, mountain ranges and groups of islands."
+      },
+      {
+        "heading": "No article",
+        "text": "Use no article for plural or uncountable nouns when speaking generally: “Books are useful”; “Water is essential.”"
+      },
+      {
+        "heading": "Common patterns",
+        "text": "Use a/an for professions: “She is an engineer.” Use the when a noun is made specific: “The book on the desk is mine.”"
+      },
+      {
+        "heading": "Common errors",
+        "text": "Incorrect: “He is an university student.” Correct: “He is a university student.” Incorrect: “The honesty is important.” Usually: “Honesty is important.”"
+      }
+    ]
+  },
+  {
+    "title": "Cloze Test",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(9).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A cloze test is a passage with selected words removed. You choose the word that best completes each gap."
+      },
+      {
+        "heading": "Read the whole passage",
+        "text": "Read once before filling gaps. Identify topic, tense, point of view and overall tone."
+      },
+      {
+        "heading": "Grammar clues",
+        "text": "Check subject–verb agreement, tense, articles, prepositions, pronouns, conjunctions and singular/plural forms."
+      },
+      {
+        "heading": "Meaning clues",
+        "text": "Use context, collocations and logical links. A grammatically possible word may still be wrong if it does not fit the meaning."
+      },
+      {
+        "heading": "Linking words",
+        "text": "Notice contrast (however, although), cause (because, therefore), addition (moreover), and sequence (first, finally)."
+      },
+      {
+        "heading": "Method",
+        "text": "Fill easy blanks first, reread the completed sentence and then the full paragraph, and ensure every choice fits both grammar and meaning."
+      }
+    ]
+  },
+  {
+    "title": "Commonly Mis-spelt Words",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(10).pdf",
+    "sections": [
+      {
+        "heading": "Study method",
+        "text": "Learn spelling in context. Break long words into syllables, notice repeated letter patterns, and keep a personal list of words you often misspell."
+      },
+      {
+        "heading": "Frequently confused",
+        "text": "accommodate (double c, double m); necessary (one c, double s); separate (not seperate); definitely (not definately); environment; government; occurrence (double c, double r); privilege."
+      },
+      {
+        "heading": "More useful spellings",
+        "text": "receive; believe; achieve; maintenance; embarrass; questionnaire; pronunciation; beginning; committee; recommend; calendar; conscience."
+      },
+      {
+        "heading": "Common patterns",
+        "text": "“i before e” is only a rough guide and has exceptions. Watch silent letters (debt, doubt), doubled consonants (beginning), and suffix changes (happy → happiness)."
+      },
+      {
+        "heading": "Proofreading routine",
+        "text": "Read slowly, check endings and doubled letters, use a dictionary for uncertain words, and proofread once for meaning and once only for spelling."
+      },
+      {
+        "heading": "Practice",
+        "text": "Choose the correct spelling: accommodate / accomodate; separate / seperate; definitely / definately; privilege / priviledge. Answers: accommodate, separate, definitely, privilege."
+      }
+    ]
+  },
+  {
+    "title": "Idioms",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(11).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "An idiom is a fixed expression whose overall meaning may not be obvious from the individual words."
+      },
+      {
+        "heading": "Everyday examples",
+        "text": "A piece of cake = very easy; once in a blue moon = very rarely; break the ice = ease social tension; hit the nail on the head = say exactly the right thing."
+      },
+      {
+        "heading": "More examples",
+        "text": "Under the weather = feeling unwell; spill the beans = reveal a secret; cost an arm and a leg = be very expensive; call it a day = stop working for now."
+      },
+      {
+        "heading": "Use in context",
+        "text": "Choose an idiom only when its meaning and tone fit the situation. Avoid forcing idioms into formal writing."
+      },
+      {
+        "heading": "Exam approach",
+        "text": "Read the whole sentence, identify the situation, replace the idiom with a plain meaning, and check whether the sentence still makes sense."
+      },
+      {
+        "heading": "Practice",
+        "text": "“The test was a piece of cake.” Meaning: the test was very easy."
+      }
+    ]
+  },
+  {
+    "title": "Narration (Direct and Indirect Speech)",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(12).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "Direct speech quotes the speaker's exact words: He said, “I am tired.” Indirect speech reports the meaning without quotation marks: He said that he was tired."
+      },
+      {
+        "heading": "Pronouns and time",
+        "text": "Pronouns change according to the speaker and listener. Depending on the reporting context, now may become then, today that day, tomorrow the next day, and yesterday the previous day."
+      },
+      {
+        "heading": "Backshift",
+        "text": "When the reporting verb is in the past, present simple often changes to past simple, present continuous to past continuous, and will to would. A fact that remains universally true may keep its present tense."
+      },
+      {
+        "heading": "Statements",
+        "text": "Use said (that) or told + object (that): “She said that she was ready.” / “She told me that she was ready.”"
+      },
+      {
+        "heading": "Questions and commands",
+        "text": "Reported questions use statement word order: “He asked where I lived.” Commands use told/asked + object + to-infinitive: “She told me to wait.”"
+      },
+      {
+        "heading": "Punctuation",
+        "text": "Direct speech uses quotation marks and appropriate punctuation. Indirect speech does not use quotation marks around the reported words."
+      }
+    ]
+  },
+  {
+    "title": "Nouns",
+    "pdfUrl": "/icons/pdfs/nouns.pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A noun names a person, place, animal, thing, substance, or idea. Examples: teacher, Delhi, tiger, pencil, water, honesty."
+      },
+      {
+        "heading": "Main types",
+        "text": "Proper: a particular name (Aarav, India). Common: a general name (student, city). Collective: a group (team, flock). Material: a substance (gold, cotton). Abstract: an idea or quality (kindness, courage)."
+      },
+      {
+        "heading": "Number",
+        "text": "Singular names one (book); plural names more than one (books). Common patterns: add -s/-es; consonant + y becomes -ies (city → cities); some forms are irregular (child → children, mouse → mice)."
+      },
+      {
+        "heading": "Gender",
+        "text": "English nouns may refer to masculine, feminine, common, or neuter gender. Examples: king/queen; teacher (common); table (neuter)."
+      },
+      {
+        "heading": "Countable and uncountable",
+        "text": "Countable nouns take numbers and a/an (an apple, three apples). Uncountable nouns usually do not (advice, furniture, information); say a piece of advice."
+      },
+      {
+        "heading": "Quick check",
+        "text": "Identify the nouns: “The brave girl carried a basket of flowers.” Nouns: girl, basket, flowers. “Honesty builds trust.” Abstract nouns: honesty, trust."
+      }
+    ]
+  },
+  {
+    "title": "One Word Substitution",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(13).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A one-word substitution replaces a phrase or description with one precise word."
+      },
+      {
+        "heading": "People and beliefs",
+        "text": "Atheist: a person who does not believe in a god or gods. Optimist: one who expects favourable outcomes. Pessimist: one who expects unfavourable outcomes. Orphan: a child whose parents have died."
+      },
+      {
+        "heading": "Knowledge and language",
+        "text": "Bilingual: using two languages. Polyglot: knowing or using several languages. Autobiography: a person's account of their own life. Biography: an account of another person's life."
+      },
+      {
+        "heading": "Places and collections",
+        "text": "Aquarium: a place/tank for aquatic animals. Library: a collection/place for books. Museum: a place where objects of historical, artistic or scientific interest are kept."
+      },
+      {
+        "heading": "Common distinctions",
+        "text": "Anonymous = of unknown identity; illegible = impossible or difficult to read; invincible = unable to be defeated; inevitable = certain to happen."
+      },
+      {
+        "heading": "Exam approach",
+        "text": "Underline the defining feature in the phrase, eliminate near-synonyms, and check the word's part of speech before choosing."
+      }
+    ]
+  },
+  {
+    "title": "Para Jumbles",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(14).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A parajumble gives sentences in a mixed order. Arrange them so they form a logical and coherent paragraph."
+      },
+      {
+        "heading": "Find the opening",
+        "text": "Look for a sentence that introduces the topic without depending on an earlier reference. Definitions and broad introductions often open a paragraph."
+      },
+      {
+        "heading": "Pronoun links",
+        "text": "A sentence beginning with he, she, it, they, this or these usually refers to something already introduced."
+      },
+      {
+        "heading": "Connectors and sequence",
+        "text": "Words such as however, therefore, then, finally and for example signal relationships. Dates, stages and cause-effect links can reveal order."
+      },
+      {
+        "heading": "Build pairs",
+        "text": "Find sentences that clearly belong together, such as a general statement followed by an example or a claim followed by its explanation."
+      },
+      {
+        "heading": "Final check",
+        "text": "Read the proposed paragraph from start to finish. It should have a clear opening, connected development and a sensible conclusion."
+      }
+    ]
+  },
+  {
+    "title": "Phrasal Verbs",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(15).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A phrasal verb combines a verb with an adverb or preposition (or both) to create a meaning: give up, look after, put up with."
+      },
+      {
+        "heading": "Common examples",
+        "text": "Give up = stop trying; look after = take care of; find out = discover; carry on = continue; put off = postpone."
+      },
+      {
+        "heading": "More examples",
+        "text": "Turn down = reject; bring up = mention/raise; run into = meet unexpectedly; set up = arrange or establish; call off = cancel."
+      },
+      {
+        "heading": "Separable forms",
+        "text": "Some phrasal verbs can be separated: “turn the offer down” / “turn down the offer”. With a pronoun, separation is required: “turn it down”."
+      },
+      {
+        "heading": "Inseparable forms",
+        "text": "Some cannot be separated: “look after the child”, not “look the child after”. Learn the verb and particle together."
+      },
+      {
+        "heading": "Exam approach",
+        "text": "Use the surrounding sentence to infer meaning. Check whether the object is required and whether the particle can move."
+      }
+    ]
+  },
+  {
+    "title": "Prepositions",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(16).pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A preposition shows a relationship of place, time, direction, cause, or manner: in the room, at noon, towards home, because of rain."
+      },
+      {
+        "heading": "Place",
+        "text": "At often marks a point (at the gate); in an enclosed area (in the room); on a surface (on the table)."
+      },
+      {
+        "heading": "Time",
+        "text": "At: clock time (at 6 pm). On: days/dates (on Monday). In: months, years and longer periods (in July, in 2026)."
+      },
+      {
+        "heading": "Movement",
+        "text": "To indicates destination; into indicates movement from outside to inside; onto indicates movement to a surface; through indicates movement within and out of something."
+      },
+      {
+        "heading": "Common combinations",
+        "text": "Interested in, good at, depend on, afraid of, responsible for, listen to, belong to. Learn these as word partnerships."
+      },
+      {
+        "heading": "Common errors",
+        "text": "Say “arrive at the station” and “arrive in Delhi”; “different from” is widely accepted. Avoid adding an unnecessary preposition after discuss: “discuss the issue”."
+      }
+    ]
+  },
+  {
+    "title": "Pronouns",
+    "pdfUrl": "/icons/pdfs/pronouns.pdf",
+    "sections": [
+      {
+        "heading": "Meaning",
+        "text": "A pronoun replaces a noun or noun phrase to avoid repetition: “Mira is kind. She helps others.”"
+      },
+      {
+        "heading": "Personal pronouns",
+        "text": "Subject forms: I, we, you, he, she, it, they. Object forms: me, us, you, him, her, it, them. Example: They invited us."
+      },
+      {
+        "heading": "Possessive forms",
+        "text": "Possessive determiners come before nouns (my book, their house). Possessive pronouns stand alone (mine, yours, hers, ours, theirs)."
+      },
+      {
+        "heading": "Reflexive and emphatic",
+        "text": "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves. Reflexive: “She blamed herself.” Emphatic: “The principal herself spoke.”"
+      },
+      {
+        "heading": "Other types",
+        "text": "Demonstrative: this, that, these, those. Interrogative: who, whom, whose, which, what. Relative: who, whom, whose, which, that. Indefinite: someone, anybody, few, many. Reciprocal: each other, one another."
+      },
+      {
+        "heading": "Agreement",
+        "text": "A pronoun should agree with its antecedent in person and number. Keep the reference clear: “When Riya met Neha, she smiled” is ambiguous; name the person if needed."
+      }
+    ]
+  },
+  {
+    "title": "Question Tags",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(17).pdf",
+    "sections": [
+      {
+        "heading": "Meaning and form",
+        "text": "A question tag is a short question added to a statement: “You are ready, aren’t you?”"
+      },
+      {
+        "heading": "Positive and negative",
+        "text": "Positive statement usually takes a negative tag; negative statement usually takes a positive tag: “She can swim, can’t she?” / “He isn’t late, is he?”"
+      },
+      {
+        "heading": "Auxiliary verbs",
+        "text": "Repeat the auxiliary or modal in the tag. If there is no auxiliary in the simple present/past, use do/does/did."
+      },
+      {
+        "heading": "Special patterns",
+        "text": "“I am” → “aren’t I?”; “Let’s…” → “shall we?”; imperative requests often use “will you?”; “There is…” → “isn’t there?”"
+      },
+      {
+        "heading": "Indefinite subjects",
+        "text": "Words such as everyone, somebody and nobody usually take they in modern standard tags: “Everyone has arrived, haven’t they?”"
+      },
+      {
+        "heading": "Punctuation",
+        "text": "Separate the statement and tag with a comma; finish with a question mark."
+      }
+    ]
+  },
+  {
+    "title": "Reading Comprehension – Practice Set 2",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(18).pdf",
+    "sections": [
+      {
+        "heading": "Practice passage",
+        "text": "Public parks are more than attractive open spaces. They provide room for exercise, quiet recreation and informal meetings. In crowded cities, trees can offer shade and help soften the effects of heat. Parks also give children a place to play and allow neighbours to meet beyond the walls of their homes."
+      },
+      {
+        "heading": "Main idea",
+        "text": "The passage explains the social, recreational and environmental value of urban parks."
+      },
+      {
+        "heading": "Detail questions",
+        "text": "According to the passage, parks provide space for exercise, quiet recreation and informal meetings. Trees can offer shade and help reduce the effects of heat."
+      },
+      {
+        "heading": "Inference",
+        "text": "The passage suggests that parks can strengthen neighbourhood connections because they create shared public spaces."
+      },
+      {
+        "heading": "Vocabulary in context",
+        "text": "“Informal” means relaxed or not highly structured in this context."
+      },
+      {
+        "heading": "Practice questions",
+        "text": "1. What is the central idea? 2. Name two benefits of trees in parks mentioned or implied. 3. Why might parks help neighbours connect? 4. What does “informal” mean here?"
+      },
+      {
+        "heading": "Answer guide",
+        "text": "1. Parks benefit city life in several ways. 2. They provide shade and help soften urban heat. 3. They offer shared places for people to meet. 4. Relaxed or not highly structured."
+      }
+    ]
+  },
+  {
+    "title": "Reading Comprehension",
+    "pdfUrl": "/icons/pdfs/selfstudys_com_file%20(19).pdf",
+    "sections": [
+      {
+        "heading": "Purpose",
+        "text": "Reading comprehension tests whether you can understand a passage, identify its central idea, infer meaning, and distinguish evidence from opinion."
+      },
+      {
+        "heading": "First reading",
+        "text": "Read the passage once for its overall subject, purpose and tone. Notice repeated ideas, contrast words and the author's conclusion."
+      },
+      {
+        "heading": "Question types",
+        "text": "Main idea, specific detail, inference, vocabulary in context, tone, purpose, title, and statements supported or not supported by the passage."
+      },
+      {
+        "heading": "Evidence-based answers",
+        "text": "Return to the relevant lines. Choose the option supported by the passage, not merely one that sounds reasonable from outside knowledge."
+      },
+      {
+        "heading": "Inference and tone",
+        "text": "An inference must follow from clues in the text. Tone may be critical, optimistic, sceptical, neutral, persuasive, humorous or reflective."
+      },
+      {
+        "heading": "Time strategy",
+        "text": "Read the question carefully, locate relevant information, eliminate extreme or unsupported options, and avoid spending too long on one question."
+      }
+    ]
+  },
+  {
+    "title": "Tenses",
+    "pdfUrl": "/icons/pdfs/tenses.pdf",
+    "sections": [
+      {
+        "heading": "What tense shows",
+        "text": "Tense locates an action or state in time. English commonly teaches present, past and future, each with simple, continuous, perfect and perfect continuous forms."
+      },
+      {
+        "heading": "Present forms",
+        "text": "Simple: I study. Continuous: I am studying. Perfect: I have studied. Perfect continuous: I have been studying for an hour."
+      },
+      {
+        "heading": "Past forms",
+        "text": "Simple: I studied. Continuous: I was studying. Perfect: I had studied before dinner. Perfect continuous: I had been studying for an hour before dinner."
+      },
+      {
+        "heading": "Future forms",
+        "text": "Simple: I will study. Continuous: I will be studying at 8. Perfect: I will have studied by 8. Perfect continuous: By 8, I will have been studying for two hours."
+      },
+      {
+        "heading": "Use and clues",
+        "text": "Simple present: habits/facts. Present continuous: action happening now or temporary situation. Present perfect: past action linked to now. Present perfect continuous: duration continuing to now. Use since for a starting point and for for a period."
+      },
+      {
+        "heading": "Common errors",
+        "text": "Use the base verb after do/does/did: “Did she go?” not “Did she went?” Avoid stative verbs in continuous forms in ordinary use: “I know”, not usually “I am knowing”."
+      }
+    ]
+  }
+]

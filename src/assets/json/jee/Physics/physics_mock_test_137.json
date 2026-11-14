@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 137",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 17"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A body of mass 2 kg is thrown up vertically with a kinetic energy of 490 J. If the acceleration due to gravity is 9.8 m/s^2, the height at which the kinetic energy of the body becomes half of its original value is:",
+            "options": [
+                "1) 50 m",
+                "2) 12.5 m",
+                "3) 25 m",
+                "4) 10 m"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle moves such that its position vector is given by r = (3t^2)i + (4t^2)j. The trajectory of the particle is:",
+            "options": [
+                "1) a straight line",
+                "2) a parabola",
+                "3) a circle",
+                "4) an ellipse"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The maximum static friction on a body is always:",
+            "options": [
+                "1) Equal to dynamic friction",
+                "2) Less than dynamic friction",
+                "3) Greater than dynamic friction",
+                "4) Zero"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle performs uniform circular motion with an angular momentum L. If the frequency of particle's motion is doubled and its kinetic energy is halved, the angular momentum becomes:",
+            "options": [
+                "1) 2L",
+                "2) 4L",
+                "3) L/2",
+                "4) L/4"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform rod of length L and mass M is pivoted at the center. Its moment of inertia about the pivot is:",
+            "options": [
+                "1) ML^2/12",
+                "2) ML^2/3",
+                "3) ML^2/4",
+                "4) 2ML^2/5"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Escape velocity on earth is 11.2 km/s. What would be the escape velocity on a planet whose mass is 1000 times and radius is 10 times that of earth?",
+            "options": [
+                "1) 112 km/s",
+                "2) 11.2 km/s",
+                "3) 1.12 km/s",
+                "4) 3.7 km/s"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire stretches by an amount l when a force F is applied. If the wire is cut into two equal halves and the same force F is applied to one of the halves, the stretch will be:",
+            "options": [
+                "1) l",
+                "2) l/2",
+                "3) 2l",
+                "4) l/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "At critical temperature, the surface tension of a liquid:",
+            "options": [
+                "1) is zero",
+                "2) is infinity",
+                "3) is same as that at any other temperature",
+                "4) cannot be determined"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The internal energy of an ideal gas depends upon:",
+            "options": [
+                "1) specific volume",
+                "2) pressure",
+                "3) temperature",
+                "4) density"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A Carnot engine operating between temperatures T1 and T2 has efficiency 1/6. When T2 is lowered by 62 K, its efficiency increases to 1/3. Then T1 and T2 are:",
+            "options": [
+                "1) 372 K and 310 K",
+                "2) 372 K and 330 K",
+                "3) 330 K and 268 K",
+                "4) 310 K and 248 K"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a particle in SHM, the kinetic energy is equal to the potential energy at a distance from the mean position equal to (A is amplitude):",
+            "options": [
+                "1) A/2",
+                "2) A/sqrt(2)",
+                "3) A*sqrt(3)/2",
+                "4) A"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The phase difference between the displacement and acceleration of a particle executing simple harmonic motion is:",
+            "options": [
+                "1) Zero",
+                "2) pi/2",
+                "3) pi",
+                "4) 2pi"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two waves of same frequency and same amplitude superpose to produce a resultant wave of the same amplitude. The phase difference between the waves is:",
+            "options": [
+                "1) 60 degrees",
+                "2) 90 degrees",
+                "3) 120 degrees",
+                "4) 180 degrees"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric potential V at any point x,y,z is given by V = 4x^2. The electric field at the point (1,0,2) is:",
+            "options": [
+                "1) 8 V/m in negative x direction",
+                "2) 8 V/m in positive x direction",
+                "3) 4 V/m in negative x direction",
+                "4) 4 V/m in positive x direction"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The equivalent capacitance of two capacitors C1 and C2 connected in series is:",
+            "options": [
+                "1) C1 + C2",
+                "2) C1*C2 / (C1+C2)",
+                "3) C1 - C2",
+                "4) C1/C2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle moves in a magnetic field B = 10i with velocity v = 5i + 4j. The path of the particle is:",
+            "options": [
+                "1) Circle",
+                "2) Straight line",
+                "3) Parabola",
+                "4) Helix"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law provides a relationship between:",
+            "options": [
+                "1) Current and magnetic field",
+                "2) Induced emf and magnetic flux",
+                "3) Force and magnetic field",
+                "4) Direction of induced emf and rate of change of flux"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The resonant frequency of a series LCR circuit is f. If the capacitance is made 4 times the initial value, the resonant frequency will become:",
+            "options": [
+                "1) 2f",
+                "2) f/2",
+                "3) 4f",
+                "4) f/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, if the monochromatic source of yellow light is replaced by red light, the fringe width:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains same",
+                "4) Fringes disappear"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The work function of a metal is 1 eV. Light of energy 3 eV falls on it. The maximum kinetic energy of the emitted photoelectron is:",
+            "options": [
+                "1) 1 eV",
+                "2) 2 eV",
+                "3) 3 eV",
+                "4) 4 eV"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A force of 10 N displaces an object by 5 m in the direction of the force. The work done is (in Joules):",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "An engine works at 50% efficiency. If it absorbs 1000 J of heat from the source, the work done is (in Joules):",
+            "answer": "500"
+        },
+        {
+            "type": "numerical",
+            "question": "A wire of resistance 20 ohms is connected in parallel with another wire of 20 ohms. The equivalent resistance is (in ohms):",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "A convex lens of focal length 10 cm forms a real image at 20 cm from the lens. The object distance is (in cm):",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "The mass defect of a nucleus is 0.1 amu. The binding energy in MeV is approximately (using 1 amu = 931 MeV):",
+            "answer": "93.1"
+        }
+    ]
+}

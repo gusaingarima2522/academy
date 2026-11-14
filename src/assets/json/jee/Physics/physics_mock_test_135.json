@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 135",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 15"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A dimensionally consistent equation must be:",
+            "options": [
+                "1) Physically correct",
+                "2) Physically incorrect",
+                "3) Need not be physically correct",
+                "4) Meaningless"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A stone is dropped from a height h. It hits the ground with a momentum p. If the same stone is dropped from a height 100% more than the previous height, the momentum when it hits the ground will change by approximately:",
+            "options": [
+                "1) 41%",
+                "2) 100%",
+                "3) 200%",
+                "4) 68%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block is kept on a frictionless inclined plane. The force required to keep it in equilibrium is:",
+            "options": [
+                "1) mg",
+                "2) mg cos(theta)",
+                "3) mg sin(theta)",
+                "4) mg tan(theta)"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a completely inelastic collision in one dimension, which of the following is true?",
+            "options": [
+                "1) Kinetic energy is conserved",
+                "2) Momentum is conserved",
+                "3) Both are conserved",
+                "4) Neither is conserved"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform solid sphere of mass M and radius R about its diameter is:",
+            "options": [
+                "1) (2/5) MR^2",
+                "2) (2/3) MR^2",
+                "3) MR^2",
+                "4) (1/2) MR^2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Acceleration due to gravity is g on the surface of the earth. Then the value of the acceleration due to gravity at a height h = R (radius of the earth) is:",
+            "options": [
+                "1) g/2",
+                "2) g/4",
+                "3) g/sqrt(2)",
+                "4) g"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Water is flowing through a horizontal tube of non-uniform cross-section. The pressure is lowest where:",
+            "options": [
+                "1) Velocity is lowest",
+                "2) Area is maximum",
+                "3) Velocity is highest",
+                "4) Both 1 and 2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The internal energy of an ideal gas depends upon:",
+            "options": [
+                "1) Pressure",
+                "2) Volume",
+                "3) Temperature",
+                "4) Both pressure and volume"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle executes SHM. The fraction of total energy that is kinetic when its displacement is one-half of its amplitude is:",
+            "options": [
+                "1) 1/4",
+                "2) 1/2",
+                "3) 3/4",
+                "4) 1/3"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The speed of sound in air:",
+            "options": [
+                "1) Is independent of temperature",
+                "2) Increases with temperature",
+                "3) Decreases with temperature",
+                "4) Is independent of pressure at constant temperature"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric field intensity inside a hollow conducting sphere is:",
+            "options": [
+                "1) Zero",
+                "2) Constant but non-zero",
+                "3) Inversely proportional to radius",
+                "4) Directly proportional to radius"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The resistance of an ideal voltmeter is:",
+            "options": [
+                "1) Zero",
+                "2) Infinite",
+                "3) Very small",
+                "4) Equal to the circuit resistance"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle moving in a uniform magnetic field experiences a force that is:",
+            "options": [
+                "1) Parallel to the magnetic field",
+                "2) Antiparallel to the magnetic field",
+                "3) Perpendicular to both velocity and magnetic field",
+                "4) Zero if it moves perpendicular to the field"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following radiations has the least wavelength?",
+            "options": [
+                "1) X-rays",
+                "2) Gamma rays",
+                "3) Ultraviolet rays",
+                "4) Infrared rays"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-n junction diode, the reverse saturation current is due to:",
+            "options": [
+                "1) Majority carriers",
+                "2) Minority carriers",
+                "3) Both",
+                "4) Neither"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is projected in a magnetic field B = 2i + 3j Tesla. The acceleration of the particle is a = xi + 2j m/s^2. The value of x is:",
+            "options": [
+                "1) -3",
+                "2) 3",
+                "3) -2",
+                "4) 2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a series LCR circuit, the potential differences across L, C and R are 50 V, 50 V and 120 V respectively. The peak voltage across the circuit is:",
+            "options": [
+                "1) 120 V",
+                "2) 120*sqrt(2) V",
+                "3) 130 V",
+                "4) 130*sqrt(2) V"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The stopping potential in an experiment on the photoelectric effect is 1.5 V. This means that:",
+            "options": [
+                "1) The maximum kinetic energy of the photoelectrons is 1.5 eV",
+                "2) The work function of the metal is 1.5 eV",
+                "3) The energy of incident photons is 1.5 eV",
+                "4) The minimum kinetic energy is 1.5 eV"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A ray of light traveling in air is incident on a liquid surface at an angle of 45\u00b0. The angle of refraction is 30\u00b0. The refractive index of the liquid is:",
+            "options": [
+                "1) sqrt(2)",
+                "2) sqrt(3)",
+                "3) 1.5",
+                "4) 1.33"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For maximum power transfer to a load resistance R from a source of internal resistance r, the condition is:",
+            "options": [
+                "1) R = 2r",
+                "2) R = r/2",
+                "3) R = r",
+                "4) R = 0"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A 2 kg mass is dropped from 5 m. The velocity with which it strikes the ground in m/s is (g=10 m/s^2):",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "An ideal gas operates in a Carnot cycle. It takes 1000 J of heat from a source at 600 K and rejects heat to a sink at 300 K. The work done by the engine in Joules is:",
+            "answer": "500"
+        },
+        {
+            "type": "numerical",
+            "question": "Two parallel wires carry 10A and 20A in the same direction. If separated by 2m, the force per unit length in uN/m is:",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "An object is placed 10 cm in front of a concave mirror of focal length 20 cm. The image distance from the pole in cm (magnitude) is:",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "If the half life of a substance is 4 days, the fraction remaining after 12 days is 1/x. The value of x is:",
+            "answer": "8"
+        }
+    ]
+}

@@ -1,0 +1,166 @@
+{
+  "testName": "Physics Mock Test 20",
+  "totalMarks": 56,
+  "timeMinutes": 28,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "This question has Statement I and Statement II. Of the four choices given after the statements, choose the one that best describes the two statements.\n\nStatement I: In electrostatic equilibrium, the electric potential is the same at all points of a conductor.\n\nStatement II: The electric field inside a conductor in electrostatic equilibrium is zero.",
+      "options": [
+        "Statement I is false, Statement II is true",
+        "Statement I is true, Statement II is false",
+        "Statement I is true, Statement II is true; Statement II is the correct explanation for Statement I",
+        "Statement I is true, Statement II is true; Statement II is not the correct explanation of Statement I"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two point charges +4q and +q are placed a distance d apart. The point on the line joining them where the electric field is zero is at a distance from +4q equal to",
+      "options": [
+        "d/3",
+        "d/2",
+        "2d/3",
+        "3d/4"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A parallel plate capacitor is kept connected to a battery and the separation between its plates is doubled. The energy stored in the capacitor",
+      "options": [
+        "doubles",
+        "becomes four times",
+        "halves",
+        "remains unchanged"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A point charge q is placed at the centre of a cube. The electric flux through one face of the cube is",
+      "options": [
+        "q/ε₀",
+        "q/(8ε₀)",
+        "q/(3ε₀)",
+        "q/(6ε₀)"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "Twelve resistors, each of resistance R, form the edges of a cube. The equivalent resistance between two diagonally opposite corners (body diagonal) is",
+      "options": [
+        "3R/4",
+        "7R/12",
+        "R/2",
+        "5R/6"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A battery of internal resistance r delivers the same power to an external resistance of 2 Ω as to one of 8 Ω. The internal resistance r is",
+      "options": [
+        "2 Ω",
+        "5 Ω",
+        "4 Ω",
+        "6 Ω"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A semicircular arc of radius 0.1 m carries a current of 2 A. The magnetic field at its centre is (μ₀ = 4π × 10⁻⁷ T m/A)",
+      "options": [
+        "π × 10⁻⁶ T",
+        "4π × 10⁻⁶ T",
+        "2π × 10⁻⁶ T",
+        "2π × 10⁻⁷ T"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A long solenoid has 1000 turns per metre and carries a current of 2 A. The magnetic field inside it is (μ₀ = 4π × 10⁻⁷ T m/A)",
+      "options": [
+        "4π × 10⁻⁴ T",
+        "8π × 10⁻⁴ T",
+        "8π × 10⁻³ T",
+        "2π × 10⁻⁴ T"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A rectangular coil of 100 turns and size 0.1 m × 0.05 m carries a current of 1 A in a uniform magnetic field of 0.5 T, with its plane parallel to the field. The torque on the coil is",
+      "options": [
+        "0.25 N m",
+        "0.025 N m",
+        "2.5 N m",
+        "0.5 N m"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In a velocity selector, the electric field is 10⁴ V/m and the magnetic field is 0.1 T, mutually perpendicular. The speed of the charged particle that passes undeflected is",
+      "options": [
+        "10³ m/s",
+        "10⁴ m/s",
+        "10⁶ m/s",
+        "10⁵ m/s"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A proton moves at 10⁶ m/s perpendicular to a uniform magnetic field of 0.1 T. The radius of its circular path is approximately (m = 1.67 × 10⁻²⁷ kg, e = 1.6 × 10⁻¹⁹ C)",
+      "options": [
+        "0.01 m",
+        "1 m",
+        "0.1 m",
+        "10 m"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "At a place, the horizontal component of the earth's magnetic field is 0.3 G and the angle of dip is 60°. The total magnetic field of the earth at that place is",
+      "options": [
+        "0.15 G",
+        "0.3 G",
+        "0.6 G",
+        "0.52 G"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The magnetic susceptibility of a paramagnetic substance at 300 K is 4 × 10⁻⁴. Its susceptibility at 400 K will be",
+      "options": [
+        "4 × 10⁻⁴",
+        "3 × 10⁻⁴",
+        "5.33 × 10⁻⁴",
+        "2 × 10⁻⁴"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Two resistors of 3 Ω and 6 Ω are connected in parallel across a 6 V battery of negligible internal resistance. The power dissipated in the 3 Ω resistor is",
+      "options": [
+        "6 W",
+        "24 W",
+        "12 W",
+        "36 W"
+      ],
+      "answer": 3
+    }
+  ]
+}

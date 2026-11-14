@@ -1,0 +1,177 @@
+{
+  "testName": "Physics Mock Test 23",
+  "totalMarks": 60,
+  "timeMinutes": 30,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A uniform rod of length 1.5 m is hinged at one end and released from the horizontal position. Its angular acceleration just after release is (take g = 10 m/s²)",
+      "options": [
+        "10 rad/s²",
+        "20 rad/s²",
+        "5 rad/s²",
+        "15 rad/s²"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A ring rolls without slipping down an incline from a vertical height of 0.9 m, starting from rest. Its speed at the bottom is (take g = 10 m/s²)",
+      "options": [
+        "4.24 m/s",
+        "3.46 m/s",
+        "3 m/s",
+        "2.12 m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A horizontal disc of moment of inertia 2 kg m² rotates freely at 6 rad/s about its axis. A ring of moment of inertia 1 kg m² is gently placed coaxially on it. The loss in kinetic energy of the system is",
+      "options": [
+        "6 J",
+        "18 J",
+        "12 J",
+        "24 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two masses of 2 kg and 8 kg are placed 3 m apart. The point on the line joining them where the net gravitational field is zero is at a distance from the 2 kg mass equal to",
+      "options": [
+        "1.5 m",
+        "1 m",
+        "2 m",
+        "0.5 m"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Three identical point masses m are placed at the corners of an equilateral triangle of side a. The gravitational potential energy of the system is",
+      "options": [
+        "−Gm²/a",
+        "−2Gm²/a",
+        "−6Gm²/a",
+        "−3Gm²/a"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A satellite of mass 100 kg moves in a circular orbit of radius 2R around the earth (R = 6.4 × 10⁶ m). Its binding energy is (take g = 10 m/s²)",
+      "options": [
+        "3.2 × 10⁹ J",
+        "1.6 × 10⁹ J",
+        "6.4 × 10⁹ J",
+        "8 × 10⁸ J"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A wire has Young's modulus 2 × 10¹¹ N/m² and is stretched so that the strain is 10⁻³. The elastic energy stored per unit volume is",
+      "options": [
+        "10⁶ J/m³",
+        "10⁴ J/m³",
+        "10⁵ J/m³",
+        "2 × 10⁵ J/m³"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two wires of the same material have lengths in the ratio 1 : 2 and radii in the ratio 1 : 2. They are stretched by the same load. The ratio of their extensions is",
+      "options": [
+        "1 : 1",
+        "1 : 2",
+        "2 : 1",
+        "4 : 1"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A cylindrical vessel of base area 0.5 m² contains water to a depth of 2 m. The force exerted by the water on the base of the vessel is (take g = 10 m/s², density of water = 1000 kg/m³)",
+      "options": [
+        "2 × 10⁴ N",
+        "10⁴ N",
+        "5 × 10³ N",
+        "10⁵ N"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A wooden cube of side 10 cm and density 800 kg/m³ floats in water. The depth of the cube submerged in water is",
+      "options": [
+        "2 cm",
+        "10 cm",
+        "8 cm",
+        "4 cm"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Water is filled in a tank up to a height of 5 m above a small hole in its side. The speed with which water flows out of the hole is (take g = 10 m/s²)",
+      "options": [
+        "5 m/s",
+        "10 m/s",
+        "50 m/s",
+        "7.07 m/s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Two spherical balls of the same material with radii 1 mm and 2 mm fall through the same viscous liquid. The ratio of their terminal velocities is",
+      "options": [
+        "1 : 2",
+        "1 : 8",
+        "1 : 4",
+        "1 : 16"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The work done in blowing a soap bubble from radius 2 cm to radius 4 cm is (surface tension of the soap solution = 0.03 N/m)",
+      "options": [
+        "4.5 × 10⁻⁴ J",
+        "9.05 × 10⁻⁴ J",
+        "1.8 × 10⁻³ J",
+        "3.6 × 10⁻⁴ J"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A steel rod of length 1 m is clamped rigidly between two walls at 0°C and heated to 50°C. (α = 1.2 × 10⁻⁵ /°C, Y = 2 × 10¹¹ N/m²). The thermal stress developed is",
+      "options": [
+        "1.2 × 10⁷ N/m²",
+        "2.4 × 10⁸ N/m²",
+        "1.2 × 10⁸ N/m²",
+        "6 × 10⁷ N/m²"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The bulk modulus of a liquid is 2 × 10⁹ N/m². If the pressure on it is increased by 10⁷ N/m², the percentage decrease in its volume is",
+      "options": [
+        "0.05%",
+        "0.5%",
+        "5%",
+        "0.2%"
+      ],
+      "answer": 2
+    }
+  ]
+}

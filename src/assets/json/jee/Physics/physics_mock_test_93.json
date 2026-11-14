@@ -1,0 +1,232 @@
+{
+    "testName": "Physics Mock Test 93",
+    "totalMarks": 80,
+    "timeMinutes": 40,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 20,
+    "topics": [
+        "SHM, Waves & Optics"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The maximum velocity of a particle executing simple harmonic motion with an amplitude a and angular frequency omega is:",
+            "options": [
+                "1) a*omega",
+                "2) a^2*omega",
+                "3) a*omega^2",
+                "4) omega^2/a"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The total energy of a particle executing SHM is proportional to:",
+            "options": [
+                "1) Square of amplitude",
+                "2) Square of frequency",
+                "3) Both 1 and 2",
+                "4) Amplitude only"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle executes SHM. At what distance from the mean position is its kinetic energy equal to its potential energy?",
+            "options": [
+                "1) A/2",
+                "2) A/sqrt(2)",
+                "3) A*sqrt(2)/3",
+                "4) A/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A transverse wave is described by the equation y = y0 sin 2pi(ft - x/lambda). The maximum particle velocity is equal to four times the wave velocity if:",
+            "options": [
+                "1) lambda = pi*y0/4",
+                "2) lambda = pi*y0/2",
+                "3) lambda = pi*y0",
+                "4) lambda = 2pi*y0"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two waves of identical frequency and amplitude a interfere. The phase difference between them is pi/2. The amplitude of the resultant wave is:",
+            "options": [
+                "1) 2a",
+                "2) a",
+                "3) sqrt(2)*a",
+                "4) 0"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "When a source of sound approaches a stationary observer, the apparent frequency is:",
+            "options": [
+                "1) Lower than the true frequency",
+                "2) Higher than the true frequency",
+                "3) Same as the true frequency",
+                "4) Depends on the observer's mass"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A ray of light is incident at an angle of 60 degrees on one face of a prism of angle 30 degrees. The ray emerging out of the prism makes an angle of 30 degrees with the incident ray. The emergent ray is:",
+            "options": [
+                "1) Normal to the face",
+                "2) Parallel to the face",
+                "3) Normal to the base",
+                "4) None of the above"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The focal length of a convex lens is 20 cm. Its power is:",
+            "options": [
+                "1) +5 D",
+                "2) -5 D",
+                "3) +0.05 D",
+                "4) -0.05 D"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, if the monochromatic source is replaced by white light, the central fringe is:",
+            "options": [
+                "1) White",
+                "2) Dark",
+                "3) Colored",
+                "4) Absent"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The resolving power of a microscope depends inversely on the:",
+            "options": [
+                "1) Wavelength of light",
+                "2) Refractive index",
+                "3) Aperture of objective",
+                "4) Focal length of objective"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Diffraction of light proves that:",
+            "options": [
+                "1) Light is a transverse wave",
+                "2) Light has wave nature",
+                "3) Light has particle nature",
+                "4) Light is an electromagnetic wave"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The condition for sustained interference is that the sources must be:",
+            "options": [
+                "1) Coherent",
+                "2) Incoherent",
+                "3) Polychromatic",
+                "4) Far apart"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "When an unpolarized light is polarized, its intensity:",
+            "options": [
+                "1) Remains the same",
+                "2) Halves",
+                "3) Doubles",
+                "4) Becomes zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A stationary wave has nodes and antinodes. The distance between a node and the nearest antinode is:",
+            "options": [
+                "1) lambda",
+                "2) lambda/2",
+                "3) lambda/4",
+                "4) 3lambda/4"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If the tension in a stretched string is quadrupled, the velocity of the transverse wave becomes:",
+            "options": [
+                "1) 4 times",
+                "2) 2 times",
+                "3) Half",
+                "4) Unchanged"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The fundamental frequency of a closed organ pipe of length L is:",
+            "options": [
+                "1) v / 2L",
+                "2) v / 4L",
+                "3) v / L",
+                "4) 2v / L"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The phenomenon of beats can be observed in:",
+            "options": [
+                "1) Sound waves only",
+                "2) Light waves only",
+                "3) Both sound and light waves",
+                "4) Neither"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A lens of refractive index 1.5 is placed in a liquid of refractive index 1.5. Its focal length will:",
+            "options": [
+                "1) Increase",
+                "2) Decrease",
+                "3) Become zero",
+                "4) Become infinite"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Total internal reflection can occur when light travels from:",
+            "options": [
+                "1) Water to glass",
+                "2) Air to water",
+                "3) Glass to water",
+                "4) Vacuum to glass"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The primary colors of light are:",
+            "options": [
+                "1) Red, yellow, blue",
+                "2) Red, green, blue",
+                "3) Cyan, magenta, yellow",
+                "4) Red, blue, violet"
+            ],
+            "answer": "2"
+        }
+    ]
+}

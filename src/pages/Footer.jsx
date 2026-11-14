@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 
 function Footer() {
@@ -7,7 +6,7 @@ function Footer() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
 
           {/* Logo / About */}
           <Link
@@ -69,7 +68,7 @@ function Footer() {
 
               <li>
                 <Link
-                  to="/contact#contact-section"
+                  to="/contact#contact-form"
                   className="text-gray-400 hover:text-white transition no-underline"
                 >
                   Contact
@@ -88,15 +87,6 @@ function Footer() {
             </h5>
 
             <ul className="space-y-2 list-none p-0 m-0">
-
-              {/* <li>
-                <Link
-                  to="/login"
-                  className="text-gray-400 hover:text-white transition no-underline"
-                >
-                  Login
-                </Link>
-              </li> */}
 
               <li>
                 <Link
@@ -131,6 +121,41 @@ function Footer() {
             </ul>
           </div>
 
+          {/* Legal */}
+          <div>
+            <h5 className="text-lg font-semibold mb-4">
+              Policies
+            </h5>
+
+            <ul className="space-y-2 list-none p-0 m-0">
+              <li>
+                <Link
+                  to="/privacy-policy"
+                  className="text-gray-400 hover:text-white transition no-underline"
+                >
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/cookie-policy"
+                  className="text-gray-400 hover:text-white transition no-underline"
+                >
+                  Cookie Policy
+                </Link>
+              </li>
+              <li>
+                <Link
+                  to="/terms-of-service"
+                  className="text-gray-400 hover:text-white transition no-underline"
+                >
+                  Terms of Service
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+
         </div>
 
 
@@ -139,7 +164,7 @@ function Footer() {
 
         <div className="text-center">
           <p className="m-0 text-gray-400 text-sm">
-            © 2026 My App. All Rights Reserved.
+            © 2026 Worldwise Education Consultants. All Rights Reserved.
           </p>
         </div>
 

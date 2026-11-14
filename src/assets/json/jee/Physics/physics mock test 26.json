@@ -1,0 +1,177 @@
+{
+  "testName": "Physics Mock Test 26",
+  "totalMarks": 60,
+  "timeMinutes": 30,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "An electron moves with a speed of 10⁷ m/s at 60° to a uniform magnetic field of 10⁻³ T. The pitch of the helical path is approximately (m = 9.1 × 10⁻³¹ kg, e = 1.6 × 10⁻¹⁹ C)",
+      "options": [
+        "0.018 m",
+        "0.178 m",
+        "1.78 m",
+        "0.36 m"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A square loop of side 0.2 m carries a current of 5 A. It is placed in a uniform magnetic field of 0.4 T with its magnetic moment along the field. The potential energy of the loop is",
+      "options": [
+        "+0.08 J",
+        "−0.08 J",
+        "−0.8 J",
+        "zero"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A long straight conductor of radius R carries a uniformly distributed current. The ratio of the magnetic field at a distance R/2 from the axis to that at a distance 2R from the axis is",
+      "options": [
+        "1 : 2",
+        "1 : 1",
+        "2 : 1",
+        "1 : 4"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "According to the Bohr model, the magnetic moment of an electron in the first orbit of hydrogen is approximately (e = 1.6 × 10⁻¹⁹ C, h = 6.63 × 10⁻³⁴ J s, m = 9.1 × 10⁻³¹ kg)",
+      "options": [
+        "9.27 × 10⁻²⁷ A m²",
+        "1.85 × 10⁻²³ A m²",
+        "9.27 × 10⁻²⁴ A m²",
+        "4.6 × 10⁻²⁴ A m²"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A square loop of side 10 cm and resistance 2 Ω is being pulled out of a region of uniform magnetic field 0.5 T at a constant speed of 2 m/s (the field is perpendicular to the plane of the loop). The force needed to pull the loop is",
+      "options": [
+        "5 × 10⁻³ N",
+        "2.5 × 10⁻³ N",
+        "1 × 10⁻² N",
+        "2.5 × 10⁻² N"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A coil of 50 turns and resistance 10 Ω experiences a change in magnetic flux through each turn of 4 × 10⁻³ Wb. The total charge that flows through the coil is",
+      "options": [
+        "0.2 C",
+        "2 × 10⁻³ C",
+        "0.02 C",
+        "0.04 C"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A current of 2 A in an inductor of 4 H is reduced to zero in 0.1 s. The average emf induced in the inductor is",
+      "options": [
+        "8 V",
+        "80 V",
+        "40 V",
+        "800 V"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "An inductor of 1 H and a resistor of 10 Ω are connected in series to a 10 V battery. The current in the circuit 0.1 s after closing the switch is",
+      "options": [
+        "1.0 A",
+        "0.5 A",
+        "0.368 A",
+        "0.632 A"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "In a series LR circuit connected to an AC source of rms voltage 100 V, R = 30 Ω and the inductive reactance is 40 Ω. The average power consumed is",
+      "options": [
+        "200 W",
+        "120 W",
+        "160 W",
+        "100 W"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "An LC circuit has L = 2 mH and C = 0.5 μF. Its natural angular frequency is approximately",
+      "options": [
+        "3.16 × 10⁴ rad/s",
+        "10⁴ rad/s",
+        "10⁶ rad/s",
+        "5 × 10³ rad/s"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In an AC circuit containing only a capacitor, the current",
+      "options": [
+        "lags the voltage by 90°",
+        "leads the voltage by 90°",
+        "is in phase with the voltage",
+        "leads the voltage by 45°"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A capacitor is being charged by a steady current of 2 A in the connecting wires. The displacement current between its plates is",
+      "options": [
+        "0",
+        "1 A",
+        "2 A",
+        "4 A"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A plane electromagnetic wave of intensity 900 W/m² falls normally on a perfectly absorbing surface. The radiation pressure on the surface is (c = 3 × 10⁸ m/s)",
+      "options": [
+        "3 × 10⁻⁶ N/m²",
+        "6 × 10⁻⁶ N/m²",
+        "9 × 10⁻⁶ N/m²",
+        "1.5 × 10⁻⁶ N/m²"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The electric field amplitude of an electromagnetic wave in vacuum is 60 V/m. The average total energy density of the wave is (ε₀ = 8.85 × 10⁻¹² F/m)",
+      "options": [
+        "3.2 × 10⁻⁸ J/m³",
+        "8 × 10⁻⁹ J/m³",
+        "1.59 × 10⁻⁷ J/m³",
+        "1.59 × 10⁻⁸ J/m³"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "This question has Statement I and Statement II. Of the four choices given after the statements, choose the one that best describes the two statements.\n\nStatement I: An electron moving parallel to a uniform magnetic field experiences no magnetic force.\n\nStatement II: The magnetic force on a moving charge is q(v × B), which vanishes when v is parallel to B.",
+      "options": [
+        "Statement I is false, Statement II is true",
+        "Statement I is true, Statement II is false",
+        "Statement I is true, Statement II is true; Statement II is the correct explanation for Statement I",
+        "Statement I is true, Statement II is true; Statement II is not the correct explanation of Statement I"
+      ],
+      "answer": 3
+    }
+  ]
+}

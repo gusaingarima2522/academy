@@ -1,0 +1,177 @@
+{
+  "testName": "Physics Mock Test 24",
+  "totalMarks": 60,
+  "timeMinutes": 30,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "Two rods of equal length and cross-section, with thermal conductivities K and 2K, are joined end to end. The free end of the first rod is at 100°C and the free end of the second rod is at 0°C. The temperature of the junction in the steady state is",
+      "options": [
+        "50°C",
+        "33.3°C",
+        "66.7°C",
+        "25°C"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A black sphere of radius 1 cm is maintained at 1000 K. The power radiated by it is approximately (σ = 5.67 × 10⁻⁸ W/m² K⁴)",
+      "options": [
+        "7.1 W",
+        "71 W",
+        "710 W",
+        "14 W"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "An ideal gas undergoes a cyclic process represented by a rectangle on the P–V diagram, with sides ΔP = 2 × 10⁵ Pa and ΔV = 3 × 10⁻³ m³. The net work done in one cycle is",
+      "options": [
+        "300 J",
+        "1200 J",
+        "600 J",
+        "6000 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "One mole of an ideal gas at 300 K expands isothermally to double its volume. The work done by the gas is approximately (R = 8.3 J/mol K, ln 2 = 0.693)",
+      "options": [
+        "2.49 kJ",
+        "0.86 kJ",
+        "1.73 kJ",
+        "3.46 kJ"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "700 J of heat is supplied to a diatomic ideal gas at constant pressure. The work done by the gas is",
+      "options": [
+        "100 J",
+        "300 J",
+        "200 J",
+        "500 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "One mole of helium and one mole of hydrogen (rigid diatomic) are mixed. The ratio of the specific heats Cp/Cv of the mixture is",
+      "options": [
+        "1.4",
+        "1.5",
+        "1.67",
+        "1.33"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The number of molecules of an ideal gas in 1 cm³ at STP is approximately",
+      "options": [
+        "6 × 10²³",
+        "2.7 × 10²⁵",
+        "2.7 × 10¹⁹",
+        "6 × 10²⁰"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The pressure of an ideal gas is doubled at constant temperature. The mean free path of its molecules",
+      "options": [
+        "doubles",
+        "becomes half",
+        "remains the same",
+        "becomes one-fourth"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A particle executes SHM with an amplitude of 10 cm and a time period of 2 s. Its maximum acceleration is",
+      "options": [
+        "0.1π² m/s²",
+        "0.2π² m/s²",
+        "0.1π m/s²",
+        "0.4π² m/s²"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A block of mass 1 kg is placed on a smooth horizontal surface between two springs of force constants 100 N/m and 300 N/m, one on each side, both attached to fixed walls. The angular frequency of small oscillations of the block is",
+      "options": [
+        "10 rad/s",
+        "40 rad/s",
+        "20 rad/s",
+        "400 rad/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A travelling wave is described by y = 5 sin(100πt − 0.5πx), with x in metres and t in seconds. The wavelength of the wave is",
+      "options": [
+        "2 m",
+        "8 m",
+        "4 m",
+        "0.5 m"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "An open organ pipe of length 0.85 m is vibrating in its second harmonic. If the speed of sound is 340 m/s, the frequency is",
+      "options": [
+        "200 Hz",
+        "800 Hz",
+        "400 Hz",
+        "100 Hz"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A source of frequency 600 Hz moves towards an observer at 30 m/s while the observer moves towards the source at 20 m/s, both along the same line. If the speed of sound is 340 m/s, the frequency heard by the observer is approximately",
+      "options": [
+        "640 Hz",
+        "697 Hz",
+        "600 Hz",
+        "720 Hz"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The sound intensity level at a point is 60 dB. If the distance from a point source is doubled, the intensity level at the new point is approximately",
+      "options": [
+        "30 dB",
+        "54 dB",
+        "57 dB",
+        "48 dB"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The tension in a stretched string is made four times. The fundamental frequency of the string",
+      "options": [
+        "doubles",
+        "becomes half",
+        "becomes four times",
+        "remains the same"
+      ],
+      "answer": 1
+    }
+  ]
+}

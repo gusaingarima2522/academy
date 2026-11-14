@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 32",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Kinematics",
+        "NLM",
+        "Work Power Energy",
+        "Circular Motion"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle moves such that its position vector is r = cos(wt)i + sin(wt)j. The velocity vector is:",
+            "options": [
+                "1) Parallel to r",
+                "2) Perpendicular to r",
+                "3) Directed towards the origin",
+                "4) Directed away from the origin"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A projectile is fired at an angle of 45 degrees. The ratio of its maximum height to its horizontal range is:",
+            "options": [
+                "1) 1:4",
+                "2) 1:2",
+                "3) 1:1",
+                "4) 4:1"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass m is kept on a stationary rough inclined plane of angle 30 degrees. The magnitude of force by the plane on the block is:",
+            "options": [
+                "1) mg",
+                "2) mg cos(30)",
+                "3) mg sin(30)",
+                "4) mg tan(30)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle is moving in a circle of radius r with uniform speed v. The change in velocity when it moves through a quarter of the circle is:",
+            "options": [
+                "1) v",
+                "2) 0",
+                "3) v * sqrt(2)",
+                "4) 2v"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The power of a water pump is 2 kW. If g = 10 m/s^2, the amount of water it can raise in 1 minute to a height of 10 m is:",
+            "options": [
+                "1) 2000 liters",
+                "2) 1000 liters",
+                "3) 1200 liters",
+                "4) 600 liters"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Statement I: The center of mass of a body must lie within the body. Statement II: The center of mass of a uniform semi-circular ring lies on its center.",
+            "options": [
+                "1) Both correct",
+                "2) Both incorrect",
+                "3) I correct, II incorrect",
+                "4) I incorrect, II correct"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A bullet loses 1/20 of its velocity passing through a plank. The minimum number of planks required to stop it is:",
+            "options": [
+                "1) 10",
+                "2) 11",
+                "3) 20",
+                "4) 21"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two bodies with kinetic energies in the ratio 4:1 are moving with equal linear momentum. The ratio of their masses is:",
+            "options": [
+                "1) 1:2",
+                "2) 1:1",
+                "3) 4:1",
+                "4) 1:4"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A force F = (5i + 3j + 2k) N is applied over a particle which displaces it from its origin to the point r = (2i - j) m. The work done on the particle is:",
+            "options": [
+                "1) -7 J",
+                "2) +7 J",
+                "3) +10 J",
+                "4) +13 J"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If a cyclist moving with a speed of 4.9 m/s on a level road can take a sharp circular turn of radius 4 m, then the coefficient of friction between the cycle tires and the road is:",
+            "options": [
+                "1) 0.41",
+                "2) 0.51",
+                "3) 0.61",
+                "4) 0.71"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle moves in a straight line with retardation proportional to its displacement. Its loss of kinetic energy for any displacement x is proportional to:",
+            "options": [
+                "1) x",
+                "2) x^2",
+                "3) ln(x)",
+                "4) e^x"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "When a spring is stretched by 2 cm, it stores 100 J of energy. If it is stretched further by 2 cm, the stored energy will be increased by:",
+            "options": [
+                "1) 100 J",
+                "2) 200 J",
+                "3) 300 J",
+                "4) 400 J"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An explosion breaks a rock into three parts in a horizontal plane. Two of them go off at right angles to each other. The first part of mass 1 kg moves with a speed of 12 m/s and the second part of mass 2 kg moves with 8 m/s. If the third part flies off with 4 m/s speed, then its mass is:",
+            "options": [
+                "1) 3 kg",
+                "2) 5 kg",
+                "3) 7 kg",
+                "4) 17 kg"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is a non-conservative force?",
+            "options": [
+                "1) Gravitational force",
+                "2) Electrostatic force",
+                "3) Viscous drag",
+                "4) Magnetic force"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a perfectly inelastic collision, which of the following is conserved?",
+            "options": [
+                "1) Kinetic energy",
+                "2) Linear momentum",
+                "3) Both",
+                "4) Neither"
+            ],
+            "answer": "2"
+        }
+    ]
+}

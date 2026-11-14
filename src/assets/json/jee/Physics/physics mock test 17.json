@@ -1,0 +1,166 @@
+{
+  "testName": "Physics Mock Test 17",
+  "totalMarks": 56,
+  "timeMinutes": 28,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A particle moves along the x-axis according to x = 3t² − t³ (x in metres, t in seconds). The time t > 0 at which its velocity becomes zero is",
+      "options": [
+        "3 s",
+        "6 s",
+        "2 s",
+        "1 s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A ball thrown vertically upward stays in the air for 6 s before returning to the thrower's hand. The maximum height reached is (take g = 10 m/s²)",
+      "options": [
+        "60 m",
+        "90 m",
+        "30 m",
+        "45 m"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A block on a rough inclined plane of inclination 30° is just on the verge of sliding down. The coefficient of static friction is",
+      "options": [
+        "0.577",
+        "0.5",
+        "0.707",
+        "0.866"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Two blocks of masses 4 kg and 6 kg are in contact on a smooth horizontal surface. A horizontal force of 20 N is applied on the 4 kg block. The contact force between the blocks is",
+      "options": [
+        "8 N",
+        "20 N",
+        "12 N",
+        "24 N"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A projectile is launched at 45° and has a horizontal range of 100 m. Its maximum height is",
+      "options": [
+        "12.5 m",
+        "50 m",
+        "100 m",
+        "25 m"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A variable force F = 3x² N acts on a particle along the x-axis. The work done in moving it from x = 0 to x = 2 m is",
+      "options": [
+        "6 J",
+        "12 J",
+        "8 J",
+        "24 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A body of mass 1 kg is thrown vertically upward with a kinetic energy of 50 J. At what height will its kinetic energy equal its potential energy? (take g = 10 m/s²)",
+      "options": [
+        "2.5 m",
+        "5 m",
+        "25 m",
+        "50 m"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A ball of mass 2 kg moving at 5 m/s collides head-on elastically with a stationary ball of mass 3 kg. The velocity of the 2 kg ball just after the collision is",
+      "options": [
+        "+1 m/s",
+        "−1 m/s",
+        "−5 m/s",
+        "+2 m/s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A stone tied to a string of length 1 m is whirled in a horizontal circle at 2 revolutions per second. The magnitude of its centripetal acceleration is",
+      "options": [
+        "4π² m/s²",
+        "8π² m/s²",
+        "16π² m/s²",
+        "64π² m/s²"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A road is banked so that a car can take a turn of radius 10 m at a speed of 10 m/s without relying on friction. The angle of banking is (take g = 10 m/s²)",
+      "options": [
+        "30°",
+        "60°",
+        "37°",
+        "45°"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "This question has Statement I and Statement II. Of the four choices given after the statements, choose the one that best describes the two statements.\n\nStatement I: A body moving in a uniform circular motion has a constant kinetic energy.\n\nStatement II: In uniform circular motion, the centripetal force is always perpendicular to the velocity and does no work.",
+      "options": [
+        "Statement I is false, Statement II is true",
+        "Statement I is true, Statement II is false",
+        "Statement I is true, Statement II is true; Statement II is the correct explanation for Statement I",
+        "Statement I is true, Statement II is true; Statement II is not the correct explanation of Statement I"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A bob of mass 0.5 kg attached to a string of length 1 m is released from the horizontal position. The tension in the string at the lowest point is (take g = 10 m/s²)",
+      "options": [
+        "5 N",
+        "10 N",
+        "20 N",
+        "15 N"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A thin rod of length L has a linear mass density that varies as λ = kx, where x is the distance from one end. The centre of mass of the rod is at a distance from that end equal to",
+      "options": [
+        "2L/3",
+        "L/2",
+        "L/3",
+        "3L/4"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A force F = 10t N (t in seconds) acts for 2 s on a body of mass 1 kg initially at rest. The final velocity of the body is",
+      "options": [
+        "10 m/s",
+        "40 m/s",
+        "20 m/s",
+        "5 m/s"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 36",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "EMI",
+        "AC",
+        "Optics",
+        "Modern Physics"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Lenz's law is a consequence of the law of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Momentum",
+                "3) Mass",
+                "4) Energy"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC circuit, the voltage and current are given by V = 100 sin(100t) and I = 100 sin(100t + pi/3). The power dissipated in the circuit is:",
+            "options": [
+                "1) 10^4 W",
+                "2) 10 W",
+                "3) 2500 W",
+                "4) 5000 W"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The core of a transformer is laminated to reduce:",
+            "options": [
+                "1) Eddy current loss",
+                "2) Hysteresis loss",
+                "3) Copper loss",
+                "4) Magnetic leakage"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A double convex lens of focal length 20 cm is made of glass of refractive index 1.5. When placed completely in water (refractive index 1.33), its focal length will be:",
+            "options": [
+                "1) 80 cm",
+                "2) 20 cm",
+                "3) 15 cm",
+                "4) 22.5 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a Young's double slit experiment, if the source is changed from red light to blue light:",
+            "options": [
+                "1) Fringe width decreases",
+                "2) Fringe width increases",
+                "3) Fringe width remains constant",
+                "4) Fringes become completely dark"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Photoelectric emission occurs only when the incident light has more than a certain minimum:",
+            "options": [
+                "1) Power",
+                "2) Wavelength",
+                "3) Intensity",
+                "4) Frequency"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of the radii of the first three Bohr orbits is:",
+            "options": [
+                "1) 1:2:3",
+                "2) 1:4:9",
+                "3) 1:8:27",
+                "4) 1:sqrt(2):sqrt(3)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following transitions in hydrogen atoms emits a photon of highest frequency?",
+            "options": [
+                "1) n=2 to n=1",
+                "2) n=10 to n=2",
+                "3) n=4 to n=3",
+                "4) n=6 to n=2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The half-life of a radioactive isotope is 3 hours. If the initial mass is 256 g, the mass remaining after 18 hours is:",
+            "options": [
+                "1) 4 g",
+                "2) 8 g",
+                "3) 12 g",
+                "4) 16 g"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-type semiconductor, the majority charge carriers are:",
+            "options": [
+                "1) Electrons",
+                "2) Holes",
+                "3) Protons",
+                "4) Neutrons"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The step-up transformer increases:",
+            "options": [
+                "1) Voltage",
+                "2) Current",
+                "3) Power",
+                "4) Frequency"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "When a plane electromagnetic wave propagates in a vacuum, the electric and magnetic fields are:",
+            "options": [
+                "1) Parallel to each other",
+                "2) Perpendicular to each other and to the direction of propagation",
+                "3) Out of phase by 90 degrees",
+                "4) Have unequal energy densities"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A ray of light incident at an angle theta on a refracting face of a prism emerges normally from the opposite face. If the angle of prism is A and refractive index is mu, then theta is nearly equal to:",
+            "options": [
+                "1) mu A",
+                "2) A / mu",
+                "3) A",
+                "4) mu / A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Resolving power of a telescope increases with:",
+            "options": [
+                "1) Increase in focal length of objective",
+                "2) Increase in wavelength of light",
+                "3) Increase in aperture of objective",
+                "4) Decrease in focal length of eyepiece"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The mass defect of a nucleus is 0.03 u. Its binding energy is approximately:",
+            "options": [
+                "1) 28 MeV",
+                "2) 27.9 MeV",
+                "3) 2.79 MeV",
+                "4) 279 MeV"
+            ],
+            "answer": "2"
+        }
+    ]
+}

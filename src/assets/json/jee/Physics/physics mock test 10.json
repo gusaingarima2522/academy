@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 10",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A capillary tube is dipped in water. If the radius of the capillary tube is halved, the height to which water rises",
+      "options": [
+        "remains unchanged",
+        "becomes half",
+        "becomes double",
+        "becomes four times"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The excess pressure inside a soap bubble of radius 1 cm and surface tension 0.03 N/m is",
+      "options": [
+        "12 Pa",
+        "3 Pa",
+        "6 Pa",
+        "24 Pa"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A wire of length 2 m, cross-sectional area 1 mm² and Young's modulus 2 × 10¹¹ N/m² is stretched by a force of 100 N. The extension produced is",
+      "options": [
+        "10 mm",
+        "0.1 mm",
+        "0.01 mm",
+        "1 mm"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "If the absolute temperature of an ideal gas is doubled, its rms speed becomes",
+      "options": [
+        "2 times",
+        "4 times",
+        "√2 times",
+        "1/√2 times"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A system is given 500 J of heat and does 200 J of work. The change in its internal energy is",
+      "options": [
+        "700 J",
+        "500 J",
+        "300 J",
+        "200 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "When an ideal gas expands adiabatically, its temperature",
+      "options": [
+        "increases",
+        "decreases",
+        "remains constant",
+        "becomes zero"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The ratio of specific heats (Cp/Cv) for a rigid diatomic gas is",
+      "options": [
+        "5/3",
+        "4/3",
+        "9/7",
+        "7/5"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A metal rod of length 1 m, cross-sectional area 10⁻⁴ m² and thermal conductivity 400 W/m K has its ends maintained at a temperature difference of 100 K. The rate of heat flow is",
+      "options": [
+        "0.4 W",
+        "40 W",
+        "4 W",
+        "400 W"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "According to Wien's displacement law, if the temperature of a black body is doubled, the wavelength corresponding to maximum emission becomes",
+      "options": [
+        "double",
+        "unchanged",
+        "four times",
+        "half"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "100 g of water at 80°C is mixed with 100 g of water at 20°C. Neglecting heat losses, the final temperature of the mixture is",
+      "options": [
+        "40°C",
+        "60°C",
+        "70°C",
+        "50°C"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A Carnot refrigerator works between the temperatures 270 K (inside) and 300 K (surroundings). Its coefficient of performance is",
+      "options": [
+        "0.11",
+        "9",
+        "3",
+        "10"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The pressure of an ideal gas at constant density becomes how many times if the rms speed of its molecules is doubled?",
+      "options": [
+        "2 times",
+        "8 times",
+        "4 times",
+        "1/2 times"
+      ],
+      "answer": 3
+    }
+  ]
+}

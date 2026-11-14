@@ -1,0 +1,181 @@
+{
+    "testName": "Physics Mock Test 41",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Magnetism",
+        "EMI",
+        "AC",
+        "Optics",
+        "Modern Physics"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The magnetic field at the center of a circular current-carrying loop of radius R is B. If the radius is doubled keeping the current constant, the new magnetic field is:",
+            "options": [
+                "1) 2B",
+                "2) B/2",
+                "3) 4B",
+                "4) B/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Faraday's law, the induced emf is equal to the negative rate of change of:",
+            "options": [
+                "1) Electric flux",
+                "2) Magnetic flux",
+                "3) Magnetic field",
+                "4) Current"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a purely inductive AC circuit, the current:",
+            "options": [
+                "1) Leads the voltage by pi/2",
+                "2) Lags the voltage by pi/2",
+                "3) Is in phase with the voltage",
+                "4) Lags the voltage by pi"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A convex lens is dipped in a liquid whose refractive index is equal to that of the lens material. Its focal length will:",
+            "options": [
+                "1) Become zero",
+                "2) Remain unchanged",
+                "3) Become infinite",
+                "4) Decrease"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The minimum energy required to remove an electron from the ground state of a hydrogen atom is:",
+            "options": [
+                "1) 1.51 eV",
+                "2) 3.4 eV",
+                "3) 13.6 eV",
+                "4) 10.2 eV"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In beta decay, the atomic number of the nucleus:",
+            "options": [
+                "1) Increases by 1",
+                "2) Decreases by 1",
+                "3) Remains unchanged",
+                "4) Increases by 2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a p-n junction diode, the reverse saturation current is primarily due to:",
+            "options": [
+                "1) Majority carriers",
+                "2) Minority carriers",
+                "3) Both",
+                "4) Neither"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resolving power of a microscope can be increased by using:",
+            "options": [
+                "1) Red light",
+                "2) Blue light",
+                "3) Light of longer wavelength",
+                "4) A lens of small numerical aperture"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which logic gate is known as the universal gate?",
+            "options": [
+                "1) AND",
+                "2) OR",
+                "3) NAND",
+                "4) XOR"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The work function of a metal is 4.0 eV. The threshold wavelength for the metal is approximately:",
+            "options": [
+                "1) 310 nm",
+                "2) 620 nm",
+                "3) 155 nm",
+                "4) 400 nm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The SI unit of magnetic flux is:",
+            "options": [
+                "1) Tesla",
+                "2) Weber",
+                "3) Henry",
+                "4) Ampere-meter"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Resonance in an LCR circuit occurs when:",
+            "options": [
+                "1) XL > XC",
+                "2) XL < XC",
+                "3) XL = XC",
+                "4) R = 0"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Mirage is observed due to the phenomenon of:",
+            "options": [
+                "1) Interference",
+                "2) Diffraction",
+                "3) Total internal reflection",
+                "4) Scattering"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The half-life of a radioactive substance is 5 days. The fraction of the substance remaining after 15 days is:",
+            "options": [
+                "1) 1/2",
+                "2) 1/4",
+                "3) 1/8",
+                "4) 1/16"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "De Broglie wavelength of a particle is inversely proportional to its:",
+            "options": [
+                "1) Mass",
+                "2) Velocity",
+                "3) Momentum",
+                "4) Energy"
+            ],
+            "answer": "3"
+        }
+    ]
+}

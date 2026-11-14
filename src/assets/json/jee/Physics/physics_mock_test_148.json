@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 148",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 28"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Two projectiles are fired from the same point with the same speed at angles of projection 60\u00b0 and 30\u00b0 respectively. Which one of the following is true?",
+            "options": [
+                "1) Their maximum heights will be same",
+                "2) Their ranges will be same",
+                "3) Their landing velocities will be same",
+                "4) Their times of flight will be same"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A bullet of mass 10 g moving horizontally with a velocity of 500 m/s strikes a wooden block of mass 2 kg which is suspended by a long string. As a result, the block rises a vertical distance of 20 cm. The speed of the bullet after it emerges horizontally out of the block is (g = 10 m/s^2):",
+            "options": [
+                "1) 100 m/s",
+                "2) 120 m/s",
+                "3) 140 m/s",
+                "4) 80 m/s"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A disc of moment of inertia I1 is rotating freely with angular speed w1 when a second, non-rotating coaxial disc with moment of inertia I2 is dropped on it. The two then rotate as a unit. Find the angular speed of the combination:",
+            "options": [
+                "1) I1 w1 / (I1 + I2)",
+                "2) I2 w1 / (I1 + I2)",
+                "3) w1",
+                "4) (I1 + I2) w1 / I1"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "At what altitude above the Earth's surface would the acceleration due to gravity be one-ninth of its value at the Earth's surface (R is radius of Earth)?",
+            "options": [
+                "1) R",
+                "2) 2R",
+                "3) 3R",
+                "4) 8R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A cylindrical vessel is filled with water up to a height H. A small hole is punched in the side wall at a depth h below the water surface. For the horizontal range of the emerging water jet to be maximum, h should be equal to:",
+            "options": [
+                "1) H/4",
+                "2) H/2",
+                "3) 3H/4",
+                "4) H"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two rods of the same length and diameter, having thermal conductivities K1 and K2, are joined in parallel. The equivalent thermal conductivity of the combination is:",
+            "options": [
+                "1) K1 + K2",
+                "2) (K1 + K2) / 2",
+                "3) 2 K1 K2 / (K1 + K2)",
+                "4) sqrt(K1 K2)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "During an adiabatic compression of 2 moles of an ideal monoatomic gas, 300 J of work is done on the gas. The change in temperature of the gas is (R = 8.3 J/mol-K):",
+            "options": [
+                "1) +12 K",
+                "2) -12 K",
+                "3) +24 K",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle executes SHM with a time period of 4 s. The time taken by it to move from the mean position to half the amplitude is:",
+            "options": [
+                "1) 1 s",
+                "2) 1/3 s",
+                "3) 2/3 s",
+                "4) 1/2 s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A train moves towards a stationary observer with speed 34 m/s. The train sounds a whistle and its frequency registered by the observer is f1. If the train's speed is reduced to 17 m/s, the frequency registered is f2. If the speed of sound is 340 m/s, then the ratio f1/f2 is:",
+            "options": [
+                "1) 18/19",
+                "2) 1/2",
+                "3) 2",
+                "4) 19/18"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Six equal point charges, each of value +q, are placed at the six vertices of a regular hexagon of side a. The net electric field at the center of the hexagon is:",
+            "options": [
+                "1) 6 kq / a^2",
+                "2) kq / a^2",
+                "3) Zero",
+                "4) 3 kq / a^2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A 10 uF capacitor is charged to 100 V. It is then disconnected from the battery and connected in parallel to an uncharged 10 uF capacitor. The loss of electrostatic energy in the process is:",
+            "options": [
+                "1) 0.05 J",
+                "2) 0.025 J",
+                "3) 0.1 J",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A cell of EMF E and internal resistance r is connected across an external resistor R = 2r. The terminal potential difference across the cell is:",
+            "options": [
+                "1) E / 2",
+                "2) 2E / 3",
+                "3) E / 3",
+                "4) E"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "An alpha particle and a proton enter a uniform magnetic field perpendicularly with the same speed. The ratio of the time periods of revolution of the alpha particle to that of the proton is:",
+            "options": [
+                "1) 1:1",
+                "2) 2:1",
+                "3) 1:2",
+                "4) 4:1"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A coil of area 100 cm^2 has 500 turns. Magnetic field of 0.1 Wb/m^2 is perpendicular to the coil. The field is reduced to zero in 0.1 second. The induced emf in the coil is:",
+            "options": [
+                "1) 1 V",
+                "2) 5 V",
+                "3) 50 V",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "An alternating voltage V = 200 sin(100t) is applied to a resistor of 10 ohms. The RMS value of the current is:",
+            "options": [
+                "1) 20 A",
+                "2) 10 * sqrt(2) A",
+                "3) 20 * sqrt(2) A",
+                "4) 10 A"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is NOT an electromagnetic wave?",
+            "options": [
+                "1) Cosmic rays / Cathode rays",
+                "2) Gamma rays",
+                "3) X-rays",
+                "4) Infrared rays"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "An object is placed at a distance of 40 cm in front of a concave mirror of focal length 20 cm. The image produced is:",
+            "options": [
+                "1) Virtual and inverted",
+                "2) Real, inverted and of the same size",
+                "3) Real, inverted and diminished",
+                "4) Real, inverted and magnified"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Bohr's theory, the ratio of the speed of the electron in the first orbit to that in the second orbit of a hydrogen atom is:",
+            "options": [
+                "1) 1:2",
+                "2) 2:1",
+                "3) 4:1",
+                "4) 1:4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The half-life of a radioactive isotope is 3 hours. If the initial mass of the isotope were 256 g, the mass of it remaining undecayed after 18 hours would be:",
+            "options": [
+                "1) 4 g",
+                "2) 8 g",
+                "3) 12 g",
+                "4) 16 g"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a bridge full-wave rectifier, the number of diodes conducting during each half-cycle of input AC is:",
+            "options": [
+                "1) 1",
+                "2) 2",
+                "3) 3",
+                "4) 4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A car accelerates uniformly from 10 m/s to 30 m/s in 5 seconds. The distance covered by the car in this time in meters is:",
+            "answer": "100"
+        },
+        {
+            "type": "numerical",
+            "question": "A wheel starts from rest and attains an angular velocity of 20 rad/s in 4 seconds with constant angular acceleration. The angle rotated by the wheel in radians is:",
+            "answer": "40"
+        },
+        {
+            "type": "numerical",
+            "question": "A 220 V, 1100 W electric toaster is connected to a 220 V supply. The current flowing through it in Amperes is:",
+            "answer": "5"
+        },
+        {
+            "type": "numerical",
+            "question": "The refractive index of glass is 1.5. The speed of light in this glass is (x * 10^8) m/s. The value of x is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "The Stopping potential in a photoelectric experiment is 3 V. The maximum kinetic energy of the emitted photoelectrons in eV is:",
+            "answer": "3"
+        }
+    ]
+}

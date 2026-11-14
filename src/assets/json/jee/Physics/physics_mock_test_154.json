@@ -1,0 +1,279 @@
+{
+    "testName": "Physics Mock Test 154",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 27,
+    "topics": [
+        "Exact JEE Main Simulation 4"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A bullet moving with a speed of 100 m/s can penetrate a wooden plank up to 6 cm. If the thickness of the plank is 2 cm, find the velocity with which the bullet emerges out:",
+            "options": [
+                "1) 50 * sqrt(2) m/s",
+                "2) 50 * sqrt(6) m/s",
+                "3) 100 * sqrt(3) m/s",
+                "4) 50 m/s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle moves in the x-y plane under the action of a force such that its components of linear momentum at any time t are px = 2 cos(t) and py = 2 sin(t). The angle between the force vector and momentum vector is:",
+            "options": [
+                "1) 0 degrees",
+                "2) 90 degrees",
+                "3) 180 degrees",
+                "4) 45 degrees"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform rod of mass M and length L is suspended vertically from one end. It is deflected through a small angle theta and released. The time period of oscillation is:",
+            "options": [
+                "1) 2*pi*sqrt(L/g)",
+                "2) 2*pi*sqrt(2L / 3g)",
+                "3) 2*pi*sqrt(L / 2g)",
+                "4) 2*pi*sqrt(3L / g)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The total energy of an earth satellite of mass m revolving at a distance r from the center of the earth (mass M) is:",
+            "options": [
+                "1) -G M m / (2r)",
+                "2) -G M m / r",
+                "3) G M m / (2r)",
+                "4) G M m / r"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A steel wire of length L and cross-sectional area A is suspended vertically. When a mass M is attached to its lower end, the extension is l. The elastic potential energy stored in the wire is:",
+            "options": [
+                "1) Mgl",
+                "2) 1/2 Mgl",
+                "3) 2Mgl",
+                "4) Mgl / 4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "When a large soap bubble is formed from two smaller soap bubbles under isothermal conditions, the radius of the large bubble R in terms of smaller radii r1 and r2 is:",
+            "options": [
+                "1) R = r1 + r2",
+                "2) R = sqrt(r1^2 + r2^2)",
+                "3) R = (r1*r2)/(r1+r2)",
+                "4) R = r1*r2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the first law of thermodynamics, energy is conserved in:",
+            "options": [
+                "1) Isothermal processes only",
+                "2) Adiabatic processes only",
+                "3) Cyclic processes only",
+                "4) All thermodynamic processes"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A refrigerator has a coefficient of performance of 4. If the temperature inside the freezer is -23\u00b0C, the temperature of the surroundings is:",
+            "options": [
+                "1) 27\u00b0C",
+                "2) 47\u00b0C",
+                "3) 0\u00b0C",
+                "4) 17\u00b0C"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A refrigerator has a coefficient of performance of 5. If the temperature inside the freezer is -23\u00b0C, the temperature of the surroundings is:",
+            "options": [
+                "1) 27\u00b0C",
+                "2) 47\u00b0C",
+                "3) 0\u00b0C",
+                "4) 17\u00b0C"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The displacement of a wave is represented by y = 0.25 sin(314t - 1.57x). The maximum particle velocity is:",
+            "options": [
+                "1) 314 m/s",
+                "2) 78.5 m/s",
+                "3) 1.57 m/s",
+                "4) 50 m/s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two organ pipes, both open at both ends, have lengths 30 cm and 31 cm. They produce 6 beats per second when sounded together. The velocity of sound in air is:",
+            "options": [
+                "1) 330 m/s",
+                "2) 348 m/s",
+                "3) 360 m/s",
+                "4) 372 m/s"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Two organ pipes, both open at both ends, have lengths 30 cm and 30.3 cm. They produce 6 beats per second when sounded together. The velocity of sound in air is approximately:",
+            "options": [
+                "1) 330 m/s",
+                "2) 348 m/s",
+                "3) 360 m/s",
+                "4) 372 m/s"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric field intensity at a distance r from an infinite line charge with linear charge density lambda is proportional to:",
+            "options": [
+                "1) r",
+                "2) 1/r",
+                "3) 1/r^2",
+                "4) 1/r^3"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A parallel plate capacitor is charged and isolated. If the plates are brought closer:",
+            "options": [
+                "1) Capacitance increases, Potential difference decreases",
+                "2) Capacitance decreases, Potential difference increases",
+                "3) Both capacitance and potential increase",
+                "4) Both capacitance and potential decrease"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform wire of resistance R is cut into n equal parts and they are connected in parallel. The equivalent resistance is:",
+            "options": [
+                "1) n R",
+                "2) R / n",
+                "3) R / n^2",
+                "4) n^2 R"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle enters a uniform magnetic field perpendicularly. The kinetic energy of the particle:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains constant",
+                "4) Becomes zero"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The self-inductance of a solenoid of length l, cross-sectional area A, and total turns N is given by:",
+            "options": [
+                "1) mu_0 N^2 A / l",
+                "2) mu_0 N A / l",
+                "3) mu_0 N^2 A l",
+                "4) mu_0 N A l"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC series LCR circuit, the impedance is minimum at resonant frequency. The value of this minimum impedance is:",
+            "options": [
+                "1) XL",
+                "2) XC",
+                "3) R",
+                "4) Zero"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the maximum frequency?",
+            "options": [
+                "1) Ultraviolet rays",
+                "2) X-rays",
+                "3) Gamma rays",
+                "4) Infrared rays"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The focal length of a concave lens of refractive index 1.5 in air is -20 cm. When immersed in water (mu = 4/3), its focal length becomes:",
+            "options": [
+                "1) -20 cm",
+                "2) -40 cm",
+                "3) -80 cm",
+                "4) +80 cm"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In Young's double slit experiment, if the wavelength of light is doubled and the slit separation is also doubled, the fringe width will:",
+            "options": [
+                "1) Halves",
+                "2) Doubles",
+                "3) Quadruples",
+                "4) Remain unchanged"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The work function of a metal is 2.0 eV. The threshold wavelength for this metal is approximately:",
+            "options": [
+                "1) 310 nm",
+                "2) 620 nm",
+                "3) 413 nm",
+                "4) 155 nm"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A body of mass 2 kg moving with a velocity of 10 m/s is brought to rest in 0.5 s. The magnitude of the average retarding force in Newtons is:",
+            "answer": "40"
+        },
+        {
+            "type": "numerical",
+            "question": "A ring of mass 1 kg and radius 0.5 m is rotating about its geometric axis at 10 rad/s. Its angular momentum in kg m^2/s is:",
+            "answer": "2.5"
+        },
+        {
+            "type": "numerical",
+            "question": "Two resistances of 4 ohms and 12 ohms are connected in parallel. Their equivalent resistance in ohms is:",
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "The magnetic field at the center of a circular coil of radius 0.1 m carrying a current of 2 A with 100 turns in uT is:",
+            "answer": "1256"
+        },
+        {
+            "type": "numerical",
+            "question": "The energy of a photon corresponding to a wavelength of 620 nm in eV is (use hc = 12400 eV-A):",
+            "answer": "2"
+        }
+    ]
+}

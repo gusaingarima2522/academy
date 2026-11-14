@@ -12,7 +12,7 @@
     width: 100%;
     min-height: 520px;
 
-    background-image: url("../assets/cuet-banner.jpg");
+    background-image: url("../assets/Cuet_Preperation.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -505,7 +505,7 @@
     width: 100%;
     min-height: 520px;
 
-    background-image: url("../assets/clat-banner.jpg");
+    background-image: url("../assets/clatt.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -993,25 +993,18 @@
 ========================================= */
 
 .About-Banner {
-    width: 100%;
-    max-width: 1200px;
-
-    margin: 10px auto;
-    padding: 50px 10px 30px;
-    /* padding-left: 50px; */
+    width: calc(100% - 24px);
+    max-width: 1400px;
+    margin: 16px auto;
+    padding: clamp(16px, 2.4vw, 32px);
 
     display: grid;
-    grid-template-columns: 1fr 1fr;
-
-    gap: 40px;
-
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: clamp(16px, 2.4vw, 32px);
     align-items: stretch;
-
     box-sizing: border-box;
-
     background: #e7e5e5;
-
-    border-radius: 15px;
+    border-radius: 12px;
 }
 
 
@@ -1021,23 +1014,19 @@
 
 .About-Content {
     width: 100%;
-
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 10px;
-    padding: 10px;
-
+    min-width: 0;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 .About-Content h2 {
-    margin: 0 0 20px;
-
+    margin: 0 0 14px;
     font-size: clamp(28px, 3vw, 38px);
-
     line-height: 1.2;
-
     color: #531919;
 }
 
@@ -1049,20 +1038,15 @@
     width: 60px;
     height: 4px;
 
-    margin-top: 12px;
-
+    margin-top: 10px;
     background: #ffd21f;
-
     border-radius: 5px;
 }
 
 .About-Content p {
-    margin: 0 0 16px;
-
+    margin: 0 0 12px;
     font-size: 16px;
-
-    line-height: 1.75;
-
+    line-height: 1.65;
     color: #4b4949;
 }
 
@@ -1076,22 +1060,15 @@
 ========================================= */
 
 .About-Video {
-    width: 80%;
-
+    width: 100%;
     min-width: 0;
-
-    height: 50%;
-    /* margin: 50px; */
-    margin-top: 250px;
-
+    aspect-ratio: 16 / 9;
+    height: auto;
+    margin: auto 0;
     display: flex;
-
     box-sizing: border-box;
-
     overflow: hidden;
-
     border-radius: 12px;
-
     background: #000;
 }
 
@@ -1104,13 +1081,8 @@
     display: block;
 
     width: 100%;
-
     height: 100%;
-
-    min-height: 100%;
-
     object-fit: contain;
-
     border-radius: 12px;
 }
 
@@ -1122,21 +1094,16 @@
 @media (max-width: 992px) {
 
     .About-Banner {
-        max-width: 95%;
-
-        padding: 30px;
-
-        gap: 30px;
+        gap: 20px;
     }
 
     .About-Content h2 {
-        font-size: 30px;
+        font-size: clamp(26px, 3.5vw, 30px);
     }
 
     .About-Content p {
-        font-size: 15px;
-
-        line-height: 1.4;
+        font-size: 14px;
+        line-height: 1.55;
     }
 
 }
@@ -1153,20 +1120,16 @@
 @media (max-width: 768px) {
 
     .About-Banner {
-        width: calc(100% - 30px);
+        width: calc(100% - 24px);
         max-width: none;
-
-        margin: 30px auto;
-        padding: 25px 20px;
+        margin: 16px auto;
+        padding: 20px;
 
         display: grid;
         grid-template-columns: 1fr;
-
-        gap: 20px;
-
+        gap: 16px;
         box-sizing: border-box;
-
-        border-radius: 0;
+        border-radius: 12px;
     }
 
     /* Content */
@@ -1181,13 +1144,13 @@
 
     .About-Content h2 {
         font-size: 28px;
-        margin-bottom: 15px;
+        margin-bottom: 12px;
     }
 
     .About-Content p {
         font-size: 15px;
-        line-height: 1.7;
-        margin-bottom: 16px;
+        line-height: 1.6;
+        margin-bottom: 12px;
     }
 
 
@@ -1197,9 +1160,7 @@
         width: 100%;
 
         height: auto;
-
         margin: 0;
-
         aspect-ratio: 16 / 9;
 
         box-sizing: border-box;
@@ -1219,6 +1180,18 @@
     }
 }
 
+@media (min-width: 640px) and (max-width: 767px) {
+    .About-Banner {
+        width: calc(100% - 48px);
+    }
+}
+
+@media (min-width: 768px) {
+    .About-Banner {
+        width: calc(100% - 64px);
+    }
+}
+
 
 /* =========================================
    SMALL MOBILE
@@ -1228,14 +1201,9 @@
 
     .About-Banner {
         width: calc(100% - 24px);
-
-        margin: 25px auto;
-
-        padding: 25px 16px;
-
-        gap: 20px;
-
-        border-radius: 0;
+        margin: 12px auto;
+        padding: 16px;
+        gap: 14px;
     }
 
     .About-Content {
@@ -1246,18 +1214,14 @@
 
     .About-Content h2 {
         font-size: 25px;
-
         line-height: 1.25;
-
-        margin: 0 0 15px;
+        margin: 0 0 10px;
     }
 
     .About-Content p {
-        font-size: 16px;
-
-        line-height: 1.80;
-
-        margin: 0 0 14px;
+        font-size: 15px;
+        line-height: 1.65;
+        margin: 0 0 10px;
     }
 
     .About-Video {
@@ -1266,7 +1230,6 @@
         margin: 0;
 
         aspect-ratio: 16 / 9;
-
         border-radius: 10px;
     }
 
@@ -1275,7 +1238,6 @@
         height: 100%;
 
         object-fit: contain;
-
         border-radius: 10px;
     }
 }
@@ -1289,7 +1251,7 @@
     width: 100%;
     min-height: 520px;
 
-    background-image: url("../assets/mock-test-banner.jpg");
+    background-image: url("../assets/hero.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1549,7 +1511,8 @@
    TEST BUTTON
 ========================================= */
 
-.mock-test-option button {
+.mock-test-option button,
+.mock-test-option .mock-test-button {
     width: 100%;
 
     height: 40px;
@@ -1570,9 +1533,18 @@
     transition: 0.2s ease;
 }
 
+.mock-test-option .mock-test-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
 
-.mock-test-option button:hover {
+
+.mock-test-option button:hover,
+.mock-test-option .mock-test-button:hover {
     background: #0d1528;
+    color: #fff;
 }
 
 
@@ -1842,11 +1814,21 @@
 /* Moving content */
 
 .notification-track {
-  display: inline-block;
+  display: flex;
+  width: max-content;
+  align-items: center;
+  animation: notificationMove 32s linear infinite;
+}
 
-  padding-left: 100%;
+.notification-copy {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+}
 
-  animation: notificationMove 12s linear infinite;
+.notification-item {
+  display: inline-flex;
+  align-items: center;
 }
 
 
@@ -1854,18 +1836,26 @@
 
 .notification-track a {
   color: white;
-
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 600;
   text-decoration: none;
-
+  white-space: nowrap;
   transition: color 0.2s ease;
 }
 
+.notification-track .separator,
+.notification-track .notification-separator {
+  color: rgba(255, 255, 255, 0.55);
+  margin: 0 14px;
+  padding: 0 26px;
+  white-space: nowrap;
+}
 
-/* Hover */
 
-.notification-track:hover {
+/* Hover / keyboard pause */
+
+.notification-track:hover,
+.notification-track:focus-within {
   animation-play-state: paused;
 }
 
@@ -1887,13 +1877,13 @@
 ========================= */
 
 @keyframes notificationMove {
-  from {
-    transform: translateX(0);
-  }
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
 
-  to {
-    transform: translateX(-100%);
-  }
+@media (prefers-reduced-motion: reduce) {
+  .notification-track { animation: none; }
+  .crouse-notification { overflow-x: auto; }
 }
 
 
@@ -1914,6 +1904,12 @@
 
   .notification-track a {
     font-size: 16px;
+  }
+
+  .notification-track .separator,
+  .notification-track .notification-separator {
+    margin: 0 8px;
+    padding: 0 16px;
   }
 }
 

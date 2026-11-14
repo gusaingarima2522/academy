@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 123",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Electromagnetism (Hard)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Electric field intensity at a distance r from an infinitely long uniformly charged straight wire is proportional to:",
+            "options": [
+                "1) r",
+                "2) 1/r",
+                "3) 1/r^2",
+                "4) 1/r^3"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A soap bubble is given a positive charge. Its radius will:",
+            "options": [
+                "1) Increase",
+                "2) Decrease",
+                "3) Remain unchanged",
+                "4) Fluctuate"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The equivalent capacitance of two capacitors C1 and C2 in series is:",
+            "options": [
+                "1) C1 + C2",
+                "2) C1*C2 / (C1+C2)",
+                "3) C1 - C2",
+                "4) C1/C2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance R is stretched to 3 times its original length. The new resistance is:",
+            "options": [
+                "1) 3R",
+                "2) 9R",
+                "3) R/3",
+                "4) R/9"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Kirchhoff's loop rule is a direct consequence of the law of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Mass",
+                "3) Energy",
+                "4) Momentum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A moving coil galvanometer can be converted into a voltmeter by connecting a:",
+            "options": [
+                "1) Low resistance in series",
+                "2) High resistance in series",
+                "3) Low resistance in parallel",
+                "4) High resistance in parallel"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field at the center of a circular coil of radius r carrying current I is proportional to:",
+            "options": [
+                "1) I/r",
+                "2) I/r^2",
+                "3) I*r",
+                "4) I^2/r"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is projected parallel to a uniform magnetic field. Its path will be:",
+            "options": [
+                "1) Straight line",
+                "2) Circle",
+                "3) Helix",
+                "4) Cycloid"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law provides the direction of:",
+            "options": [
+                "1) Induced EMF",
+                "2) Magnetic field",
+                "3) Electric field",
+                "4) Force"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC circuit with a pure capacitor, the current:",
+            "options": [
+                "1) Leads voltage by 90 degrees",
+                "2) Lags voltage by 90 degrees",
+                "3) Is in phase with voltage",
+                "4) Lags voltage by 180 degrees"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The resonant frequency of a series LCR circuit is given by:",
+            "options": [
+                "1) 1 / (2*pi*sqrt(LC))",
+                "2) 2*pi*sqrt(LC)",
+                "3) 1 / sqrt(LC)",
+                "4) 2*pi*LC"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the lowest wavelength?",
+            "options": [
+                "1) Microwaves",
+                "2) Infrared",
+                "3) X-rays",
+                "4) Gamma rays"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The core of a transformer is laminated to minimize:",
+            "options": [
+                "1) Copper losses",
+                "2) Flux leakage",
+                "3) Eddy current losses",
+                "4) Hysteresis losses"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a cyclotron, the time period of revolution of a charged particle is independent of its:",
+            "options": [
+                "1) Mass",
+                "2) Charge",
+                "3) Speed",
+                "4) Magnetic field"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Magnetic susceptibility of a diamagnetic substance is:",
+            "options": [
+                "1) Positive and small",
+                "2) Positive and large",
+                "3) Negative and small",
+                "4) Negative and large"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal voltmeter has a resistance of:",
+            "options": [
+                "1) Zero",
+                "2) Infinity",
+                "3) 1000 ohms",
+                "4) Equal to the circuit resistance"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The drift velocity of electrons in a conductor is typically of the order of:",
+            "options": [
+                "1) 10^6 m/s",
+                "2) 10^3 m/s",
+                "3) 10^-4 m/s",
+                "4) 10^-8 m/s"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two parallel wires carrying currents in opposite directions:",
+            "options": [
+                "1) Attract each other",
+                "2) Repel each other",
+                "3) Have no effect on each other",
+                "4) Rotate"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The SI unit of magnetic flux is:",
+            "options": [
+                "1) Weber",
+                "2) Tesla",
+                "3) Gauss",
+                "4) Henry"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The energy density of an electric field E in vacuum is:",
+            "options": [
+                "1) 1/2 epsilon_0 E^2",
+                "2) epsilon_0 E^2",
+                "3) 1/2 E^2 / epsilon_0",
+                "4) E^2 / epsilon_0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "Two point charges 2 uC and 8 uC are placed 12 cm apart. The distance from the 2 uC charge where the electric field is zero is (in cm):",
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "A capacitor of 5 uF is connected to a 20 V battery. The charge stored in uC is:",
+            "answer": "100"
+        },
+        {
+            "type": "numerical",
+            "question": "A current of 2 A flows through a 10 ohm resistor for 5 seconds. The heat produced in Joules is:",
+            "answer": "200"
+        },
+        {
+            "type": "numerical",
+            "question": "A step-up transformer has a turn ratio of 1:20. If the primary voltage is 10 V, the secondary voltage in Volts is:",
+            "answer": "200"
+        },
+        {
+            "type": "numerical",
+            "question": "An ideal LC circuit has L = 4 H and C = 100 uF. Its natural angular frequency in rad/s is:",
+            "answer": "50"
+        }
+    ]
+}

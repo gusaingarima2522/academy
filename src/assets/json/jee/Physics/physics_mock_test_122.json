@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 122",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Mechanics & Heat (Hard)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle moves in one dimension with a velocity v = a*x, where a is a constant and x is the displacement. The acceleration of the particle is proportional to:",
+            "options": [
+                "1) x",
+                "2) x^2",
+                "3) x^3",
+                "4) constant"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 2 kg is dragged across a rough horizontal surface (mu = 0.5) by a force of 20 N acting at an angle of 37 degrees above the horizontal. The normal reaction is (g=10 m/s^2, sin 37=0.6, cos 37=0.8):",
+            "options": [
+                "1) 20 N",
+                "2) 8 N",
+                "3) 12 N",
+                "4) 32 N"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a 1D perfectly elastic collision, a particle of mass m1 moving with velocity u1 collides with a stationary particle of mass m2. If m1 << m2, the velocity of m1 after collision is approximately:",
+            "options": [
+                "1) u1",
+                "2) -u1",
+                "3) 0",
+                "4) 2u1"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a thin rod of mass M and length L about an axis passing through one end and perpendicular to its length is:",
+            "options": [
+                "1) ML^2/3",
+                "2) ML^2/12",
+                "3) ML^2/4",
+                "4) ML^2/2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A planet is revolving around the sun in an elliptical orbit. Its closest distance is r and farthest is R. If the velocity at r is v, the velocity at R is:",
+            "options": [
+                "1) v * r / R",
+                "2) v * R / r",
+                "3) v * sqrt(r/R)",
+                "4) v * sqrt(R/r)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a simple pendulum is T. If its length is decreased by 19%, its new time period will be:",
+            "options": [
+                "1) 0.81 T",
+                "2) 0.9 T",
+                "3) 0.19 T",
+                "4) 0.95 T"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Water rises to a height h in a capillary tube. If the length of the tube is made less than h, water will:",
+            "options": [
+                "1) Overflow",
+                "2) Rise to the top and stop",
+                "3) Form a fountain",
+                "4) Not rise at all"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The apparent depth of a coin in a tank filled with water (mu = 4/3) up to a height of 12 cm is:",
+            "options": [
+                "1) 9 cm",
+                "2) 16 cm",
+                "3) 12 cm",
+                "4) 15 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a monoatomic gas, the ratio of specific heats gamma is:",
+            "options": [
+                "1) 1.67",
+                "2) 1.40",
+                "3) 1.33",
+                "4) 1.28"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a cyclic process, the change in internal energy is:",
+            "options": [
+                "1) Zero",
+                "2) Positive",
+                "3) Negative",
+                "4) Depends on the process"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the equipartition theorem, the energy associated with each degree of freedom per molecule is:",
+            "options": [
+                "1) kT",
+                "2) kT/2",
+                "3) 3kT/2",
+                "4) RT"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The rate of heat radiation from a black body at temperature T is proportional to:",
+            "options": [
+                "1) T",
+                "2) T^2",
+                "3) T^3",
+                "4) T^4"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A tuning fork of frequency 340 Hz produces 5 beats per second with a vibrating string. When the tension in the string is slightly increased, the beat frequency decreases. The original frequency of the string is:",
+            "options": [
+                "1) 335 Hz",
+                "2) 345 Hz",
+                "3) 340 Hz",
+                "4) 330 Hz"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas is compressed adiabatically. Its volume is halved. The pressure will:",
+            "options": [
+                "1) Double",
+                "2) Halve",
+                "3) Increase by more than double",
+                "4) Increase by less than double"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The bulk modulus of an incompressible liquid is:",
+            "options": [
+                "1) Zero",
+                "2) Unity",
+                "3) Infinity",
+                "4) Dependent on pressure"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The escape velocity from the surface of the earth is v_e. If a body is thrown with velocity 3 v_e, its velocity at infinity will be:",
+            "options": [
+                "1) v_e",
+                "2) 2 v_e",
+                "3) sqrt(8) v_e",
+                "4) 3 v_e"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two springs of spring constants k1 and k2 are connected in series. Their equivalent spring constant is:",
+            "options": [
+                "1) k1 + k2",
+                "2) k1*k2 / (k1+k2)",
+                "3) (k1+k2) / (k1*k2)",
+                "4) k1 - k2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Bernoulli's equation is a statement of conservation of:",
+            "options": [
+                "1) Mass",
+                "2) Momentum",
+                "3) Energy",
+                "4) Angular momentum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The phase difference between velocity and acceleration of a particle in SHM is:",
+            "options": [
+                "1) 0",
+                "2) pi/2",
+                "3) pi",
+                "4) 3pi/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the kinetic energy of a free electron doubles, its de Broglie wavelength changes by the factor:",
+            "options": [
+                "1) 2",
+                "2) 1/2",
+                "3) sqrt(2)",
+                "4) 1/sqrt(2)"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "A force of 50 N acts on a mass of 10 kg for 2 seconds. The change in momentum in kg m/s is:",
+            "answer": "100"
+        },
+        {
+            "type": "numerical",
+            "question": "A Carnot engine absorbs 1000 J of heat from a reservoir at 500 K and rejects heat to a sink at 300 K. The work done in Joules is:",
+            "answer": "400"
+        },
+        {
+            "type": "numerical",
+            "question": "A string of length 2 m is fixed at both ends. The wavelength of the fundamental mode of vibration in meters is:",
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "The center of mass of a system of two particles of masses 2 kg and 3 kg separated by 5 m is at a distance x from the 2 kg mass. The value of x in meters is:",
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "An ideal gas expands from 10 L to 20 L against a constant external pressure of 2 atm. The work done by the gas in L-atm is:",
+            "answer": "20"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 13",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A wire of resistance R is made of a material of resistivity ρ. If the radius of the wire is doubled keeping its length the same, the new resistance is",
+      "options": [
+        "2R",
+        "4R",
+        "R/4",
+        "R/2"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A copper wire of cross-section 1 mm² carries a current of 3.2 A. If the free electron density of copper is 8.5 × 10²⁸ m⁻³, the drift velocity of the electrons is approximately (e = 1.6 × 10⁻¹⁹ C)",
+      "options": [
+        "2.35 × 10⁻² m/s",
+        "2.35 × 10⁻⁴ m/s",
+        "2.35 m/s",
+        "2.35 × 10⁻⁶ m/s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "Resistors of 6 Ω and 3 Ω are connected in parallel and this combination is connected in series with a 4 Ω resistor. The total resistance is",
+      "options": [
+        "13 Ω",
+        "9 Ω",
+        "6 Ω",
+        "4.5 Ω"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A potentiometer wire of length 100 cm has a potential difference of 2 V across it. A cell is balanced at a length of 75 cm. The emf of the cell is",
+      "options": [
+        "2.0 V",
+        "0.75 V",
+        "1.0 V",
+        "1.5 V"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The resistance of a bulb rated 100 W, 220 V is",
+      "options": [
+        "22 Ω",
+        "48.4 Ω",
+        "484 Ω",
+        "2.2 Ω"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two bulbs rated 60 W and 100 W for the same voltage are connected in series across that voltage. Then",
+      "options": [
+        "the 60 W bulb glows brighter",
+        "the 100 W bulb glows brighter",
+        "both glow equally",
+        "neither glows"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In a meter bridge, the unknown resistance X is in the left gap and a 10 Ω resistance is in the right gap. The balance point is at 40 cm from the left end. The value of X is",
+      "options": [
+        "6.67 Ω",
+        "4 Ω",
+        "15 Ω",
+        "25 Ω"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A galvanometer of resistance 50 Ω gives full-scale deflection for 1 mA. The shunt resistance needed to convert it into an ammeter of range 1 A is approximately",
+      "options": [
+        "0.5 Ω",
+        "5 Ω",
+        "0.05 Ω",
+        "50 Ω"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The same galvanometer (resistance 50 Ω, full-scale current 1 mA) is to be converted into a voltmeter of range 5 V. The series resistance required is",
+      "options": [
+        "4900 Ω",
+        "5000 Ω",
+        "50 Ω",
+        "4950 Ω"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "Four identical cells, each of emf 1.5 V and internal resistance 0.5 Ω, are connected in series to an external resistance of 4 Ω. The current in the circuit is",
+      "options": [
+        "0.5 A",
+        "1.5 A",
+        "2 A",
+        "1 A"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The resistance of a conductor at 0°C is 100 Ω and its temperature coefficient of resistance is 0.004 per °C. Its resistance at 50°C is",
+      "options": [
+        "120 Ω",
+        "104 Ω",
+        "140 Ω",
+        "150 Ω"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A cell of emf 10 V and internal resistance 2 Ω is connected to a variable external resistance. The maximum power that can be delivered to the external resistance is",
+      "options": [
+        "25 W",
+        "5 W",
+        "12.5 W",
+        "50 W"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+    "testName": "Physics Mock Test 98",
+    "totalMarks": 80,
+    "timeMinutes": 40,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 20,
+    "topics": [
+        "Full Syllabus Part 11"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The escape velocity from a planet of mass M and radius R is v. If the mass of the planet is 4M and radius is 2R, the escape velocity will be:",
+            "options": [
+                "1) v",
+                "2) sqrt(2) v",
+                "3) 2 v",
+                "4) 4 v"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The displacement of a particle executing SHM is given by y = 0.2 sin(50 pi t). The maximum velocity is:",
+            "options": [
+                "1) 10 pi m/s",
+                "2) 20 pi m/s",
+                "3) 5 pi m/s",
+                "4) 100 pi m/s"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The excess pressure inside a spherical drop of water is P. If the radius of the drop is halved, the excess pressure will be:",
+            "options": [
+                "1) P/2",
+                "2) 2P",
+                "3) P/4",
+                "4) 4P"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas operates in a Carnot cycle. It takes 1000 J of heat from a source at 600 K and rejects heat to a sink at 300 K. The work done by the engine is:",
+            "options": [
+                "1) 500 J",
+                "2) 300 J",
+                "3) 700 J",
+                "4) 1000 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two point charges +4q and +q are placed a distance L apart. A third charge Q is placed such that all three charges are in equilibrium. The charge Q is:",
+            "options": [
+                "1) -4q/9",
+                "2) -q/9",
+                "3) -4q/3",
+                "4) -q/3"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is projected perpendicular to a uniform magnetic field. Its path is a:",
+            "options": [
+                "1) Straight line",
+                "2) Parabola",
+                "3) Circle",
+                "4) Helix"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two parallel wires carrying currents in opposite directions:",
+            "options": [
+                "1) Attract each other",
+                "2) Repel each other",
+                "3) Neither attract nor repel",
+                "4) Induce a current in each other"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resonant frequency of a series LCR circuit is f. If L is doubled and C is halved, the resonant frequency will:",
+            "options": [
+                "1) Become 2f",
+                "2) Become f/2",
+                "3) Remain f",
+                "4) Become 4f"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Total internal reflection can happen when light travels from:",
+            "options": [
+                "1) Air to water",
+                "2) Vacuum to glass",
+                "3) Glass to water",
+                "4) Air to glass"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a common emitter amplifier, the phase difference between input and output signal is:",
+            "options": [
+                "1) 0 degrees",
+                "2) 90 degrees",
+                "3) 180 degrees",
+                "4) 360 degrees"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An open organ pipe has fundamental frequency f. If one end is closed, the new fundamental frequency is:",
+            "options": [
+                "1) f",
+                "2) 2f",
+                "3) f/2",
+                "4) 4f"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A convex lens of focal length 20 cm is in contact with a concave lens of focal length 10 cm. The focal length of the combination is:",
+            "options": [
+                "1) 20 cm",
+                "2) -20 cm",
+                "3) 10 cm",
+                "4) -10 cm"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The half-life of a radioactive substance is 15 minutes. The fraction of the substance decayed in 45 minutes is:",
+            "options": [
+                "1) 1/8",
+                "2) 7/8",
+                "3) 1/4",
+                "4) 3/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The SI unit of magnetic flux is:",
+            "options": [
+                "1) Tesla",
+                "2) Weber",
+                "3) Henry",
+                "4) Ampere-meter"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-n junction diode, the depletion region consists of:",
+            "options": [
+                "1) Mobile holes only",
+                "2) Mobile electrons only",
+                "3) Immobile positive and negative ions",
+                "4) Neutral atoms"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If the momentum of a particle is doubled, its de Broglie wavelength:",
+            "options": [
+                "1) Is doubled",
+                "2) Is halved",
+                "3) Becomes four times",
+                "4) Remains the same"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The energy of an electron in the second Bohr orbit of hydrogen atom is:",
+            "options": [
+                "1) -13.6 eV",
+                "2) -3.4 eV",
+                "3) -1.51 eV",
+                "4) -0.85 eV"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which gives output 1 only when both inputs are 1 is:",
+            "options": [
+                "1) OR",
+                "2) NOR",
+                "3) NAND",
+                "4) AND"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Heat is supplied to a diatomic gas at constant pressure. The ratio of delta Q : delta U : delta W is:",
+            "options": [
+                "1) 5:3:2",
+                "2) 7:5:2",
+                "3) 3:2:1",
+                "4) 5:2:3"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A force F = (2i - 3j + 2k) N acts on a body and displaces it from r1 = (i + j) m to r2 = (2i + 3j) m. The work done is:",
+            "options": [
+                "1) -6 J",
+                "2) 6 J",
+                "3) -4 J",
+                "4) 4 J"
+            ],
+            "answer": "3"
+        }
+    ]
+}

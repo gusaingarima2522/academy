@@ -1,0 +1,259 @@
+{
+    "testName": "Physics Mock Test 177",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Exact JEE Main Simulation 27"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A body of mass 9 kg is moving with a velocity of 8 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 18.0 N",
+                "2) 36.0 N",
+                "3) 9.0 N",
+                "4) 23.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 6 kg is moving with a velocity of 12 m/s. If a constant force stops it in 2 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 36.0 N",
+                "2) 72.0 N",
+                "3) 18.0 N",
+                "4) 41.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 9 kg is moving with a velocity of 9 m/s. If a constant force stops it in 3 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 27.0 N",
+                "2) 54.0 N",
+                "3) 13.5 N",
+                "4) 32.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 4 kg is moving with a velocity of 6 m/s. If a constant force stops it in 3 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 8.0 N",
+                "2) 16.0 N",
+                "3) 4.0 N",
+                "4) 13.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In the given circuit diagram, if R1 = 10 \u03a9 and R2 = 20 \u03a9, find the equivalent resistance assuming they are in series.",
+            "options": [
+                "1) 10 \u03a9",
+                "2) 20 \u03a9",
+                "3) 30 \u03a9",
+                "4) 15 \u03a9"
+            ],
+            "answer": "3",
+            "image": "test_177_circuit.png"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 3 kg is moving with a velocity of 16 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 12.0 N",
+                "2) 24.0 N",
+                "3) 6.0 N",
+                "4) 17.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 6 kg is moving with a velocity of 14 m/s. If a constant force stops it in 3 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 28.0 N",
+                "2) 56.0 N",
+                "3) 14.0 N",
+                "4) 33.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 7 kg is moving with a velocity of 7 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 12.25 N",
+                "2) 24.5 N",
+                "3) 6.125 N",
+                "4) 17.25 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 7 kg is moving with a velocity of 5 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 8.75 N",
+                "2) 17.5 N",
+                "3) 4.375 N",
+                "4) 13.75 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 5 kg is moving with a velocity of 8 m/s. If a constant force stops it in 5 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 8.0 N",
+                "2) 16.0 N",
+                "3) 4.0 N",
+                "4) 13.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 2 kg is moving with a velocity of 16 m/s. If a constant force stops it in 3 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 10.666666666666666 N",
+                "2) 21.333333333333332 N",
+                "3) 5.333333333333333 N",
+                "4) 15.666666666666666 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For the given convex lens setup, if an object is placed at 2F, where is the image formed?",
+            "options": [
+                "1) At F",
+                "2) At 2F",
+                "3) At Infinity",
+                "4) At Optical Center"
+            ],
+            "answer": "2",
+            "image": "test_177_optics.png"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 3 kg is moving with a velocity of 14 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 10.5 N",
+                "2) 21.0 N",
+                "3) 5.25 N",
+                "4) 15.5 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 9 kg is moving with a velocity of 8 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 18.0 N",
+                "2) 36.0 N",
+                "3) 9.0 N",
+                "4) 23.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 4 kg is moving with a velocity of 6 m/s. If a constant force stops it in 2 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 12.0 N",
+                "2) 24.0 N",
+                "3) 6.0 N",
+                "4) 17.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 3 kg is moving with a velocity of 6 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 4.5 N",
+                "2) 9.0 N",
+                "3) 2.25 N",
+                "4) 9.5 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 7 kg is moving with a velocity of 20 m/s. If a constant force stops it in 2 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 70.0 N",
+                "2) 140.0 N",
+                "3) 35.0 N",
+                "4) 75.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 6 kg is moving with a velocity of 19 m/s. If a constant force stops it in 3 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 38.0 N",
+                "2) 76.0 N",
+                "3) 19.0 N",
+                "4) 43.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 6 kg is moving with a velocity of 8 m/s. If a constant force stops it in 4 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 12.0 N",
+                "2) 24.0 N",
+                "3) 6.0 N",
+                "4) 17.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 4 kg is moving with a velocity of 18 m/s. If a constant force stops it in 2 seconds, what is the magnitude of the force?",
+            "options": [
+                "1) 36.0 N",
+                "2) 72.0 N",
+                "3) 18.0 N",
+                "4) 41.0 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "An engine does 418 J of work in 9 seconds. Calculate the power delivered by the engine in Watts.",
+            "answer": "46.44"
+        },
+        {
+            "type": "numerical",
+            "question": "An engine does 100 J of work in 10 seconds. Calculate the power delivered by the engine in Watts.",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "An engine does 156 J of work in 4 seconds. Calculate the power delivered by the engine in Watts.",
+            "answer": "39"
+        },
+        {
+            "type": "numerical",
+            "question": "An engine does 344 J of work in 5 seconds. Calculate the power delivered by the engine in Watts.",
+            "answer": "68.8"
+        },
+        {
+            "type": "numerical",
+            "question": "An engine does 383 J of work in 10 seconds. Calculate the power delivered by the engine in Watts.",
+            "answer": "38.3"
+        }
+    ]
+}

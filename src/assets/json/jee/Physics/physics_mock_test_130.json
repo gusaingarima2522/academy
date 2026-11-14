@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 130",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 10"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A physical quantity Q is given by Q = A^2 * B / C^3. If percentage errors in A, B and C are 1%, 2% and 1% respectively, the percentage error in Q is:",
+            "options": [
+                "1) 3%",
+                "2) 5%",
+                "3) 7%",
+                "4) 1%"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A stone is dropped from a height h. It hits the ground with a momentum p. If the same stone is dropped from a height 100% more than the previous height, the momentum when it hits the ground will change by approximately:",
+            "options": [
+                "1) 41%",
+                "2) 100%",
+                "3) 200%",
+                "4) 68%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform circular disc of mass M and radius R about an axis passing through its edge and perpendicular to its plane is:",
+            "options": [
+                "1) MR^2 / 2",
+                "2) 3 MR^2 / 2",
+                "3) MR^2",
+                "4) 5 MR^2 / 4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of an earth satellite in circular orbit is independent of:",
+            "options": [
+                "1) Radius of the orbit",
+                "2) Mass of the earth",
+                "3) Mass of the satellite",
+                "4) Universal gravitational constant"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The temperature of a gas is raised from 27 C to 927 C. The root mean square speed of the gas molecules is:",
+            "options": [
+                "1) Doubled",
+                "2) Halved",
+                "3) Quadrupled",
+                "4) Unchanged"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a mass suspended from a spring is T. If the spring is cut into two equal halves and the same mass is suspended from one half, the new time period is:",
+            "options": [
+                "1) T/2",
+                "2) T*sqrt(2)",
+                "3) T/sqrt(2)",
+                "4) 2T"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, all particles between two consecutive nodes:",
+            "options": [
+                "1) Vibrate in the same phase",
+                "2) Vibrate with same amplitude",
+                "3) Vibrate with different frequencies",
+                "4) Have zero velocity at all times"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric potential V at any point x,y,z is given by V = 4x^2. The electric field at the point (1,0,2) is:",
+            "options": [
+                "1) 8 V/m in negative x direction",
+                "2) 8 V/m in positive x direction",
+                "3) 4 V/m in negative x direction",
+                "4) 4 V/m in positive x direction"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A cell of internal resistance r is connected across an external resistance R. The maximum power is delivered to the external resistance when:",
+            "options": [
+                "1) R = r",
+                "2) R = 2r",
+                "3) R = r/2",
+                "4) R = 0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is projected parallel to a uniform magnetic field. The path of the particle will be:",
+            "options": [
+                "1) A circle",
+                "2) A straight line",
+                "3) A helix",
+                "4) A parabola"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In an LCR series circuit, the resonant frequency is f. If the capacitance is made 4 times the initial value, the resonant frequency will become:",
+            "options": [
+                "1) 2f",
+                "2) f/2",
+                "3) 4f",
+                "4) f/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves is used in telecommunication?",
+            "options": [
+                "1) Ultraviolet rays",
+                "2) Infrared rays",
+                "3) Microwaves",
+                "4) X-rays"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In the Young's double-slit experiment, the intensity of light at a point on the screen where the path difference is lambda is K. The intensity at a point where the path difference is lambda/4 is:",
+            "options": [
+                "1) K",
+                "2) K/2",
+                "3) K/4",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of the longest to shortest wavelengths in the Balmer series of hydrogen spectra is:",
+            "options": [
+                "1) 5/9",
+                "2) 9/5",
+                "3) 4/9",
+                "4) 9/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two radioactive materials X1 and X2 have decay constants 10L and L respectively. If initially they have the same number of nuclei, the ratio of number of nuclei of X1 to X2 will be 1/e after a time:",
+            "options": [
+                "1) 1/(10L)",
+                "2) 1/(11L)",
+                "3) 1/(9L)",
+                "4) 1/L"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a common emitter amplifier, the input signal is applied across:",
+            "options": [
+                "1) Base and Emitter",
+                "2) Collector and Emitter",
+                "3) Base and Collector",
+                "4) Base and Ground"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A tuning fork produces 4 beats/second with a pipe open at both ends. When the pipe is closed at one end, the beat frequency becomes 2 beats/second. If the frequency of the tuning fork is 320 Hz, the original frequency of the open pipe could be:",
+            "options": [
+                "1) 324 Hz",
+                "2) 316 Hz",
+                "3) 322 Hz",
+                "4) 318 Hz"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If a gas has f degrees of freedom, the ratio of its specific heats Cp/Cv is:",
+            "options": [
+                "1) 1 + 2/f",
+                "2) 1 + f/2",
+                "3) 1 - 2/f",
+                "4) 1 - f/2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The RMS velocity of gas molecules at absolute zero is:",
+            "options": [
+                "1) Infinity",
+                "2) Zero",
+                "3) 300 m/s",
+                "4) 3 * 10^8 m/s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following is true for an adiabatic process?",
+            "options": [
+                "1) Delta Q = 0",
+                "2) Delta U = 0",
+                "3) Delta W = 0",
+                "4) Delta V = 0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "A projectile is launched with a velocity of 20 m/s at an angle of 45 degrees. The horizontal range in meters is (g=10 m/s^2):",
+            "answer": "40"
+        },
+        {
+            "type": "numerical",
+            "question": "A spring with a force constant of 100 N/m is compressed by 0.2 m. The potential energy stored in Joules is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "Two capacitors of 10 uF each are connected in parallel. Their equivalent capacitance in uF is:",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "A step-up transformer has a turn ratio of 1:5. If the primary voltage is 20 V, the secondary voltage in Volts is:",
+            "answer": "100"
+        },
+        {
+            "type": "numerical",
+            "question": "A source of sound moving at 170 m/s towards a stationary observer emits a frequency of 100 Hz. The apparent frequency heard by the observer in Hz is (speed of sound = 340 m/s):",
+            "answer": "200"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "testName": "Physics Mock Test 29",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Dual Nature",
+        "Atoms",
+        "Nuclei",
+        "NLM",
+        "KTG"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "In Einstein's photoelectric equation, the work function represents:",
+            "options": [
+                "1) Maximum kinetic energy",
+                "2) Minimum energy to eject an electron",
+                "3) Energy of incident photon",
+                "4) Stopping potential"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The Balmer series of hydrogen atom lies in which region of the electromagnetic spectrum?",
+            "options": [
+                "1) Ultraviolet",
+                "2) Visible",
+                "3) Infrared",
+                "4) Microwave"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Nuclear fusion requires high temperature because:",
+            "options": [
+                "1) It increases the binding energy",
+                "2) It overcomes electrostatic repulsion between nuclei",
+                "3) It decreases mass defect",
+                "4) It ionizes the atoms completely"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A body rests on a rough inclined plane. The angle of repose is equal to:",
+            "options": [
+                "1) Angle of friction",
+                "2) Critical angle",
+                "3) Angle of dip",
+                "4) Brewster's angle"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two masses 2 kg and 3 kg are attached to the ends of a string passing over a frictionless pulley. The acceleration of the system is (g=10):",
+            "options": [
+                "1) 1 m/s^2",
+                "2) 2 m/s^2",
+                "3) 5 m/s^2",
+                "4) 10 m/s^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If a spring of constant K is cut into two equal halves, the spring constant of each half becomes:",
+            "options": [
+                "1) K/2",
+                "2) K",
+                "3) 2K",
+                "4) 4K"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The rms speed of gas molecules is directly proportional to:",
+            "options": [
+                "1) T",
+                "2) \u221aT",
+                "3) T^2",
+                "4) 1/\u221aT"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the law of equipartition of energy, energy associated with each degree of freedom is:",
+            "options": [
+                "1) kT",
+                "2) kT/2",
+                "3) 3kT/2",
+                "4) 5kT/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A 10 g bullet moving at 200 m/s gets embedded in a 990 g wooden block resting on a smooth surface. The velocity of the block is:",
+            "options": [
+                "1) 1 m/s",
+                "2) 2 m/s",
+                "3) 1.5 m/s",
+                "4) 0.5 m/s"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Radioactivity is a characteristic of:",
+            "options": [
+                "1) Electrons",
+                "2) Nucleus",
+                "3) Molecules",
+                "4) Protons alone"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The mass defect in a nucleus is converted into:",
+            "options": [
+                "1) Kinetic energy",
+                "2) Potential energy",
+                "3) Binding energy",
+                "4) Electrical energy"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Moseley's law relates the frequency of X-rays to:",
+            "options": [
+                "1) Atomic mass",
+                "2) Atomic number",
+                "3) Density",
+                "4) Temperature"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Pseudo force is considered only in:",
+            "options": [
+                "1) Inertial frames",
+                "2) Non-inertial frames",
+                "3) Rest frames",
+                "4) All frames"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A monoatomic gas has how many degrees of freedom?",
+            "options": [
+                "1) 1",
+                "2) 3",
+                "3) 5",
+                "4) 6"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of kinetic energy of an alpha particle to a proton accelerated through the same potential difference is:",
+            "options": [
+                "1) 1:1",
+                "2) 2:1",
+                "3) 1:2",
+                "4) 4:1"
+            ],
+            "answer": "2"
+        }
+    ]
+}

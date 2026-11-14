@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 117",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Mechanics & Thermal Physics Simulation"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A body is thrown vertically upwards. Which one of the following graphs correctly represent the velocity vs time?",
+            "options": [
+                "1) Straight line with positive slope",
+                "2) Straight line with negative slope",
+                "3) Parabola",
+                "4) Hyperbola"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The position of a particle is given by x = 3t^3 - 4t^2 + 5. The acceleration at t=2s is:",
+            "options": [
+                "1) 16 m/s^2",
+                "2) 20 m/s^2",
+                "3) 28 m/s^2",
+                "4) 32 m/s^2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 2 kg is placed on a rough horizontal surface (mu = 0.4). A force of 5 N is applied horizontally. The force of friction is (g=10):",
+            "options": [
+                "1) 8 N",
+                "2) 5 N",
+                "3) 10 N",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform circular disc of mass 50 kg and radius 0.4 m is rotating with an angular velocity of 10 rad/s about its own axis. Its kinetic energy is:",
+            "options": [
+                "1) 200 J",
+                "2) 400 J",
+                "3) 100 J",
+                "4) 800 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The escape velocity for a body projected vertically upwards from the surface of earth is 11.2 km/s. If the body is projected at an angle of 45 degrees with the vertical, the escape velocity will be:",
+            "options": [
+                "1) 11.2 / sqrt(2) km/s",
+                "2) 11.2 * sqrt(2) km/s",
+                "3) 11.2 km/s",
+                "4) 22.4 km/s"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If the length of a simple pendulum is increased by 2%, then the time period:",
+            "options": [
+                "1) Increases by 1%",
+                "2) Decreases by 1%",
+                "3) Increases by 2%",
+                "4) Decreases by 2%"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A liquid will not wet the surface of a solid if its angle of contact is:",
+            "options": [
+                "1) Zero",
+                "2) Acute",
+                "3) Obtuse",
+                "4) Right angle"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas is compressed to half its initial volume by means of several processes. Which of the process results in the maximum work done on the gas?",
+            "options": [
+                "1) Isothermal",
+                "2) Adiabatic",
+                "3) Isobaric",
+                "4) Isochoric"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Carnot engine takes 300 calories of heat from a source at 500 K and rejects 150 calories of heat to the sink. The temperature of the sink is:",
+            "options": [
+                "1) 250 K",
+                "2) 300 K",
+                "3) 750 K",
+                "4) 1000 K"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the kinetic theory of gases, at absolute zero of temperature:",
+            "options": [
+                "1) Water freezes",
+                "2) Liquid helium freezes",
+                "3) Molecular motion stops",
+                "4) Liquid hydrogen freezes"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If the tension in a wire is removed, its temperature:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains strictly constant",
+                "4) Becomes zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two perfectly elastic objects A and B of identical mass are moving with velocities 15 m/s and 10 m/s respectively, colliding head-on. Their velocities after the collision will be:",
+            "options": [
+                "1) 10 m/s, 15 m/s",
+                "2) 15 m/s, 10 m/s",
+                "3) 12.5 m/s, 12.5 m/s",
+                "4) 0, 0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a capillary tube experiment, a vertical 30 cm long capillary tube is dipped in water. The water rises up to a height of 10 cm. If the whole experiment is conducted in a freely falling elevator, the length of the water column becomes:",
+            "options": [
+                "1) 10 cm",
+                "2) 20 cm",
+                "3) 30 cm",
+                "4) Zero"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If pressure of a gas is increased by 1% when heated at constant volume, its temperature must have:",
+            "options": [
+                "1) Increased by 1%",
+                "2) Decreased by 1%",
+                "3) Increased by 10%",
+                "4) Increased by 1 degree"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A spring-mass system oscillates with a frequency f. If the mass is halved and the spring constant is doubled, the new frequency is:",
+            "options": [
+                "1) f",
+                "2) 2f",
+                "3) f/2",
+                "4) 4f"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A solid sphere and a hollow sphere of equal mass and radius are placed over a rough horizontal surface after rotating them about their center of mass with same angular velocity w0. Which one will stop earlier?",
+            "options": [
+                "1) Solid sphere",
+                "2) Hollow sphere",
+                "3) Both will stop at the same time",
+                "4) Depends on the coefficient of friction"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a geostationary satellite is:",
+            "options": [
+                "1) 12 hours",
+                "2) 24 hours",
+                "3) 48 hours",
+                "4) 365 days"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The excess pressure inside a soap bubble is thrice that of another soap bubble. The ratio of their volumes is:",
+            "options": [
+                "1) 1:3",
+                "2) 1:9",
+                "3) 1:27",
+                "4) 27:1"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Newton's law of cooling is an approximation of:",
+            "options": [
+                "1) Wien's displacement law",
+                "2) Stefan-Boltzmann law",
+                "3) Kirchhoff's law",
+                "4) Planck's law"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If a particle moves in a circle describing equal angles in equal times, its velocity vector:",
+            "options": [
+                "1) Remains constant",
+                "2) Changes in magnitude",
+                "3) Changes in direction",
+                "4) Changes in magnitude and direction"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A block of mass 5 kg is raised vertically at a constant speed of 2 m/s. The power applied by the lifting agent in Watts is (g=10 m/s^2):",
+            "answer": "100"
+        },
+        {
+            "type": "numerical",
+            "question": "A uniform rod of length 2 m and mass 3 kg is rotated about an axis passing through its center and perpendicular to its length. Its moment of inertia in kg m^2 is:",
+            "answer": "1"
+        },
+        {
+            "type": "numerical",
+            "question": "The efficiency of a Carnot engine working between 600 K and 300 K in percentage is:",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "The fundamental frequency of a closed pipe is 200 Hz. The frequency of its first overtone in Hz is:",
+            "answer": "600"
+        },
+        {
+            "type": "numerical",
+            "question": "A string has a tension of 100 N and linear mass density of 0.01 kg/m. The speed of a transverse wave on it in m/s is:",
+            "answer": "100"
+        }
+    ]
+}

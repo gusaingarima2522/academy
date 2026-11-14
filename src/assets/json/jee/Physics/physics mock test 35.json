@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 35",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Electrostatics",
+        "Capacitance",
+        "Current Electricity",
+        "Magnetism"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "An electric dipole is placed at an angle of 30 degrees with an electric field intensity 2 x 10^5 N/C. It experiences a torque equal to 4 Nm. The charge on the dipole, if the dipole length is 2 cm, is:",
+            "options": [
+                "1) 8 mC",
+                "2) 2 mC",
+                "3) 4 mC",
+                "4) 1 mC"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A parallel plate capacitor is charged and then isolated. The effect of increasing the plate separation on charge, potential and capacitance respectively is:",
+            "options": [
+                "1) constant, decreases, increases",
+                "2) constant, increases, decreases",
+                "3) increases, decreases, constant",
+                "4) decreases, increases, constant"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The internal resistance of a 2.1 V cell which gives a current of 0.2 A through a resistance of 10 ohms is:",
+            "options": [
+                "1) 0.5 ohm",
+                "2) 0.8 ohm",
+                "3) 1.0 ohm",
+                "4) 0.2 ohm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle moves in a magnetic field B = 10i with velocity v = 5i + 4j. The path of the particle is:",
+            "options": [
+                "1) Circle",
+                "2) Straight line",
+                "3) Parabola",
+                "4) Helix"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Magnetic field at the center of a circular coil of radius r and carrying current i is:",
+            "options": [
+                "1) u0 i / 2r",
+                "2) u0 i / 2pi r",
+                "3) u0 i / 4pi r",
+                "4) u0 i / r"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "To convert a galvanometer into a voltmeter, one should connect a:",
+            "options": [
+                "1) high resistance in series",
+                "2) low resistance in series",
+                "3) high resistance in parallel",
+                "4) low resistance in parallel"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Gauss's law is valid for:",
+            "options": [
+                "1) Any closed surface",
+                "2) Only regular closed surfaces",
+                "3) Any open surface",
+                "4) Only spherical surfaces"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "When three identical capacitors are connected in series, their equivalent capacitance is C. If they are connected in parallel, their equivalent capacitance will be:",
+            "options": [
+                "1) C/3",
+                "2) 3C",
+                "3) 9C",
+                "4) C"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic susceptibility is negative for:",
+            "options": [
+                "1) Paramagnetic materials",
+                "2) Diamagnetic materials",
+                "3) Ferromagnetic materials",
+                "4) Paramagnetic and ferromagnetic materials"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Kirchhoff's loop rule is a direct consequence of law of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Momentum",
+                "3) Energy",
+                "4) Angular momentum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance R is stretched to twice its original length. Its new resistance is:",
+            "options": [
+                "1) 2R",
+                "2) 4R",
+                "3) R/2",
+                "4) R/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric potential V at any point x,y,z is given by V = 3x^2. The electric field at the point (1,0,2) is:",
+            "options": [
+                "1) 6 V/m along -x axis",
+                "2) 6 V/m along +x axis",
+                "3) 1.5 V/m along -x axis",
+                "4) 1.5 V/m along +x axis"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Biot-Savart law in vector form is:",
+            "options": [
+                "1) dB = (u0/4pi) I(dl x r)/r^2",
+                "2) dB = (u0/4pi) I(dl x r)/r^3",
+                "3) dB = (u0/4pi) Idl/r^2",
+                "4) dB = (u0/4pi) I(r x dl)/r^3"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following materials has a resistivity that decreases with an increase in temperature?",
+            "options": [
+                "1) Copper",
+                "2) Silicon",
+                "3) Silver",
+                "4) Aluminum"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Lorentz force can be correctly expressed by:",
+            "options": [
+                "1) F = q(E + v x B)",
+                "2) F = q(E - v x B)",
+                "3) F = q(E + B x v)",
+                "4) F = qE + vB"
+            ],
+            "answer": "1"
+        }
+    ]
+}

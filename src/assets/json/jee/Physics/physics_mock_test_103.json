@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 103",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Electrodynamics (Hard / Multi-concept)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A point charge +q is placed at the center of a cube. The electric flux passing through one face of the cube is:",
+            "options": [
+                "1) q/epsilon_0",
+                "2) q/(6*epsilon_0)",
+                "3) q/(8*epsilon_0)",
+                "4) q/(24*epsilon_0)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "An electric dipole of moment p is placed parallel to a uniform electric field E. The work done to rotate it by 180\u00b0 is:",
+            "options": [
+                "1) pE",
+                "2) 2pE",
+                "3) -pE",
+                "4) Zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The capacitance of a parallel plate capacitor when a metallic slab of thickness equal to half the plate separation is inserted is:",
+            "options": [
+                "1) Doubled",
+                "2) Halved",
+                "3) Unchanged",
+                "4) Quadrupled"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Kirchhoff's loop rule is based on the law of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Momentum",
+                "3) Energy",
+                "4) Mass"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A potentiometer is used to measure the internal resistance of a cell. It measures EMF accurately because:",
+            "options": [
+                "1) It draws no current from the cell at the null point",
+                "2) It has very high resistance",
+                "3) It has very low resistance",
+                "4) It uses a very sensitive galvanometer"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle enters a uniform magnetic field perpendicularly. The path of the particle is:",
+            "options": [
+                "1) Straight line",
+                "2) Parabola",
+                "3) Circle",
+                "4) Helix"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two parallel wires carrying currents in the same direction will:",
+            "options": [
+                "1) Attract each other",
+                "2) Repel each other",
+                "3) Not interact",
+                "4) Induce a torque"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field at the center of a circular coil of radius R carrying current I is B. If current is doubled and radius is halved, the field becomes:",
+            "options": [
+                "1) B",
+                "2) 2B",
+                "3) 4B",
+                "4) 8B"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "According to Faraday's law, the induced emf is proportional to the:",
+            "options": [
+                "1) Magnetic flux",
+                "2) Rate of change of magnetic flux",
+                "3) Magnetic field strength",
+                "4) Area of the coil"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The self-inductance of a solenoid is proportional to:",
+            "options": [
+                "1) The number of turns",
+                "2) The square of the number of turns",
+                "3) The current",
+                "4) The magnetic field"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a series LCR circuit at resonance, the phase difference between voltage and current is:",
+            "options": [
+                "1) 90\u00b0",
+                "2) 45\u00b0",
+                "3) 0\u00b0",
+                "4) 180\u00b0"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal choke coil behaves as a:",
+            "options": [
+                "1) Pure resistor",
+                "2) Pure inductor",
+                "3) Pure capacitor",
+                "4) Perfect insulator"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Electromagnetic waves are produced by:",
+            "options": [
+                "1) Charges at rest",
+                "2) Charges moving with constant velocity",
+                "3) Accelerated charges",
+                "4) Neutral particles"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The SI unit of magnetic flux is:",
+            "options": [
+                "1) Tesla",
+                "2) Weber",
+                "3) Henry",
+                "4) Gauss"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "To convert a galvanometer into a voltmeter, one must connect a:",
+            "options": [
+                "1) Low resistance in series",
+                "2) High resistance in series",
+                "3) Low resistance in parallel",
+                "4) High resistance in parallel"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The drift velocity of electrons in a conductor is proportional to:",
+            "options": [
+                "1) Electric field",
+                "2) Square of electric field",
+                "3) Square root of electric field",
+                "4) Independent of electric field"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Heating effect of current is given by Joule's law, which states H is:",
+            "options": [
+                "1) V I",
+                "2) I^2 R t",
+                "3) V^2 / R",
+                "4) V / R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the lowest frequency?",
+            "options": [
+                "1) X-rays",
+                "2) Microwaves",
+                "3) Radio waves",
+                "4) Gamma rays"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The core of a transformer is laminated to minimize:",
+            "options": [
+                "1) Hysteresis loss",
+                "2) Eddy current loss",
+                "3) Copper loss",
+                "4) Flux leakage"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC circuit, the power factor is maximum when the circuit is:",
+            "options": [
+                "1) Purely inductive",
+                "2) Purely capacitive",
+                "3) Resonant",
+                "4) Inductive and capacitive but not resonant"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "Five identical resistors of 10 ohms each are connected in series. Their equivalent resistance in ohms is:",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "A uniform electric field of 100 V/m acts on a particle with a charge of 2 Coulombs. The force acting on the particle in Newtons is:",
+            "answer": "200"
+        },
+        {
+            "type": "numerical",
+            "question": "Two capacitors of 6 microFarads and 3 microFarads are connected in series. Their equivalent capacitance in microFarads is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "The magnetic flux passing through a coil varies with time t as phi = 2t^2 + 4t. The magnitude of induced EMF in Volts at t = 2s is:",
+            "answer": "12"
+        },
+        {
+            "type": "numerical",
+            "question": "An ideal step-down transformer reduces voltage from 220 V to 11 V. If the primary coil has 2000 turns, the number of turns in the secondary coil is:",
+            "answer": "100"
+        }
+    ]
+}

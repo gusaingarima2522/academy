@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 14",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "The cyclotron frequency of a proton in a magnetic field of 1 T is approximately (mass of proton = 1.67 × 10⁻²⁷ kg, e = 1.6 × 10⁻¹⁹ C)",
+      "options": [
+        "1.5 MHz",
+        "150 MHz",
+        "15 MHz",
+        "15 kHz"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two long parallel wires 10 cm apart carry currents of 10 A each in the same direction. The force per unit length between them is (μ₀ = 4π × 10⁻⁷ T m/A)",
+      "options": [
+        "2 × 10⁻⁵ N/m",
+        "2 × 10⁻³ N/m",
+        "2 × 10⁻⁶ N/m",
+        "2 × 10⁻⁴ N/m"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A wire of length 0.5 m carrying a current of 4 A is placed in a magnetic field of 0.2 T at an angle of 30° to the field. The force on the wire is",
+      "options": [
+        "0.4 N",
+        "0.1 N",
+        "0.2 N",
+        "0.8 N"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A conducting rod of length 0.5 m moves with a speed of 4 m/s perpendicular to a uniform magnetic field of 0.5 T. The induced emf across the rod is",
+      "options": [
+        "2 V",
+        "1 V",
+        "4 V",
+        "0.5 V"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The mutual inductance of two coils is 0.5 H. If the current in one coil changes by 4 A in 0.1 s, the emf induced in the other coil is",
+      "options": [
+        "20 V",
+        "2 V",
+        "5 V",
+        "200 V"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "In a series LCR circuit, R = 30 Ω, X_L = 60 Ω and X_C = 20 Ω. The impedance of the circuit is",
+      "options": [
+        "70 Ω",
+        "110 Ω",
+        "30 Ω",
+        "50 Ω"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "In a series LCR circuit with R = 30 Ω, X_L = 60 Ω and X_C = 20 Ω, the power factor is",
+      "options": [
+        "0.8",
+        "1",
+        "0.6",
+        "0.5"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The average power consumed in an ideal inductor connected to an AC source over one full cycle is",
+      "options": [
+        "V_rms I_rms",
+        "zero",
+        "½ V_rms I_rms",
+        "V_rms I_rms/√2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "In an electromagnetic wave in vacuum, the amplitude of the electric field is 30 V/m. The amplitude of the magnetic field is (c = 3 × 10⁸ m/s)",
+      "options": [
+        "10⁻⁶ T",
+        "10⁻⁸ T",
+        "10⁻⁷ T",
+        "10⁻⁹ T"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Which of the following electromagnetic waves has the shortest wavelength?",
+      "options": [
+        "Microwaves",
+        "X-rays",
+        "Infrared rays",
+        "Ultraviolet rays"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A solenoid has 1000 turns, cross-sectional area 10⁻⁴ m² and length 0.1 m. Its self-inductance is (μ₀ = 4π × 10⁻⁷ T m/A)",
+      "options": [
+        "4π × 10⁻³ H",
+        "4π × 10⁻⁵ H",
+        "4π × 10⁻² H",
+        "4π × 10⁻⁴ H"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A series LCR circuit has L = 0.1 H, R = 10 Ω and a resonant angular frequency of 1000 rad/s. Its quality factor is",
+      "options": [
+        "100",
+        "1",
+        "10",
+        "0.1"
+      ],
+      "answer": 3
+    }
+  ]
+}

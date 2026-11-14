@@ -1,0 +1,166 @@
+{
+  "testName": "Physics Mock Test 18",
+  "totalMarks": 56,
+  "timeMinutes": 28,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A disc of mass 2 kg rolls without slipping on a horizontal surface with a centre of mass speed of 4 m/s. Its total kinetic energy is",
+      "options": [
+        "16 J",
+        "32 J",
+        "24 J",
+        "12 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A solid sphere and a hollow sphere of the same mass and radius are released together from the top of an inclined plane and roll down without slipping. Which one reaches the bottom first?",
+      "options": [
+        "the solid sphere",
+        "the hollow sphere",
+        "both reach together",
+        "it depends on their masses"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The ratio of the moment of inertia of a ring to that of a disc, both of the same mass and radius, about an axis through the centre and perpendicular to the plane is",
+      "options": [
+        "1 : 2",
+        "1 : 1",
+        "2 : 1",
+        "3 : 2"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A particle of mass 2 kg moves in a straight line with a speed of 3 m/s. The line is at a perpendicular distance of 4 m from the origin. The magnitude of its angular momentum about the origin is",
+      "options": [
+        "6 kg m²/s",
+        "24 kg m²/s",
+        "12 kg m²/s",
+        "48 kg m²/s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The work required to take a 1 kg mass from the surface of the earth to infinity is approximately (g = 9.8 m/s², R = 6.4 × 10⁶ m)",
+      "options": [
+        "6.27 × 10⁶ J",
+        "3.14 × 10⁷ J",
+        "6.27 × 10⁷ J",
+        "9.8 × 10⁷ J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A satellite revolves around the earth at a height of 3R above the surface, where R is the radius of the earth. If the orbital speed very close to the surface is 7.9 km/s, the orbital speed of this satellite is",
+      "options": [
+        "3.95 km/s",
+        "7.9 km/s",
+        "1.98 km/s",
+        "15.8 km/s"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "If the earth shrinks to half its present radius with its mass remaining unchanged, the acceleration due to gravity at its surface becomes (g = present value)",
+      "options": [
+        "2g",
+        "g/2",
+        "g/4",
+        "4g"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A planet moves in an elliptical orbit around the sun. At perihelion (distance 1 × 10¹¹ m) its speed is 30 km/s. Its speed at aphelion (distance 1.5 × 10¹¹ m) is",
+      "options": [
+        "15 km/s",
+        "20 km/s",
+        "30 km/s",
+        "45 km/s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A particle executes SHM with an amplitude of 4 cm. At what displacement from the mean position is its kinetic energy equal to its potential energy?",
+      "options": [
+        "2 cm",
+        "2√2 cm",
+        "3 cm",
+        "1 cm"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A particle executes SHM with angular frequency 2 rad/s and amplitude 5 cm. Its speed when it is 3 cm from the mean position is",
+      "options": [
+        "4 cm/s",
+        "10 cm/s",
+        "8 cm/s",
+        "16 cm/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Two SHMs along the same line are x₁ = 3 sin ωt and x₂ = 4 cos ωt (in cm). The amplitude of the resultant motion is",
+      "options": [
+        "7 cm",
+        "1 cm",
+        "12 cm",
+        "5 cm"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A spring of force constant k is cut into two equal parts. The force constant of each part is",
+      "options": [
+        "k/2",
+        "k",
+        "2k",
+        "4k"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The length of a simple pendulum is increased by 21%. The percentage increase in its time period is",
+      "options": [
+        "21%",
+        "10%",
+        "5%",
+        "42%"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A block hangs from a vertical spring and stretches it by 0.1 m at equilibrium. If the block is pulled down slightly and released, its time period is (take g = 10 m/s²)",
+      "options": [
+        "0.1π s",
+        "0.4π s",
+        "0.2π s",
+        "2π s"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 132",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 12"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The displacement of a particle moving in a straight line is described by the relation s = 6 + 12t - 2t^2. Here s is in meters and t in seconds. The distance covered by the particle in first 5 seconds is:",
+            "options": [
+                "1) 14 m",
+                "2) 26 m",
+                "3) 24 m",
+                "4) 8 m"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 10 kg is lying on a rough plane inclined at an angle of 30 degrees to the horizontal and the coefficient of friction is 0.5. The minimum force required to pull the body up the plane is (g=10 m/s^2):",
+            "options": [
+                "1) 91.4 N",
+                "2) 93.3 N",
+                "3) 14.14 N",
+                "4) 100 N"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle of mass m is moving with velocity v. It collides completely inelastically with another particle of mass 2m at rest. The loss in kinetic energy is:",
+            "options": [
+                "1) 1/2 mv^2",
+                "2) 1/3 mv^2",
+                "3) 2/3 mv^2",
+                "4) 1/4 mv^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A solid sphere and a solid cylinder of same mass and radius are rolling on a horizontal surface without slipping. The ratio of their translational kinetic energies is 1:1. The ratio of their total kinetic energies is:",
+            "options": [
+                "1) 14:15",
+                "2) 7:5",
+                "3) 5:7",
+                "4) 15:14"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of an earth satellite in circular orbit is independent of:",
+            "options": [
+                "1) The mass of the satellite",
+                "2) Radius of its orbit",
+                "3) Mass of the earth",
+                "4) Both 1 and 3"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two wires of the same material and length but cross-sectional areas in the ratio 1:2 are stretched by the same force. The ratio of work done in stretching them is:",
+            "options": [
+                "1) 1:2",
+                "2) 2:1",
+                "3) 1:4",
+                "4) 4:1"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The excess pressure inside a spherical drop of water is four times that of another drop. The ratio of their surface areas is:",
+            "options": [
+                "1) 1:16",
+                "2) 1:4",
+                "3) 1:2",
+                "4) 1:8"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two simple pendulums of lengths 100 cm and 121 cm start vibrating in phase. They will be in phase again after how many vibrations of the longer pendulum?",
+            "options": [
+                "1) 10",
+                "2) 11",
+                "3) 20",
+                "4) 21"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The velocity of sound in a gas is v. If the density of the gas is doubled at constant pressure, the new velocity of sound will be:",
+            "options": [
+                "1) v",
+                "2) v/sqrt(2)",
+                "3) v*sqrt(2)",
+                "4) 2v"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric field intensity at a point due to a point charge is proportional to:",
+            "options": [
+                "1) r",
+                "2) 1/r",
+                "3) 1/r^2",
+                "4) 1/r^3"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The equivalent resistance of n identical resistors of resistance R connected in parallel is:",
+            "options": [
+                "1) nR",
+                "2) R/n",
+                "3) n/R",
+                "4) R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field inside a long straight current-carrying solenoid is:",
+            "options": [
+                "1) Zero",
+                "2) Uniform",
+                "3) Inversely proportional to radius",
+                "4) Directly proportional to radius"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law provides the direction of:",
+            "options": [
+                "1) Magnetic field",
+                "2) Induced EMF",
+                "3) Electric field",
+                "4) Lorentz force"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In an LCR series circuit, the resonant frequency is f. If the capacitance is made 4 times the initial value, the resonant frequency will become:",
+            "options": [
+                "1) 2f",
+                "2) f/2",
+                "3) 4f",
+                "4) f/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves is used in telecommunication?",
+            "options": [
+                "1) Ultraviolet rays",
+                "2) Infrared rays",
+                "3) Microwaves",
+                "4) X-rays"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A charged particle is projected parallel to a uniform magnetic field. The path of the particle will be:",
+            "options": [
+                "1) A circle",
+                "2) A straight line",
+                "3) A helix",
+                "4) A parabola"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A cell of internal resistance r is connected across an external resistance R. The maximum power is delivered to the external resistance when:",
+            "options": [
+                "1) R = r",
+                "2) R = 2r",
+                "3) R = r/2",
+                "4) R = 0"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric potential V at any point x,y,z is given by V = 4x^2. The electric field at the point (1,0,2) is:",
+            "options": [
+                "1) 8 V/m in negative x direction",
+                "2) 8 V/m in positive x direction",
+                "3) 4 V/m in negative x direction",
+                "4) 4 V/m in positive x direction"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, all particles between two consecutive nodes:",
+            "options": [
+                "1) Vibrate in the same phase",
+                "2) Vibrate with same amplitude",
+                "3) Vibrate with different frequencies",
+                "4) Have zero velocity at all times"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a mass suspended from a spring is T. If the spring is cut into two equal halves and the same mass is suspended from one half, the new time period is:",
+            "options": [
+                "1) T/2",
+                "2) T*sqrt(2)",
+                "3) T/sqrt(2)",
+                "4) 2T"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "numerical",
+            "question": "A string of length 2 m is fixed at both ends. The wavelength of the fundamental mode of vibration in meters is:",
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "Two charges 2 uC and 8 uC are placed 15 cm apart. The distance in cm from the 2 uC charge where the electric field is zero is:",
+            "answer": "5"
+        },
+        {
+            "type": "numerical",
+            "question": "A straight wire carries a current of 10 A. The magnetic field at a distance of 0.1 m in uT is:",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "A transformer steps down 220 V to 22 V. If the primary has 1000 turns, the number of turns in the secondary is:",
+            "answer": "100"
+        },
+        {
+            "type": "numerical",
+            "question": "A force of 50 N acts on a mass of 10 kg for 2 seconds. The change in momentum in kg m/s is:",
+            "answer": "100"
+        }
+    ]
+}

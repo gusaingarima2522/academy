@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 151",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Exact JEE Main Simulation 1"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "If force (F), velocity (V) and time (T) are taken as fundamental units, then the dimensions of mass are:",
+            "options": [
+                "1) [F V T^-1]",
+                "2) [F V T^-2]",
+                "3) [F V^-1 T^-1]",
+                "4) [F V^-1 T]"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle starts from rest with constant acceleration. The ratio of space-average velocity to the time-average velocity over a given time interval is:",
+            "options": [
+                "1) 1/2",
+                "2) 3/4",
+                "3) 4/3",
+                "4) 3/2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 5 kg is suspended by a massless rope of length 2 m from the ceiling. A force of 50 N is applied in the horizontal direction at the midpoint P of the rope. The angle the rope makes with the vertical in equilibrium is (g = 10 m/s^2):",
+            "options": [
+                "1) 30\u00b0",
+                "2) 45\u00b0",
+                "3) 60\u00b0",
+                "4) 37\u00b0"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "From a uniform disc of radius R, a circular hole of radius R/2 is cut out. The center of the hole is at R/2 from the center of the original disc. Locate the center of gravity of the resulting flat body from the center of the original disc:",
+            "options": [
+                "1) R/6",
+                "2) R/4",
+                "3) R/8",
+                "4) R/3"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two spherical bodies of mass M and 5M and radii R and 2R are released in free space with initial separation between their centers equal to 12R. If they attract each other due to gravitational force only, then the distance covered by the smaller body before collision is:",
+            "options": [
+                "1) 4.5 R",
+                "2) 7.5 R",
+                "3) 1.5 R",
+                "4) 2.5 R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A U-tube with both ends open to the atmosphere is partially filled with water. Oil, which is immiscible with water, is poured into one side until it stands at a distance of 10 mm above the water level on the other side. Meanwhile the water rises by 65 mm from its original level. The density of the oil is:",
+            "options": [
+                "1) 650 kg/m^3",
+                "2) 425 kg/m^3",
+                "3) 800 kg/m^3",
+                "4) 928 kg/m^3"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "One mole of an ideal diatomic gas undergoes a transition from A to B along a path AB as shown in a P-V diagram where P decreases linearly from 5 kPa to 2 kPa as V increases from 4 m^3 to 6 m^3. The change in internal energy of the gas during the transition is:",
+            "options": [
+                "1) 20 kJ",
+                "2) -20 kJ",
+                "3) 20 J",
+                "4) -12 kJ"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The coefficient of performance of a refrigerator is 5. If the temperature inside the freezer is -20\u00b0C, the temperature of the surroundings to which it rejects heat is:",
+            "options": [
+                "1) 21\u00b0C",
+                "2) 31\u00b0C",
+                "3) 41\u00b0C",
+                "4) 11\u00b0C"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "When two displacements represented by y1 = a sin(wt) and y2 = b cos(wt) are superimposed, the motion is:",
+            "options": [
+                "1) Not a simple harmonic",
+                "2) Simple harmonic with amplitude a/b",
+                "3) Simple harmonic with amplitude sqrt(a^2 + b^2)",
+                "4) Simple harmonic with amplitude (a+b)/2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The fundamental frequency of a closed organ pipe of length 20 cm is equal to the second overtone of an organ pipe open at both the ends. The length of the organ pipe open at both the ends is:",
+            "options": [
+                "1) 100 cm",
+                "2) 120 cm",
+                "3) 140 cm",
+                "4) 80 cm"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A parallel plate air capacitor has capacity C, distance of separation between plates is d and potential difference V is applied between the plates. Force of attraction between the plates of the parallel plate air capacitor is:",
+            "options": [
+                "1) C V^2 / (2d)",
+                "2) C^2 V^2 / (2d^2)",
+                "3) C^2 V^2 / 2d",
+                "4) C V^2 / d"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Across a metallic conductor of non-uniform cross section a constant potential difference is applied. The quantity which remains constant along the conductor is:",
+            "options": [
+                "1) Current",
+                "2) Drift velocity",
+                "3) Electric field",
+                "4) Current density"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire carrying current I has the shape as shown in the adjoining figure: a straight semi-infinite segment along -x axis, a semi-circular arc of radius R in the xy-plane, and another straight semi-infinite segment along -x axis. The magnitude of magnetic field at the center of the circular part is:",
+            "options": [
+                "1) (mu_0 I / 4 pi R) (pi + 2)",
+                "2) (mu_0 I / 4 R) (pi + 2)",
+                "3) (mu_0 I / 2 pi R)",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "An electron moves on a straight line path XY. An abcd coil is adjacent to the path of the electron. What will be the direction of current, if any, induced in the coil as the electron moves past it?",
+            "options": [
+                "1) The current will reverse its direction as the electron goes past the coil",
+                "2) No current will be induced",
+                "3) abcd",
+                "4) adcb"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A series R-C circuit is connected to an alternating voltage source. Consider two situations: (a) When capacitor is air filled, (b) When capacitor is mica filled. Current through resistor is i and voltage across capacitor is V then:",
+            "options": [
+                "1) Va = Vb",
+                "2) Va < Vb",
+                "3) Va > Vb",
+                "4) ia > ib"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The energy of the em waves is of the order of 15 keV. To which part of the spectrum does it belong?",
+            "options": [
+                "1) Gamma rays",
+                "2) X-rays",
+                "3) Infrared rays",
+                "4) Ultraviolet rays"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two identical thin planoconvex glass lenses (refractive index 1.5) each having radius of curvature of 20 cm are placed with their convex surfaces in contact at the center. The intervening space is filled with oil of refractive index 1.7. The focal length of the combination is:",
+            "options": [
+                "1) -25 cm",
+                "2) -50 cm",
+                "3) 50 cm",
+                "4) -20 cm"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a double slit experiment, the two slits are 1 mm apart and the screen is placed 1 m away. A monochromatic light of wavelength 500 nm is used. What will be the width of each slit for ten maxima of double slit to be obtained within the central maxima of single slit pattern?",
+            "options": [
+                "1) 0.1 mm",
+                "2) 0.5 mm",
+                "3) 0.02 mm",
+                "4) 0.2 mm"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A certain metallic surface is illuminated with monochromatic light of wavelength lambda. The stopping potential for photo-electric current for this light is 3V0. If the same surface is illuminated with light of wavelength 2*lambda, the stopping potential is V0. The threshold wavelength for this surface for photo-electric effect is:",
+            "options": [
+                "1) 4 lambda",
+                "2) lambda / 4",
+                "3) lambda / 6",
+                "4) 6 lambda"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "If in a p-n junction, a square input signal of 10 V (varying from -5V to +5V) is applied across a series combination of an ideal diode and a load resistor, then the output across the resistor will be:",
+            "options": [
+                "1) -5 V to +5 V",
+                "2) 0 V to +5 V",
+                "3) -10 V to 0 V",
+                "4) 0 V to +10 V"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A particle of unit mass undergoes one-dimensional motion such that its velocity varies according to v(x) = beta * x^(-2n). If beta = 1 and n = 1, the magnitude of acceleration at x = 1 m in m/s^2 is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A mass of 2 kg is whirled in a horizontal circle by means of a string at an initial speed of 5 revolutions per minute. Keeping the radius constant, the tension in the string is quadrupled. The new speed in revolutions per minute is:",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "A potentiometer wire is 100 cm long and a constant potential difference is maintained across it. Two cells are connected in series first to support one another and then in opposite direction. The balance points are obtained at 50 cm and 10 cm from the positive end of the wire in the two cases. The ratio of EMFs (E1/E2) is:",
+            "answer": "1.5"
+        },
+        {
+            "type": "numerical",
+            "question": "Light of wavelength 5000 Angstroms falls on a sensitive plate with photoelectric work function of 1.9 eV. The kinetic energy of the photoelectrons emitted in eV is (use hc = 12400 eV-A):",
+            "answer": "0.58"
+        },
+        {
+            "type": "numerical",
+            "question": "A nucleus of uranium decays at rest into nuclei of thorium and helium. The ratio of the kinetic energy of the helium nucleus to that of the thorium nucleus (given mass number of Th = 234 and He = 4) is:",
+            "answer": "58.5"
+        }
+    ]
+}

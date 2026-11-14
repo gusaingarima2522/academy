@@ -1,6 +1,7 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import CONTACT from "../assets/CONTACT.png";
+import { submitContactForm } from "../services/contactService";
 
 const Contact = () => {
   const location = useLocation();
@@ -27,20 +28,20 @@ const Contact = () => {
   // =====================================================
 
   useEffect(() => {
-    if (location.hash === "#contact-form") {
-      const timer = setTimeout(() => {
-        const formSection = document.getElementById("contact-form");
+    if (location.pathname !== "/contact") return undefined;
 
-        if (formSection) {
-          formSection.scrollIntoView({
-            behavior: "smooth",
-            block: "start",
-          });
-        }
-      }, 100);
+    const timer = window.setTimeout(() => {
+      const formSection = document.getElementById("contact-form");
 
-      return () => clearTimeout(timer);
-    }
+      if (formSection) {
+        formSection.scrollIntoView({
+          behavior: "smooth",
+          block: "start",
+        });
+      }
+    }, 100);
+
+    return () => window.clearTimeout(timer);
   }, [location]);
 
   // ================= HANDLE INPUT =================
@@ -64,30 +65,14 @@ const Contact = () => {
     setError("");
 
     try {
-      const response = await fetch(
-        "http://192.168.1.4:5000/api/contact",
-        {
-          method: "POST",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(formData),
-        }
-      );
-
-      const data = await response.json();
-
-      if (!response.ok) {
-        throw new Error(
-          data.message || "Something went wrong"
-        );
-      }
+      const { message } = await submitContactForm({
+        ...formData,
+        form_source: "contact_page",
+      });
 
       // ================= SUCCESS =================
 
-      setSuccess(
-        "Thank you! Your enquiry has been submitted successfully."
-      );
+      setSuccess(message);
 
       // Clear form
       setFormData({
@@ -110,7 +95,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="w-full overflow-hidden bg-white">
+    <div className="w-full min-w-0 overflow-x-hidden bg-white">
 
       {/* =====================================================
           BANNER
@@ -159,6 +144,7 @@ const Contact = () => {
 
         <div
           className="
+            w-full
             max-w-6xl
             mx-auto
             grid
@@ -176,6 +162,8 @@ const Contact = () => {
 
           <div
             className="
+              w-full
+              max-w-full
               bg-white
               rounded-xl
               shadow-lg
@@ -263,7 +251,7 @@ const Contact = () => {
                 </div>
 
                 <a
-                  href="mailto:worldwiseindia@gmail.com"
+                  href="mailto:info@worldwiseedu.org"
                   className="
                     text-sm
                     sm:text-base
@@ -274,7 +262,7 @@ const Contact = () => {
                     no-underline
                   "
                 >
-                  worldwiseindia@gmail.com
+                  info@worldwiseedu.org
                 </a>
 
               </div>
@@ -375,6 +363,8 @@ const Contact = () => {
           <div
             id="contact-form"
             className="
+              w-full
+              max-w-full
               bg-white
               rounded-xl
               shadow-lg

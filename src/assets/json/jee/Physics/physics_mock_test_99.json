@@ -1,0 +1,232 @@
+{
+    "testName": "Physics Mock Test 99",
+    "totalMarks": 80,
+    "timeMinutes": 40,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 20,
+    "topics": [
+        "Full Syllabus Part 12"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "In a Young's double slit experiment, if the slits are illuminated by white light, the central fringe is:",
+            "options": [
+                "1) White",
+                "2) Dark",
+                "3) Colored",
+                "4) Absent"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two thin lenses of powers 5D and -2D are placed in contact. The focal length of the combination is:",
+            "options": [
+                "1) +33.3 cm",
+                "2) -33.3 cm",
+                "3) +50 cm",
+                "4) -50 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a photoelectric experiment, the stopping potential for incident light of wavelength 400 nm is 1.5 V. The work function of the metal is approximately:",
+            "options": [
+                "1) 1.6 eV",
+                "2) 3.1 eV",
+                "3) 4.6 eV",
+                "4) 2.2 eV"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A radioactive sample has a half-life of 20 days. The time taken for 3/4th of the sample to decay is:",
+            "options": [
+                "1) 20 days",
+                "2) 40 days",
+                "3) 60 days",
+                "4) 80 days"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A body of mass 10 kg is moving with a constant velocity of 5 m/s. The work done by the net force on the body is:",
+            "options": [
+                "1) 250 J",
+                "2) 125 J",
+                "3) Zero",
+                "4) 50 J"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A particle moves in a circular path of radius R. Its centripetal acceleration is constant. The work done by the centripetal force in one complete revolution is:",
+            "options": [
+                "1) mv^2 / R",
+                "2) Zero",
+                "3) 2*pi*mv^2 / R",
+                "4) pi*R*mv^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the acceleration due to gravity on a planet is one-fourth that of earth and its radius is half of that of earth, the escape velocity from the planet is:",
+            "options": [
+                "1) v_e / 2",
+                "2) v_e / (2*sqrt(2))",
+                "3) v_e / 4",
+                "4) v_e / (sqrt(2))"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of resistance 10 ohms is bent to form a complete circle. The resistance between two diametrically opposite points is:",
+            "options": [
+                "1) 10 ohms",
+                "2) 5 ohms",
+                "3) 2.5 ohms",
+                "4) 20 ohms"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of an LC oscillator is:",
+            "options": [
+                "1) 2*pi*sqrt(LC)",
+                "2) 1 / (2*pi*sqrt(LC))",
+                "3) 2*pi / sqrt(LC)",
+                "4) sqrt(LC) / (2*pi)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A 100 W, 200 V bulb is operated on a 100 V supply. The power consumed will be:",
+            "options": [
+                "1) 100 W",
+                "2) 50 W",
+                "3) 25 W",
+                "4) 200 W"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric field lines always point from:",
+            "options": [
+                "1) High potential to low potential",
+                "2) Low potential to high potential",
+                "3) Positive charge to negative charge",
+                "4) Both 1 and 3"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field inside a long straight current-carrying solenoid is:",
+            "options": [
+                "1) Zero",
+                "2) Uniform",
+                "3) Non-uniform",
+                "4) Inversely proportional to radius"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A proton and an alpha particle enter a uniform magnetic field perpendicularly with the same kinetic energy. The ratio of the radii of their circular paths is:",
+            "options": [
+                "1) 1:1",
+                "2) 1:2",
+                "3) 2:1",
+                "4) 1:4"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law is a consequence of the law of conservation of:",
+            "options": [
+                "1) Momentum",
+                "2) Charge",
+                "3) Mass",
+                "4) Energy"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Electromagnetic waves are transverse in nature. This is proved by:",
+            "options": [
+                "1) Interference",
+                "2) Diffraction",
+                "3) Polarization",
+                "4) Reflection"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a p-type semiconductor, the majority charge carriers are:",
+            "options": [
+                "1) Electrons",
+                "2) Holes",
+                "3) Protons",
+                "4) Neutrons"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A Zener diode is primarily used as:",
+            "options": [
+                "1) Rectifier",
+                "2) Amplifier",
+                "3) Voltage regulator",
+                "4) Oscillator"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which gives output 0 only when all inputs are 1 is:",
+            "options": [
+                "1) OR",
+                "2) AND",
+                "3) NAND",
+                "4) NOR"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Mass defect is directly related to:",
+            "options": [
+                "1) Kinetic energy",
+                "2) Binding energy",
+                "3) Potential energy",
+                "4) Electrical energy"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following has the highest penetrating power?",
+            "options": [
+                "1) Alpha rays",
+                "2) Beta rays",
+                "3) Gamma rays",
+                "4) X-rays"
+            ],
+            "answer": "3"
+        }
+    ]
+}

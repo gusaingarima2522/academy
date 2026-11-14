@@ -1,4 +1,3 @@
-import React from "react";
 import { Link, useParams } from "react-router-dom";
 import courses from "../data/courses";
 import "../index.css";
@@ -245,163 +244,87 @@ const CourseContent = () => {
             About This Course
           </h2>
 
-          <p
-            className="
-              text-gray-600
-              text-sm
-              sm:text-base
-              leading-7
-              sm:leading-8
-            "
-          >
-            This course is designed to help students build strong concepts,
-            improve their skills and prepare effectively for their entrance
-            examination.
+          <p className="text-gray-600 text-base leading-7 sm:text-lg sm:leading-8">
+            {course.overview}
           </p>
+
+          <div className="mt-6 rounded-xl border-l-4 border-yellow-400 bg-yellow-50 p-5 sm:p-6">
+            <h3 className="text-lg font-bold text-gray-900">
+              Who this course may suit
+            </h3>
+            <p className="mt-2 text-sm leading-6 text-gray-700 sm:text-base sm:leading-7">
+              {course.suitableFor}
+            </p>
+          </div>
 
         </div>
       </section>
 
-      {/* =====================================================
-          FEATURES
-      ====================================================== */}
-
-      <section
-        className="
-          w-full
-          bg-gray-100
-          px-4
-          sm:px-6
-          md:px-8
-          py-10
-          sm:py-12
-          md:py-16
-        "
-      >
-        <div className="max-w-6xl mx-auto">
-
-          <h2
-            className="
-              text-2xl
-              sm:text-3xl
-              font-bold
-              text-gray-900
-              text-center
-              mb-8
-              sm:mb-10
-            "
-          >
-            What You Will Get
-          </h2>
-
-          <div
-            className="
-              grid
-              grid-cols-1
-              sm:grid-cols-2
-              lg:grid-cols-4
-              gap-5
-              sm:gap-6
-            "
-          >
-
-            {/* ================= FEATURE 1 ================= */}
-
-            <div
-              className="
-                bg-white
-                rounded-xl
-                p-5
-                sm:p-6
-                shadow-md
-                transition-all
-                duration-300
-                hover:-translate-y-1
-                hover:shadow-xl
-              "
-            >
-              <h3 className="text-lg font-bold text-red-900 mb-2">
-                Concept Classes
-              </h3>
-
-              <p className="text-gray-600 text-sm leading-6">
-                Learn important concepts with structured guidance.
-              </p>
-            </div>
-
-            {/* ================= FEATURE 2 ================= */}
-
-            <div
-              className="
-                bg-white
-                rounded-xl
-                p-5
-                sm:p-6
-                shadow-md
-                transition-all
-                duration-300
-                hover:-translate-y-1
-                hover:shadow-xl
-              "
-            >
-              <h3 className="text-lg font-bold text-red-900 mb-2">
-                Study Material
-              </h3>
-
-              <p className="text-gray-600 text-sm leading-6">
-                Get useful study resources for your preparation.
-              </p>
-            </div>
-
-            {/* ================= FEATURE 3 ================= */}
-
-            <div
-              className="
-                bg-white
-                rounded-xl
-                p-5
-                sm:p-6
-                shadow-md
-                transition-all
-                duration-300
-                hover:-translate-y-1
-                hover:shadow-xl
-              "
-            >
-              <h3 className="text-lg font-bold text-red-900 mb-2">
-                Practice Questions
-              </h3>
-
-              <p className="text-gray-600 text-sm leading-6">
-                Improve your understanding through regular practice.
-              </p>
-            </div>
-
-            {/* ================= FEATURE 4 ================= */}
-
-            <div
-              className="
-                bg-white
-                rounded-xl
-                p-5
-                sm:p-6
-                shadow-md
-                transition-all
-                duration-300
-                hover:-translate-y-1
-                hover:shadow-xl
-              "
-            >
-              <h3 className="text-lg font-bold text-red-900 mb-2">
-                Mock Tests
-              </h3>
-
-              <p className="text-gray-600 text-sm leading-6">
-                Test your preparation with examination-oriented tests.
-              </p>
-            </div>
-
+      <section className="w-full bg-gray-100 px-4 py-10 sm:px-6 sm:py-12 md:px-8 md:py-16">
+        <div className="mx-auto max-w-6xl">
+          <div className="mx-auto mb-8 max-w-3xl text-center sm:mb-10">
+            <p className="text-sm font-semibold uppercase tracking-[0.16em] text-red-800">
+              Course focus
+            </p>
+            <h2 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl">
+              Areas to work on
+            </h2>
+            <p className="mt-3 text-sm leading-7 text-gray-600 sm:text-base">
+              Use the topics below as a guide to the preparation areas
+              described for this course. Confirm the latest syllabus for your
+              target examination before planning your study.
+            </p>
           </div>
+
+          <div className="grid gap-4 sm:grid-cols-2">
+            {course.focusAreas.map((area, index) => (
+              <article
+                key={area}
+                className="flex items-start gap-4 rounded-xl bg-white p-5 shadow-sm sm:p-6"
+              >
+                <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-yellow-100 text-sm font-bold text-red-900">
+                  {String(index + 1).padStart(2, "0")}
+                </span>
+                <p className="pt-1 text-sm leading-6 text-gray-700 sm:text-base sm:leading-7">
+                  {area}
+                </p>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className="w-full bg-white px-4 py-10 sm:px-6 sm:py-12 md:px-8 md:py-16">
+        <div className="mx-auto grid max-w-6xl gap-8 lg:grid-cols-[0.8fr_1.2fr] lg:items-start">
+          <div>
+            <p className="text-sm font-semibold uppercase tracking-[0.16em] text-red-800">
+              Make it manageable
+            </p>
+            <h2 className="mt-2 text-2xl font-bold text-gray-900 sm:text-3xl">
+              A study routine that helps you learn
+            </h2>
+            <p className="mt-3 text-sm leading-7 text-gray-600 sm:text-base">
+              Preparation becomes easier to review when each study session
+              has a purpose. Adapt these steps to your schedule and the
+              requirements of your exam.
+            </p>
+          </div>
+
+          <ol className="space-y-3">
+            {course.studyApproach.map((step, index) => (
+              <li
+                key={step}
+                className="flex items-start gap-4 rounded-xl border border-gray-200 bg-gray-50 p-5"
+              >
+                <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-red-900 text-sm font-bold text-white">
+                  {index + 1}
+                </span>
+                <p className="pt-1 text-sm leading-6 text-gray-700 sm:text-base sm:leading-7">
+                  {step}
+                </p>
+              </li>
+            ))}
+          </ol>
         </div>
       </section>
 
@@ -446,7 +369,8 @@ const CourseContent = () => {
               mb-7
             "
           >
-            Contact World Wise Academy to know more about this course.
+            Ask us about course coverage, current availability and whether
+            this preparation option matches your target examination.
           </p>
 
           {/* ================= ENQUIRE NOW ================= */}

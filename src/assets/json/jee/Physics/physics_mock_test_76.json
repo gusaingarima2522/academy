@@ -1,0 +1,177 @@
+{
+    "testName": "Physics Mock Test 76",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Basic Mechanics & General Physics (Easy Level)"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 14 m/s for 3 seconds. The distance covered is:",
+            "options": [
+                "1) 42 m",
+                "2) 52 m",
+                "3) 37 m",
+                "4) 84 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 5 kg accelerates at 6 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 30 N",
+                "2) 35 N",
+                "3) 28 N",
+                "4) 60 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A constant force of 41 N displaces an object by 5 m in the direction of the force. The work done is:",
+            "options": [
+                "1) 205 J",
+                "2) 102.5 J",
+                "3) 410 J",
+                "4) 0 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A constant force of 46 N displaces an object by 8 m in the direction of the force. The work done is:",
+            "options": [
+                "1) 368 J",
+                "2) 184.0 J",
+                "3) 736 J",
+                "4) 0 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A constant force of 48 N displaces an object by 5 m in the direction of the force. The work done is:",
+            "options": [
+                "1) 240 J",
+                "2) 120.0 J",
+                "3) 480 J",
+                "4) 0 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 8 kg accelerates at 5 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 40 N",
+                "2) 45 N",
+                "3) 38 N",
+                "4) 80 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 14 m/s for 4 seconds. The distance covered is:",
+            "options": [
+                "1) 56 m",
+                "2) 66 m",
+                "3) 51 m",
+                "4) 112 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 3 kg accelerates at 7 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 21 N",
+                "2) 26 N",
+                "3) 19 N",
+                "4) 42 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 2 kg accelerates at 5 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 10 N",
+                "2) 15 N",
+                "3) 8 N",
+                "4) 20 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 16 V is applied across a resistor of 6 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 2.67 A",
+                "2) 3.67 A",
+                "3) 1.335 A",
+                "4) 5.34 A"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 26 m/s for 3 seconds. The distance covered is:",
+            "options": [
+                "1) 78 m",
+                "2) 88 m",
+                "3) 73 m",
+                "4) 156 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A constant force of 12 N displaces an object by 5 m in the direction of the force. The work done is:",
+            "options": [
+                "1) 60 J",
+                "2) 30.0 J",
+                "3) 120 J",
+                "4) 0 J"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A car travels with a constant velocity of 21 m/s for 3 seconds. The distance covered is:",
+            "options": [
+                "1) 63 m",
+                "2) 73 m",
+                "3) 58 m",
+                "4) 126 m"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass 7 kg accelerates at 8 m/s\u00b2. What is the net force acting on it?",
+            "options": [
+                "1) 56 N",
+                "2) 61 N",
+                "3) 54 N",
+                "4) 112 N"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A potential difference of 23 V is applied across a resistor of 3 \u03a9. The current flowing through it is:",
+            "options": [
+                "1) 7.67 A",
+                "2) 8.67 A",
+                "3) 3.835 A",
+                "4) 15.34 A"
+            ],
+            "answer": "1"
+        }
+    ]
+}

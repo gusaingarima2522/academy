@@ -1,0 +1,122 @@
+{
+  "testName": "Physics Mock Test 3",
+  "totalMarks": 40,
+  "timeMinutes": 20,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 10,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "The acceleration due to gravity at a height equal to the radius of the earth (R) above the earth's surface is (g = value at the surface)",
+      "options": [
+        "g/2",
+        "g/9",
+        "g/4",
+        "g/8"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The orbital velocity of a satellite revolving very close to the surface of the earth is approximately",
+      "options": [
+        "7.9 km/s",
+        "11.2 km/s",
+        "9.8 km/s",
+        "3.1 km/s"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A particle executes SHM given by x = 5 sin(2πt), where x is in cm and t in seconds. Its maximum velocity is",
+      "options": [
+        "5π cm/s",
+        "10π cm/s",
+        "2.5π cm/s",
+        "20π cm/s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "According to Bernoulli's principle, in the streamline flow of an ideal fluid in a horizontal pipe, where the speed of the fluid increases, the pressure",
+      "options": [
+        "increases",
+        "remains the same",
+        "becomes zero",
+        "decreases"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The heat required to melt 10 g of ice at 0°C is (latent heat of fusion of ice = 80 cal/g)",
+      "options": [
+        "8000 cal",
+        "80 cal",
+        "800 cal",
+        "8 cal"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The efficiency of a Carnot engine working between a source at 400 K and a sink at 300 K is",
+      "options": [
+        "25%",
+        "75%",
+        "33%",
+        "50%"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The SI unit of Young's modulus is",
+      "options": [
+        "N/m",
+        "N/m²",
+        "N m",
+        "N"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A small spherical ball falls through a viscous liquid. If its radius is doubled, its terminal velocity becomes",
+      "options": [
+        "2 times",
+        "8 times",
+        "4 times",
+        "16 times"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "According to Stefan's law, if the absolute temperature of a black body is doubled, the total energy radiated per unit area per second becomes",
+      "options": [
+        "2 times",
+        "4 times",
+        "8 times",
+        "16 times"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A wave of frequency 500 Hz has a wavelength of 0.6 m. Its speed is",
+      "options": [
+        "300 m/s",
+        "833 m/s",
+        "3000 m/s",
+        "30 m/s"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 5",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "An electron enters a uniform magnetic field with its velocity perpendicular to the field. Its path will be",
+      "options": [
+        "a straight line",
+        "a parabola",
+        "a circle",
+        "a helix"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The magnetic field at the centre of a circular coil of N turns, radius R, carrying current I is",
+      "options": [
+        "μ₀NI/R",
+        "μ₀NI/(2R)",
+        "μ₀NI/(4πR)",
+        "2μ₀NI/R"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The magnetic flux through a coil changes from 0.02 Wb to 0.08 Wb in 0.1 s. The magnitude of the induced emf is",
+      "options": [
+        "6 V",
+        "0.06 V",
+        "0.2 V",
+        "0.6 V"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "Lenz's law is a consequence of the conservation of",
+      "options": [
+        "charge",
+        "mass",
+        "energy",
+        "momentum"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The energy stored in an inductor of self-inductance 2 H carrying a current of 3 A is",
+      "options": [
+        "9 J",
+        "6 J",
+        "18 J",
+        "3 J"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The rms value of an alternating current having a peak value of 10 A is",
+      "options": [
+        "5 A",
+        "7.07 A",
+        "10 A",
+        "14.14 A"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The resonant angular frequency of a series LCR circuit with L = 1 H and C = 1 μF is",
+      "options": [
+        "10³ rad/s",
+        "10⁶ rad/s",
+        "10⁻³ rad/s",
+        "10 rad/s"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A step-up transformer has a turns ratio Nₛ/Nₚ = 10. If the input voltage is 20 V, the output voltage is",
+      "options": [
+        "2 V",
+        "200 V",
+        "20 V",
+        "2000 V"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A circular loop of area 0.01 m² carries a current of 2 A. Its magnetic moment is",
+      "options": [
+        "0.2 A m²",
+        "2 A m²",
+        "0.002 A m²",
+        "0.02 A m²"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The magnetic susceptibility of a diamagnetic substance is",
+      "options": [
+        "positive and large",
+        "positive and small",
+        "negative and small",
+        "zero"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The magnetic field at a distance of 0.1 m from a long straight wire carrying a current of 5 A is (μ₀ = 4π × 10⁻⁷ T m/A)",
+      "options": [
+        "10⁻⁶ T",
+        "10⁻⁵ T",
+        "10⁻⁴ T",
+        "10⁻³ T"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "An inductor of 0.5 H is connected in series with a resistor of 10 Ω. The time constant of the circuit is",
+      "options": [
+        "5 s",
+        "0.5 s",
+        "0.05 s",
+        "20 s"
+      ],
+      "answer": 3
+    }
+  ]
+}

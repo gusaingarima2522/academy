@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 113",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 2"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The dimensional formula of torque is identical to that of:",
+            "options": [
+                "1) Force",
+                "2) Power",
+                "3) Work",
+                "4) Momentum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A car moves along a straight line. It covers the first half of the distance with speed v1 and the second half with speed v2. The average speed of the car is:",
+            "options": [
+                "1) (v1+v2)/2",
+                "2) 2v1v2/(v1+v2)",
+                "3) sqrt(v1*v2)",
+                "4) 2/(v1+v2)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The centripetal force required to keep a body of mass m moving with speed v in a circle of radius r is:",
+            "options": [
+                "1) mv/r",
+                "2) m^2v/r",
+                "3) mv^2/r",
+                "4) mv/r^2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If the kinetic energy of a body is doubled, its momentum becomes:",
+            "options": [
+                "1) 2 times",
+                "2) sqrt(2) times",
+                "3) 4 times",
+                "4) Half"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform solid sphere of mass M and radius R about its diameter is:",
+            "options": [
+                "1) (2/5) MR^2",
+                "2) (2/3) MR^2",
+                "3) MR^2",
+                "4) (1/2) MR^2"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "If the distance between two masses is doubled, the gravitational force between them:",
+            "options": [
+                "1) Doubles",
+                "2) Halves",
+                "3) Becomes one-fourth",
+                "4) Remains the same"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Surface tension of a liquid generally:",
+            "options": [
+                "1) Increases with temperature",
+                "2) Decreases with temperature",
+                "3) Is independent of temperature",
+                "4) First increases then decreases"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The internal energy of an ideal gas depends only on its:",
+            "options": [
+                "1) Pressure",
+                "2) Volume",
+                "3) Temperature",
+                "4) Density"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A simple harmonic oscillator has an amplitude A. At what displacement is its kinetic energy equal to its potential energy?",
+            "options": [
+                "1) A/2",
+                "2) A/sqrt(2)",
+                "3) A*sqrt(2)/3",
+                "4) A/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, the distance between two successive nodes is:",
+            "options": [
+                "1) lambda",
+                "2) lambda/2",
+                "3) lambda/4",
+                "4) 2*lambda"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The electric potential at a distance r from a point charge q is:",
+            "options": [
+                "1) q/(4*pi*epsilon_0*r)",
+                "2) q/(4*pi*epsilon_0*r^2)",
+                "3) q^2/(4*pi*epsilon_0*r)",
+                "4) q/(2*pi*epsilon_0*r)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The resistance of a wire is R. If its length is doubled by stretching, its new resistance is:",
+            "options": [
+                "1) R",
+                "2) 2R",
+                "3) 4R",
+                "4) R/2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic force on a moving charge q in a magnetic field B is zero if the velocity v is:",
+            "options": [
+                "1) Perpendicular to B",
+                "2) Parallel to B",
+                "3) At 45 degrees to B",
+                "4) The force is never zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law is a direct consequence of the law of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Momentum",
+                "3) Energy",
+                "4) Mass"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In an AC circuit, the power factor is equal to:",
+            "options": [
+                "1) R/Z",
+                "2) Z/R",
+                "3) XL/R",
+                "4) XC/Z"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the lowest frequency?",
+            "options": [
+                "1) Gamma rays",
+                "2) X-rays",
+                "3) Ultraviolet",
+                "4) Radio waves"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "When light travels from a denser medium to a rarer medium, it bends:",
+            "options": [
+                "1) Towards the normal",
+                "2) Away from the normal",
+                "3) Does not bend",
+                "4) Reflects completely"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The resolving power of a microscope can be increased by using light of:",
+            "options": [
+                "1) Longer wavelength",
+                "2) Shorter wavelength",
+                "3) Higher intensity",
+                "4) Lower intensity"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In the Bohr model of the hydrogen atom, the angular momentum of an electron in the nth orbit is:",
+            "options": [
+                "1) n*h/(2*pi)",
+                "2) n*h/pi",
+                "3) h/(2*pi*n)",
+                "4) n^2*h/(2*pi)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The majority charge carriers in an n-type semiconductor are:",
+            "options": [
+                "1) Holes",
+                "2) Electrons",
+                "3) Protons",
+                "4) Neutrons"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A force of 10 N displaces an object by 5 m in the direction of the force. The work done is (in Joules):",
+            "answer": "50"
+        },
+        {
+            "type": "numerical",
+            "question": "An engine works at 50% efficiency. If it absorbs 1000 J of heat from the source, the work done is (in Joules):",
+            "answer": "500"
+        },
+        {
+            "type": "numerical",
+            "question": "A wire of resistance 20 ohms is connected in parallel with another wire of 20 ohms. The equivalent resistance is (in ohms):",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "A convex lens of focal length 10 cm forms a real image at 20 cm from the lens. The object distance is (in cm):",
+            "answer": "20"
+        },
+        {
+            "type": "numerical",
+            "question": "The mass defect of a nucleus is 0.1 amu. The binding energy in MeV is approximately (using 1 amu = 931 MeV):",
+            "answer": "93.1"
+        }
+    ]
+}

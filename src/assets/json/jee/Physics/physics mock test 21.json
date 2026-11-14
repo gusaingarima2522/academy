@@ -1,0 +1,166 @@
+{
+  "testName": "Physics Mock Test 21",
+  "totalMarks": 56,
+  "timeMinutes": 28,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A coil of 100 turns and area 0.02 m² rotates at 50 revolutions per second in a uniform magnetic field of 0.5 T. The maximum emf induced in the coil is",
+      "options": [
+        "10π V",
+        "50π V",
+        "100π V",
+        "200π V"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A strong magnet is dropped through a long vertical copper tube. Its acceleration",
+      "options": [
+        "is equal to g throughout",
+        "is less than g and becomes zero when it reaches terminal speed",
+        "is greater than g",
+        "is zero from the very beginning"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The reactance of a capacitor of capacitance (100/π) μF in an AC circuit of frequency 50 Hz is",
+      "options": [
+        "10 Ω",
+        "50 Ω",
+        "100 Ω",
+        "1000 Ω"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "An ideal step-down transformer converts 220 V to 22 V. If the output current is 5 A, the input current is",
+      "options": [
+        "0.5 A",
+        "5 A",
+        "50 A",
+        "0.05 A"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A glass lens (refractive index 1.5) has a focal length of 20 cm in air. When it is immersed in water (refractive index 4/3), its focal length becomes",
+      "options": [
+        "40 cm",
+        "80 cm",
+        "20 cm",
+        "160 cm"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "In Young's double slit experiment, the entire apparatus is immersed in water of refractive index 4/3. If the fringe width in air is β, the fringe width in water is",
+      "options": [
+        "4β/3",
+        "β",
+        "3β/4",
+        "β/2"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A telescope has an objective of diameter 1.22 m. Taking λ = 500 nm, the limit of resolution (angular) of the telescope is",
+      "options": [
+        "5 × 10⁻⁶ rad",
+        "5 × 10⁻⁸ rad",
+        "1.22 × 10⁻⁷ rad",
+        "5 × 10⁻⁷ rad"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A ray of light is incident at 45° on a glass slab of refractive index √2. The angle of refraction is",
+      "options": [
+        "45°",
+        "60°",
+        "30°",
+        "15°"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The de Broglie wavelength of an electron accelerated through a potential difference of 100 V is approximately",
+      "options": [
+        "12.27 Å",
+        "0.1227 Å",
+        "122.7 Å",
+        "1.227 Å"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "In a photoelectric experiment, the graph of stopping potential against the frequency of incident light is a straight line. Its slope is",
+      "options": [
+        "e/h",
+        "h/e",
+        "h",
+        "he"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A uranium nucleus ²³⁸₉₂U decays to the stable lead nucleus ²⁰⁶₈₂Pb through a series of α and β⁻ decays. The numbers of α and β⁻ particles emitted are",
+      "options": [
+        "6 α and 8 β",
+        "8 α and 6 β",
+        "4 α and 4 β",
+        "8 α and 8 β"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The mass defect of a ⁴He nucleus is 0.0304 u. The binding energy per nucleon is approximately (1 u = 931.5 MeV)",
+      "options": [
+        "28.3 MeV",
+        "14.2 MeV",
+        "7.08 MeV",
+        "3.5 MeV"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "In a common-emitter transistor circuit, the base current is 40 μA and the collector current is 2 mA. The current gain β is",
+      "options": [
+        "20",
+        "40",
+        "50",
+        "80"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A NAND gate with both of its inputs connected together behaves as a",
+      "options": [
+        "AND gate",
+        "NOT gate",
+        "OR gate",
+        "NOR gate"
+      ],
+      "answer": 2
+    }
+  ]
+}

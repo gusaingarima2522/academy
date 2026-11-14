@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 38",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Thermodynamics",
+        "Fluids",
+        "Properties of Matter"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A cyclic process ABCA is shown in the P-V diagram. The work done in the cycle is:",
+            "image": "test_38_q1.png",
+            "options": [
+                "1) 4 P0 V0",
+                "2) 2 P0 V0",
+                "3) -4 P0 V0",
+                "4) Zero"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "According to the first law of thermodynamics, delta Q = delta U + delta W. In an isochoric process:",
+            "options": [
+                "1) delta W = 0",
+                "2) delta Q = 0",
+                "3) delta U = 0",
+                "4) None of these"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Water rises to a height of 2 cm in a capillary tube. If the tube is tilted 60 degrees from the vertical, the length of the water column in the tube will be:",
+            "options": [
+                "1) 2 cm",
+                "2) 4 cm",
+                "3) 1 cm",
+                "4) 3 cm"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Equation of continuity (A1V1 = A2V2) is based on the principle of conservation of:",
+            "options": [
+                "1) Mass",
+                "2) Energy",
+                "3) Momentum",
+                "4) Angular momentum"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The efficiency of a Carnot engine working between 800 K and 400 K is:",
+            "options": [
+                "1) 25%",
+                "2) 50%",
+                "3) 75%",
+                "4) 100%"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the pressure of a gas is doubled at constant temperature, its density becomes:",
+            "options": [
+                "1) Half",
+                "2) Double",
+                "3) One-fourth",
+                "4) Four times"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire stretches by 'l' when a force 'F' is applied. The work done in stretching is:",
+            "options": [
+                "1) F*l",
+                "2) F*l/2",
+                "3) 2F*l",
+                "4) F*l/4"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "At absolute zero temperature, the kinetic energy of ideal gas molecules is:",
+            "options": [
+                "1) Maximum",
+                "2) Minimum",
+                "3) Zero",
+                "4) Infinite"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The excess pressure inside a spherical soap bubble of radius R and surface tension T is:",
+            "options": [
+                "1) 2T/R",
+                "2) 4T/R",
+                "3) T/R",
+                "4) 8T/R"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Terminal velocity of a sphere falling through a viscous medium is proportional to:",
+            "options": [
+                "1) R",
+                "2) R^2",
+                "3) 1/R",
+                "4) 1/R^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The specific heat of an ideal gas at constant pressure is greater than that at constant volume because:",
+            "options": [
+                "1) Work is done in expansion",
+                "2) Intermolecular forces are overcome",
+                "3) Molecules expand",
+                "4) Kinetic energy increases more rapidly"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In which process is the internal energy of the system strictly constant?",
+            "options": [
+                "1) Isothermal",
+                "2) Adiabatic",
+                "3) Isobaric",
+                "4) Isochoric"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A hydraulic lift works on the principle of:",
+            "options": [
+                "1) Archimedes' principle",
+                "2) Pascal's law",
+                "3) Bernoulli's theorem",
+                "4) Stokes' law"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The temperature of a black body is increased from 300 K to 600 K. The power radiated by it increases by a factor of:",
+            "options": [
+                "1) 2",
+                "2) 4",
+                "3) 8",
+                "4) 16"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following has the highest specific heat?",
+            "options": [
+                "1) Copper",
+                "2) Water",
+                "3) Ice",
+                "4) Iron"
+            ],
+            "answer": "2"
+        }
+    ]
+}

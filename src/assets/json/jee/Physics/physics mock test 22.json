@@ -1,0 +1,177 @@
+{
+  "testName": "Physics Mock Test 22",
+  "totalMarks": 60,
+  "timeMinutes": 30,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A particle moves along a straight line with velocity v = 3t² − 6t (in m/s, t in seconds). The total distance travelled by it in the first 3 s is",
+      "options": [
+        "0 m",
+        "8 m",
+        "4 m",
+        "12 m"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A body is projected horizontally with a speed of 20 m/s from the top of a tower 45 m high. Its speed on hitting the ground is approximately (take g = 10 m/s²)",
+      "options": [
+        "30 m/s",
+        "50 m/s",
+        "36 m/s",
+        "20 m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A boat can move at 5 m/s in still water. A river 400 m wide flows at 3 m/s. The minimum time taken to cross the river by the shortest path (reaching the point directly opposite) is",
+      "options": [
+        "100 s",
+        "80 s",
+        "133 s",
+        "160 s"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A 2 kg block lies on a rough horizontal surface with coefficient of kinetic friction 0.2. A horizontal force of 10 N is applied. The acceleration of the block is (take g = 10 m/s²)",
+      "options": [
+        "3 m/s²",
+        "4 m/s²",
+        "5 m/s²",
+        "2 m/s²"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "Two masses of 5 kg and 3 kg are connected by a light string passing over a smooth light pulley. The tension in the string is (take g = 10 m/s²)",
+      "options": [
+        "30 N",
+        "37.5 N",
+        "40 N",
+        "50 N"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A block of mass 2 kg slides down a rough inclined plane of inclination 37° (sin 37° = 0.6, cos 37° = 0.8). The coefficient of kinetic friction is 0.5. The acceleration of the block is (take g = 10 m/s²)",
+      "options": [
+        "4 m/s²",
+        "6 m/s²",
+        "1 m/s²",
+        "2 m/s²"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A 10 kg block is dragged 5 m along a horizontal surface with coefficient of kinetic friction 0.3. The work done by the friction force is (take g = 10 m/s²)",
+      "options": [
+        "−150 J",
+        "+150 J",
+        "−300 J",
+        "−50 J"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "A block of mass 0.5 kg compresses a spring of force constant 200 N/m by 0.1 m on a smooth horizontal surface and is then released. The speed of the block when it leaves the spring is",
+      "options": [
+        "1 m/s",
+        "2 m/s",
+        "4 m/s",
+        "0.5 m/s"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A car of mass 1000 kg has an engine of constant power 20 kW and a maximum speed of 40 m/s on a level road. Assuming a constant resistive force, its acceleration at a speed of 10 m/s is",
+      "options": [
+        "2 m/s²",
+        "1.5 m/s²",
+        "0.5 m/s²",
+        "2.5 m/s²"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A bullet of mass 20 g moving horizontally at 300 m/s embeds itself in a wooden block of mass 1.98 kg suspended by a string. The maximum height to which the block rises is (take g = 10 m/s²)",
+      "options": [
+        "0.9 m",
+        "4.5 m",
+        "0.2 m",
+        "0.45 m"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A ball dropped from a height of 5 m rebounds to a height of 1.8 m after striking the floor. The coefficient of restitution is",
+      "options": [
+        "0.36",
+        "0.6",
+        "0.8",
+        "0.9"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A stone of mass 0.2 kg is whirled in a vertical circle of radius 0.5 m. If its speed at the highest point is 5 m/s, the tension in the string at that point is (take g = 10 m/s²)",
+      "options": [
+        "10 N",
+        "8 N",
+        "12 N",
+        "6 N"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A body of mass 2 kg moves east at 3 m/s and another body of mass 4 kg moves west at 3 m/s. The velocity of their centre of mass is",
+      "options": [
+        "zero",
+        "1 m/s towards east",
+        "1 m/s towards west",
+        "3 m/s towards west"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Sand falls at a constant rate of 2 kg/s onto a horizontal conveyor belt moving at a constant speed of 3 m/s. The extra force needed to keep the belt moving at constant speed is",
+      "options": [
+        "3 N",
+        "9 N",
+        "1.5 N",
+        "6 N"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "This question has Statement I and Statement II. Of the four choices given after the statements, choose the one that best describes the two statements.\n\nStatement I: A person standing in a freely falling lift feels weightless.\n\nStatement II: In free fall, the normal force exerted by the floor of the lift on the person is zero.",
+      "options": [
+        "Statement I is false, Statement II is true",
+        "Statement I is true, Statement II is false",
+        "Statement I is true, Statement II is true; Statement II is the correct explanation for Statement I",
+        "Statement I is true, Statement II is true; Statement II is not the correct explanation of Statement I"
+      ],
+      "answer": 3
+    }
+  ]
+}

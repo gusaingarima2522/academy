@@ -1,0 +1,166 @@
+{
+  "testName": "Physics Mock Test 19",
+  "totalMarks": 56,
+  "timeMinutes": 28,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 14,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "A liquid drop of radius R splits into 8 identical droplets. The total surface energy of the droplets compared with that of the original drop is",
+      "options": [
+        "the same",
+        "4 times",
+        "2 times",
+        "8 times"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Water flows steadily through a horizontal pipe whose cross-section narrows from 4 cm² to 1 cm². If the speed in the wider section is 2 m/s, the speed in the narrow section is",
+      "options": [
+        "4 m/s",
+        "16 m/s",
+        "8 m/s",
+        "2 m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A metal rod 1 m long at 0°C is heated to 50°C and its length increases by 1 mm. The coefficient of linear expansion of the metal is",
+      "options": [
+        "1 × 10⁻⁵ /°C",
+        "2 × 10⁻⁴ /°C",
+        "5 × 10⁻⁵ /°C",
+        "2 × 10⁻⁵ /°C"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "50 g of ice at 0°C is added to 50 g of water at 80°C in an insulated container. The final temperature of the mixture is (latent heat of fusion = 80 cal/g, specific heat of water = 1 cal/g°C)",
+      "options": [
+        "20°C",
+        "0°C",
+        "40°C",
+        "10°C"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A monatomic ideal gas (γ = 5/3) is compressed adiabatically to 1/8 of its initial volume. Its pressure becomes",
+      "options": [
+        "8 times",
+        "16 times",
+        "64 times",
+        "32 times"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "Two moles of an ideal gas are heated at constant pressure so that the temperature rises by 50 K. The work done by the gas is (R = 8.3 J/mol K)",
+      "options": [
+        "415 J",
+        "1660 J",
+        "830 J",
+        "8300 J"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A heat engine has an efficiency of 40% when its sink is at 300 K. If it is a Carnot engine, the temperature of its source is",
+      "options": [
+        "400 K",
+        "600 K",
+        "750 K",
+        "500 K"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "The internal energy of 2 moles of a monatomic ideal gas at 300 K is approximately (R = 8.3 J/mol K)",
+      "options": [
+        "7.5 kJ",
+        "3.7 kJ",
+        "15 kJ",
+        "1.5 kJ"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The ratio of the rms speed of hydrogen molecules to that of oxygen molecules at the same temperature is (molar masses are 2 and 32 respectively)",
+      "options": [
+        "1 : 4",
+        "4 : 1",
+        "16 : 1",
+        "1 : 16"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A string fixed at both ends vibrates in its third harmonic. The total number of nodes (including the two ends) is",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A tuning fork A produces 4 beats per second with a standard fork of frequency 256 Hz. When A is filed slightly, the beat frequency increases. The frequency of A before filing was",
+      "options": [
+        "252 Hz",
+        "256 Hz",
+        "264 Hz",
+        "260 Hz"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A source of frequency 340 Hz moves towards a stationary observer at 20 m/s. If the speed of sound is 340 m/s, the frequency heard by the observer is approximately",
+      "options": [
+        "361 Hz",
+        "320 Hz",
+        "340 Hz",
+        "380 Hz"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "If the intensity of a sound wave becomes 100 times, the intensity level increases by",
+      "options": [
+        "10 dB",
+        "100 dB",
+        "20 dB",
+        "2 dB"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A body cools from 80°C to 60°C in 10 minutes in surroundings at 20°C. Using Newton's law of cooling in its exponential form, the time it takes to cool further from 60°C to 40°C is approximately",
+      "options": [
+        "10 min",
+        "20 min",
+        "17 min",
+        "15 min"
+      ],
+      "answer": 3
+    }
+  ]
+}

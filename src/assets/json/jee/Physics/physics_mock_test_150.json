@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 150",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 30"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "Which of the following pairs of physical quantities does NOT have the same dimensional formula?",
+            "options": [
+                "1) Work and Torque",
+                "2) Angular momentum and Planck's constant",
+                "3) Tension and Surface tension",
+                "4) Impulse and Linear momentum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A stone is dropped from the top of a tower of height 125 m. The time taken by it to reach the ground is (g = 10 m/s^2):",
+            "options": [
+                "1) 3 s",
+                "2) 4 s",
+                "3) 5 s",
+                "4) 6 s"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass m is placed on a smooth inclined wedge of inclination theta. The whole system is accelerated horizontally so that the block does not slip on the wedge. The horizontal acceleration of the wedge is:",
+            "options": [
+                "1) g sin(theta)",
+                "2) g cos(theta)",
+                "3) g tan(theta)",
+                "4) g / sin(theta)"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform circular disc of mass M and radius R about an axis tangential to its rim and in its plane is:",
+            "options": [
+                "1) (3/2) MR^2",
+                "2) (5/4) MR^2",
+                "3) (1/4) MR^2",
+                "4) (1/2) MR^2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the mass of the Earth remains constant but its radius is reduced to half, the weight of a body on its surface will:",
+            "options": [
+                "1) Halve",
+                "2) Double",
+                "3) Become four times",
+                "4) Remain unchanged"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "When water is heated from 0\u00b0C to 10\u00b0C, its volume:",
+            "options": [
+                "1) Increases continuously",
+                "2) Decreases continuously",
+                "3) First decreases and then increases",
+                "4) First increases and then decreases"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "An ideal gas undergoes an isothermal expansion. In this process:",
+            "options": [
+                "1) Internal energy increases",
+                "2) Work done by the gas is equal to heat absorbed",
+                "3) Work done is zero",
+                "4) Heat absorbed is zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of the specific heats Cp/Cv for a triatomic non-linear gas (neglecting vibrational modes) is:",
+            "options": [
+                "1) 5/3",
+                "2) 7/5",
+                "3) 4/3",
+                "4) 9/7"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The length of a simple pendulum is quadrupled. Its time period will:",
+            "options": [
+                "1) Become four times",
+                "2) Double",
+                "3) Halve",
+                "4) Remain the same"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two sound waves of slightly different frequencies f1 and f2 propagating in the same direction produce beats. The number of beats per second is:",
+            "options": [
+                "1) (f1 + f2) / 2",
+                "2) |f1 - f2|",
+                "3) f1 * f2",
+                "4) f1 / f2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The work done in carrying a charge q once around a circle of radius r with a charge Q at the center is:",
+            "options": [
+                "1) k q Q / r",
+                "2) k q Q / r^2",
+                "3) Zero",
+                "4) 2 pi k q Q / r"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Two resistors R1 = 6 ohms and R2 = 12 ohms are connected in parallel across a battery. The ratio of thermal power dissipated in R1 to that in R2 is:",
+            "options": [
+                "1) 1:2",
+                "2) 2:1",
+                "3) 1:4",
+                "4) 4:1"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A straight wire of length L carries a current I along the positive x-axis in a uniform magnetic field B directed along the positive y-axis. The magnitude and direction of the magnetic force on the wire are:",
+            "options": [
+                "1) I L B along +z axis",
+                "2) I L B along -z axis",
+                "3) Zero",
+                "4) I L B along +y axis"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic flux linked with a coil at any instant t is given by phi = 5t^3 - 100t + 300. The induced emf in the coil at t = 2 s is:",
+            "options": [
+                "1) -40 V",
+                "2) +40 V",
+                "3) 140 V",
+                "4) 300 V"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a series LCR circuit at resonance, the phase angle between the applied voltage and the current is:",
+            "options": [
+                "1) 90\u00b0",
+                "2) 45\u00b0",
+                "3) 0\u00b0",
+                "4) 180\u00b0"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic radiations is used for viewing objects through haze and fog?",
+            "options": [
+                "1) Ultraviolet rays",
+                "2) Gamma rays",
+                "3) Infrared rays",
+                "4) X-rays"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A double convex lens has focal length 25 cm. Its power in Diopters is:",
+            "options": [
+                "1) +4 D",
+                "2) -4 D",
+                "3) +0.25 D",
+                "4) +2.5 D"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "If the slit width in a single-slit diffraction experiment is doubled, the width of the central maximum:",
+            "options": [
+                "1) Doubles",
+                "2) Halves",
+                "3) Quadruples",
+                "4) Remains unchanged"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The momentum of a photon of wavelength lambda is:",
+            "options": [
+                "1) h * lambda",
+                "2) h / lambda",
+                "3) lambda / h",
+                "4) h * c / lambda"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "When a p-n junction diode is reverse biased, the width of the depletion layer:",
+            "options": [
+                "1) Decreases",
+                "2) Increases",
+                "3) Remains unchanged",
+                "4) Becomes zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A body of mass 10 kg moves with a constant velocity of 4 m/s. Its linear momentum in kg m/s is:",
+            "answer": "40"
+        },
+        {
+            "type": "numerical",
+            "question": "A spring of force constant 400 N/m is stretched by 0.1 m. The work done in Joules is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A Carnot engine operates between 500 K and 300 K. Its efficiency in percentage is:",
+            "answer": "40"
+        },
+        {
+            "type": "numerical",
+            "question": "A capacitor of 20 uF is charged to 10 V. The charge on the capacitor in uC is:",
+            "answer": "200"
+        },
+        {
+            "type": "numerical",
+            "question": "The half-life of a radioactive element is 12 days. The time in days taken for 3/4th of the sample to decay is:",
+            "answer": "24"
+        }
+    ]
+}

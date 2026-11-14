@@ -1,0 +1,232 @@
+{
+    "testName": "Physics Mock Test 92",
+    "totalMarks": 80,
+    "timeMinutes": 40,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 20,
+    "topics": [
+        "Mechanics & Thermal Physics"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A body of mass 10 kg is projected at an angle of 45\u00b0 with the horizontal. The trajectory of the body is observed to pass through a point (20, 10). If T is the time of flight, then its momentum at time T/2 is (g=10 m/s^2):",
+            "options": [
+                "1) 100 Ns",
+                "2) 100*sqrt(2) Ns",
+                "3) 200 Ns",
+                "4) 200*sqrt(2) Ns"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A block of mass m is placed on a wedge of mass M which is on a smooth horizontal surface. The wedge is given an acceleration 'a' such that the block does not slip on the wedge. The force of friction on the block is (coefficient of friction is mu, angle is theta):",
+            "options": [
+                "1) mg sin theta",
+                "2) ma cos theta",
+                "3) mu m(g cos theta + a sin theta)",
+                "4) Zero if a = g tan theta"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A uniform chain of length L is held on a smooth table with 1/n th of its length hanging over the edge. The work done in pulling the chain completely onto the table is (M is mass of the chain):",
+            "options": [
+                "1) MgL / n",
+                "2) MgL / (2n)",
+                "3) MgL / (2n^2)",
+                "4) MgL / n^2"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A disk and a sphere of same radius but different masses roll off on two inclined planes of the same altitude and length. Which one of the two objects gets to the bottom of the plane first?",
+            "options": [
+                "1) Disk",
+                "2) Sphere",
+                "3) Both reach at the same time",
+                "4) Depends on their masses"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The ratio of the radii of gyration of a circular disc to that of a circular ring, each of same mass and radius, around their respective axes is:",
+            "options": [
+                "1) sqrt(2):1",
+                "2) 1:sqrt(2)",
+                "3) 1:2",
+                "4) 2:1"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If the radius of the earth were to shrink by 1% with its mass remaining the same, the acceleration due to gravity on the earth's surface would:",
+            "options": [
+                "1) Decrease by 2%",
+                "2) Decrease by 1%",
+                "3) Increase by 1%",
+                "4) Increase by 2%"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A wire of length L and cross-sectional area A is made of a material of Young's modulus Y. If the wire is stretched by the amount x, the work done is:",
+            "options": [
+                "1) YAx^2 / (2L)",
+                "2) YAx^2 / L",
+                "3) YAx / (2L)",
+                "4) YAx / L"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "Two soap bubbles have radii in the ratio 2:1. The ratio of excess pressures inside them is:",
+            "options": [
+                "1) 1:2",
+                "2) 2:1",
+                "3) 1:4",
+                "4) 4:1"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A spherical solid ball of volume V is made of a material of density rho1. It is falling through a liquid of density rho2 (rho2 < rho1). Assume that the liquid applies a viscous force on the ball that is proportional to the square of its speed v, i.e., F = kv^2 (k > 0). The terminal speed of the ball is:",
+            "options": [
+                "1) sqrt(Vg(rho1-rho2)/k)",
+                "2) Vg(rho1-rho2)/k",
+                "3) sqrt(Vg(rho1)/k)",
+                "4) Vg rho1 / k"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The efficiency of an ideal gas with adiabatic exponent gamma for the Carnot cycle operating between T1 and T2 is:",
+            "options": [
+                "1) 1 - (T2/T1)",
+                "2) 1 - (T2/T1)^(gamma-1)",
+                "3) 1 - (T2/T1)^gamma",
+                "4) 1 - (T1/T2)"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "A black body is heated from 27 C to 327 C. The ratio of the total energy radiated per second in the two cases is:",
+            "options": [
+                "1) 1:2",
+                "2) 1:4",
+                "3) 1:16",
+                "4) 1:256"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "A diatomic gas initially at 18\u00b0C is compressed adiabatically to 1/32 of its original volume. The temperature after compression will be (gamma = 1.4):",
+            "options": [
+                "1) 18\u00b0C",
+                "2) 891\u00b0C",
+                "3) 1164\u00b0C",
+                "4) 891 K"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The mean free path of molecules of a gas (radius r) is inversely proportional to:",
+            "options": [
+                "1) r^3",
+                "2) r^2",
+                "3) r",
+                "4) sqrt(r)"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "For a given mass of an ideal gas, if the volume increases by 5% and the pressure decreases by 5%, the temperature:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains unchanged",
+                "4) Cannot be predicted"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "During a cyclic process, a gas absorbs 100 J of heat and rejects 40 J of heat. The net work done by the gas is:",
+            "options": [
+                "1) 140 J",
+                "2) 60 J",
+                "3) -60 J",
+                "4) -140 J"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a capillary tube, the meniscus of water is:",
+            "options": [
+                "1) Concave",
+                "2) Convex",
+                "3) Flat",
+                "4) Cylindrical"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The velocity of efflux of a liquid through an orifice at a depth h below the free surface of a liquid in a tank is:",
+            "options": [
+                "1) sqrt(gh)",
+                "2) sqrt(2gh)",
+                "3) 2gh",
+                "4) gh"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Gravitational potential energy of an object of mass m at a height h = R (radius of earth) from the surface of the earth is (where g is surface gravity):",
+            "options": [
+                "1) mgR",
+                "2) -mgR/2",
+                "3) mgR/2",
+                "4) -mgR"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform semicircular disc of mass M and radius R about an axis passing through its center and perpendicular to its plane is:",
+            "options": [
+                "1) MR^2",
+                "2) MR^2 / 2",
+                "3) MR^2 / 4",
+                "4) 2MR^2 / 5"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If a particle moves in a circle with constant speed, its acceleration is:",
+            "options": [
+                "1) Zero",
+                "2) Constant in magnitude and direction",
+                "3) Constant in magnitude only",
+                "4) Variable in magnitude and direction"
+            ],
+            "answer": "3"
+        }
+    ]
+}

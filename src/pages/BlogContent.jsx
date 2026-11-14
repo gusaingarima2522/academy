@@ -1,4 +1,3 @@
-import React from "react";
 import { Link, useParams } from "react-router-dom";
 import blogs from "../data/blogs";
 import "./Blogs.css";
@@ -11,6 +10,10 @@ const BlogContent = () => {
   const blog = blogs.find(
     (item) => item.slug === slug
   );
+
+  const readingTime = blog
+    ? Math.max(2, Math.ceil(blog.content.trim().split(/\s+/).length / 200))
+    : 0;
 
   // Blog not found
   if (!blog) {
@@ -40,14 +43,9 @@ const BlogContent = () => {
 
         {/* Blog Image */}
 
-        <div className="blog-image">
-
-          {/* <img
-            src={blog.image}
-            alt={blog.title}
-          /> */}
-
-        </div>
+        {/* <div className="blog-image">
+          <img src={blog.image} alt="" />
+        </div> */}
 
 
         {/* Category */}
@@ -70,6 +68,10 @@ const BlogContent = () => {
           {blog.description}
         </p>
 
+        <p className="blog-reading-time">
+          A {readingTime}-minute read · Practical preparation guide
+        </p>
+
       </section>
 
 
@@ -77,19 +79,14 @@ const BlogContent = () => {
 
       <section className="blog-content">
 
-        {blog.content.split("\n").map((paragraph, index) => {
-
-          if (paragraph.trim() === "") {
-            return null;
-          }
-
-          return (
-            <p key={index}>
-              {paragraph.trim()}
-            </p>
-          );
-
-        })}
+        {blog.content
+          .trim()
+          .split(/\n\s*\n/)
+          .map((paragraph) => paragraph.replace(/\s+/g, " ").trim())
+          .filter(Boolean)
+          .map((paragraph, index) => (
+            <p key={index}>{paragraph}</p>
+          ))}
 
 
         {/* ================= PREPARATION POINTS ================= */}
@@ -132,11 +129,11 @@ const BlogContent = () => {
             {blog.ctaDescription}
           </p>
 
-          <Link to='/contact#contact-section'>
+          <Link to="/contact#contact-form">
             Enquire Now
           </Link>
 
-          <Link to="/Mock">
+          <Link to="/mock">
             Book Your Test
           </Link>
 

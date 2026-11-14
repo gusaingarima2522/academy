@@ -1,0 +1,144 @@
+{
+  "testName": "Physics Mock Test 6",
+  "totalMarks": 48,
+  "timeMinutes": 24,
+  "marking": {
+    "correct": 4,
+    "incorrect": -1
+  },
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "type": "mcq",
+      "question": "An object is placed 40 cm in front of a concave mirror of focal length 20 cm. The image is formed at a distance of",
+      "options": [
+        "20 cm",
+        "60 cm",
+        "40 cm",
+        "infinity"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The refractive index of glass is 1.5. The speed of light in glass is (c = 3 × 10⁸ m/s)",
+      "options": [
+        "3 × 10⁸ m/s",
+        "4.5 × 10⁸ m/s",
+        "1.5 × 10⁸ m/s",
+        "2 × 10⁸ m/s"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "Total internal reflection can occur when light travels",
+      "options": [
+        "from a rarer to a denser medium at any angle",
+        "from a denser to a rarer medium at an angle less than the critical angle",
+        "from a denser to a rarer medium at an angle greater than the critical angle",
+        "from a rarer to a denser medium at an angle greater than the critical angle"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "In Young's double slit experiment, λ = 600 nm, D = 1 m and slit separation d = 0.6 mm. The fringe width is",
+      "options": [
+        "0.1 mm",
+        "1 mm",
+        "10 mm",
+        "0.6 mm"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "The energy of a photon of wavelength 400 nm is approximately (hc = 1240 eV nm)",
+      "options": [
+        "6.2 eV",
+        "1.55 eV",
+        "3.1 eV",
+        "0.31 eV"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "Photons of energy 5 eV fall on a metal surface of work function 2 eV. The stopping potential is",
+      "options": [
+        "5 V",
+        "7 V",
+        "2 V",
+        "3 V"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "If the momentum of a particle is doubled, its de Broglie wavelength becomes",
+      "options": [
+        "double",
+        "unchanged",
+        "half",
+        "four times"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "The energy of the electron in the n = 2 orbit of a hydrogen atom is",
+      "options": [
+        "-3.4 eV",
+        "-13.6 eV",
+        "-6.8 eV",
+        "-1.51 eV"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "mcq",
+      "question": "The half-life of a radioactive substance is 10 days. The fraction of the substance remaining after 30 days is",
+      "options": [
+        "1/16",
+        "1/8",
+        "1/4",
+        "1/2"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "mcq",
+      "question": "A nuclear reaction has a mass defect of 0.01 u. The energy released is (1 u = 931.5 MeV)",
+      "options": [
+        "0.9315 MeV",
+        "93.15 MeV",
+        "931.5 MeV",
+        "9.315 MeV"
+      ],
+      "answer": 4
+    },
+    {
+      "type": "mcq",
+      "question": "A p-type semiconductor is obtained by doping a pure semiconductor with",
+      "options": [
+        "tetravalent impurity",
+        "pentavalent impurity",
+        "trivalent impurity",
+        "hexavalent impurity"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "mcq",
+      "question": "A logic gate gives output 1 only when both of its inputs are 1. This gate is",
+      "options": [
+        "OR",
+        "NOR",
+        "AND",
+        "NAND"
+      ],
+      "answer": 3
+    }
+  ]
+}

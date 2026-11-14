@@ -1,0 +1,180 @@
+{
+    "testName": "Physics Mock Test 31",
+    "totalMarks": 60,
+    "timeMinutes": 30,
+    "marking": "+4 for correct, -1 for incorrect",
+    "totalQuestions": 15,
+    "topics": [
+        "Electrostatics",
+        "Current",
+        "Optics",
+        "Mechanics"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "The force between two point charges placed in a medium of dielectric constant K is F. In a vacuum, the force will be:",
+            "options": [
+                "1) F/K",
+                "2) F",
+                "3) K*F",
+                "4) K^2*F"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric flux through a closed surface enclosing a dipole is:",
+            "options": [
+                "1) q/\u03b5\u2080",
+                "2) 2q/\u03b5\u2080",
+                "3) Zero",
+                "4) Infinite"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Drift velocity of electrons in a conductor is proportional to:",
+            "options": [
+                "1) Applied electric field",
+                "2) Square of electric field",
+                "3) Length of conductor",
+                "4) Square root of electric field"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "In a potentiometer, the balancing length is l. If the wire length is increased, the balancing length will:",
+            "options": [
+                "1) Decrease",
+                "2) Increase",
+                "3) Remain same",
+                "4) Become zero"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Two thin lenses of power +5D and -2D are placed in contact. The focal length of the combination is:",
+            "options": [
+                "1) +33.3 cm",
+                "2) -33.3 cm",
+                "3) +50 cm",
+                "4) +20 cm"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "For a solid sphere rolling without slipping, the ratio of rotational kinetic energy to total kinetic energy is:",
+            "options": [
+                "1) 2/5",
+                "2) 2/7",
+                "3) 5/7",
+                "4) 1/2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The moment of inertia of a uniform circular disc about its diameter is:",
+            "options": [
+                "1) MR^2/2",
+                "2) MR^2",
+                "3) MR^2/4",
+                "4) 2MR^2/5"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Escape velocity from the Earth is v. For a body of twice the mass, the escape velocity will be:",
+            "options": [
+                "1) 2v",
+                "2) v",
+                "3) v/2",
+                "4) v/\u221a2"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The time period of a geostationary satellite is:",
+            "options": [
+                "1) 12 hours",
+                "2) 24 hours",
+                "3) 365 days",
+                "4) 27.3 days"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The maximum torque experienced by an electric dipole in a uniform electric field occurs when the angle between dipole moment and field is:",
+            "options": [
+                "1) 0\u00b0",
+                "2) 45\u00b0",
+                "3) 90\u00b0",
+                "4) 180\u00b0"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Kirchhoff's junction rule is based on the conservation of:",
+            "options": [
+                "1) Energy",
+                "2) Charge",
+                "3) Momentum",
+                "4) Mass"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "A meter bridge works on the principle of:",
+            "options": [
+                "1) Potentiometer",
+                "2) Wheatstone bridge",
+                "3) Galvanometer",
+                "4) Transformer"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "If a glass slab is introduced in the path of one of the interfering beams in YDSE, the central fringe will:",
+            "options": [
+                "1) Shift towards the beam with the slab",
+                "2) Shift away from it",
+                "3) Remain at the center",
+                "4) Disappear"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The maximum safe speed of a car on a banked circular track depends on:",
+            "options": [
+                "1) Mass of the car",
+                "2) Angle of banking and radius",
+                "3) Length of the car",
+                "4) Material of the tires only"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a capillary tube, water rises to a height h. If the radius of the tube is halved, the height will become:",
+            "options": [
+                "1) h/2",
+                "2) h",
+                "3) 2h",
+                "4) 4h"
+            ],
+            "answer": "3"
+        }
+    ]
+}

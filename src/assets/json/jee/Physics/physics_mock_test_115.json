@@ -1,0 +1,257 @@
+{
+    "testName": "Physics Mock Test 115",
+    "totalMarks": 100,
+    "timeMinutes": 60,
+    "marking": "+4 for correct, -1 for incorrect MCQs, 0 for incorrect Numerical",
+    "totalQuestions": 25,
+    "topics": [
+        "Full Syllabus Simulation 4"
+    ],
+    "questions": [
+        {
+            "type": "mcq",
+            "question": "A particle moves in a circular path with constant speed. Its acceleration is:",
+            "options": [
+                "1) Zero",
+                "2) Constant in magnitude and direction",
+                "3) Constant in magnitude but changing in direction",
+                "4) Changing in both magnitude and direction"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The coefficient of static friction is:",
+            "options": [
+                "1) Always equal to the coefficient of kinetic friction",
+                "2) Always less than the coefficient of kinetic friction",
+                "3) Always greater than the coefficient of kinetic friction",
+                "4) Independent of the surfaces"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The work done by the centripetal force on a body moving in a circle is:",
+            "options": [
+                "1) Maximum",
+                "2) Minimum",
+                "3) Zero",
+                "4) mv^2/r"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "If the radius of the earth shrinks by 1%, its mass remaining the same, the value of g on its surface will:",
+            "options": [
+                "1) Increase by 1%",
+                "2) Decrease by 1%",
+                "3) Increase by 2%",
+                "4) Decrease by 2%"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The escape velocity from the earth is 11.2 km/s. The escape velocity from a planet having twice the mass and twice the radius of the earth is:",
+            "options": [
+                "1) 11.2 km/s",
+                "2) 22.4 km/s",
+                "3) 5.6 km/s",
+                "4) 11.2 * sqrt(2) km/s"
+            ],
+            "answer": "1"
+        },
+        {
+            "type": "mcq",
+            "question": "The excess pressure inside a spherical soap bubble of radius r and surface tension T is:",
+            "options": [
+                "1) 2T/r",
+                "2) 4T/r",
+                "3) T/r",
+                "4) 8T/r"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In an adiabatic expansion of an ideal gas, its temperature:",
+            "options": [
+                "1) Increases",
+                "2) Decreases",
+                "3) Remains constant",
+                "4) Depends on the specific heat"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "The efficiency of a Carnot engine working between 300 K and 600 K is:",
+            "options": [
+                "1) 25%",
+                "2) 50%",
+                "3) 75%",
+                "4) 100%"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "In a stationary wave, the distance between an antinode and the adjacent node is:",
+            "options": [
+                "1) lambda",
+                "2) lambda/2",
+                "3) lambda/4",
+                "4) 2*lambda"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The Doppler effect is applicable to:",
+            "options": [
+                "1) Sound waves only",
+                "2) Light waves only",
+                "3) Both sound and light waves",
+                "4) Neither"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Electric field intensity at a point due to a point charge is proportional to:",
+            "options": [
+                "1) r",
+                "2) 1/r",
+                "3) 1/r^2",
+                "4) 1/r^3"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "Kirchhoff's junction rule is based on the law of conservation of:",
+            "options": [
+                "1) Energy",
+                "2) Momentum",
+                "3) Mass",
+                "4) Charge"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "The magnetic field inside a long straight current-carrying solenoid is:",
+            "options": [
+                "1) Zero",
+                "2) Uniform",
+                "3) Inversely proportional to radius",
+                "4) Directly proportional to radius"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Lenz's law is a consequence of conservation of:",
+            "options": [
+                "1) Charge",
+                "2) Mass",
+                "3) Energy",
+                "4) Momentum"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "In a purely inductive AC circuit, the current:",
+            "options": [
+                "1) Leads voltage by 90 degrees",
+                "2) Lags voltage by 90 degrees",
+                "3) Is in phase with voltage",
+                "4) Lags voltage by 180 degrees"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "mcq",
+            "question": "Which of the following electromagnetic waves has the highest frequency?",
+            "options": [
+                "1) Radio waves",
+                "2) Microwaves",
+                "3) X-rays",
+                "4) Gamma rays"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "A convex lens immersed in a liquid of refractive index equal to its own refractive index acts as a:",
+            "options": [
+                "1) Converging lens",
+                "2) Diverging lens",
+                "3) Plane glass plate",
+                "4) Prism"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The de Broglie wavelength of a particle is inversely proportional to its:",
+            "options": [
+                "1) Mass",
+                "2) Velocity",
+                "3) Momentum",
+                "4) Kinetic energy"
+            ],
+            "answer": "3"
+        },
+        {
+            "type": "mcq",
+            "question": "The logic gate which produces a high output only when both inputs are high is:",
+            "options": [
+                "1) OR",
+                "2) NOR",
+                "3) NAND",
+                "4) AND"
+            ],
+            "answer": "4"
+        },
+        {
+            "type": "mcq",
+            "question": "In amplitude modulation, the bandwidth is:",
+            "options": [
+                "1) Equal to the modulating frequency",
+                "2) Twice the modulating frequency",
+                "3) Half the modulating frequency",
+                "4) Equal to the carrier frequency"
+            ],
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A projectile is launched with velocity 20 m/s at an angle of 45 degrees. The maximum height reached in meters is (g=10 m/s^2):",
+            "answer": "10"
+        },
+        {
+            "type": "numerical",
+            "question": "A block of mass 5 kg is pulled on a smooth horizontal surface by a force of 20 N. The acceleration in m/s^2 is:",
+            "answer": "4"
+        },
+        {
+            "type": "numerical",
+            "question": "An electric heater of 1000 W operates for 2 hours. The energy consumed in kWh is:",
+            "answer": "2"
+        },
+        {
+            "type": "numerical",
+            "question": "A concave mirror has a focal length of 15 cm. The radius of curvature in cm is:",
+            "answer": "30"
+        },
+        {
+            "type": "numerical",
+            "question": "The half-life of a radioactive substance is 10 days. The time in days for 75% of it to decay is:",
+            "answer": "20"
+        }
+    ]
+}

@@ -1,0 +1,1459 @@
+{
+  "test_metadata": {
+    "testName": "Actual CLAT 2025 PG - SET A",
+    "totalMarks": 120,
+    "timeMinutes": 120,
+    "marking": "+1 for correct, -0.25 for incorrect",
+    "totalQuestions": 120,
+    "topics": [
+      "Law Subjects"
+    ]
+  },
+  "sections": [
+    {
+      "sectionName": "Law Subjects (Constitutional, Jurisprudence, etc.)",
+      "passages": [
+        {
+          "passageText": "Dominic Ongwen, a former commander of the Lord’s Resistance Army (LRA) in Uganda, was convicted by the International Criminal Court (ICC) in February 2021. The case marked a significant milestone in international criminal law, focusing on issues of child soldiering, forced marriage, and sexual and gender-based violence. Ongwen was found guilty of 61 counts of crimes against humanity and war crimes, including murder, torture, enslavement, forced marriage, rape, and conscription of children under the age of 15 into armed groups. The ICC’s judgment emphasized the importance of accountability for leaders who exploit children in conflicts and commit sexual and gender-based crimes. A critical aspect of the judgment was the consideration of Ongwen’s own history as a child soldier. Ongwen was abducted by the LRA at around the age of nine and was forced to commit atrocities as he rose through the ranks. The court balanced this background against the gravity of his crimes, ultimately ruling that his personal history did not absolve him of responsibility for his actions as an adult commander. The judgment is also notable for its comprehensive approach to reparations for victims. The ICC ordered collective reparations, including symbolic measures like memorials, physical and psychological rehabilitation, and financial compensation to support the victims and their communities. This case reinforces the ICC’s commitment to addressing serious international crimes, particularly those involving vulnerable populations such as children and women and underscores the principles of justice and reparation in international criminal law. (This extract is taken from Prosecutor v. Dominic Ongwen (ICC, 2021))",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which principle of international criminal law ensures that individuals, regardless of their position or rank, can be held accountable for committing serious international crimes?",
+              "options": [
+                "1) Sovereign immunity",
+                "2) Command responsibility",
+                "3) Diplomatic immunity",
+                "4) Universal jurisdiction"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In the context of international criminal law, what does the principle of “individual criminal responsibility” entail?",
+              "options": [
+                "1) Only states can be held accountable for international crimes",
+                "2) Individuals can be held personally liable for committing war crimes, crimes against humanity, and genocide",
+                "3) Individuals are immune from prosecution if they act under state orders",
+                "4) Only military personnel can be held responsible for international crimes"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The concept of “crimes against humanity” includes which of the following acts, as exemplified in the Prosecutor v. Dominic Ongwen case?",
+              "options": [
+                "1) Piracy and terrorism",
+                "2) Enslavement, forced marriage, and sexual violence",
+                "3) Espionage and sabotage",
+                "4) Intellectual property theft"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the significance of the principle of “complementarity” in the context of the International Criminal Court (ICC)?",
+              "options": [
+                "1) The ICC can prosecute cases only when national jurisdictions are unwilling or unable to do so",
+                "2) The ICC has primary jurisdiction over all international crimes",
+                "3) The ICC can only prosecute crimes committed within its member states",
+                "4) The ICC shares jurisdiction equally with national courts"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements best describes the significance of the Prosecutor v. Dominic Ongwen case in the context of international criminal law?",
+              "options": [
+                "1) It was the first case to address environmental crimes in international conflicts",
+                "2) It marked a milestone in addressing sexual and gender-based violence and the exploitation of children in armed conflicts",
+                "3) It was the first case to involve cybercrimes committed by international armed groups",
+                "4) It primarily focused on the financial aspects of running an armed group"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "The landmark judgment of Bangalore Water Supply and Sewerage Board v. A. Rajappa & Others, delivered by the Supreme Court of India in 1978, significantly influenced the interpretation of the term ‘industry’ under the Industrial Disputes Act, 1947. The case cantered on whether the Bangalore Water Supply and Sewerage Board, a statutory body, could be classified as an industry under the Act, thereby making its employees eligible for certain protections and benefits. Prior to this case, the definition of ‘industry’ had been subject to varied interpretations, leading to confusion and inconsistency in its application. The Industrial Disputes Act, 1947, broadly defined ‘industry’ to include any business, trade, undertaking, manufacture, or calling of employers and any calling, service, employment, handicraft, or industrial occupation or avocation of workmen. However, this expansive definition left room for ambiguity, especially concerning statutory bodies and non-profit organizations. In this case, the Bangalore Water Supply and Sewerage Board argued that it was not an industry, emphasizing its statutory duties and public welfare objectives. The Board contended that its primary purpose was to provide essential services, not to engage in profit-making activities typical of private enterprises. On the other hand, the respondents, including A. Rajappa, argued that the Board’s activities fell within the scope of an industry as defined by the Act, and thus, its employees should be entitled to the benefits and protections accorded to workers in industries. The Supreme Court, in its judgment, undertook a comprehensive analysis of the term ‘industry.’ The bench, led by Chief Justice M. Hameedullah Beg, laid down a broad and inclusive definition of ‘industry.’ The Court asserted that what mattered was the nature of the activity and the relationship between the employer and the employees. This interpretation aimed to ensure that a wide range of workers, including those employed in public utility services, statutory bodies, and even some non-profit organizations, would be covered under the protective umbrella of the Industrial Disputes Act. The decision in Bangalore Water Supply v. A. Rajappa & Others had far-reaching implications. It extended the scope of labour protections to a broader spectrum of workers, ensuring that more employees could benefit from the dispute resolution mechanisms and other safeguards provided under the Industrial Disputes Act. This judgment underscored the judiciary’s role in interpreting labour laws to promote social justice and protect workers’ rights in a rapidly industrializing nation. (Extract from Bangalore Water Supply v. A. Rajappa & Others, 1978 2 SCC)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the Supreme Court’s judgment, what is the most important factor in determining whether an activity constitutes an industry?",
+              "options": [
+                "1) The profit-making motive of the employer",
+                "2) When there are multiple activities carried on by an establishment, its dominant function has to be considered. If the dominant function is not commercial, benefits of a workman of an industry under Industrial Dispute Act may be given",
+                "3) The nature of the activity and the authority of the employer over its employees",
+                "4) When there are multiple activities carried on by an establishment, all the activities must be considered. Even if one activity is commercial, the employees will not get the benefit of workman of an industry under the Industrial Dispute Act"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best describes the broader impact of the judgment?",
+              "options": [
+                "1) It reduced labour protections for workers",
+                "2) It extended labour protections to a broader spectrum of workers",
+                "3) It had no significant impact on labour laws",
+                "4) It only affected private sector workers"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best describes the term ‘industry’ as defined by the Supreme Court in this judgment?",
+              "options": [
+                "1) Any activity involving profit-making",
+                "2) Any systematic activity organized by cooperation between an employer and employees for producing or distributing goods and services",
+                "3) Only activities conducted by private enterprises",
+                "4) Activities limited to manufacturing sectors"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following landmark judgement, the Supreme Court held that when an association or society of apartment owners employs workers for personal services to its members, those workers do not qualify as workmen under the Act and the association is not an “Industry” under the Industrial Disputes Act?",
+              "options": [
+                "1) Som Vihar Apartment Owners’ Housing Maintenance Society Ltd. v. Workmen, 2009 SC",
+                "2) Anand Vihar Apartment Owners’ Society Ltd. v. Workmen, 2024 SC",
+                "3) Kanchanjunga Building Employees Union v. Kanchanjunga Flat Owners Society & Anr., 2024 SC",
+                "4) None of the above"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Under the Industrial Dispute Act, 1947, what is the role of the “Works Committee” and which of the following correctly describes its function?",
+              "options": [
+                "1) The Works committee is a body formed by the Central government to address wage disputes between employer and employee in public sector industries",
+                "2) The Works committee is a grievance redressal body constituted by the employer, primarily to promote measures for securing and preserving amity and good relations between the employer and employee",
+                "3) The Works Committee is responsible for making binding decisions on industrial disputes related to layoffs, retrenchment and closure of industrial units",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "For a principle to be acceptable as a law, Lon Fuller states that it must be measured in terms of the following eight standards: (1) The principle must be expounded in a manner so that it can be generally applied. A pattern less ad hoc system of law lacks the desired “internal morality” which legal principles should possess. This proposition is comparable to the often-read statement that our government is a government of laws rather than men. (2) The mandates of the law must be communicated to the people to whom they are directed. (3) Newly announced principles of law, except on rare occasions, should be applied only in a prospective manner. Retroactive application of changes in prescribed norms, subject to the presence of compelling extenuating circumstances, should be avoided. (4) Standards of action and inaction should be clearly stated. Fuller concedes that the lawmaker cannot specify with absolute clarity exactly what is demanded of each individual in every instance when the law may affect him. He does, however, assert that the duty to clarify the law should be delegated to the enforcement bodies only to the extent that such action is required by the environment in which the law must operate. (5) Arguing that respect for the law calls for consistency, Fuller maintains that the originators of laws should take great pains to see that the body of law is as free as possible from contradictory mandates, (6) Emphasizing that law is tied to the capabilities of human beings, Fuller insists that those who prescribe the norms required of individuals must refrain from imposing impossible standards of action or inaction. A stated norm which demands an absurd course of action would violate Fuller’s idea of the “internal morality of law.” (7) While stare decisis, of recent date, has been viewed by some, if not many people, as a barrier on the pathways to needed change, Fuller is of the opinion that abiding by previously announced norms is desirable in and of itself. He finds that frequency of change, by its very nature, tends to have a deleterious impact upon the persons who are subjected to an abrupt alteration of the requirements which the law imposes upon them. (8) The student of American history is familiar with Andrew Jackson’s assertion to the effect that while the Supreme Court might render a judgment, it lacked the means by which it might be implemented. [Extracted from  Tucker, Edwin W. (1965) “The Morality of Law, by Lon L. Fuller,” Indiana Law Journal: Vol. 40: Iss. 2, Article5.]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What does Fuller refer to with the term “promulgation”?",
+              "options": [
+                "1) The retroactive application of laws",
+                "2) The consistent application of laws",
+                "3) The clear communication of laws to those they affect",
+                "4) The economic impact of laws"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best describes the central issue in the Hart-Fuller debate?",
+              "options": [
+                "1) The influence of morality on state",
+                "2) Whether law and morality are inherently connected",
+                "3) The role of judges in interpreting morality",
+                "4) The influence of religious values on legal system"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What was Lon Fuller’s main criticism of Hart’s legal positivism?",
+              "options": [
+                "1) It ignores moral obligations of a judge to make decisions on ethics",
+                "2) It places too much emphasis on legal rules without considering their moral implication",
+                "3) It ignores the role of international law in shaping domestic legal systems",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Why does Fuller argue that legal standards should be free from contradictions?",
+              "options": [
+                "1) To allow for greater judicial discretion",
+                "2) To ensure laws are adaptable to different situations",
+                "3) To maintain respect for the law and ensure consistency",
+                "4) To simplify legal education"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following best describes the concept of “internal morality” in law according to Lon Fuller?",
+              "options": [
+                "1) Law should be flexible and adaptive to individual circumstances",
+                "2) Law should be explained with clarity and precision",
+                "3) Law should prioritize economic efficiency",
+                "4) Law should be created by popular vote"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "SEBI was established as India’s principal capital markets regulator with the aim to protect the interest of investors in securities and promote the development and regulation of the securities market in India. SEBI is empowered to regulate the securities market in India by the SEBI Act 1992, the SCRA and the Depositories Act 1996. SEBI’s powers to regulate the securities market are wide and include delegated legislative, administrative, and adjudicatory powers to enforce SEBI’s regulations. SEBI exercises its delegated legislative power by inter alia framing regulations and appropriately amending them to keep up with the dynamic nature of the securities’ market. SEBI has issued a number of regulations on various areas of security regulation which form the backbone of the framework governing the securities market in India. Section 11 of the SEBI Act lays down the functions of SEBI and expressly states that it “shall be the duty of the Board to protect the interests of investors in securities and to promote the development of, and to regulate the securities market, by such measures as it thinks fit”. Further, Section 30 of the SEBI Act empowers SEBI to make regulations consistent with the Act. Significantly, while framing these regulations, SEBI consults its advisory committees consisting of domain experts, including market experts, leading market players, legal experts, technology experts, retired Judges of this Court or the High Courts, academicians, representatives of industry associations and investor associations. During the consultative process, SEBI also invites and duly considers comments from the public on their proposed regulations. SEBI follows similar consultative processes while reviewing and amending its regulations. (Extracted, with edits and revision, from the judgement in Vishal Tiwari v. Union of India, [2024] 1 S.C.R. 171)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following is not a committee setup by SEBI?",
+              "options": [
+                "1) Technical Advisory Committee",
+                "2) Competition Advisory Committee",
+                "3) Intermediary Advisory Committee",
+                "4) Market Data Advisory Committee"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which among the following is not a function of SEBI?",
+              "options": [
+                "1) regulating substantial acquisition of shares and takeover of companies",
+                "2) prohibiting and regulating self-regulatory organisations",
+                "3) prohibiting insider trading in securities",
+                "4) promoting investors education and training of intermediaries of securities markets"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Match List I with List II. List I (Section of Securities and Exchange Board of India Act, 1992) List II (Provision for) A. Section 6   I. Offences by companies B. Section 11  II. Power to make regulations C. Section 27 III. Removal of member from office D. Section 30 IV. Functions of Board Choose the correct answer:",
+              "options": [
+                "1) A-I, B-III, C-II, D-IV",
+                "2) A-II, B-I, C-IV, D-III",
+                "3) A-III, B-IV, C-I, D-II",
+                "4) A-IV, B-II, C-III, D-I"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The process by which an organisation thinks about and evolves its relationships with stakeholders for the common good, and demonstrates its commitment in this regard by adoption of appropriate business processes and strategies is called",
+              "options": [
+                "1) Annual general meeting",
+                "2) Corporate social responsibility",
+                "3) Issuing Shelf prospectus",
+                "4) Incorporation of a company"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases did the court struck down the attempt of the government to nationalise banks and pay minimal compensation to the shareholders?",
+              "options": [
+                "1) Shri Sunil Siddharthbhai Etc v. Union of India",
+                "2) R.C. Cooper v. Union of India",
+                "3) United Bank of India v. Satyawati Tondon & Ors",
+                "4) Punjab National Bank v. Union of India"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Vivian Bose, J., had observed that Section 106 of the Evidence Act is designed to meet certain exceptional cases in which it would be impossible for the prosecution to establish certain facts which are particularly within the knowledge of the accused. In Shambu Nath Mehra vs. The State of Ajmer (1956 SCR 199) the learned Judge has stated the legal principle thus: “This lays down the general rule that in a criminal case the burden of proof is on the prosecution and section 106 is designed to meet certain exceptional cases in which it would be impossible, or at any rate disproportionately difficult for the prosecution to establish facts which are ‘especially’ within the knowledge of the accused and which he could prove without difficulty or inconvenience. The word ‘especially’ underscores facts that are pre-eminently or exceptionally within the knowledge of the accused. It added, if the section were to be interpreted otherwise, it would lead to the very startling conclusion that in a murder case the burden lies on the accused to prove that he did not commit the murder because who could know better than him whether he did or did not.” It is evident that it cannot be the intention and Privy Council has twice refused to construe this section, as reproduced in certain other Acts outside India, to mean that the burden lies on the accused person to show that he did not commit the crime for which he is tried. These cases are Attygalle v. the King. 1936 PC 169 (AIR V 23) (A) and Seneviratne v. R, 1936-3 All ER 36 at p.49 (B). In case resting on circumstantial evidence, an accused person’s failure to provide a reasonable explanation as required by S. 106 could serve as an additional link in the chain of circumstances. (Based on facts from State of West Bengal vs. Mir Mohammad Omar & Ors, AIR 2000 SUPREME COURT 2988)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Under the Indian Evidence Act, 1872, in cases where the burden of proof lies on the prosecution, which of the following accurately reflects the relationship between Section 101 and 106 of IEA, 1872?",
+              "options": [
+                "1) Section 106 is an exception to Section 101",
+                "2) Section 106 is intended to relieve the prosecution of their duty to prove the case beyond reasonable doubt under Section 101",
+                "3) Both A and B",
+                "4) Neither A nor B"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "‘Any person’ in Section 106 of the Indian Evidence Act refers to:",
+              "options": [
+                "1) A party to the suit/proceeding",
+                "2) A stranger to the suit/proceeding",
+                "3) A witness",
+                "4) None of the above"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the recent following cases, Supreme Court expounded the principles relating to the applicability of S. 106 of Indian Evidence Act?",
+              "options": [
+                "1) Anees v. The State Govt. of NCT, 2024 SC",
+                "2) Anita v. NCT of Delhi, 2024 SC",
+                "3) Abhay v. Union of India, 2024 SC",
+                "4) Anish v. The State Govt. of NCT, 2024 SC"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the phrase “Presumptions are like bats, flitting in the twilight but disappearing in the sunshine of facts” indicate?",
+              "options": [
+                "1) Presumption shifts the burden of proof to the party against whom the presumption operates, but the burden shifts back to the original party once rebutting facts are presented",
+                "2) Presumption is a substantive piece of evidence and it completely relieve the prosecution of its burden of proof, as longs as the presumption is established in the beginning of the trial",
+                "3) There are different categories of presumptions and the highest degree of presumption shifts the burden of proof permanently to the accused, who must disprove the presumption beyond reasonable doubt",
+                "4) Presumptions are irrefutable facts that, once established, cannot be negated by evidence brought forth in the case"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the theories emanate from Section 106 of Indian Evidence Act? 1. Doctrine of Res Ipsa Loquitor 2. Theory of reverse burden of proof 3. Doctrine of last seen together 4. Presumption of innocence Select the correct option:",
+              "options": [
+                "1) 1 and 2",
+                "2) 2 and 3",
+                "3) 3 and 4",
+                "4) 1 and 4"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "In Kapilaben v. Ashok Kumar Jayantilal Sheth, (2020) 20 SCC 648, the Supreme Court has considered that the assignment of a contract might result in a transfer of either rights or obligations thereunder. The transfer of obligations is not possible without the consent of the other party. However, the transfer of rights is permissible, except in cases where the contract is of a personal nature. “It is well-settled that the term ‘representative-in-interest’ includes the assignee of a contractual interest. Though the provisions of the Contract Act do not particularly deal with the assignability of contracts, the court has opined time and again that a party to a contract cannot assign their obligations or liabilities without the consent of the other party. A Constitution Bench in Khardah Co. Ltd. v. Raymon & Co. (India) (P) Ltd. [AIR 1962 SC 1810], has laid out this principle as follows: “An assignment of a contract might result by transfer either of the rights or of the obligations thereunder. However, there is a well-recognised distinction between these two classes of assignments. As a rule, obligations under a contract cannot be assigned except with the consent of the promisee, and when such consent is given, it is really a novation resulting in substitution of liabilities. On the other hand, rights under a contract are assignable unless the contract is personal in its nature or the rights are incapable of assignment either under the law or under an agreement between the parties.” [Extracted with edits from Indira Devi v. Veena Gupta, (2023) 8 SCC 124]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "‘A’, the absolute owner, with the consent of his family members, executed a conditional sale deed in favour of his tenant. The conditional sale deed contained a clause empowering the vendors to repurchase the property within seven years on repayment of the sale consideration. Which of the following statements regarding the agreement is true?",
+              "options": [
+                "1) The agreement is invalid",
+                "2) The agreement is not valid because a conditional sale deed containing a clause for repurchase cannot be executed",
+                "3) The agreement is not valid because the time period provided for repurchase by the vendor is very long, i.e., seven years",
+                "4) The agreement is valid"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is correct regarding the assignability of the contract?",
+              "options": [
+                "1) The assignment of contracts is expressly governed by the provisions outlined in Sections 130 to 137 of the Indian Contract Act, 1872",
+                "2) A party to a contract can transfer his liabilities under the contract without the consent of the other party",
+                "3) A party to a contract cannot transfer his liabilities under the contract without the consent of the other party",
+                "4) Transfer of obligation can be made to anyone without permission of anyone"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Who among the following is not ‘representative-in-interest’ for the purpose of obtaining specific performance?",
+              "options": [
+                "1) The person to whom the interest in the contract is transferred for a valuable consideration",
+                "2) The person to whom the interest in the contract devolves by succession",
+                "3) The person to whom the interest in contract is gifted by a gift deed",
+                "4) Rank trespasser, as an intermeddler"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the following statements: I. The benefit of a contract is assignable in ‘cases where it can make no difference to the person on whom the obligation lies to which of two persons, he is to discharge it’ II. A contract which is such that the promisor must perform it in person, viz. involving personal considerations or personal skill or qualifications (such as his credit), are by their nature not assignable III. The contractual rights for the payment of money or to building work do not involve personal considerations and are not contracts of a personal nature Choose the correct answer:",
+              "options": [
+                "1) I and II are correct",
+                "2) II and III are correct",
+                "3) Only III is correct",
+                "4) I, II and III are correct"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the following statements: I. Where a party to the contract has obtained substituted performance of the contract as per law, such contract is not specifically enforceable II. A contract, the performance of which involves the performance of a continuous duty which the court cannot supervise, is not specifically enforceable III. After the Amendment Act of 2018, a contract for non-performance for which compensation is an adequate relief is not specifically enforceable Choose the correct answer:",
+              "options": [
+                "1) All are correct",
+                "2) I and II are correct",
+                "3) II and III are correct",
+                "4) Only II is correct"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "In the present case, the levy of IGST on the supply of ocean freight services under the reverse charge mechanism on the importer, when the value of such service is already included in the transaction value of imported goods, amounts to double taxation. The concept of double taxation implies that the same subject matter is taxed twice when it should be taxed only once. The GST law, as framed, does not envisage taxation of a transaction twice, and the fundamental principles of GST do not support such an imposition. Further, the importer, who is not the recipient of the service but is treated as a deemed recipient under the reverse charge mechanism, cannot be made liable to pay tax on a service that they have not directly availed. This stretches the scope of reverse charge mechanism beyond its intended purpose, which is to simplify tax collection by shifting the liability to pay tax from the service provider to the service recipient, particularly in cases where the service provider is located outside India and does not have a presence within the taxable territory. Moreover, the constitutional framework requires that a tax should be levied with legislative competence and should not contravene any fundamental rights guaranteed under the Constitution. The imposition of IGST on ocean freight under the reverse charge mechanism without proper legislative backing undermines the very essence of taxation principles enshrined in the Constitution of India. (This extract is taken from Mohit Minerals v. Union of India CA No. 1390/2022)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the Mohit Minerals Pvt. Ltd. v. Union of India judgment, what constitutes double taxation in the context of GST on ocean freight?",
+              "options": [
+                "1) Taxing both the importer and the exporter for the same service",
+                "2) Tax not payable on ocean freight under the RCM for CIF imports",
+                "3) Taxing the service provider and the service recipient for the same service",
+                "4) Taxing the importer for both the goods and the services separately"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Assertion (A): The importer should not be liable to pay GST on ocean freight under the reverse charge mechanism if they are not the direct recipient of the service. Reason (R): The reverse charge mechanism is intended to shift the tax burden from service providers located outside India to the service recipients within India.",
+              "options": [
+                "1) Both A and R are true, and R is the correct explanation of A",
+                "2) Both A and R are true, but R is not the correct explanation of A",
+                "3) A is true, but R is false",
+                "4) A is false, but R is true"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the following statements regarding the Mohit Minerals Pvt. Ltd. v. Union of India judgment: 1. The Supreme Court ruled that imposing GST on ocean freight charges under the reverse charge mechanism leads to double taxation 2. The importer, not being the direct recipient of the service, should not be liable to pay GST on ocean freight 3. The judgment emphasized that tax laws must have proper legislative backing to prevent contravention of fundamental rights Which of the statements given above are correct?",
+              "options": [
+                "1) 1 and 2 only",
+                "2) 1 and 3 only",
+                "3) 2 and 3 only",
+                "4) 1, 2 and 3"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the following statements: 1. The reverse charge mechanism shifts the tax liability from the service provider to the service recipient 2. The principle of single taxation was violated by imposing GST on ocean freight charges already included in the cost of imported goods 3. The judgment clarified that importers can be liable for GST on services directly availed by them Which of the statements given above are correct?",
+              "options": [
+                "1) 1 and 2 only",
+                "2) 1 and 3 only",
+                "3) 2 and 3 only",
+                "4) 1, 2 and 3"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "According to the judgment, what is the constitutional requirement for levying a tax?",
+              "options": [
+                "1) The tax should be easy to administer",
+                "2) The tax should have legislative competence and not contravene fundamental rights",
+                "3) The tax should be progressive in nature",
+                "4) The tax should only apply to domestic transactions"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Whether an agreement is a mortgage by conditional sale or sale with an option to repurchase is a vexed question to be considered in the facts of each case. The essentials of an agreement, to qualify as a mortgage by conditional sale, can succinctly be summarized. An ostensible sale with transfer of possession and ownership, but containing a clause for reconveyance in accordance with Section 58(c) of the Act, will clothe the agreement as a mortgage by conditional sale. Referring to Section 58(c) of the Transfer of Property Act the observed, “A deeming fiction was added in the negative that a transaction shall not be deemed to be a mortgage unless the condition for reconveyance is contained in the document which purports to effect the sale.” The issue under adjudication was whether the transaction between the parties was an absolute sale of the property or it was a mortgage. The court relied upon the case Bishwanath Prasad Singh v. Rajendra Prasad and Anr, 2006 SC and held that A bare perusal of the said provision clearly shows that a mortgage by conditional sale must be evidenced by one document whereas a sale with condition of retransfer may be evidenced by more than one document. A sale with a condition of retransfer is not a mortgage. It is not a partial transfer. By reason of such a transfer all rights have been transferred reserving only a personal right to the purchaser and such a personal right would be lost unless the same is exercised within the stipulated time. The execution of separate agreement for reconveyance, either contemporaneously or subsequently, shall militate against the agreement being mortgaged by conditional sale. There must exist a debtor and creditor relationship. The valuation of the property, and the transaction value, along with the duration of time for reconveyance, are important considerations to decide the nature of the agreement. There will have to be a cumulative consideration of these factors, along with the recitals in the agreement, intention of the parties, coupled with other attendant circumstances, considered in a holistic manner. The language used in the agreement may not always be conclusive. (Extract from Prakash (Dead) By LR. V. G. Aradhya & Ors, 2023 SC)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The proper remedy for the mortgagee in a mortgage by conditional sale is:",
+              "options": [
+                "1) to institute a suit for sale",
+                "2) to suit for recovery of money",
+                "3) to institute a suit for foreclosure",
+                "4) Both (A) and (B)"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "One of the conditions of mortgage by conditional sale is that:",
+              "options": [
+                "1) on payment of mortgage money, the sale shall be voidable",
+                "2) on payment of mortgage money, the sale shall become void",
+                "3) the mortgagee shall receive the rent and profits and will appropriate the same towards the dues",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the common clause between mortgage by conditional sale and English mortgage?",
+              "options": [
+                "1) Transfer of ownership of mortgaged property",
+                "2) Transfer of possession of mortgaged property",
+                "3) The right of mortgagee to sell the property",
+                "4) Delivery of documents of title"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the limitation period in case of mortgage by conditional sale?",
+              "options": [
+                "1) 3 years",
+                "2) 12 years",
+                "3) 30 years",
+                "4) No time limit"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following expresses the distinction between a mortgage by conditional sale and a sale with a condition of repurchase?",
+              "options": [
+                "1) In a mortgage the debt subsists and a right to redeem remains with the debtor, but a sale with a condition of repurchase is not a lending and borrowing arrangement",
+                "2) In a mortgage by conditional sale, generally the amount of consideration is far below the value of the property in the market, but in a sale with a condition of repurchase, the amount of consideration is generally equal to or close to the value of the property",
+                "3) Both (A) and (B)",
+                "4) Neither (A) nor (B)"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "“The power to pardon is a part of the constitutional scheme, and we have no doubt, in our mind, that it should be so treated also in the Indian Republic. It has been reposed by the people through the Constitution in the Head of the State, and enjoys high status. It is a constitutional responsibility of great significance, to be exercised when occasion arises in accordance with the discretion contemplated by the context. It is not denied, and indeed it has been repeatedly affirmed in the course of argument by learned counsels appearing for the Petitioner that the power to pardon rests on the advice tendered by the Executive to the President, who subject to the provisions of Art. 74(1) of the Constitution, must act in accordance with such advice......” We are of the view that it is open to the President in the exercise of the power vested in him by Art. 72 of the Constitution to scrutinise the evidence on the record of the criminal case and come to a different conclusion from that recorded by the court in regard to the guilt of, and sentence imposed on the accused. In doing so, the President does not amend or modify or supersede the judicial record. The judicial record remains intact, and undisturbed. The President acts in a wholly different plane from that in which the Court acted. He acts under a constitutional power, the nature of which is entirely different from the judicial power and cannot be regarded as an extension of it. This is so, notwithstanding that the practical effect of the Presidential act is to remove the stigma of guilt from the accused or to remit the sentence imposed on him. It is apparent that the power under Art. 72 entitles the President to examine the record of evidence of the criminal case and to determine for himself whether the case is one deserving the grant of the relief falling within that power. We are of opinion that the President is entitled to go into the merits of the case notwithstanding that it has been judicially concluded by the consideration given to it by this Court. In Kehar Singh v. Union of India, 1989 SC, this court stated that the same obviously means that the affected party need not be given the reasons. The question whether reasons can or cannot be disclosed to the Court when the same is challenged was not the subject-matter of consideration. In any event, the absence of any obligation to convey the reasons does not mean that there should not be legitimate or relevant reasons for passing the order. [Extract from the judgment of Shatrughan Chauhan v. Union of India 2014 (3) SCC 1]",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which one of the following statements is correct with respect to the granting of pardon by the President?",
+              "options": [
+                "1) The power to grant pardon is a constitutional duty. Hence, judicial review is available, just as any executive action",
+                "2) Granting pardon being the privilege of the President, no judicial review is available against the decision of the President in granting or refusing to grant a pardon",
+                "3) The constitution expressly conferred the power to grant pardon to the President hence, the President is not bound to rely on the aid advice of the executive",
+                "4) The President’s power to grant pardon can be reviewed on the grounds of non-application of mind"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In the above case the Supreme Court held that a minimum period of _______days be stipulated between the receipt of communication of the rejection of the mercy petition and the scheduled date of execution.",
+              "options": [
+                "1) 15",
+                "2) 30",
+                "3) 14",
+                "4) No such time was fixed"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "What is not true about Art. 21 of Constitution of India?",
+              "options": [
+                "1) Insanity is not a relevant supervening factor for commutation of death sentence",
+                "2) Right to life of a person continues till his last breath and that Court will protect that right even if the noose is being tied on the condemned person’s neck",
+                "3) The anguish of alternating hope and despair, the agony of uncertainty and the consequence of such suffering on the mental, emotional and physical integrity and health violates Art. 21 of the prisoners",
+                "4) Art. 21 is a substantive right and not merely procedural"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In which case, the Supreme Court held that if the crime is brutal and heinous and involves the killing of a large number of innocent people without any reason, delay cannot be the sole factor for the commutation of the death sentence to life imprisonment?",
+              "options": [
+                "1) Devender Pal Singh Bhullar v. State (NCT) of Delhi",
+                "2) V. Sriharan Murugan v. Union of India",
+                "3) Yakub Abdul Razak Memon v. State of Maharashtra",
+                "4) Shatrughan Chauhan v. Union of India"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The President’s power to grant a pardon",
+              "options": [
+                "1) Can be delegated to the Council of Ministers",
+                "2) Cannot be delegated as it is an essential legislative function",
+                "3) Cannot be delegated as it is expressly conferred on the President",
+                "4) Can be delegated to the Vice-president in the absence of the President"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "The Indian Contract Act is a classical model of contract law that covers various codes that govern general contracts as well as specific contracts. Contract of Bailment, one such type of contract under the Indian law of contract, talks about the delivery of goods from one person to another for a purpose. Under this contract, the bailee is given a right to lien. Right to lien is defined under Section 171 of the Indian Contract Act, 1872, which talks about the general right to lien of bankers, wharfingers, factors, attorneys of high courts and policy brokers. Generally, two parties are involved. The banker who lends money to the borrower or the customer, who then provides a security in exchange for the loan. Both parties are entitled to some of the rights that are associated with the securities that were provided. It is a possessory right which allows the bank to have temporary possession of the goods until the customer’s outstanding debt is paid. The banker the right to act as the trustee of the property as long as they are acting within their powers as the custodian and do not sell the property without giving notice to the customer. The landmark judgment of Syndicate Bank v. Vijay Kumar and Others dealt with the issue of whether or not a banker’s right to lien and set off was a general and customary right guaranteed to them. In furtherance of Halsbury’s laws of England, this judgment recognised the banker’s right to general lien was a right guaranteed by the law and not the contract. (Extracted with edits from “Critical Analysis of Bankers Right of General Lien” by Alisha Khalid Bhendwade, IJLRA, Vol. II, 2024)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Who among the following can exercise right to General Lien in the absence of any provision in the contract? i. Factors ii. Brokers iii. Wharfingers iv. Attorneys",
+              "options": [
+                "1) iv",
+                "2) iv and ii",
+                "3) i and iii",
+                "4) All of them"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The Bailee’s right to retain the goods until he receives due remuneration for the services, he has rendered in respect of them is known as:",
+              "options": [
+                "1) Particular Lien",
+                "2) General Lien",
+                "3) Particular Retention",
+                "4) General Retention"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "With respect to bailment, a Banker:",
+              "options": [
+                "1) Has a right to a particular lien on fixed deposits",
+                "2) Has a right to a general lien on fixed deposits",
+                "3) Has a right to a general lien on savings account",
+                "4) Has no right to a lien on a savings account or fixed deposits"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which one of the following is not an essential characteristic of Bailment?",
+              "options": [
+                "1) Physical delivery of goods",
+                "2) Delivery of goods for some purpose",
+                "3) After the purpose is accomplished, the goods must be returned",
+                "4) Goods may be returned to the owner or otherwise disposed of according to the directions of the person delivering them"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which one of the following are bailments? i. Hiring a Locker facility in a Bank ii. Taking a Gold loan from the Bank iii. Hypothecation of the vehicle for loan to the Bank iv. Giving car for valet parking",
+              "options": [
+                "1) iv",
+                "2) iv and ii",
+                "3) i and iii",
+                "4) All of them"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Article 21 of the Constitution states that no person shall be deprived of his liberty except in accordance with procedure established by law. Conversely, we think that a person is entitled to the protection of his liberty only in accordance with law. When a person’s liberty cannot be violated in breach of a law, can a person’s liberty be protected even in the face of a breach or violation of law? In other words, should rule of law prevail over personal liberty of a person or vice-versa? Further, should this Court weigh in favour of a person’s freedom and liberty even when it has been established that the same was granted in violation of law? Should the scales of justice tilt against rule of law? We wish to make it clear that only when rule of law prevails will liberty and all other fundamental rights would prevail under our Constitution including the right to equality and equal protection of law as enshrined in Article 14 thereof. Justice Nagarathna, who authored the judgement, began her pronouncement by invoking classical Greek Philosopher Plato. “Punishment is to be inflicted not for the sake of vengeance but for the sake of prevention and reformation. In his treatise, Plato reasons that the lawgiver, as far as he can, ought to imitate the doctor who does not apply his drug with a view to pain only, but to do the patient good. This curative theory of punishment likens penalty to medicine administered for the sake of the one being chastised. Thus, if a criminal is curable, he ought to be improved by education and other suitable arts and the set free as a better citizen and less of a burden to the state. This postulate lies at the heart of the policy of remission.” Having said that, she also pointed out the competing interests involved, of the rights of the victim’s family to justice and the right of the convicts to a second chance by remission or reduction of their sentence. She added, “A woman deserves respect howsoever high or low she may otherwise be considered in the society or whatever faith she may follow or whatever creed she may belong to. Can heinous crime against women permit remission of the convicts by a reduction in their sentence and by granting them liberty?” (This extract has been taken from Bilkis Yakoob Rasul v. Union of India (2024) 5 SCC 481)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "On which grounds remission can be denied?",
+              "options": [
+                "1) On the discretion of the appropriate government",
+                "2) On the central government’s discretion",
+                "3) On the state government’s discretion",
+                "4) None of the above"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is not related to remission?",
+              "options": [
+                "1) State (Govt. of NCT of Delhi) v. Prem Raj, 2003 7 SCC",
+                "2) Sarat Chandra Rabha v. Khagendranath, AIR 1961 SC 334",
+                "3) Both (A) and (B)",
+                "4) Neither (A) nor (B)"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following needs to be considered while entertaining an application for remission under the provisions of Cr.P.C., 1973?",
+              "options": [
+                "1) The application for remission under Section 432 of the Cr.P.C., 1973 could be only before the Government of the State within whose territorial jurisdiction the applicant was convicted (appropriate Government) and not before any other Government within whose territorial jurisdiction the applicant may have been transferred on conviction or where the offence has occurred",
+                "2) A consideration for remission must be by way of an application under Section 432 of the Cr.P.C., 1973 which has to be made by the convict or on his behalf. In the first instance whether there is compliance with Section 433A of the Cr.P.C., 1973 must be noted in as much as a person serving a life sentence cannot seek remission unless fourteen years of imprisonment has been completed",
+                "3) Both (A) and (B)",
+                "4) Only (A)"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "According to Section 432 (2) of Cr.P.C. when deciding on an application for remission, the government may seek the opinion of the presiding judge. In Bilkis Bano Case, how did the court interpret the expression “may” regarding the government’s duty to seek the opinion of the judge?",
+              "options": [
+                "1) The expression “may” indicate that it is optional for the government to seek the opinion of the presiding judge",
+                "2) The expression “may” mean that government can seek the opinion of any judge, not necessarily the presiding judge",
+                "3) The expression “may” must be interpreted as “shall”, making it mandatory for the government to seek the opinion of the presiding judge",
+                "4) The expression “may” allow the presiding judge to refuse providing an opinion on the application for remission"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In Bhartiya Nagarik Suraksha Sanhita, 2023, the provision for commutation of a sentence of imprisonment of life has replaced the term ‘not exceeding fourteen years or of fine’ of the Cr.P.C. with:",
+              "options": [
+                "1) not less than seven years",
+                "2) not less than ten years",
+                "3) not more than twenty years",
+                "4) seven years"
+              ],
+              "answer": "1"
+            }
+          ]
+        },
+        {
+          "passageText": "The Supreme Court recently examined the interplay between Section 47 of the Registration Act, 1908 and Section 54 of the Transfer of Property Act, 1882. Section 47 of the Registration Act titled “time from which registered document operates” states that registered document shall operate from the time from which it would have commenced to operate if no registration has been required or made. On the other hand, Section 54 of the Transfer of Property Act provides that the transfer of immovable property of value above Rs. 100 can be made only by a registered document. It is a trite law that a transfer of immovable property by way of sale can only be made by a deed of conveyance and in the absence of such deed that is duly stamped and registered as required by law, no right, title or interest in the immovable property can be transferred. The Court referred to an earlier decision in Ram Saran Lall v. Domini Kuer where a harmonious balance was maintained between the peremptory language of Section 54 of the Transfer of Property Act and the deeming fiction under Section 47 of the registration act. It also implicitly recognised that Section 54 draws a clear distinction between transfer of tangible immovable property of value more Rs. 100 and less than Rs. 100. In the former case, such transfer can only be made through a registered instrument, whereas in the latter case the transfer may be either by registered instrument or by delivery of property. (Extract from Kanwar Raj Singh v. Gejo, 2024 SC)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which of the following is the effect of non-registration of a compulsorily registrable document?",
+              "options": [
+                "1) The unregistered document cannot be adduced in evidence of any transaction affecting such property",
+                "2) As long as the terms, grant or disposition is in writing and fulfils the criteria of S. 91 of the Indian Evidence Act, it will be admitted as evidence",
+                "3) Procedure is a handmaid of justice and registration is merely a procedural requirement. Non registration does not make the document less admissible in court",
+                "4) The unregistered document can be adduced in evidence if the party adducing it is able to prove its bonafide"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "A property from one person to the other can be transferred by way of:",
+              "options": [
+                "1) Court sale, gift, will, inheritance, relinquishment",
+                "2) Dedication, gift, will, inheritance, relinquishment",
+                "3) Private or court sale, gift, will, inheritance, relinquishment, dedication",
+                "4) Private or court sale, gift, will, inheritance"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Where the member of the family agrees to divide the property amongst themselves, not necessarily in accordance with the quantum as specified in law or according to their entitlement. It can take into its fold non-family members as well. Once effected, it is binding on all the members who were parties to it and is enforceable? This division is called:",
+              "options": [
+                "1) Transfer of property under the Transfer of Property Act",
+                "2) Partition of joint Hindu Family",
+                "3) Family Arrangement",
+                "4) Partition in Interested parties"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Property and interest in the property as general rule are transferable. This rule of transferability is based on the maxim:",
+              "options": [
+                "1) Alienation rei praefertur juri accrescendi",
+                "2) Cuius est solum eius est usque ad coelum et usque ad infernos",
+                "3) Res nullius",
+                "4) Nemo dat quod non habet"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In a given case where a sale deed is executed and entire agreed consideration is paid on or before execution of sale deed, after it is registered, it will operate from:",
+              "options": [
+                "1) Date of registration of the sale deed",
+                "2) Date of execution of the sale deed",
+                "3) Date on communication of proposal was complete",
+                "4) None of the above"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "The jurisdiction of this court has been invoked for protecting the Great Indian Bustard and the Lesser Florican, both of whom are on the verge of extinction. India faces a number of pressing near term challenges that directly impact the right to a healthy environment, particularly for vulnerable and indigenous communities including forest dwellers. The lack of reliable electricity supply for many citizens not only hinders economic development but also disproportionately affects communities, including women and low-income households, further perpetuating inequalities. Therefore, the right to a healthy environment encapsulates the principle that every individual has the entitlement to live in an environment that is clean, safe, and conducive to their well-being. The promotion of renewable energy sources plays a crucial role in promoting social equity by ensuring access to clean and affordable energy of all segments of society, especially in rural and undeserved areas. This contributes to poverty alleviation, enhances quality of life, and fosters inclusive growth and development across the nation. Therefore, transitioning to renewable energy is not just an environmental imperative but also a strategic investment in India’s future prosperity, resilience and sustainability. The right to equality under Art. 14 and the right to life under Art. 21 must be appreciated in the context of the decisions of this court, the actions and commitments of the state on national and international level, and scientific consensus on climate change and its adverse effects. By recognising the right to a healthy environment, states are compelled to prioritise environmental protection and sustainable development, thereby addressing the root cause of climate change and safeguarding the well-being of present and future generations. (Extract taken from MK Ranjitsinh and Ors v. Union of India, 2024 SC)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the objective of United Nations Framework Convention on Climate Change (UNFCCC)?",
+              "options": [
+                "1) To enforce international environmental treaties on climate change at national level",
+                "2) To stabilize greenhouse gas concentrations in the atmosphere to prevent dangerous human-induced interference with climate change",
+                "3) To stabilize carbon footprints and oversee global diversity protection efforts",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following Sustainable Development Goals (SDGs) specifically addresses climate change?",
+              "options": [
+                "1) SDG 31",
+                "2) SDG 13",
+                "3) SDG 12",
+                "4) SDG 15"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, the Supreme Court held that any disturbance of the basic environment elements namely air, water and soil, which are necessary for life, would be hazardous to ‘life’ within the meaning of Article 21 of the Constitution of India and Art. 48A and 51A(g) must be interpreted in the light of Article 21?",
+              "options": [
+                "1) M.C. Mehta v. Union of India, 2000 SC",
+                "2) M.C. Mehta v. Kamal Nath, 2000 SC",
+                "3) Vellore Citizens Welfare Forum v. Union of India, 1996 SC",
+                "4) M.C. Mehta v. Union Carbide Commission, 1991 SC"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements are correct?",
+              "options": [
+                "1) The people of India do not have a right against the adverse effects of climate change as pervious interpretations of Article 21 solely focussed on individual freedoms and right to clean and pollution free environment",
+                "2) Supreme Court for the first time recognized right to be free from adverse effects of climate change in its recent judgement MK Ranjitsinh and Ors v. Union of India, 2024 SC",
+                "3) There is no separate recognition given by the Supreme Court for ‘right to be free from adverse effects of climate change’ as it was already recognised under ‘right to a clean environment’",
+                "4) None of the Above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following protocol focusses at limiting global temperature rise by reducing carbon emissions and combating climate change?",
+              "options": [
+                "1) The Montreal Protocol",
+                "2) The Kyoto Protocol",
+                "3) The Paris Agreement",
+                "4) The Rio Declaration"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "As new situations arise; the law has to be evolved in order to meet the challenge of such new situations. Law cannot afford to remain static. It should keep pace with changing socio-economic norms. We have to evolve new principles and lay down new norms which would adequately deal with the new problems which arise in a highly industrialized economy. We cannot allow our judicial thinking to be constricted by reference to the law as it prevails in England or for that matter in any other foreign country. We no longer need the crutches of a foreign legal order. We are certainly prepared to receive light from whatever source it comes but we have to build up our own jurisprudence and we cannot countenance an argument that merely because the new law does not recognize the rule of strict and absolute liability, we cannot have it too. Court should not feel inhibited by this rule merely because the new law does not recognise the rule of strict and absolute liability. The enterprise must be held to be under an obligation to provide that the hazardous or inherently dangerous activity in which it is engaged must be conducted with the highest standards of safety. The court discussed the scope of the Epistolary jurisdiction and reiterated that procedure being merely a handmaid of justice should not stand in the way to access to justice. (Extracted with edits from M.C. Mehta v. Union of India (1987) 1 SCC 395)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, the term “Epistolary Jurisdiction” was first used in India?",
+              "options": [
+                "1) Fertilizer Corporation Kamgar Union v. Union of India,1981 SC",
+                "2) Mumbai Kamgar Sabha v. Abdul Bhai, 1976 SC",
+                "3) ADM Jabalpur v. Shivkant Shukla, 1976 SC",
+                "4) Amba Devi v. Union of India, 1984 SC"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following offences under the Indian Penal Code (IPC) has a strict liability connotation?",
+              "options": [
+                "1) Theft under Section 378 IPC",
+                "2) Defamation under Section 499 IPC",
+                "3) Bigamy under Section 494 IPC",
+                "4) Selling adulterated food or drink under Section 272 IPC"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "“The Rule of Law is that the person who, for his own purpose, brings on his land and collects and keeps there anything likely to do mischief if it escapes, must keep it in at his peril: and if he does not do so is prima facie answerable for all the damage which is the natural consequence of its escape”. Above rule has been evolved by the:",
+              "options": [
+                "1) Lord Burrough",
+                "2) Justice Blackburn",
+                "3) Lord Baron Diplock",
+                "4) None of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "The rule of Rylands v. Fletcher is not applicable:",
+              "options": [
+                "1) When the escape is due to vis major or act of God",
+                "2) When the damage is due to the wrongful or malicious act of a stranger",
+                "3) When the escape is due to the plaintiff’s own fault",
+                "4) All of the above"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "In India the ‘Absolute Liability’ theory on the basis of injuries caused by the hazardous industries was propounded by:",
+              "options": [
+                "1) V.R. Krishna Iyer, J.",
+                "2) P.N. Bhagwati, C.J.",
+                "3) Kuldip Singh, J.",
+                "4) M.N. Venkatachaliah, C.J."
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "International Organisations have had a significant impact on the development of international law, effectively contributing to the establishment of a global constitutional system. According to Henkin, international organisations “represent new laws at its birth, for it is itself a child of law”. For instance, the Charter of the United Nations (UN) and its specialised agencies and other international organisations have played a crucial role in shaping international law. The World Health Organisation (WHO), the Organisation for Economic Cooperation and Development (OECD) and the International Labour Organisation (ILO) are among the organisations that have contributed to the significant transformation of international law sources, actors and processes over the past century. Since its establishment with an initial membership of fifty-one states, UN has undergone significant development, becoming a diverse and multidimensional global institution with a current membership of 193 nations. The UN has positioned itself as a global constitutional organisation, striving to safeguard and uphold a minimal world order. Numerous experts in International Law recognise the UN as a crucial international organisation for the maintenance of peace and security. (Rawa Almakky, “The Role of International Organisations in the Development of International Law: An Analytical Assessment of the United Nations”, International Scientific Journal on LAW and WORLD, Vol. 9 No. 28, 2023)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The Convention on International Civil Aviation is applicable only on:",
+              "options": [
+                "1) State Aircraft",
+                "2) Civil Aircraft",
+                "3) War Aircraft",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Meaning of the Latin phrase ‘ex aequo et bono’ as in legal term, is:",
+              "options": [
+                "1) According to the equitable and good",
+                "2) On the basis of equity and fairness",
+                "3) Both (A) and (B)",
+                "4) None of the above"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The Economic and Social Council consists of 54 Members of the United Nations elected by the General Assembly distributed as:",
+              "options": [
+                "1) African States and Asia Pacific States",
+                "2) Eastern European, Western European and other States",
+                "3) Latin American and Caribbean States",
+                "4) All of the Above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Under which Art. of UN Charter General Assembly may establish such subsidiary organs as it deems necessary for the performance of its functions?",
+              "options": [
+                "1) Art. 19 of UN Charter",
+                "2) Art. 20 of UN Charter",
+                "3) Art. 21 of UN Charter",
+                "4) Art. 22 of UN Charter"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Article 21 of the Constitution of WHO, each Member has undertaken the obligation to take action acceptance on Conventions adopted by:",
+              "options": [
+                "1) One third votes of the Health Assembly",
+                "2) Two-third votes of the Health Assembly",
+                "3) Special Majority means Three-Fourth votes of the Health Assembly",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "The Supreme Court affirmed that it is a well-established principle of administrative law that an adjudicatory body cannot base its decision on any material unless the person against whom it is sought to be utilized has been apprised of it and given an opportunity to respond to it. The court noted from MP Jain & SN Jain’s treatise on Principles of Administrative Law that if the adjudicatory body is going to rely on any material, evidence or document for its decision against a party, then the same must be brought to his notice and he be given an opportunity to rebut it or comment thereon. It is regarded as a fundamental principle of natural justice that no material ought to be relied on against a party without giving him an opportunity to respond to the same... The right to know the material on which the authority is going to base its decision is an element of the right to defend oneself. If without disclosing any evidence to the party, the authority takes it into its consideration, and decides the matter against the party, then the decision is vitiated for it amounts to denial of a real and effective opportunity to the party to meet the case against him. On the issue of the impact of such non-disclosure the Court referred to its earlier pronouncements and summarised the principles thus – A quasi-judicial authority has a duty to disclose the material that has been relied upon at the stage of adjudication. The actual test is whether the material that is required to be disclosed is relevant for purpose of adjudication. If it is, then the principles of natural justice require its due disclosure. The aggrieved person must be able to prove that prejudice has been caused to him due to non-disclosure. To prove prejudice, he must prove that had the material been disclosed to him the outcome or the punishment would have been different. (Extract with Edits taken from in Deepak Ananda Patil v. State of Maharashtra, (2023) 11 SCC 130)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "Which principle is applied in the judgment?",
+              "options": [
+                "1) Nemo judex in causa sua",
+                "2) Audi alteram partem",
+                "3) Ignorantia juris non excusat",
+                "4) Jus necessitatis"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Non-Disclosure of material invalidates the order if:",
+              "options": [
+                "1) The authority has not relied on the material",
+                "2) No prejudice is caused to the party",
+                "3) The material was relevant for the purpose of adjudication",
+                "4) The outcome would not have been any different if it was disclosed"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "‘Real and effective opportunity’ in the context of this judgment refers to:",
+              "options": [
+                "1) Personal hearing",
+                "2) Right to rebut the evidence supplied to the party",
+                "3) Right to adduce evidence",
+                "4) Right to know the evidence against oneself"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following requires compliance with the rule of fair hearing?",
+              "options": [
+                "1) A notification bringing an Act into operation",
+                "2) Price Control Order under Essential Commodities Act",
+                "3) Notice issued by a Disciplinary Authority",
+                "4) Reasoned Decision by competent authority"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements is false?",
+              "options": [
+                "1) Proving prejudice to the party concerned is necessary to quash a quasi-judicial order on the ground of non-disclosure of evidence",
+                "2) Principles of natural justice do not have exceptions",
+                "3) Speaking order is a third principle of natural justice",
+                "4) Legal representation can be validly disallowed before a quasi-judicial proceeding"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Jurisprudence progresses as well as regresses. The late nineteenth-century analysis of rights which Hohfeld brought to completion makes a notable advance in clarity. But rights of each of the four Hohfeldian types are spoken of by Aquinas, as well as by the civilian lawyers of his age (and indeed of earlier ages). The word ‘right’ translates the Latin ius or jus, the root of the word’s ‘justice’, ‘jurist’, ‘juridical’, and ‘jurisprudence’. Though Aquinas does not use the plural forms of the word ius as often as we use the plural ‘rights’, it is a sheer mistake to claim, as some have, that he lacked or repudiated the concept of rights in the modern sense, in which a right is ‘subjective’ in the sense of belonging to someone (the subject of the right). When he defines justice as the steady willingness to give to others what is theirs, Aquinas immediately goes on to treat that phrase as synonymous with their right (ius suum); hence he treats a right/rights (ius/iura) as subjective. He also uses the word to speak of  ‘objective’ right, that is, what interpersonal action or relationship is right-morally or legally, depending upon the context. Hobbes, who got inspired much in Benthamite and Austinian positivism, spurned the classical juristic tradition and defined ‘right’ as liberty in the sense of sheer absence of duty. So, people have most rights in the state of nature where they have no duties. This move exemplifies regression in legal and, more generally, in political and moral philosophy. Fortunately, the mistake is quite obvious. If no one has any duties to or in respect of others, it will be more accurate to say that no one has any rights at all. For everyone, in such a state of affairs, is subject to being destroyed or abused by everyone and anyone else, and everyone’s actions can be impeded as much as any person or group cares, and is able, to arrange. The truth is that the concept of a right makes little sense save as (the Hohfeldian claim-right) a correlative of someone else’s duty, or (the Hohfeldian liberty) as protected by someone else’s duty of non-interference, or (the Hohfeldian power) as promoted by the duty of officials and others to recognize and effectuate one’s acts-in-the-law (or their ethical counterparts), or (the Hohfeldian immunity) as protected by a similar duty of officials and others not to recognize another’s juridical acts as it purportedly bears on my position. (Extracted, with edits and revision, from The Oxford Handbook of Jurisprudence and Philosophy of Law, Edited by Jules L. Coleman, Kenneth Einar Himma, and Scott J. Shapiro)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The Jural Correlative of Privilege is:",
+              "options": [
+                "1) Duty",
+                "2) Liability",
+                "3) No right",
+                "4) Disability"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following statements is not true about Treatise on Law by St. Thomas Aquinas?",
+              "options": [
+                "1) He classified law into eternal law, natural law, human law and divine law",
+                "2) He belonged to the Historical School of Jurisprudence",
+                "3) According to him, human nature is perfected or fully realised by harmonious and habitual excellence in the exercise of its intrinsic capacities and powers",
+                "4) The first primary precept is that good is to be pursued and done and evil avoided"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Who said, “Right is an interest which is to be recognised, protected and enforced by law”?",
+              "options": [
+                "1) Roscoe Pound",
+                "2) Salmond",
+                "3) Holland",
+                "4) Bentham"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following theories can be identified as a theory of right?",
+              "options": [
+                "1) Bracket theory",
+                "2) Fiction theory",
+                "3) Will theory",
+                "4) Concession theory"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Consider the given statements: Statement I: Rights in Rem are the rights in the things of others, also called encumbrances. Statement II: Rights in Re propria means the right available against the whole world. Statement III: Rights in Personam mean the rights in one’s own things. Choose the correct answer:",
+              "options": [
+                "1) Statement I is correct",
+                "2) Statements I & II are correct",
+                "3) Statements I, II & III are correct",
+                "4) None of the above"
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "The environmental rule of law, at a certain level, is a facet of the concept of the rule of law. But it includes specific features that are unique to environmental governance, features which are sui-generis. The environmental rule of law seeks to create essential tools such as conceptual, procedural and institutional, to bring structure to the discourse on environmental protection. It does so to enhance our understanding of environmental challenges of how they have been shaped by humanity’s interface with nature in the past, how they continue to be affected by its engagement with nature in the present and the prospects for the future, if we were not to radically alter the course of destruction which humanity’s actions have charted. The environmental rule of law seeks to facilitate a multi-disciplinary analysis of the nature and consequences of carbon footprints and in doing so it brings a shared understanding between science, regulatory decisions and policy perspectives in the field of environmental protection. It recognises that the “law” element in the environmental rule of law does not make the concept peculiarly the preserve of Lawyers and Judges. On the contrary, it seeks to draw within the fold all stakeholders in formulating strategies to deal with current challenges posed by environmental degradation, climate change and the destruction of habitats. The environmental rule of law seeks a unified understanding of these concepts. There are significant linkages between concepts such as sustainable development, the polluter pays principle etc. The universe of nature is indivisible and integrated. The state of the environment in one part of the earth affects and is fundamentally affected by what occurs in another part. Every element of the environment shares a symbiotic relationship with the others. It is this inseparable bond and connect which the environmental rule of law seeks to explore and understand in order to find solutions to the pressing problems which threaten the existence of humanity. The environmental rule of law is founded on the need to understand the consequences of our actions going beyond local, State and national boundaries. The rise in the oceans threatens not just maritime communities. The rise in temperatures, dilution of glaciers and growing desertification have consequences which go beyond the communities and creatures whose habitats are threatened. They affect the future survival of the entire eco-system. The environmental rule of law attempts to weave an understanding of the connections in the natural environment which make the issue of survival a unified challenge which confronts human societies everywhere. (Extract from Pragnesh Shah v. Arunkumar Sharma (2022) 11 SCC 493 )",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What distinguishes the environmental rule of law from the broader concept of the rule of law?",
+              "options": [
+                "1) Its exclusive focus on legal principles",
+                "2) Its emphasis on environmental governance",
+                "3) Its reliance on judicial decisions",
+                "4) Its alignment with international treaties"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "What is the primary objective of the environmental rule of law?",
+              "options": [
+                "1) To protect wildlife habitats",
+                "2) To enhance understanding of environmental challenges",
+                "3) To promote economic development",
+                "4) To enforce local environmental regulations"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "Environmental Protection and Improvement were incorporated into the Constitution of India by inserting Articles 48-A and 51-A (g) by virtue of which of the following amendments?",
+              "options": [
+                "1) 42nd Amendment Act, 1976",
+                "2) 44th Amendment Act, 1978",
+                "3) 45th Amendment Act, 1980",
+                "4) 35th Amendment Act, 1974"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "In which international forum did the ‘Environmental rule of Law’ find recognition for the first time?",
+              "options": [
+                "1) Stockholm Conference on Human Environment, 1970",
+                "2) Rio Declaration on Environment, 1992",
+                "3) Johannesburg Declaration on Sustainable Development, 2002",
+                "4) UNEP’s Governing Council Decision 279, 2013"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the environmental rule of law seek to achieve beyond local and national boundaries?",
+              "options": [
+                "1) Economic growth",
+                "2) Environmental justice",
+                "3) Political stability",
+                "4) Cultural preservation"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Live-in relationship, as such, as al ready indicated, is a relationship which has not been socially accepted in India, unlike many other countries. In Lata Singh v. State of U.P. [(2006) 5 SCC 475: (2006) 2 SCC (Cri) 478] it was observed that a live-in relationship between two consenting adults of heterosexual sex does not amount to any offence even though it may be perceived as immoral. However, in order to provide a remedy in civil law for protection of women, from being victims of such relationship, and to prevent the occurrence of domestic violence in the society, first time in India, the DV Act has been enacted to cover the couple having relationship in the nature of marriage, persons related by consanguinity, marriages, etc. We have few other legislations also where reliefs have been provided to woman placed in certain vulnerable situations. Section 125 Cr.P.C. of course, provides for maintenance of a destitute wife and Section 498-A IPC is related to mental cruelty inflicted on women by her husband and in-laws. Section 304-B IPC deals with the cases relating to dowry death. The Dowry Prohibition Act, 1961 was enacted to deal with the cases of dowry demands by the husband and family members. The Hindu Adoptions and Maintenance Act, 1956 provides for grant of maintenance to a legally wedded Hindu wife, and also deals with rules for adoption. The Hindu Marriage Act, 1955 refers to the provisions dealing with solemnisation of marriage also deals with the provisions for divorce. For the first time, though, the DV Act, Parliament has recognised a “relationship in the nature of marriage” and not a live-in relationship simpliciter. We have already stated, when we examine whether a relationship will fall within the expression “relationship in the nature of marriage” within the meaning of Section 2(f) of the DV Act, we should have a close analysis of the entire relationship invariably, it may be a question of fact and degree, whether a relationship between two unrelated persons of the opposite sex meets the tests judicially evolved. (This extract is taken from Indra Sarma v. V.K.V. Sarma, (2013) 15 SCC 755)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "What is the scope of analysis required to determine if a relationship falls within the expression “relationship in the nature of marriage” under Section 2(f) of the DV Act?",
+              "options": [
+                "1) Considering the number of children born in a live in relationship",
+                "2) Considering only the cohabitation period of the relationship and there emotional connectivity",
+                "3) Conducting a close analysis of the entire interpersonal relationship, taking into account all facets",
+                "4) Evaluating only the financial aspects and mutual agreements of the relationship, and if there is any written agreement between the partner"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following case, the Supreme Court read down the word “adult male” in Section 2(q) of the Protection of Women from Domestic Violence Act, 2005?",
+              "options": [
+                "1) Indra Sarma v. V.K.V. Sarma",
+                "2) Hiral P. Harsora v. Kusum Harsora",
+                "3) Uma Narayan v. Priya Krishna Prasad",
+                "4) All of the above"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "As per Section 20 of the Protection of Women from Domestic Violence Act, 2005, while disposing of an application under Section 12(1), the Magistrate may direct the respondent to pay monetary relief to the aggrieved person so that the aggrieved person can:",
+              "options": [
+                "1) Live a life that meets at least the bare minimum needs for survival and basic well-being",
+                "2) Live a life that is consistent with her standard of living which she is accustomed",
+                "3) Live a life that is consistent with her parent’s standard of living",
+                "4) Live a life which can cover her medical expenses and expenses incurred due to litigation of domestic violence"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which case, the three-judge bench of the Hon’ble Supreme Court has recently interpreted the term “shared household” and has held that “… lives or at any stage has lived in a domestic relationship…” have to be given its normal and purposeful meaning. The living of woman in a household has to refer to a living which has some permanency. Mere fleeting or casual living at different places shall not make a shared household?",
+              "options": [
+                "1) Satish Chander Ahuja v. Sneha Ahuja",
+                "2) Rupa Ashok Hurra v. Ashok Hurra",
+                "3) S.R. Batra v. Tarun Batra",
+                "4) B.R. Mehta v. Atma Devi"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Under Indian Law, can a woman in a live in relationship claim maintenance under S. 125, Cr.P.C. despite not being a legally wedded wife?",
+              "options": [
+                "1) No, as per the interpretation of statute ‘wife’ means legally wedded wife and includes who has been divorced by, or has obtained a divorce from her husband",
+                "2) Yes, a woman in a live in relationship can claim maintenance u/s 125, Cr.P.C. as strict proof of marriage is not necessary and maintenance cannot be denied if evidence suggests cohabitation",
+                "3) A woman in live in relationship can only claim maintenance if she has been cohabiting for more than five years and dependent children from the relationship",
+                "4) A woman in live in relationship can claim maintenance only through a civil suit as the Protection of Women from Domestic Violence Act, 2005 (PWDVA) does not apply to live in relationships"
+              ],
+              "answer": "2"
+            }
+          ]
+        },
+        {
+          "passageText": "Article 14 of the Constitution stipulates that the State shall not deny to any person equality before the law or the equal protection of laws within the territory of India. Article 15(1) states that the State should not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them. Article 15(4) stipulates that nothing in Article 15 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes. Article 16 deals with equality of opportunity in matters of public employment. Clause (1) of Article 16 guarantees equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State. Clause (2) stipulates that no citizen shall be discriminated in or be ineligible for any employment or office under the State on the grounds only of religion, race, caste, sex, descent, place of birth, residence or any of them. Clause (4) of the provision states that nothing in Article 16 shall prevent the State from making any provision for the reservation of appointments or posts in favour of any backward class of citizens, which in the opinion of the State, is not adequately represented in the services under the State. The purpose of the equal opportunity principle in Article 16(1) and the reservation provision in Article 16(4) has emerged as a focal point of the jurisprudence on reservations in this Court. A discussion of the journey of the competing models of equality that the Court has espoused and their evolution over the course of the years is necessary to understand the constitutional vision on equality. The impugned constitutional amendments by which Article 16 (4-A) and 16 (4-B) have been inserted, flow from Article 16 (4). They do not alter the structure of Article 16 (4). They retain the controlling factors or the compelling reasons which enables the State to provide for reservation keeping in mind the overall efficiency of the state administration under article 335. Sub-categorization within a class is a constitutional requirement to secure substantive equality in the event that there is a distinction between two sections of a class; Sub-classification must not lead to the exclusion of one of the categories in the class. A model that provides sufficient opportunities to all categories of the class must be adopted; and Sub-classification among a class must be on a reasonable basis. Justice Bela Trivedi opined, in dissent, that presidential list of scheduled castes notified under Article 341 cannot be altered by the States. Any change to this list can only be made by a law enacted by Parliament. Sub-classification, according to her would amount to tampering with the Presidential List and undermine the object Article 341, which aims to eliminate political influence in the SC-ST List. Further, she emphasised the importance of adhering to the rule of plain and literal interpretation. She mentions that any preferential treatment for a sub-class within the presidential list would deprive other classes within the same category of their benefits. In the absence of executive or legislative power, state lack the competence to sub-classify castes and the benefit reserved for all SCs. Allowing states to do so would constitute a colourable exercise of power, which is impermissible under law. Justice Trivedi concluded by affirming that affirmative action by States must remain within constitutional boundaries and held that the law laid down in E.V. Chinnaiah case was correct and should be upheld. (Extract from The State of Punjab & Ors. v. Davinder Singh & Ors. 2024 SC)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "The issue of whether the State can further sub-classify within a class for the purpose of reservation first arose in:",
+              "options": [
+                "1) MR Balaji v. State of Mysore",
+                "2) T. Devadasan v. Union of India",
+                "3) Akhil Bharatiya Soshit Karamchari Sangh (Railway) v. Union of India",
+                "4) The State of Punjab & Ors. v. Davinder Singh & Ors. 2020"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "Dr. B. R. Ambedkar, while proposing the inclusion of Articles 300A and 300B of the Draft Constitution (which correspond to Articles 341 and 342 of the Constitution), indicated that once notified, any elimination from the list or an addition to the list was to be made by Parliament and not by the President. This limitation was imposed to:",
+              "options": [
+                "1) Protect the rights of the SCs and STs class people",
+                "2) To exclude the further interference of the Executive having a play in the matter of the disturbance in the Schedule so published by the President",
+                "3) To remove the discretion in the hands of Executive to save the interest of the SCs and STs people",
+                "4) To eliminate “political factors” from disturbing the list"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The trinity of Articles 14, 15, and 16 has provided a tool to march towards social and economic equality. Emphasis has been given to affirmative action so as to give a special treatment to the underprivileged so that they can march forward. Reservations in the matters of education and in public employment have been used to provide a special treatment to the backward classes. What are the other articles of the Constitution along with, the objective of the Constitution to achieve social economic equality may be achieved?",
+              "options": [
+                "1) Arts. 46, 335 and 338",
+                "2) Arts. 335, 341 and 342",
+                "3) Arts. 46, 335, 338, 341 and 342",
+                "4) Arts. 46, 335 and 342"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Hon’ble Justice B.R. Gavai, in the above-mentioned judgment held that, “sub-classification amongst the Scheduled Castes for giving more beneficial treatment is permissible in law”. He also gave some criteria on which the sub-classification may be implemented by the State. Which of the following is that criteria?",
+              "options": [
+                "1) The criteria for exclusion of the creamy layer from the Scheduled Castes and Scheduled Tribes for the purpose of affirmative action could be different from the criteria as applicable to the Other Backward Classes",
+                "2) Sub-classification would be permissible only if there is a reservation for a sub-class as well as the larger class",
+                "3) That while doing so, the State will have to justify the same on the basis of empirical data that a sub-class in whose favour such more beneficial treatment is provided is not adequately represented",
+                "4) All of the above"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Which of the following is not required for sub-classification of the Scheduled Caste?",
+              "options": [
+                "1) The inadequacy of representation of a caste/group because of its backwardness",
+                "2) The data must be collected by the State on the inadequacy of representation of a caste in the “services of the State” because it is used as an indicator of backwardness",
+                "3) Efficiency of administration must be viewed in a manner which promotes inclusion and equality as required by Article 16(1)",
+                "4) The State in exercise of the power under Articles 15(4) and 16(4) is not required to further classify the Scheduled Castes"
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "The elements of tort of negligence consist in – (a) duty of care; (b) duty is owed to the plaintiff; (c) the duty has been carelessly breached. Negligence does not entail liability unless the exacts a duty in the given circumstances to observe care. Duty is an obligation recognised by law to avoid conduct fraught with unreasonable risk of damage to others. The question whether duty exists in a particular situation involves determination of law. Hence, three ingredients are necessary for the existence of a duty of care: (i) foreseeability of the damage, (ii) proximity of relationship between the parties; and (iii) whether it is “just, fair and reasonable” that the law should impose a duty of care. In Caparo Industries Plc. v. Dickman, 1990 2AC 605 , the court held that breach of duty is concerned with the standard of care that ought to have been adopted in the circumstances and whether the defendant’s conduct fell below that standard i.e., whether he was careless. The court while quoting Rajkot Municipal Corporation v. Manjulben Jayantilal Nakum, 1997 stated that as a tort, negligence consists of legal duty to take care and breach of that duty. Duty determines whether the type of loss suffered by the plaintiff in the particular way in which to occurred can ever be actionable. The division of negligence into duty, breach and consequent damage is convenient for the purpose of exposition but it can be confusing because the issues will often overlap. The process of determining a breach of duty involves three steps: First, it is necessary to ascertain the qualities of the reasonable person, given the qualities attributed to him, would have taken in the circumstances. The factors that are permissible to take into account in this regard are prescribed by law, but the amount of care that the reasonable person would have taken is a question of fact. Thirdly, it must be determined whether the defendant took less care than the reasonable person would have taken. (Extracts from Managing Director, Kerala Tourism Development Corporation Limited v. Deepti Singh and Ors., 2019 SC)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In the context of negligence, which of the following scenarios best demonstrates the presence of all essential elements?",
+              "options": [
+                "1) A doctor prescribes the wrong medication to a patient, but the patient’s immune system prevents any harmful side effects and the patient does not suffer any injury",
+                "2) A driver runs a red light, narrowly avoiding an accident with another car and both vehicles continue without any collision or harm",
+                "3) A hotel guest tragically drowns in the swimming pool as the lifeguard was assigned duties as a part time bartender",
+                "4) A construction company delays necessary maintenance on a bridge and despite having major cracks the bridge remains functional"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Reasonable foreseeability means:",
+              "options": [
+                "1) Mere possibility",
+                "2) Expectation of sensible person",
+                "3) Foreseeability of probable consequences of his act by an average prudent person",
+                "4) Remote possibility of a particular consequence of his consequence by a reasonable person"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "A renowned judgment in which reasonable foreseeability test was discussed by the Privy Council, was:",
+              "options": [
+                "1) Scott v. Shephard",
+                "2) Overseas Tankship UK Ltd. v. Morts Dock and Engineering Co. Ltd. (Wagon Mound Case)",
+                "3) Donoghue v. Stevenson",
+                "4) Re Polemis and Furness, Withy & Co"
+              ],
+              "answer": "2"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following judgment the neighbour principle was propounded?",
+              "options": [
+                "1) Scott v. Shephard",
+                "2) Rylands v. Fletcher",
+                "3) Donoghue v. Stevenson",
+                "4) Overseas Tankship UK Ltd. v. Morts Dock and Engineering Co. Ltd. (Wagon Mound Case)"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Compensation is to be assessed on the basis of:",
+              "options": [
+                "1) Rough estimate of loss generally resulting from death",
+                "2) Approximate calculation of damage as a result of death",
+                "3) Legitimate expectation of loss of pecuniary benefits",
+                "4) Closeness in relationship between claimants and the deceased"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "Ahmadi, J. (as he then was) speaking for himself and Punchhi, J., endorsed the recommendations in the following words-The time is ripe for taking stock of the working of the various Tribunals set up in the country after the insertion of Articles 323-A and 323-B in the Constitution. After the incorporation of these two articles, Acts have been enacted where-under tribunals have been constituted for dispensation of justice. Sufficient time has passed and experience gained in these last few years for taking stock of the situation with a view to finding out if they have served the purpose and objectives for which they were constituted. Complaints have been heard in regard to the functioning of other tribunals as well and it is time that a body like the Law Commission of India has a comprehensive look-in with a view to suggesting measures for their improved functioning. That body can also suggest changes in the different statutes and evolve a model on the basis whereof tribunals may be constituted or reconstituted with a view to ensuring greater independence. An intensive and extensive study needs to be undertaken by the Law Commission in regard to the Constitution of tribunals under various statutes with a view to ensuring their independence so that the public confidence in such tribunals may increase and the quality of their performance may improve. Before parting with the case, it is necessary to express our anguish over the ineffectiveness of the alternative mechanism devised for judicial review. The judicial review and remedy are the fundamental rights of the citizens. The dispensation of justice by the tribunal is much to be desired. (Extracted with Edits from R.K. Jain v. Union of India, 1993 (4) SCC 119)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In which of the following case the Court held that though judicial review is a basic feature of the Constitution, the vesting of the power of judicial review in an alternative institutional mechanism, after taking it away from the High Courts, would not violate the basic structure so long as it was ensured that the alternative mechanism was an effective and real substitute for the High Court?",
+              "options": [
+                "1) L. Chandra Kumar v. Union of India and Others 1997",
+                "2) R.K. Jain v. Union of India 1993",
+                "3) S.P. Sampath Kumar v. Union of India 1985",
+                "4) Kesvananda Bharati v. State of Kerala 1973"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The provisions of the Administrative Tribunals Act, 1985 shall not apply to:",
+              "options": [
+                "1) Any member of the naval, military or air forces or of any other armed forces of the Union",
+                "2) Officer or servant of the Supreme Court or of any High Court or Courts subordinate",
+                "3) Person appointed to the secretarial staff of either House of Parliament or to the secretarial staff of any State Legislature or a House thereof or, in the case of a Union Territory having a Legislature, of that Legislature",
+                "4) All of the above"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The first tribunal established in India is:",
+              "options": [
+                "1) Central Administrative Tribunal",
+                "2) Railway Claims Tribunal",
+                "3) Armed Forces Tribunal",
+                "4) Income tax Appellate Tribunal"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "Articles 323-A and 323-B of the Indian Constitution for the establishment of tribunal to adjudicate disputes in specific matters. While both articles deal with tribunals, there are key differences in their scope and application. Which of the following statement correctly reflects the distinction between Articles 323-A and 323-B?",
+              "options": [
+                "1) Article 323-A exclusively deals with administrative tribunals for public service matters, while Article 323-B deals with the tribunals for a wider range of subjects including taxation and land reforms",
+                "2) While tribunals under Article 323-A can be established only by Parliament, tribunals under Article 323-B can only be established by State legislature, with matters falling within their legislative competence",
+                "3) Under Article 323-A, only one tribunal for centre and no tribunal for state may be established. As far as Article 323-B is concerned, there is no hierarchy of tribunals",
+                "4) Article 323-A grant tribunals the power to hear appeals directly from the Supreme Court, by passing the High Court. Under Article 323-B there is no such power"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The National Green Tribunal Act was passed in the year:",
+              "options": [
+                "1) 2007",
+                "2) 2008",
+                "3) 2009",
+                "4) 2010"
+              ],
+              "answer": "4"
+            }
+          ]
+        },
+        {
+          "passageText": "The Companies Act, 2013 does not deal with insolvency and bankruptcy when the companies are unable to pay their debts or the aspects relating to the revival and rehabilitation of the companies and their winding up if revival and rehabilitation is not possible. In principle, it cannot be doubted that the cases of revival or winding up of the company on the ground of insolvency and inability to pay debts are different from cases where companies are wound up under Section 271 of the Companies Act, 2013. The two situations are not identical. Under Section 271 of the Companies Act, 2013, even a running and financially sound company can also be wound up for the reasons in clauses (a) to (e). The reasons and grounds for winding up under Section 271 of the Companies Act, 2013 are vastly different from the reasons and grounds for the revival and rehabilitation scheme as envisaged under the IBC. The two enactments deal with two distinct situations and in our opinion, they cannot be equated when we examine whether there is discrimination or violation of Article 14 of the Constitution of India. For the revival and rehabilitation of the companies, certain sacrifices are required from all quarters, including the workmen. In case of insolvent companies, for the sake of survival and regeneration, everyone, including the secured creditors and the Central and State Government, are required to make sacrifices. The workmen also have a stake and benefit from the revival of the company, and therefore unless it is found that the sacrifices envisaged for the workmen, which certainly form a separate class, are onerous and burdensome so as to be manifestly unjust and arbitrary, we will not set aside the legislation, solely on the ground that some or marginal sacrifice is to be made by the workers. We would also reject the argument that to find out whether there was a violation of Article 14 of the Constitution of India or whether the right to life under Article 21 Constitution of India was infringed, we must word by word examine the waterfall mechanism envisaged under the Companies Act, 2013, where the company is wound up in terms of grounds (a) to (e) of Section 271 of the Companies Act, 2013; and the rights of the workmen when the insolvent company is sought to be revived, rehabilitated or wound up under the Code. The grounds and situations in the context of the objective and purpose of the two enactments are entirely different. (Extracted, with edits and revision, from the judgement in Moser Baer Karamchari Union Thr. President Mahesh Chand Sharma v. Union of India and Ors, 2023 SCC Online SC 547)",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, it was held by the Supreme Court addressed shareholders rights, RB’s role and judicial Intervention?",
+              "options": [
+                "1) Life Insurance Corporation of India v. Escorts Ltd",
+                "2) R. K. Dalmia v. Delhi Administration",
+                "3) Dale And Carrington Invt. P. Ltd. v. P.K. Prathapan",
+                "4) Rohtas Industries Ltd v. S.D. Agarwal & Anr"
+              ],
+              "answer": "1"
+            },
+            {
+              "type": "mcq",
+              "question": "The extent to which a corporation as a legal person can be held criminally liable for its acts and omissions and for those of the natural persons employed by it is called",
+              "options": [
+                "1) Corporate manslaughter",
+                "2) Lifting the corporate veil",
+                "3) Corporate criminal liability",
+                "4) Corporate social responsibility"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "In which of the following cases, the constitutionality of the Insolvency and Bankruptcy Code, 2016 was upheld by the Supreme Court?",
+              "options": [
+                "1) RPS Infrastructure Ltd. v. Union of India",
+                "2) Paschimanchal Vidyut Vitran Nigam Ltd. v. Union of India",
+                "3) Union Bank of India v. Financial Creditors of M/s Amtek Auto Limited",
+                "4) Swiss Ribbons v. Union of India"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "A Director other than a managing Director or a whole-time Director or a nominee Director who does not have any material or pecuniary relationship with the company/ Directors other than the remuneration is called",
+              "options": [
+                "1) Impartial Director",
+                "2) Promoter",
+                "3) Independent Director",
+                "4) Associate Director"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "Which among the following is not a duty of a Director of the company?",
+              "options": [
+                "1) To file return of allotments",
+                "2) To disclose interest",
+                "3) Duty to call upon the shareholders to attend the Board meetings",
+                "4) To convene General meeting"
+              ],
+              "answer": "3"
+            }
+          ]
+        },
+        {
+          "passageText": "The Hon’ble Supreme Court in the case of ‘Nil Ratan Kundu and another v. Abhijit Kundu’ 2008(3) Apex Court Judgements 232 (SC), while granting the custody to the maternal grandparents observed: In our judgement, the law relating to custody of a child is fairly well settled and it is this. In deciding a difficult and complex question as to custody of minor, a Court of law should keep in mind relevant statutes and the rights flowing therefrom. But such cases cannot be decided solely by interpreting legal provisions. It is a humane problem in live in relationship and is required to be solved with human touch. A Court while dealing with custody cases, is neither bound by statutes nor by strict rules of evidence or procedure nor by precedents. In selecting proper guardian of a minor, the paramount consideration should be the welfare and well-being of the child. In selecting a guardian, the Court is exercising parens patriae jurisdiction and is expected, may bound, to give due weight to a child’s ordinary comfort, contentment, health, education, intellectual development and favorable surroundings. But over and above physical comforts, moral and ethical values cannot be ignored. They are equally, or we may say, even more important, essential and indispensable consideration. If the minor is old enough to form an intelligent preference or judgement, the Court must consider such preference as well, though the final decision should rest with the Court as to what is conducive to the welfare of the minor. The Hon’ble Supreme Court in the case of ‘Gaurav Nagpal v. Semedha Nagpal’-(2009)1 SCC 42, while giving paramount importance to the welfare of the child, which should include moral and ethical values, besides ethical well-being, observed as under: - When the court is confronted with conflicting demands made by the parents, each time it has to justify the demands. The Court has not only to look at the issue on legalistic basis, in such matters human angles are relevant for deciding those issues. The Court then does not give emphasis on what the parties say, it has to exercise a jurisdiction which is aimed at the welfare of the minor. As observed recently in Mausami Moitra Ganguli case, the Court has to give due weightage to the child’s ordinary contentment, health, education, intellectual development and favorable surroundings, but over and above physical comforts, the moral and ethical values have also to be noted. They are equal if not more important than the others. (Extracts from Jaswinder Singh and Another vs Surjit Singh, AIR 2010 (NOC) 425 (P. & H.))",
+          "questions": [
+            {
+              "type": "mcq",
+              "question": "According to the passage, which is the most indispensable consideration in deciding the matters of custody of the child?",
+              "options": [
+                "1) Financial ability of the parents",
+                "2) Sex of the child and its age at the relevant time",
+                "3) Physical Comfort, possibility of recreational activities of the child",
+                "4) Environment conducive to development of moral and ethical values"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The provision of custody of child under the Hindu Minority and Guardianship Act, 1956 gives:",
+              "options": [
+                "1) Right of custody to mother, if child is below five years of age",
+                "2) Preferential custody right to father",
+                "3) Custody right to any close relative who is found suitable",
+                "4) Preferential consideration to mother, in case the child is below five years of age"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "The sensitivity in judicial decision making is manifest in this passage from the court’s observation that:",
+              "options": [
+                "1) custody of child can be given to grandparents",
+                "2) welfare of child is paramount consideration",
+                "3) ethical and moral wellbeing is given priority",
+                "4) custody cases cannot be decided solely by interpreting legal provisions but is required to be solved with human touch"
+              ],
+              "answer": "4"
+            },
+            {
+              "type": "mcq",
+              "question": "What does the passage state about the opinion of a child who is old enough to state its preference regarding custody?",
+              "options": [
+                "1) the child has a right to get custody order according to his preference",
+                "2) the child’s preference in relation to his custody is immaterial",
+                "3) the child’s preference must be considered but the court is the final deciding authority regarding the custody",
+                "4) court is bound by the child’s preference in relation to custody even if it differs in its opinion about whom to grant the custody"
+              ],
+              "answer": "3"
+            },
+            {
+              "type": "mcq",
+              "question": "The considerations for the decision in relation to custody of child, is subject to which of the following basis as mentioned in Sec.13 of the Hindu Minority and Guardianship Act, 1956?",
+              "options": [
+                "1) Welfare of the child is the paramount consideration",
+                "2) Wishes of the child form the primary basis in custody cases",
+                "3) Child’s health and educational needs are primary considerations",
+                "4) Suitability of the person claiming custody is the basic consideration a Protection Order has a time limit of six months, while a Residence Order is permanent"
+              ],
+              "answer": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
