@@ -17,6 +17,12 @@ const questionImages = Object.fromEntries(
 
 const TEST_FILE_PATTERN = /^([a-z][a-z0-9_-]*?)[\s_]*mock[\s_]*test[\s_]*(\d+)\.json$/i;
 
+const FIRST_TEST_NUMBER = 1;
+const LAST_TEST_NUMBER = 20;
+
+const isPublishedTestNumber = (number) =>
+  number >= FIRST_TEST_NUMBER && number <= LAST_TEST_NUMBER;
+
 const normalizeSubjectSlug = (subject) => {
   const slug = subject
     .trim()
@@ -82,11 +88,14 @@ export const jeeTestBank = Object.fromEntries(
 
     if (!match) return [];
 
+    const testNumber = Number(match[2]);
+    if (!isPublishedTestNumber(testNumber)) return [];
+
     const subjectFromFileName = match[1];
     const subject = subjectFolder === "jee" ? subjectFromFileName : subjectFolder;
     const slug = normalizeSubjectSlug(subject);
 
-    return [[`${slug}-${match[2]}`, normalizeTest(test)]];
+    return [[`${slug}-${testNumber}`, normalizeTest(test)]];
   })
 );
 

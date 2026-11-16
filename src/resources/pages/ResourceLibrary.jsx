@@ -75,6 +75,7 @@ const ResourceLibrary = ({ examId: routeExamId }) => {
       papers: ["Sample question papers", "Previous-year patterns", "Section-wise practice sets"],
       books: ["Chapter summaries", "NCERT-based revisions", "Important questions and examples"],
       special: ["Memory prompts", "Quick unit checks", "Last-minute review cues"],
+      pyq: ["Year-wise CUET papers", "Language, domain and general tests", "Timed online attempts with results"],
       mockTo: "/mock#cuet-mock",
       resources: [
         ["cuet-syllabus", "CUET UG Syllabus", "Review preparation areas and build a subject-wise plan."],
@@ -89,6 +90,7 @@ const ResourceLibrary = ({ examId: routeExamId }) => {
       papers: ["Practice question sets", "Subject-wise sample questions", "Available previous-style papers"],
       books: ["Chapter summaries", "Important formula sheets", "Conceptual and numerical questions"],
       special: ["Formula reminders", "Reaction and unit checks", "Common calculation checks"],
+      pyq: ["Year-wise JEE papers", "Paper 1 and Paper 2 sets", "Timed online attempts with results"],
       mockTo: "/jeemocktest",
       resources: [["mock-test-resources", "Mock Test Preparation", "Use test attempts effectively and turn results into revision goals."]],
     },
@@ -115,6 +117,7 @@ const ResourceLibrary = ({ examId: routeExamId }) => {
       papers: "Sample sets and practice papers for question familiarity and timed preparation.",
       books: "NCERT and chapter-based summaries with important questions and revision points.",
       special: "Short memory cues and last-minute reminders for language, domains and aptitude.",
+      pyq: "Attempt real CUET papers online, year by year, under exam-style timing.",
     },
     jee: {
       syllabus: "Review Physics, Chemistry and Mathematics preparation areas.",
@@ -123,11 +126,17 @@ const ResourceLibrary = ({ examId: routeExamId }) => {
       papers: "Use sample and practice papers to build familiarity with problem types and exam pacing.",
       books: "Topic and chapter summaries with formulas, important concepts, and worked questions.",
       special: "Concise formula and concept reminders for quick PCM revision.",
+      pyq: "Attempt JEE Paper 1 and Paper 2 papers online, year by year, under exam-style timing.",
     },
   }[examId] || {};
 
   const baseCardKeys = ["syllabus", "notes", "mocks", "papers", "books", "special"];
-  const cardKeys = examId === "clat" ? ["pyq", ...baseCardKeys] : baseCardKeys;
+  const cardKeys = ["pyq", ...baseCardKeys];
+  const pyqPath = {
+    clat: "/clat-pyq",
+    cuet: "/cuet-pyq",
+    jee: "/jee-pyq",
+  }[examId];
 
   const cardAction = (key) => {
     if (key === "syllabus") {
@@ -151,9 +160,9 @@ const ResourceLibrary = ({ examId: routeExamId }) => {
         label: baseCards[key].button,
       };
     }
-    if (key === "pyq") return { type: "internal", to: "/clat-pyq", label: baseCards[key].button };
+    if (key === "pyq") return { type: "internal", to: pyqPath, label: baseCards[key].button };
     if (key === "mocks") return { type: "internal", to: content.mockTo, label: baseCards[key].button };
-    if (key === "papers") return { type: "internal", to: content.mockTo, label: baseCards[key].button };
+    if (key === "papers") return { type: "internal", to: pyqPath, label: baseCards[key].button };
     if (examId === "clat" && key === "books") return { type: "internal", to: "/resources/clat/books", label: baseCards[key].button };
     return { type: "internal", to: `/resources/${content.resources[0][0]}`, label: baseCards[key].button };
   };

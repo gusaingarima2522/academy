@@ -1078,8 +1078,7 @@
 
 .exam-modal-actions {
   display: flex;
-  justify-content: flex-end;
-  gap: 10px;
+  justify-content: center;
   margin-top: 18px;
 }
 

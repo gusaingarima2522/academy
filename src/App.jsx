@@ -22,10 +22,15 @@ import ClatPyqYears from "./pages/ClatPyqYears";
 import ClatPyqYear from "./pages/ClatPyqYear";
 import ClatPyqCategory from "./pages/ClatPyqCategory";
 import ClatPyqExamPage from "./pages/ClatPyqExamPage";
+import ExamPyqYears from "./pages/ExamPyqYears";
+import ExamPyqYear from "./pages/ExamPyqYear";
+import ExamPyqCategory from "./pages/ExamPyqCategory";
+import ExamPyqExamPage from "./pages/ExamPyqExamPage";
 
 import Clat from "./section/Clat";
 import Cuet from "./section/Cuet";
 import Mock from "./section/Mock";
+import ScrollToHash from "./section/ScrolltoHash";
 
 import ClatContent from "./pages/ClatContent";
 import CourseContent from "./pages/CourseContent";
@@ -39,7 +44,7 @@ import "./index.css";
 
 const App = () => {
   const location = useLocation();
-  const isExamRoute = /^\/(?:jeemocktest\/[^/]+\/test\/\d+|clat-pyq\/\d+\/(?:ug|pg)\/[^/]+)\/?$/.test(
+  const isExamRoute = /^\/(?:jeemocktest\/[^/]+\/test\/\d+|clat-pyq\/\d+\/(?:ug|pg)\/[^/]+|(?:jee|cuet)-pyq\/\d+\/[^/]+\/[^/]+)\/?$/.test(
     location.pathname
   );
   const hideSiteChrome = isExamRoute;
@@ -945,28 +950,23 @@ const App = () => {
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Chat with World Wise Education on WhatsApp"
-            className="
-              floating
-              z-[110]
-              flex
-              items-center
-              justify-center
-            "
+            className="floating"
           >
             <img
               src={whatsapp}
               alt="WhatsApp"
-              className="h-6 w-6"
             />
           </a>
-          <button
-            type="button"
-            className="floating-close"
-            aria-label="Close WhatsApp button"
-            onClick={() => setWhatsappVisible(false)}
-          >
-            ×
-          </button>
+          <div className="floating-close-wrap">
+            <button
+              type="button"
+              className="floating-close"
+              aria-label="Close WhatsApp button"
+              onClick={() => setWhatsappVisible(false)}
+            >
+              ×
+            </button>
+          </div>
         </div>
       )}
 
@@ -980,28 +980,23 @@ const App = () => {
           <a
             href="tel:9911440545"
             aria-label="Call World Wise Education"
-            className="
-              floating
-              z-[110]
-              flex
-              items-center
-              justify-center
-            "
+            className="floating"
           >
             <img
               src={phonecall}
               alt="Call us"
-              className="h-6 w-6"
             />
           </a>
-          <button
-            type="button"
-            className="floating-close"
-            aria-label="Close call button"
-            onClick={() => setCallVisible(false)}
-          >
-            ×
-          </button>
+          <div className="floating-close-wrap">
+            <button
+              type="button"
+              className="floating-close"
+              aria-label="Close call button"
+              onClick={() => setCallVisible(false)}
+            >
+              ×
+            </button>
+          </div>
         </div>
       )}
 
@@ -1046,6 +1041,17 @@ const App = () => {
           <Route path="/clat-pyq/:year" element={<ClatPyqYear />} />
           <Route path="/clat-pyq/:year/:category" element={<ClatPyqCategory />} />
           <Route path="/clat-pyq/:year/:category/:setName" element={<ClatPyqExamPage key={location.pathname} />} />
+
+          {/* JEE / CUET PYQ ONLINE */}
+          <Route path="/jee-pyq" element={<ExamPyqYears examId="jee" />} />
+          <Route path="/jee-pyq/:year" element={<ExamPyqYear examId="jee" />} />
+          <Route path="/jee-pyq/:year/:category" element={<ExamPyqCategory examId="jee" />} />
+          <Route path="/jee-pyq/:year/:category/:setName" element={<ExamPyqExamPage examId="jee" key={location.pathname} />} />
+
+          <Route path="/cuet-pyq" element={<ExamPyqYears examId="cuet" />} />
+          <Route path="/cuet-pyq/:year" element={<ExamPyqYear examId="cuet" />} />
+          <Route path="/cuet-pyq/:year/:category" element={<ExamPyqCategory examId="cuet" />} />
+          <Route path="/cuet-pyq/:year/:category/:setName" element={<ExamPyqExamPage examId="cuet" key={location.pathname} />} />
 
           {/* JEE MOCK TESTS */}
           <Route
@@ -1140,6 +1146,8 @@ const App = () => {
       ====================================================== */}
 
       {!hideSiteChrome && <Footer />}
+
+      <ScrollToHash />
 
       {pageLoading && !isExamRoute && (
         <div

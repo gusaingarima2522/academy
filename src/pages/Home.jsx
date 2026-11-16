@@ -799,6 +799,8 @@ const Home = () => {
                 -translate-x-1/2
                 flex
                 gap-2
+                rounded-full
+                h-1.2
                 z-[10]
               "
             >

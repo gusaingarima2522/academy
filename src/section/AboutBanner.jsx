@@ -1,5 +1,5 @@
 import "./section.css";
-import wwa from "../assets/wwa.mp4";
+import about from "../assets/about.jpeg";
 
 const AboutBanner = () => {
   return (
@@ -56,7 +56,7 @@ const AboutBanner = () => {
 
       <div className="About-Video">
 
-        <video
+        {/* <video
           controls
           playsInline
           preload="metadata"
@@ -71,7 +71,10 @@ const AboutBanner = () => {
           Your browser does not support video playback.
 
         </video>
-
+ */}
+ <img src={about} alt="about"
+           className="w-full h-full object-cover"
+ />
       </div>
 
     </section>

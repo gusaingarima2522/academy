@@ -1203,13 +1203,13 @@ const JeeMockTestPage = ({
                       />
                     </label>
                     <div className="exam-modal-actions">
-                      <button
+                      {/* <button
                         type="button"
                         className="exam-button exam-button-secondary"
                         onClick={() => beginTest(GUEST_STUDENT)}
                       >
                         Continue as guest
-                      </button>
+                      </button> */}
                       <button type="submit" className="exam-button exam-button-primary">
                         Start Test
                       </button>
